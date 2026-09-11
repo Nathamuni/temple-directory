@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import type { Temple } from "./types";
 
-const DATA_DIR = path.join(process.cwd(), "data", "temples");
+export const DATA_DIR = path.join(process.cwd(), "data", "temples");
 
 function fail(slug: string, message: string): never {
   throw new Error(`Temple data error [${slug}]: ${message}`);
@@ -67,6 +67,10 @@ export function getAllTemples(): Temple[] {
     return validate(parsed, file);
   });
   return cache;
+}
+
+export function invalidateTempleCache(): void {
+  cache = null;
 }
 
 export function getTemple(slug: string): Temple | undefined {
