@@ -1,0 +1,165 @@
+// ============================================================================
+// TEMPLE DIRECTORY — DATA ENTRY TEMPLATE
+// ============================================================================
+// HOW TO USE:
+//   1. Copy this file to  data/temples/<your-temple-slug>.json
+//   2. Remove ALL // comments (JSON does not allow them — this .jsonc file is
+//      never loaded by the site; only .json files in data/temples/ are).
+//   3. Fill every MANDATORY field. Delete optional fields you cannot fill.
+//   4. Place images in  public/images/temples/<slug>/  and record author,
+//      license and source URL for each — also add them to
+//      public/images/ATTRIBUTIONS.md.
+//   5. Run `npm run build` — the validator will name any missing field.
+//
+// RULES (enforced at build time):
+//   • status must be: draft | pending | verified | published
+//   • references: MINIMUM 2 (official/government source, scripture, ASI, etc.)
+//   • worshipSOP.steps: EXACTLY 6 steps in the standard order (unless stub)
+//   • Tone: neutral, factual, encyclopedic. No marketing or devotional hype.
+// ============================================================================
+{
+  // MANDATORY — URL slug, lowercase-hyphenated, matches this filename
+  "slug": "example-temple",
+
+  // MANDATORY — editorial workflow state:
+  //   draft    = data entry in progress
+  //   pending  = complete, awaiting review
+  //   verified = sources + SOP checked (priest-verified for SOP)
+  //   published= live on the site
+  "status": "draft",
+
+  // Set true ONLY for a thin placeholder entry (renders a reduced page,
+  // SOP not yet required). Remove for a full entry.
+  "stub": false,
+
+  // MANDATORY — full official name in English
+  "name": "Sri Example Swamy Temple, Townname",
+  // OPTIONAL — name in regional script
+  "nameLocal": { "script": "Tamil", "text": "..." },
+  // MANDATORY — one line: location + presiding deity
+  "subtitle": "Townname, State · Presiding Deity: ...",
+
+  "deity": {
+    "presiding": "Shiva",              // MANDATORY — main deity (use the broad name: Shiva, Vishnu, Devi, Murugan, Ganesha...)
+    "consort": "",                     // OPTIONAL
+    "others": ["...", "..."]           // OPTIONAL — sub-shrine deities
+  },
+
+  "location": {
+    "city": "",                        // MANDATORY
+    "district": "",                    // OPTIONAL
+    "state": "",                       // MANDATORY
+    "country": "India",                // MANDATORY
+    "address": "",                     // OPTIONAL — full postal address with PIN
+    "coordinates": { "lat": 0.0, "lng": 0.0 }   // MANDATORY — decimal degrees
+  },
+
+  "classification": {
+    "templeType": "",                  // MANDATORY — e.g. Divya Desam, Jyotirlinga, Shakti Peeth, Paadal Petra Sthalam, Regional
+    "tradition": "",                   // e.g. Shaivite, Vaishnavite, Shakta
+    "architecturalStyle": "",          // e.g. Dravidian, Nagara, Kerala, Vesara, Cave, Rock-cut
+    "divyaDesam": null,                // OPTIONAL — number 1–108 if applicable
+    "tags": []                         // free-form category tags
+  },
+
+  "established": {
+    "period": "",                      // MANDATORY — e.g. "7th century CE, Pallava period"
+    "yearText": ""                     // human-readable dating note
+  },
+
+  // MANDATORY — government department / trust / committee
+  "governingBody": "",
+  "website": "",                       // OPTIONAL
+
+  "timings": {
+    "darshan": [ { "label": "Morning", "from": "06:00", "to": "12:00" } ],
+    "pujaSchedule": [ { "time": "06:00", "name": "..." } ]
+  },
+
+  // MANDATORY — one high-resolution exterior/sanctum photo, with credit
+  "heroImage": {
+    "src": "/images/temples/example-temple/hero.jpg",
+    "alt": "",
+    "caption": "",
+    "credit": { "author": "", "license": "CC BY-SA 4.0", "sourceUrl": "" }
+  },
+
+  // 4–6 icon cards. icon keys: deity | clock | dress | transit | area | tower
+  "atAGlance": [
+    { "icon": "deity", "label": "Presiding Deity", "value": "" }
+  ],
+
+  // Wiki prose. Each section: paragraphs (array of strings) + citations
+  // (reference ids used by that section). Neutral third-person voice.
+  "sections": {
+    "introduction":         { "paragraphs": ["", ""], "citations": [1, 2] },   // MANDATORY — 2–3 paragraphs, SEO-critical
+    "history":              { "paragraphs": [""], "citations": [] },
+    "architecture":         { "paragraphs": [""], "citations": [] },
+    "religiousSignificance":{ "paragraphs": [""], "citations": [] },
+    "administration":       { "paragraphs": [""], "citations": [] },
+    "donationsAndServices": { "paragraphs": [""], "citations": [] }
+  },
+
+  // THE CORE DIFFERENTIATOR — exactly 6 steps, this order, priest-verified.
+  // Document what IS practised at THIS temple; never prescribe belief.
+  "worshipSOP": {
+    "steps": [
+      { "title": "Before You Enter",                  "points": ["", ""] },
+      { "title": "At the Entrance",                   "points": ["", ""] },
+      { "title": "Inside the Temple Premises",        "points": ["", ""] },
+      { "title": "Main Deity Darshan",                "points": ["", ""] },
+      { "title": "Sevas & Abhishekam",                "points": ["", ""] },
+      { "title": "What Not to Do & Before Leaving",   "points": ["", ""] }
+    ],
+    "entryGuidelines": ["", ""],
+    "specialRituals": [
+      { "ritual": "Archana", "description": "", "howToBook": "" }
+    ],
+    "restrictions": ["", ""],
+    // "Believed Spiritual Outcomes" — only as documented in recognized texts
+    "spiritualOutcomes": ["", ""]
+  },
+
+  "festivals": [
+    { "name": "", "month": "", "duration": "", "description": "", "major": true }
+  ],
+
+  "visitingInfo": {
+    "bestTime": "",
+    "dressCode": "",
+    "howToReach": { "air": "", "rail": "", "road": "" },
+    "facilities": [""],
+    "entryFee": "",
+    "nearbyAttractions": [""]
+  },
+
+  // Akhand Deepam widget. lampsToday seeds the mock "lamps burning" counter.
+  "lamp": { "enabled": true, "lampsToday": 0 },
+
+  // Each gallery image MUST carry credit (author, license, source URL)
+  "gallery": [
+    {
+      "src": "/images/temples/example-temple/photo1.jpg",
+      "alt": "", "caption": "",
+      "credit": { "author": "", "license": "", "sourceUrl": "" }
+    }
+  ],
+
+  "nearbyTemples": [
+    { "name": "", "distanceKm": 0, "slug": "" }    // slug optional — links if that temple exists in the directory
+  ],
+
+  "reviews": [
+    { "author": "", "rating": 5, "date": "YYYY-MM-DD", "text": "" }
+  ],
+
+  "contact": { "phone": "", "email": "", "address": "" },
+
+  // MANDATORY — MINIMUM 2. Acceptable types: official temple/government site,
+  // HR&CE records, Sthalapurana / scriptural reference, ASI report,
+  // published historical documentation, priest-verified SOP sign-off.
+  "references": [
+    { "id": 1, "title": "", "publisher": "", "url": "", "accessed": "YYYY-MM-DD" },
+    { "id": 2, "title": "", "publisher": "" }
+  ]
+}

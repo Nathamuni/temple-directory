@@ -1,0 +1,74 @@
+{
+  "slug": "thiruvanaikaval-jambukeswarar",
+  "status": "pending",
+  "stub": true,
+  "name": "Jambukeswarar Temple, Thiruvanaikaval",
+  "nameLocal": { "script": "Tamil", "text": "திருவானைக்காவல் ஜம்புகேசுவரர் கோயில்" },
+  "subtitle": "Thiruvanaikaval, Tiruchirappalli, Tamil Nadu · Presiding Deity: Jambukeswarar (Shiva)",
+  "deity": { "presiding": "Shiva", "consort": "Akilandeswari (Parvati)" },
+  "location": {
+    "city": "Thiruvanaikaval",
+    "district": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "coordinates": { "lat": 10.8532, "lng": 78.7057 }
+  },
+  "classification": {
+    "templeType": "Pancha Bhoota Sthalam",
+    "tradition": "Shaivite",
+    "architecturalStyle": "Dravidian",
+    "tags": ["Pancha Bhoota Sthalam", "Water element (Appu)", "Shaivite", "Dravidian"]
+  },
+  "established": { "period": "Early Chola period, c. 2nd century CE origins", "yearText": "Attributed to Kocengannan (early Chola)" },
+  "governingBody": "HR&CE Department, Government of Tamil Nadu",
+  "timings": {
+    "darshan": [
+      { "label": "Morning", "from": "05:30", "to": "13:00" },
+      { "label": "Evening", "from": "15:00", "to": "21:00" }
+    ],
+    "pujaSchedule": []
+  },
+  "heroImage": {
+    "src": "/images/temples/thiruvanaikaval-jambukeswarar/hero.jpg",
+    "alt": "Jambukeswarar Temple, Thiruvanaikaval",
+    "credit": {
+      "author": "Vinayaraj",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jambukeswarar_Temple_surroundings,_Thiruvanaikaval_ttkcvrvb122k23pxl_(42).jpg"
+    }
+  },
+  "atAGlance": [
+    { "icon": "deity", "label": "Presiding Deity", "value": "Jambukeswarar — Shiva as the water element" },
+    { "icon": "clock", "label": "Darshan Timings", "value": "05:30–13:00 · 15:00–21:00" }
+  ],
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "Jambukeswarar Temple at Thiruvanaikaval, near Tiruchirappalli, Tamil Nadu, is one of the Pancha Bhoota Sthalams — the five Shiva temples representing the classical elements — where Shiva is worshipped as the element of water (Appu). The lingam in the sanctum stands over an underground spring, and the sanctum floor remains perpetually wet.",
+        "The temple, attributed to the early Chola king Kocengannan, is celebrated for its five prakaras, its shrine to the goddess Akilandeswari, and the unique noon ritual in which the priest, dressed as the goddess, performs worship to Jambukeswarar."
+      ],
+      "citations": [1, 2]
+    }
+  },
+  "worshipSOP": { "steps": [], "entryGuidelines": [], "specialRituals": [], "restrictions": [], "spiritualOutcomes": [] },
+  "festivals": [
+    { "name": "Panguni Brahmotsavam", "month": "March–April", "description": "Annual festival with car procession.", "major": true }
+  ],
+  "visitingInfo": {
+    "bestTime": "November to March",
+    "dressCode": "Traditional attire recommended",
+    "howToReach": { "rail": "Tiruchirappalli Junction, 7 km", "road": "City buses from Trichy and Srirangam (2 km)" },
+    "facilities": []
+  },
+  "lamp": { "enabled": true, "lampsToday": 12 },
+  "gallery": [],
+  "nearbyTemples": [
+    { "name": "Sri Ranganathaswamy Temple, Srirangam", "distanceKm": 2, "slug": "srirangam-ranganathaswamy" }
+  ],
+  "reviews": [],
+  "contact": { "address": "Jambukeswarar Temple, Thiruvanaikaval, Tiruchirappalli 620005, Tamil Nadu, India" },
+  "references": [
+    { "id": 1, "title": "Arulmigu Jambukeswarar Akilandeswari Thirukoil — official portal", "publisher": "HR&CE Department, Government of Tamil Nadu", "url": "https://hrce.tn.gov.in" },
+    { "id": 2, "title": "Jambukeswarar Temple, Thiruvanaikaval — overview", "publisher": "Wikipedia (with sources therein)", "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval" }
+  ]
+}

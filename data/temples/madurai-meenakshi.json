@@ -1,0 +1,78 @@
+{
+  "slug": "madurai-meenakshi",
+  "status": "pending",
+  "stub": true,
+  "name": "Meenakshi Amman Temple, Madurai",
+  "nameLocal": { "script": "Tamil", "text": "மதுரை மீனாட்சி அம்மன் கோயில்" },
+  "subtitle": "Madurai, Tamil Nadu · Presiding Deity: Goddess Meenakshi (Parvati)",
+  "deity": { "presiding": "Devi", "consort": "Sundareswarar (Shiva)" },
+  "location": {
+    "city": "Madurai",
+    "district": "Madurai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "coordinates": { "lat": 9.9195, "lng": 78.1193 }
+  },
+  "classification": {
+    "templeType": "Shakti tradition",
+    "tradition": "Shakta",
+    "architecturalStyle": "Dravidian",
+    "tags": ["Devi", "Dravidian", "Nayak architecture", "Madurai"]
+  },
+  "established": { "period": "6th century CE origins; present structure largely 17th century CE (Nayak period)", "yearText": "Rebuilt by Tirumala Nayak and predecessors" },
+  "governingBody": "HR&CE Department, Government of Tamil Nadu",
+  "website": "https://maduraimeenakshi.hrce.tn.gov.in",
+  "timings": {
+    "darshan": [
+      { "label": "Morning", "from": "05:00", "to": "12:30" },
+      { "label": "Evening", "from": "16:00", "to": "21:30" }
+    ],
+    "pujaSchedule": []
+  },
+  "heroImage": {
+    "src": "/images/temples/madurai-meenakshi/hero.jpg",
+    "alt": "Gopuram of the Meenakshi Amman Temple, Madurai",
+    "credit": {
+      "author": "deadrat (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple_Gopuram.jpg"
+    }
+  },
+  "atAGlance": [
+    { "icon": "deity", "label": "Presiding Deity", "value": "Goddess Meenakshi with Sundareswarar" },
+    { "icon": "clock", "label": "Darshan Timings", "value": "05:00–12:30 · 16:00–21:30" },
+    { "icon": "tower", "label": "Gopurams", "value": "14 towers; southern gopuram ~52 m" }
+  ],
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        "The Meenakshi Amman Temple (Meenakshi Sundareswarar Temple) in Madurai, Tamil Nadu, is a historic temple dedicated to the goddess Meenakshi, a form of Parvati, and her consort Sundareswarar, a form of Shiva. Unusually among major Hindu temples, the goddess is the principal deity and is worshipped first.",
+        "The temple's fourteen gopurams, sculpted Hall of a Thousand Pillars, and the annual Meenakshi Thirukalyanam (celestial wedding) festival during Chithirai make it one of the most visited temples in India and the heart of the ancient city of Madurai."
+      ],
+      "citations": [1, 2]
+    }
+  },
+  "worshipSOP": { "steps": [], "entryGuidelines": [], "specialRituals": [], "restrictions": [], "spiritualOutcomes": [] },
+  "festivals": [
+    { "name": "Chithirai Thiruvizha (Meenakshi Thirukalyanam)", "month": "April–May", "duration": "12 days", "description": "The celestial wedding of Meenakshi and Sundareswarar, drawing over a million pilgrims.", "major": true },
+    { "name": "Navaratri", "month": "September–October", "duration": "9 days", "description": "Golu displays and special abhishekams for the goddess.", "major": true }
+  ],
+  "visitingInfo": {
+    "bestTime": "October to March; Chithirai (Apr–May) for the wedding festival",
+    "dressCode": "Traditional attire; strict dress code enforced",
+    "howToReach": { "air": "Madurai Airport, 12 km", "rail": "Madurai Junction, 1.5 km", "road": "Well connected by NH roads and buses" },
+    "facilities": []
+  },
+  "lamp": { "enabled": true, "lampsToday": 63 },
+  "gallery": [],
+  "nearbyTemples": [
+    { "name": "Koodal Azhagar Temple", "distanceKm": 2 },
+    { "name": "Pazhamudircholai Murugan Temple", "distanceKm": 25 }
+  ],
+  "reviews": [],
+  "contact": { "address": "Meenakshi Amman Temple, Madurai Main, Madurai 625001, Tamil Nadu, India" },
+  "references": [
+    { "id": 1, "title": "Arulmigu Meenakshi Sundareswarar Thirukoil — official portal", "publisher": "HR&CE Department, Government of Tamil Nadu", "url": "https://maduraimeenakshi.hrce.tn.gov.in" },
+    { "id": 2, "title": "Meenakshi Temple, Madurai — overview", "publisher": "Wikipedia (with sources therein)", "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple" }
+  ]
+}

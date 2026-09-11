@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #202122;
+  --ink-soft: #54595d;
+  --line: #a2a9b1;
+  --line-soft: #c8ccd1;
+  --paper: #ffffff;
+  --paper-soft: #f8f9fa;
+  --link: #3366cc;
+  --link-visited: #795cb2;
+  --accent: #b45309; /* deep saffron, used sparingly */
+  --accent-soft: #fff7ed;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", "Noto Serif", serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* UI labels, chips, buttons use sans-serif */
+.ui,
+button,
+input,
+select,
+textarea {
+  font-family: ui-sans-serif, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* links inside running text need a non-color cue (WCAG 1.4.1) */
+p a,
+li a,
+td a,
+figcaption a,
+blockquote a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Wikipedia-style section headings */
+.wiki-h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.wiki-h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+sup.cite a {
+  font-size: 0.7em;
+  color: var(--link);
+}
+
+/* the only permitted animation: accordion toggles */
+details.sop-step > summary {
+  cursor: pointer;
+  list-style: none;
+}
+details.sop-step > summary::-webkit-details-marker {
+  display: none;
+}
