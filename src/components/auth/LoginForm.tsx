@@ -14,19 +14,24 @@ export default function LoginForm({ next }: { next: string }) {
     e.preventDefault();
     setSubmitting(true);
     setError(null);
-    const res = await fetch("/api/login", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ username, password }),
-    });
-    setSubmitting(false);
-    if (!res.ok) {
-      const data = await res.json().catch(() => ({}));
-      setError(data.error ?? "Login failed");
-      return;
+    try {
+      const res = await fetch("/api/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ username, password }),
+      });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        setError(data.error ?? "Login failed");
+        return;
+      }
+      router.push(next);
+      router.refresh();
+    } catch (error) {
+      setError("Something went wrong. Please try again.");
+    } finally {
+      setSubmitting(false);
     }
-    router.push(next);
-    router.refresh();
   }
 
   return (
