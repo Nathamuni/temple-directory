@@ -1,0 +1,82 @@
+{
+  "templeId": "TPL-IN-TN-TRI-0023",
+  "slug": "sample",
+  "status": "draft",
+  "identity": {
+    "nameEn": "sample",
+    "alternateNames": [],
+    "presidingDeity": "lakshmi",
+    "tradition": "",
+    "templeType": "",
+    "sacredClassifications": [],
+    "spiritualSignificanceShort": ""
+  },
+  "location": {
+    "city": "trichy",
+    "district": "trichy",
+    "stateProvince": "tamil nadu",
+    "country": "India"
+  },
+  "governance": {},
+  "narrative": {
+    "summaryIntro": "good temple",
+    "documentedHistory": "",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "unverified"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "sample — hero image",
+      "caption": "sample",
+      "altText": "sample",
+      "fileOrUrl": "https://imgs.search.brave.com/tu80peDDYz46QJ-k5hQt-xJBiKLPdXDaWtkdTw-6rH8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvY3Jl/YXRpdmUtc3VpdGUv/YXVkaW8tY3JlYXRp/b24vdmlzdWFscy1z/b25ncy53ZWJw",
+      "creator": "aa",
+      "license": "a",
+      "attributionText": "aa · a",
+      "sourceUrl": "https://imgs.search.brave.com/tu80peDDYz46QJ-k5hQt-xJBiKLPdXDaWtkdTw-6rH8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvY3Jl/YXRpdmUtc3VpdGUv/YXVkaW8tY3JlYXRp/b24vdmlzdWFscy1z/b25ncy53ZWJw",
+      "editorialApproved": false,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "a",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "a",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "admin"
+}

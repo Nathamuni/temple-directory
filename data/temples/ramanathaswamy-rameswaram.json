@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-TN-RAM-0022",
+  "slug": "ramanathaswamy-rameswaram",
+  "status": "published",
+  "identity": {
+    "nameEn": "Ramanathaswamy Temple, Rameswaram",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Rameswaram",
+      "Char Dham"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ராமநாதசுவாமி கோயில்",
+    "localLanguage": "Tamil"
+  },
+  "location": {
+    "city": "Rameswaram",
+    "district": "Ramanathapuram",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "623526",
+    "latitude": 9.2884,
+    "longitude": 79.3163
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 16th-17th century · Present temple built during Nayak period",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+  },
+  "narrative": {
+    "summaryIntro": "Ramanathaswamy Temple in Rameswaram, Tamil Nadu, is one of the twelve Jyotirlingas and forms the terminal shrine of the Char Dham (four cardinal pilgrimage sites). Dedicated to Lord Shiva as Ramanathaswamy, the temple is situated at the southernmost tip of the Indian peninsula and holds immense significance in Hindu pilgrimage tradition. According to the Ramayana, Lord Rama visited this sacred site after his return from Lanka.\n\nThe temple is renowned for its magnificent Dravidian architecture and particularly for its corridors, which are said to be the longest in any Indian temple. The temple features elaborate stone pillars, intricate carvings, and sacred tanks. The site attracts millions of pilgrims annually, and the journey to Rameswaram is considered a sacred pilgrimage culmination point for devotees completing the Char Dham circuit.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Rameswaram Railway Station, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Madurai Airport, 250 km",
+    "airportDistanceKm": 250
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebrations with special pujas and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Ramanathaswamy Temple, Rameswaram — hero image",
+      "caption": "Ramanathaswamy Temple with long corridors",
+      "altText": "Ramanathaswamy Temple with long corridors",
+      "fileOrUrl": "/images/temples/ramanathaswamy-rameswaram/hero.jpg",
+      "creator": "Saral Shots",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Saral Shots · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Ramanathaswamy Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Tamil Nadu Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Ramanathaswamy Temple, Rameswaram, Tamil Nadu 623526, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

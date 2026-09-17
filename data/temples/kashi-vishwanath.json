@@ -1,0 +1,151 @@
+{
+  "templeId": "TPL-IN-UP-VAR-0014",
+  "slug": "kashi-vishwanath",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kashi Vishwanath Temple, Varanasi",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Varanasi",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "काशी विश्वनाथ मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Varanasi",
+    "district": "Varanasi",
+    "stateProvince": "Uttar Pradesh",
+    "country": "India",
+    "postalCode": "221001",
+    "latitude": 25.3282,
+    "longitude": 82.9945
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; rebuilt in 18th century · Present structure built by Rani Ahilya Bai Holkar",
+    "managingAuthority": "Varanasi Mahakal Temple Board"
+  },
+  "narrative": {
+    "summaryIntro": "Kashi Vishwanath Temple, located in the sacred city of Varanasi on the banks of the Ganges, is one of the most important pilgrimage sites in Hinduism. The temple is dedicated to Shiva, known here as Vishwanath (Lord of Benares), and is one of the twelve Jyotirlingas—the holiest shrines dedicated to Shiva.\n\nThe present structure was rebuilt in the 18th century by Rani Ahilya Bai Holkar of Indore. The temple's golden spire is an iconic symbol of Varanasi and stands as a testament to centuries of spiritual devotion. Millions of pilgrims visit annually seeking blessings and liberation (moksha).",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "North Indian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Varanasi Junction, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Lal Bahadur Shastri Airport, Varanasi, 22 km",
+    "airportDistanceKm": 22
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "03:00",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "22:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Night of Shiva; thousands of devotees perform all-night vigils and prayers",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kartik Purnima",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Full moon; special rituals and massive congregation",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kashi Vishwanath Temple, Varanasi — hero image",
+      "caption": "Golden spire of Kashi Vishwanath Temple",
+      "altText": "Golden spire of Kashi Vishwanath Temple",
+      "fileOrUrl": "/images/temples/kashi-vishwanath/hero.jpg",
+      "creator": "Ashvin Kaitabhya, clicked by Abhishek Pandey",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ashvin Kaitabhya, clicked by Abhishek Pandey · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ganga_Dwar,_Gateway_of_Corridor_of_Kashi_Vishwanath_Temple,_Varanasi.webp",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "media repository",
+      "title": "Kashi Vishwanath Temple — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Kashi Vishwanath — Official Information",
+      "publisherOrAuthority": "Varanasi Tourism",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Vishwanath Gali, Varanasi, Uttar Pradesh 221001, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

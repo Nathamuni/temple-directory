@@ -1,23 +1,29 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getAllTemples, getTemple } from "@/lib/temples";
+import { getPublishedTemples, getTemple } from "@/lib/temples";
+import { getSession } from "@/lib/session";
 import { templeJsonLd, breadcrumbJsonLd } from "@/lib/jsonld";
-import TempleHero from "@/components/temple/TempleHero";
-import Infobox from "@/components/temple/Infobox";
+import { heroImage, subtitle } from "@/lib/temple-view";
+
+import Hero from "@/components/temple/Hero";
+import SectionNav from "@/components/temple/SectionNav";
 import AtAGlance from "@/components/temple/AtAGlance";
-import TableOfContents from "@/components/temple/TableOfContents";
-import WikiSection from "@/components/temple/WikiSection";
-import WorshipSOP from "@/components/temple/WorshipSOP";
-import FestivalCalendar from "@/components/temple/FestivalCalendar";
-import LampWidget from "@/components/temple/LampWidget";
-import Gallery from "@/components/temple/Gallery";
-import VisitingInfo from "@/components/temple/VisitingInfo";
+import SacredSignificance from "@/components/temple/SacredSignificance";
+import HistoryTradition from "@/components/temple/HistoryTradition";
+import WorshipSop from "@/components/temple/WorshipSop";
+import PoojaSchedule from "@/components/temple/PoojaSchedule";
+import TempleLayout from "@/components/temple/TempleLayout";
+import ArchitectureGallery from "@/components/temple/ArchitectureGallery";
+import Festivals from "@/components/temple/Festivals";
+import PlanYourVisit from "@/components/temple/PlanYourVisit";
+import ReferencesSection from "@/components/temple/ReferencesSection";
 import NearbyTemples from "@/components/temple/NearbyTemples";
-import Reviews from "@/components/temple/Reviews";
-import References from "@/components/temple/References";
+import Section from "@/components/temple/Section";
+import DataConfidence from "@/components/temple/sidebar/DataConfidence";
+import QuickCorrection from "@/components/temple/sidebar/QuickCorrection";
 
 export function generateStaticParams() {
-  return getAllTemples().map((t) => ({ slug: t.slug }));
+  return getPublishedTemples().map((t) => ({ slug: t.slug }));
 }
 
 export async function generateMetadata({
@@ -28,140 +34,115 @@ export async function generateMetadata({
   const { slug } = await params;
   const temple = getTemple(slug);
   if (!temple) return {};
+  const hero = heroImage(temple);
   return {
-    title: temple.name,
-    description: temple.sections.introduction.paragraphs[0]?.slice(0, 200),
-    openGraph: { title: temple.name, images: [temple.heroImage.src] },
+    title: temple.identity.nameEn,
+    description:
+      temple.identity.spiritualSignificanceShort?.slice(0, 200) ||
+      temple.narrative.summaryIntro.slice(0, 200) ||
+      subtitle(temple),
+    openGraph: {
+      title: temple.identity.nameEn,
+      images: hero ? [hero.fileOrUrl] : [],
+    },
   };
 }
 
-export default async function TemplePage({
-  params,
-}: {
-  params: Promise<{ slug: string }>;
-}) {
+/**
+ * JSON-LD is injected as raw HTML, so close any tag sequence that could break
+ * out of the script element. Without this a value containing "</script>" would
+ * be a stored-XSS vector.
+ */
+function jsonLdScript(data: unknown): string {
+  return JSON.stringify(data).replace(/</g, "\\u003c");
+}
+
+export default async function TemplePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const temple = getTemple(slug);
   if (!temple) notFound();
 
-  const full = !temple.stub;
-  const s = temple.sections;
+  // Unpublished entries are a preview for the owner and admins only.
+  if (temple.status !== "published") {
+    const session = await getSession();
+    const mayPreview =
+      session && (session.role === "admin" || session.username === temple.submittedBy);
+    if (!mayPreview) notFound();
+  }
 
-  const toc: { id: string; title: string }[] = [
-    { id: "introduction", title: "Introduction" },
-    ...(full
-      ? [
-          { id: "history", title: "History" },
-          { id: "architecture", title: "Architecture" },
-          { id: "significance", title: "Religious Significance" },
-          { id: "visiting", title: "Visiting Information" },
-          { id: "worship-sop", title: "Worship & Ritual Practices (SOP)" },
-          { id: "festivals", title: "Festivals" },
-          { id: "administration", title: "Administration" },
-          { id: "donations", title: "Donations & Services" },
-          ...(temple.lamp?.enabled ? [{ id: "light-a-lamp", title: "Light a Lamp (Akhand Deepam)" }] : []),
-          ...(temple.gallery?.length ? [{ id: "gallery", title: "Gallery" }] : []),
-          ...(temple.nearbyTemples?.length ? [{ id: "nearby", title: "Nearby Temples" }] : []),
-          ...(temple.reviews?.length ? [{ id: "reviews", title: "Devotee Reviews" }] : []),
-          { id: "contact", title: "Contact & Accessibility" },
-        ]
-      : [
-          { id: "festivals", title: "Festivals" },
-          ...(temple.nearbyTemples?.length ? [{ id: "nearby", title: "Nearby Temples" }] : []),
-        ]),
-    { id: "references", title: "References" },
+  const hasLayout = temple.shrines.length > 0 || temple.media.some((m) => m.category === "map");
+  const hasArchitecture =
+    Boolean(temple.narrative.architectureStyle) ||
+    temple.media.some((m) => m.editorialApproved && m.category !== "hero" && m.category !== "map");
+  const hasSchedule = temple.poojas.length > 0 || temple.openingHours.length > 0;
+
+  const nav = [
+    { id: "glance", title: "At a glance" },
+    { id: "significance", title: "Sacred significance" },
+    { id: "history", title: "History & tradition" },
+    { id: "worship", title: "How to worship" },
+    ...(hasSchedule ? [{ id: "schedule", title: "Daily worship" }] : []),
+    ...(hasLayout ? [{ id: "layout", title: "Temple layout" }] : []),
+    ...(hasArchitecture ? [{ id: "architecture", title: "Architecture" }] : []),
+    ...(temple.festivals.length ? [{ id: "festivals", title: "Festivals" }] : []),
+    { id: "visit", title: "Plan your visit" },
+    ...(temple.extensions.nearbyTemples.length ? [{ id: "nearby", title: "Nearby temples" }] : []),
+    { id: "sources", title: "References" },
   ];
-  const num = (id: string) => toc.findIndex((t) => t.id === id) + 1;
 
   return (
-    <article className="mx-auto max-w-[1100px] px-4 py-6">
+    <article>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(templeJsonLd(temple)) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdScript(templeJsonLd(temple)) }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd(temple)) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdScript(breadcrumbJsonLd(temple)) }}
       />
 
-      {temple.stub && (
-        <div className="ui mb-4 border border-[var(--line-soft)] bg-[var(--paper-soft)] px-3 py-2 text-xs text-[var(--ink-soft)]">
-          This entry is a stub ({temple.status}) — the full standard template is applied once data
-          collection and verification are complete.
+      {temple.status !== "published" && (
+        <div className="mx-auto max-w-[1440px] px-3 pt-4 sm:px-6">
+          <div className="alert">
+            <span aria-hidden>👁</span>
+            <div>
+              <b>Preview only.</b> This entry is <b>{temple.status}</b> and is not visible to the
+              public.
+              {temple.rejectionReason && <> Reviewer note: {temple.rejectionReason}</>}
+            </div>
+          </div>
         </div>
       )}
 
-      <div className="flex flex-col gap-6 lg:flex-row">
-        <div className="min-w-0 flex-1">
-          <TempleHero temple={temple} />
+      <Hero temple={temple} />
+
+      <div className="mx-auto grid max-w-[1440px] grid-cols-1 gap-6 px-3 py-6 sm:px-6 lg:grid-cols-[220px_minmax(0,1fr)] xl:grid-cols-[220px_minmax(0,1fr)_320px]">
+        <SectionNav items={nav} />
+
+        <div className="min-w-0">
           <AtAGlance temple={temple} />
-          <TableOfContents items={toc} />
+          <SacredSignificance temple={temple} />
+          <HistoryTradition temple={temple} />
+          <WorshipSop temple={temple} />
+          {hasSchedule && <PoojaSchedule temple={temple} />}
+          {hasLayout && <TempleLayout temple={temple} />}
+          {hasArchitecture && <ArchitectureGallery temple={temple} />}
+          <Festivals temple={temple} />
+          <PlanYourVisit temple={temple} />
 
-          <WikiSection num={num("introduction")} id="introduction" title="Introduction" section={s.introduction} />
-
-          {full && (
-            <>
-              <WikiSection num={num("history")} id="history" title="History" section={s.history} />
-              <WikiSection num={num("architecture")} id="architecture" title="Architecture" section={s.architecture} />
-              <WikiSection num={num("significance")} id="significance" title="Religious Significance" section={s.religiousSignificance} />
-              <WikiSection num={num("visiting")} id="visiting" title="Visiting Information">
-                <VisitingInfo info={temple.visitingInfo} timings={temple.timings} />
-              </WikiSection>
-              <WikiSection num={num("worship-sop")} id="worship-sop" title="Worship & Ritual Practices — SOP">
-                <WorshipSOP sop={temple.worshipSOP} />
-              </WikiSection>
-            </>
+          {temple.extensions.nearbyTemples.length > 0 && (
+            <Section id="nearby" kicker="Continue the pilgrimage" title="Nearby temples">
+              <NearbyTemples nearby={temple.extensions.nearbyTemples} />
+            </Section>
           )}
 
-          <WikiSection num={num("festivals")} id="festivals" title="Festivals">
-            <FestivalCalendar festivals={temple.festivals} />
-          </WikiSection>
-
-          {full && (
-            <>
-              <WikiSection num={num("administration")} id="administration" title="Administration" section={s.administration} />
-              <WikiSection num={num("donations")} id="donations" title="Donations & Services" section={s.donationsAndServices} />
-              {temple.lamp?.enabled && (
-                <WikiSection num={num("light-a-lamp")} id="light-a-lamp" title="Light a Lamp — Akhand Deepam">
-                  <LampWidget templeName={temple.name} lampsToday={temple.lamp.lampsToday} />
-                </WikiSection>
-              )}
-              {temple.gallery?.length > 0 && (
-                <WikiSection num={num("gallery")} id="gallery" title="Gallery">
-                  <Gallery images={temple.gallery} />
-                </WikiSection>
-              )}
-            </>
-          )}
-
-          {temple.nearbyTemples?.length > 0 && (
-            <WikiSection num={num("nearby")} id="nearby" title="Nearby Temples">
-              <NearbyTemples nearby={temple.nearbyTemples} />
-            </WikiSection>
-          )}
-
-          {full && temple.reviews?.length > 0 && (
-            <WikiSection num={num("reviews")} id="reviews" title="Devotee Reviews">
-              <Reviews reviews={temple.reviews} />
-            </WikiSection>
-          )}
-
-          {full && (
-            <WikiSection num={num("contact")} id="contact" title="Contact & Accessibility">
-              <p className="text-[15px]">{temple.contact.address}</p>
-              {temple.contact.phone && <p className="text-[15px]">Phone: {temple.contact.phone}</p>}
-              {temple.contact.email && <p className="text-[15px]">Email: {temple.contact.email}</p>}
-            </WikiSection>
-          )}
-
-          <WikiSection num={num("references")} id="references" title="References">
-            <References references={temple.references} />
-          </WikiSection>
+          <ReferencesSection temple={temple} />
         </div>
 
-        <div className="shrink-0 lg:order-last">
-          <Infobox temple={temple} />
-        </div>
+        <aside className="max-h-max xl:sticky xl:top-[78px]">
+          <DataConfidence temple={temple} />
+          <QuickCorrection temple={temple} />
+        </aside>
       </div>
     </article>
   );

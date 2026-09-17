@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Temple } from "@/lib/types";
 import { getTemple } from "@/lib/temples";
 
-export default function NearbyTemples({ nearby }: { nearby: Temple["nearbyTemples"] }) {
+export default function NearbyTemples({ nearby }: { nearby: Temple["extensions"]["nearbyTemples"] }) {
   if (!nearby?.length) return null;
   return (
     <ul className="list-disc space-y-1 pl-6 text-[15px]">
@@ -11,7 +11,7 @@ export default function NearbyTemples({ nearby }: { nearby: Temple["nearbyTemple
         return (
           <li key={n.name}>
             {exists ? <Link href={`/temple/${n.slug}`}>{n.name}</Link> : n.name}
-            <span className="ui text-sm text-[var(--ink-soft)]"> — {n.distanceKm} km</span>
+            <span className="text-sm text-muted"> — {n.distanceKm} km</span>
           </li>
         );
       })}

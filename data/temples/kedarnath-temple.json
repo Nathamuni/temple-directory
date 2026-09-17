@@ -1,0 +1,140 @@
+{
+  "templeId": "TPL-IN-UT-RUD-0015",
+  "slug": "kedarnath-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kedarnath Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Kedarnath",
+      "Pilgrimage",
+      "Himalayan"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "केदारनाथ मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Rudraprayag",
+    "district": "Rudraprayag",
+    "stateProvince": "Uttarakhand",
+    "country": "India",
+    "postalCode": "246426",
+    "latitude": 30.7297,
+    "longitude": 79.0708
+  },
+  "governance": {
+    "establishedEra": "Ancient; present structure 8th century CE · Reconstructed by Adi Shankaracharya",
+    "managingAuthority": "Uttarakhand Shrine Board"
+  },
+  "narrative": {
+    "summaryIntro": "Kedarnath Temple is situated in the Himalayan mountain range at an elevation of 3,583 meters, in the Rudraprayag district of Uttarakhand. Dedicated to Lord Shiva, it is one of the twelve Jyotirlingas and forms part of the Char Dham pilgrimage circuit. The temple attracts pilgrims year-round despite its challenging high-altitude location.\n\nThe present temple structure dates back to the 8th century and is attributed to Adi Shankaracharya. Built with stone in a traditional Himalayan architectural style, the temple stands as a testament to ancient engineering and spiritual devotion in one of India's most sacred mountain regions.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Himalayan"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Warm clothing required; traditional attire recommended",
+    "nearestRailStation": "Rishikesh Railway Station, 150 km",
+    "railDistanceKm": 150,
+    "nearestBusStation": "Accessible by trek and road",
+    "nearestAirport": "Jolly Grant Airport, Dehradun, 240 km",
+    "airportDistanceKm": 240
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "19:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Celebrated with special pujas and grand festivities",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kedarnath Temple — hero image",
+      "caption": "Kedarnath Temple nestled in the Himalayas",
+      "altText": "Kedarnath Temple nestled in the Himalayas",
+      "fileOrUrl": "/images/temples/kedarnath-temple/hero.jpg",
+      "creator": "Shaq774 at en.wikipedia",
+      "license": "Public domain",
+      "attributionText": "Shaq774 at en.wikipedia · Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Kedarnath Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Uttarakhand Shrine Board Official Records",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Kedarnath, Rudraprayag, Uttarakhand 246426, India",
+    "bestTime": "May to October; November to April temple closes due to heavy snow",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

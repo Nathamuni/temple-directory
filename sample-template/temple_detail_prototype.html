@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Temple Directory Prototype — Thillai Nataraja Temple</title>
+<style>
+:root{
+  --ink:#241914; --muted:#6e6259; --cream:#f7f0df; --paper:#fffaf0;
+  --maroon:#5a1717; --maroon2:#3d0f13; --saffron:#c86f16; --brass:#c79b45;
+  --green:#28483d; --line:#e5d6bb; --ok:#2c6a4f; --warn:#a25e15; --soft:#efe3cc;
+  --shadow:0 18px 50px rgba(59,29,14,.12);
+}
+*{box-sizing:border-box} html{scroll-behavior:smooth}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:
+radial-gradient(circle at 20% 0%,rgba(201,155,69,.09),transparent 28%),
+linear-gradient(180deg,#f4ead6 0,#fbf7ef 340px,#f7f2e8 100%);}
+a{color:inherit}
+.topbar{position:sticky;top:0;z-index:50;background:rgba(40,20,16,.96);backdrop-filter:blur(14px);color:#fff;border-bottom:1px solid rgba(255,255,255,.08)}
+.topbar-inner{max-width:1440px;margin:auto;display:flex;align-items:center;gap:18px;padding:10px 24px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.02em;white-space:nowrap}.brand-mark{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(145deg,#f2c35b,#a95816);box-shadow:inset 0 0 0 2px rgba(255,255,255,.2)}
+.brand small{display:block;font-size:10px;color:#e4c9a0;font-weight:600;letter-spacing:.16em;text-transform:uppercase}
+.spacer{flex:1}.view-switch,.evidence-switch{display:flex;align-items:center;background:rgba(255,255,255,.08);padding:4px;border-radius:999px;border:1px solid rgba(255,255,255,.12)}
+.view-switch button,.evidence-switch button{border:0;background:transparent;color:#d9cec6;padding:8px 13px;border-radius:999px;font-weight:700;cursor:pointer}.view-switch button.active,.evidence-switch button.active{background:#fff;color:#3c1d15}
+.hero{max-width:1440px;margin:0 auto;padding:24px 24px 0}.hero-card{min-height:520px;border-radius:28px;overflow:hidden;position:relative;box-shadow:var(--shadow);background:#4a241c url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Temple_Tank_%28Sivaganga%29%2C_Nataraja_Temple_-_panoramio.jpg') center/cover no-repeat}
+.hero-card:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(30,12,10,.91) 0%,rgba(44,16,13,.72) 44%,rgba(30,12,10,.13) 74%,rgba(30,12,10,.18) 100%),linear-gradient(0deg,rgba(15,8,5,.55),transparent 44%)}
+.hero-content{position:relative;z-index:2;width:min(690px,86%);padding:62px 58px;color:#fff}.eyebrow{font-size:13px;text-transform:uppercase;letter-spacing:.18em;color:#f5c86d;font-weight:800}.hero h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(43px,6vw,78px);line-height:.98;margin:16px 0 15px;font-weight:700}.tamil{font-size:21px;color:#f7e5c8;margin-bottom:18px}.summary{font-size:18px;line-height:1.65;color:#f4eee9;max-width:610px}.hero-tags{display:flex;flex-wrap:wrap;gap:9px;margin-top:24px}.pill{padding:8px 11px;border-radius:999px;background:rgba(255,255,255,.11);border:1px solid rgba(255,255,255,.18);font-size:12px;font-weight:750}.hero-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;padding:12px 15px;border-radius:12px;font-weight:800;border:1px solid transparent}.btn.primary{background:#f3c45b;color:#3b1a10}.btn.ghost{border-color:rgba(255,255,255,.28);background:rgba(255,255,255,.06);color:#fff}
+.hero-foot{position:absolute;z-index:2;right:22px;bottom:19px;background:rgba(35,19,13,.72);backdrop-filter:blur(9px);border:1px solid rgba(255,255,255,.15);color:#fff;padding:10px 13px;border-radius:12px;font-size:11px;max-width:340px}
+.page{max-width:1440px;margin:auto;display:grid;grid-template-columns:220px minmax(0,1fr) 320px;gap:24px;padding:24px}
+.leftnav,.rightcol{position:sticky;top:78px;height:max-content}.leftnav{background:rgba(255,250,240,.8);border:1px solid var(--line);border-radius:18px;padding:13px;box-shadow:0 8px 30px rgba(61,34,19,.05)}.leftnav a{display:block;text-decoration:none;padding:9px 10px;border-radius:10px;color:#64564d;font-size:13px;font-weight:700}.leftnav a:hover{background:#f0e2ca;color:var(--maroon)}.leftnav .navtitle{padding:8px 10px 10px;font-size:11px;text-transform:uppercase;letter-spacing:.15em;color:#9a7b54;font-weight:900}
+.content{min-width:0}.section{scroll-margin-top:88px;margin-bottom:24px;background:rgba(255,250,240,.94);border:1px solid var(--line);border-radius:22px;padding:26px;box-shadow:0 8px 30px rgba(61,34,19,.045)}
+.section-title{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:17px}.section h2{font-family:Georgia,"Times New Roman",serif;font-size:32px;margin:0;color:#4b1715}.section .kicker{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--saffron);font-weight:900;margin-bottom:7px}.lead{font-size:16px;line-height:1.75;color:#4c4038}.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.fact{background:#f5ead7;border:1px solid #ead7b7;padding:16px;border-radius:15px}.fact .label{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#8b6a43;font-weight:900}.fact .value{margin-top:6px;font-size:15px;font-weight:800;line-height:1.35}.fact .sub{font-size:12px;color:#7d6b5c;margin-top:5px}.story-grid{display:grid;grid-template-columns:1.3fr .7fr;gap:18px}.quote{background:linear-gradient(145deg,#5c1918,#3d1011);color:#f8ead3;border-radius:18px;padding:22px;min-height:100%;display:flex;flex-direction:column;justify-content:space-between}.quote strong{font-family:Georgia,serif;font-size:23px;line-height:1.25}.quote span{font-size:12px;color:#e9c99a;margin-top:20px}.evidence{margin-top:14px;padding:11px 12px;border:1px dashed #d5b47c;background:#fff7e8;border-radius:12px;font-size:12px;color:#6e573c;display:none}.show-evidence .evidence{display:block}.sourcechip{display:inline-block;background:#eee1c8;color:#664926;border-radius:999px;padding:4px 7px;margin:3px 4px 3px 0;font-weight:800;font-size:10px}.sourcechip.conflict{background:#f8dfc8;color:#7b3518}.sourcechip.verified{background:#dcecdf;color:#24563d}
+.alert{display:flex;gap:11px;padding:14px 15px;border-radius:14px;background:#fff1dc;border:1px solid #e8c08a;color:#6b4420;font-size:13px;line-height:1.55}.alert b{color:#7b3f14}.schedule{display:grid;grid-template-columns:120px 1fr;gap:0;border:1px solid var(--line);border-radius:14px;overflow:hidden}.schedule div{padding:11px 13px;border-bottom:1px solid #eadfcf}.schedule div:nth-last-child(-n+2){border-bottom:0}.schedule .time{font-weight:900;background:#f2e5d0;color:#6b351a}.schedule .event{background:#fffdf7}.schedule .event b{display:block}.schedule .event span{display:block;font-size:12px;color:#7b6a5a;margin-top:3px}
+.sop-list{display:grid;gap:12px}.sop{border:1px solid #e4d5bc;border-radius:16px;background:#fffdf8;overflow:hidden}.sop button{width:100%;display:flex;align-items:center;gap:14px;border:0;background:transparent;padding:16px 18px;text-align:left;cursor:pointer}.stepno{width:36px;height:36px;flex:0 0 36px;border-radius:50%;display:grid;place-items:center;background:#5a1717;color:#fff;font-weight:900}.sop .soptitle{font-weight:900;font-size:15px}.sop .sopmeta{font-size:11px;color:#8d7764;margin-top:3px}.chev{margin-left:auto;font-size:18px;color:#8b6d4d}.sop-body{display:none;padding:0 18px 18px 68px;color:#56473e;line-height:1.65;font-size:14px}.sop.open .sop-body{display:block}.sop.open .chev{transform:rotate(180deg)}.not-verified{margin-top:10px;border-left:3px solid #b86c21;padding:10px 12px;background:#fff1df;border-radius:0 8px 8px 0;font-size:12px}.route-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.plan{background:#f0e3ce;border-radius:18px;padding:15px;border:1px solid #dfcdb1}.plan img{width:100%;aspect-ratio:1/1.05;object-fit:contain;border-radius:12px;background:#fff}.plan small{display:block;color:#7c6a5d;margin-top:8px;line-height:1.45}.route-list{display:grid;gap:10px}.route-item{display:grid;grid-template-columns:34px 1fr;gap:10px}.route-item .dot{width:30px;height:30px;border-radius:50%;background:#2b4a3f;color:#fff;display:grid;place-items:center;font-weight:900}.route-item b{display:block}.route-item span{font-size:12px;color:#776659}.cards2{display:grid;grid-template-columns:repeat(2,1fr);gap:13px}.info-card{background:#f8efdf;border:1px solid #e5d4b6;border-radius:15px;padding:16px}.info-card b{display:block;margin-bottom:6px}.info-card p{margin:0;color:#67574c;line-height:1.55;font-size:13px}.gallery{display:grid;grid-template-columns:1.4fr .6fr;gap:12px}.gallery img{width:100%;height:100%;min-height:230px;object-fit:cover;border-radius:16px}.gallery .stack{display:grid;gap:12px}.caption{font-size:11px;color:#7a695b;margin-top:8px}
+.rightcard{background:#fffaf0;border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 8px 30px rgba(61,34,19,.05);margin-bottom:14px}.rightcard h3{margin:0 0 12px;font-size:14px}.statusline{display:flex;justify-content:space-between;gap:12px;border-top:1px solid #eee0c8;padding:10px 0;font-size:12px}.statusline:first-of-type{border-top:0}.badge{padding:4px 7px;border-radius:999px;font-size:10px;font-weight:900}.badge.ok{background:#dcecdf;color:#21563c}.badge.warn{background:#ffead0;color:#8b4b16}.rightcard .big{font-family:Georgia,serif;font-size:23px;color:#4d1716}.rightcard p{font-size:12px;line-height:1.55;color:#6d5e53}.cite-list a{display:block;font-size:11px;color:#6c4e2b;margin:8px 0;word-break:break-word}
+.contributor-panel{display:none}.contributor-mode .public-panel{display:none!important}.contributor-mode .contributor-panel{display:block}.contributor-mode .leftnav{display:none}.contributor-mode .page{grid-template-columns:minmax(0,1fr) 320px}.contributor-mode .content{grid-column:1}.contributor-mode .rightcol{grid-column:2}.contrib-hero{background:linear-gradient(145deg,#49211b,#2b1714);color:#fff;border-radius:22px;padding:25px;margin-bottom:18px}.contrib-hero h2{font-family:Georgia,serif;font-size:34px;margin:6px 0}.progress{height:8px;background:rgba(255,255,255,.12);border-radius:99px;overflow:hidden;margin:15px 0 5px}.progress span{display:block;height:100%;width:82%;background:#efbf59}.formgroup{background:#fffaf0;border:1px solid var(--line);border-radius:18px;margin-bottom:15px;overflow:hidden}.formgroup h3{margin:0;padding:15px 18px;background:#f1e4ce;color:#501a17;font-family:Georgia,serif;font-size:20px}.formrow{display:grid;grid-template-columns:200px 1fr 100px 160px;gap:10px;padding:12px 16px;border-top:1px solid #eadfcd;align-items:start}.fieldname b{display:block;font-size:12px}.fieldname code{font-size:10px;color:#866f5b}.fieldvalue{font-size:13px;color:#453930}.req,.dtype{font-size:10px;font-weight:900;padding:5px 6px;border-radius:8px;text-align:center;height:max-content}.req.required{background:#f2dcd6;color:#7c2f26}.req.optional{background:#e8e7df;color:#666254}.dtype{background:#deeadf;color:#27583d}.fieldnote{grid-column:2 / 5;font-size:11px;color:#7c6b5f;margin-top:-4px}.repeat-note{padding:11px 16px;background:#fff3dc;color:#7b4d1d;border-top:1px dashed #e0bc80;font-size:12px}
+.footer{max-width:1440px;margin:0 auto 30px;padding:0 24px}.footer-inner{background:#2b1714;color:#dacbbf;border-radius:20px;padding:20px 24px;font-size:12px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+@media(max-width:1100px){.page{grid-template-columns:190px minmax(0,1fr)}.rightcol{position:static;grid-column:1/-1;display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.rightcard{margin:0}.grid-4{grid-template-columns:repeat(2,1fr)}.contributor-mode .page{grid-template-columns:1fr}.contributor-mode .rightcol{grid-column:1}.formrow{grid-template-columns:170px 1fr 90px}.dtype{display:none}.fieldnote{grid-column:2/4}}
+@media(max-width:760px){.topbar-inner{padding:9px 12px;gap:8px}.brand span{display:none}.evidence-switch{display:none}.hero{padding:12px 12px 0}.hero-card{min-height:590px}.hero-content{padding:45px 24px;width:100%}.hero h1{font-size:48px}.hero-foot{left:18px;right:18px}.page{display:block;padding:14px 12px}.leftnav{position:static;margin-bottom:14px;white-space:nowrap;overflow:auto}.leftnav a{display:inline-block}.section{padding:19px}.grid-4,.story-grid,.cards2,.route-grid,.gallery,.rightcol{grid-template-columns:1fr}.formrow{grid-template-columns:1fr}.fieldnote{grid-column:1}.req{width:max-content}.view-switch button{padding:7px 9px;font-size:11px}.hero-actions{margin-top:20px}.summary{font-size:16px}.section h2{font-size:27px}}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand"><div class="brand-mark">ॐ</div><span>Temple Directory<small>Prototype · Chidambaram Pilot</small></span></div>
+    <div class="spacer"></div>
+    <div class="evidence-switch" aria-label="Evidence switch">
+      <button id="evidenceOff" class="active" onclick="setEvidence(false)">Clean view</button>
+      <button id="evidenceOn" onclick="setEvidence(true)">Evidence</button>
+    </div>
+    <div class="view-switch" aria-label="Mode switch">
+      <button id="publicBtn" class="active" onclick="setMode('public')">Devotee view</button>
+      <button id="contribBtn" onclick="setMode('contributor')">Contributor view</button>
+    </div>
+  </div>
+</header>
+
+<div class="public-panel">
+<section class="hero">
+  <div class="hero-card">
+    <div class="hero-content">
+      <div class="eyebrow">Pancha Bhuta Sthalam · Akasha / Space</div>
+      <h1>Thillai Nataraja Temple</h1>
+      <div class="tamil">சிதம்பரம் நடராஜர் கோவில் · Chidambaram, Tamil Nadu</div>
+      <div class="summary">A living Shaiva temple centred on Nataraja, Shiva as the cosmic dancer. The complex is known for its Chit Sabha and Kanaka Sabha, sacred Sivaganga tank, major gopurams, dance sculpture, and a long history of royal patronage and expansion.</div>
+      <div class="hero-tags"><span class="pill">Nataraja · Shiva</span><span class="pill">Cuddalore District</span><span class="pill">Dravidian temple architecture</span><span class="pill">Living temple</span></div>
+      <div class="hero-actions"><a class="btn primary" href="#worship">✦ How to worship here</a><a class="btn ghost" href="#visit">◷ Plan your visit</a><a class="btn ghost" href="#map">⌖ Temple layout</a></div>
+      <div class="evidence"><span class="sourcechip verified">Govt. of Tamil Nadu / Cuddalore District</span><span class="sourcechip verified">Chidambaram Municipality</span><span class="sourcechip">Govt. Museum Chennai</span><br>Identity, location, major halls, history and architecture are cross-referenced. Some operational details require current re-verification before publication.</div>
+    </div>
+    <div class="hero-foot">Photo: Sivaganga temple tank, Gabriele Giuseppini · CC BY 3.0 · Wikimedia Commons</div>
+  </div>
+</section>
+
+<main class="page">
+  <nav class="leftnav">
+    <div class="navtitle">On this temple</div>
+    <a href="#glance">At a glance</a><a href="#significance">Sacred significance</a><a href="#history">History & tradition</a><a href="#worship">How to worship</a><a href="#schedule">Daily worship</a><a href="#map">Temple layout</a><a href="#architecture">Architecture</a><a href="#festivals">Festivals</a><a href="#visit">Plan your visit</a><a href="#sources">References</a>
+  </nav>
+
+  <div class="content">
+    <section class="section" id="glance">
+      <div class="section-title"><div><div class="kicker">Temple identity</div><h2>At a glance</h2></div><span class="badge ok">Cross-referenced</span></div>
+      <div class="grid-4">
+        <div class="fact"><div class="label">Presiding deity</div><div class="value">Nataraja (Shiva)</div><div class="sub">Cosmic dancer</div></div>
+        <div class="fact"><div class="label">Sacred classification</div><div class="value">Pancha Bhuta Sthalam</div><div class="sub">Akasha / Space</div></div>
+        <div class="fact"><div class="label">Location</div><div class="value">Chidambaram</div><div class="sub">Cuddalore District · Tamil Nadu · 608001</div></div>
+        <div class="fact"><div class="label">Administration</div><div class="value">Podhu Deekshidhar tradition</div><div class="sub">Current legal/administrative wording should be source-dated</div></div>
+      </div>
+      <div class="evidence">Government museum directory identifies the monument as a Hindu living temple in Chidambaram, Cuddalore District, PIN 608001, with administration associated with the Podhu Deekshidhar Trust. Because governance has been publicly contested at different times, the production site should always save the source date with this field.</div>
+    </section>
+
+    <section class="section" id="significance">
+      <div class="section-title"><div><div class="kicker">Why devotees know this temple</div><h2>Sacred significance</h2></div></div>
+      <div class="story-grid">
+        <div><p class="lead">Chidambaram is revered in Shaiva tradition for Nataraja’s cosmic dance and for the temple’s association with <b>Akasha</b>—space or ether—within the Pancha Bhuta pilgrimage tradition. The complex also includes the Chit Sabha, Kanaka Sabha, Nritta Sabha, Deva Sabha and Raja Sabha.</p>
+        <p class="lead">Its religious landscape is broader than a single shrine: government and historical sources record associated shrines and spaces including Sivaganga, a Devi shrine, and Govindaraja Vishnu shrine.</p></div>
+        <div class="quote"><strong>“Temple detail” should explain the sacred idea first—not bury it under contact details.</strong><span>Prototype information-design principle</span></div>
+      </div>
+      <div class="evidence"><span class="sourcechip verified">Cuddalore District</span><span class="sourcechip verified">Chidambaram Municipality</span><span class="sourcechip">Historical/academic references</span></div>
+    </section>
+
+    <section class="section" id="history">
+      <div class="section-title"><div><div class="kicker">Separate belief from chronology</div><h2>History & temple tradition</h2></div></div>
+      <div class="cards2">
+        <div class="info-card"><b>Traditional & devotional account</b><p>This block is where a contributor records Sthala Puranam, saint traditions and temple narratives. It must be explicitly labelled as temple tradition and supported by a temple publication, scripture reference or named oral authority.</p></div>
+        <div class="info-card"><b>Documented historical development</b><p>Government sources describe a long development history, with major construction and expansion associated with Chola and later dynasties. Present structures include substantial medieval work and later additions.</p></div>
+      </div>
+      <div class="evidence"><span class="sourcechip verified">Cuddalore District</span><span class="sourcechip">Govt. Museum Chennai</span> This is intentionally split so devotional tradition is not presented as archaeological chronology.</div>
+    </section>
+
+    <section class="section" id="worship">
+      <div class="section-title"><div><div class="kicker">Signature experience</div><h2>How to worship here</h2></div><span class="badge warn">Temple-specific SOP</span></div>
+      <div class="alert">🛕 <div><b>Important editorial rule:</b> the directory should never invent a universal shrine order, pradakshina count, entry-foot rule or mantra. Those become public instructions only when a temple authority, priest, published temple source or other approved authority verifies them.</div></div>
+      <div class="sop-list" style="margin-top:14px">
+        <div class="sop open"><button onclick="toggleSop(this)"><span class="stepno">1</span><span><div class="soptitle">Before you go</div><div class="sopmeta">Current timings · dress · photography · festival-day changes</div></span><span class="chev">⌄</span></button><div class="sop-body">Confirm same-day opening and pooja schedules before travel. Chidambaram Municipality advises visitors to maintain tranquillity and respect temple beliefs and rites. A historical Government Museum directory records photography/videography as not allowed; the current policy should be re-verified before displaying it as a live rule.<div class="evidence"><span class="sourcechip verified">Chidambaram Municipality</span><span class="sourcechip conflict">Museum directory — older operational data</span></div></div></div>
+        <div class="sop"><button onclick="toggleSop(this)"><span class="stepno">2</span><span><div class="soptitle">Enter & orient yourself</div><div class="sopmeta">Gateway · sacred spaces · map reference</div></span><span class="chev">⌄</span></button><div class="sop-body">The complex has major gateways on the cardinal sides. The prototype uses a historical plan to help a devotee identify the East, South, West and North gopuras, Sivaganga tank, Devi temple, the central Shiva sanctum/Chit Sabha/Kanaka Sabha zone, and the Vishnu shrine. This is orientation—not an invented worship order.<div class="evidence"><span class="sourcechip verified">Wikimedia plan · CC BY-SA 4.0</span></div></div></div>
+        <div class="sop"><button onclick="toggleSop(this)"><span class="stepno">3</span><span><div class="soptitle">Follow the temple’s verified worship route</div><div class="sopmeta">Shrine sequence · directions · rounds · temple notes</div></span><span class="chev">⌄</span></button><div class="sop-body">This production block should be generated from the repeatable <b>Worship Route / Shrine Sequence</b> records contributed for this temple. For the Chidambaram pilot, the exact visitor shrine sequence is intentionally withheld until a temple-authority source is attached.<div class="not-verified"><b>Not published yet:</b> precise shrine order and pradakshina counts. This demonstrates how unverified spiritual instructions remain inside editorial review rather than becoming public fact.</div></div></div>
+        <div class="sop"><button onclick="toggleSop(this)"><span class="stepno">4</span><span><div class="soptitle">Nataraja darshan & Chit Sabha context</div><div class="sopmeta">Main sacred focus · Chidambara Rahasya · contextual explanation</div></span><span class="chev">⌄</span></button><div class="sop-body">The Chit Sabha is the central sacred space associated with Nataraja. Historical sources also describe the Chidambara Rahasya and the temple’s Akasha symbolism. The public page should explain this respectfully while separating what is directly documented from theological interpretation.<div class="evidence"><span class="sourcechip">Tamil Virtual Academy / historical temple study</span><span class="sourcechip verified">Cuddalore District</span></div></div></div>
+        <div class="sop"><button onclick="toggleSop(this)"><span class="stepno">5</span><span><div class="soptitle">Choose a daily pooja window</div><div class="sopmeta">Six-kaalam worship · morning and evening</div></span><span class="chev">⌄</span></button><div class="sop-body">Available sources consistently describe six daily poojas in the Dikshitar tradition. The detailed timing table below is stored as repeatable Pooja records with a source and verification date, not as uneditable page copy.</div></div>
+        <div class="sop"><button onclick="toggleSop(this)"><span class="stepno">6</span><span><div class="soptitle">Before leaving</div><div class="sopmeta">Local instructions · temple etiquette · corrections</div></span><span class="chev">⌄</span></button><div class="sop-body">Follow current instructions inside the temple and respect local ritual practice. The production directory should provide a one-tap <b>Suggest a correction</b> action for any visitor who finds a changed timing, route, entry rule or facility detail.</div></div>
+      </div>
+    </section>
+
+    <section class="section" id="schedule">
+      <div class="section-title"><div><div class="kicker">Repeatable data, not paragraphs</div><h2>Daily worship schedule</h2></div><span class="badge warn">Verify for travel date</span></div>
+      <div class="alert" style="margin-bottom:13px">⚠️ <div><b>Source conflict example:</b> current online sources do not perfectly agree on general public opening hours. The data model therefore stores each timing with its source, source date and last verification date.</div></div>
+      <div class="schedule">
+        <div class="time">6:30 AM</div><div class="event"><b>Paal Nivedhyam</b><span>Paduka procession from palliyarai toward the sanctum, as described by temple-site-derived references.</span></div>
+        <div class="time">7:00 AM</div><div class="event"><b>Maha Aarthi</b></div>
+        <div class="time">7:45–9:00</div><div class="event"><b>Kalasandhi Pooja</b><span>First pooja period.</span></div>
+        <div class="time">10:00–11:00</div><div class="event"><b>Irandaam Kaalam</b><span>Second pooja period.</span></div>
+        <div class="time">11:30–12:00</div><div class="event"><b>Uchikaalam</b><span>Third pooja period.</span></div>
+        <div class="time">5:15–6:00 PM</div><div class="event"><b>Saayarakshai</b><span>Fourth pooja period.</span></div>
+        <div class="time">7:00–8:00 PM</div><div class="event"><b>Irandaam Kaalam</b><span>Fifth pooja period in the cited schedule.</span></div>
+        <div class="time">9:00–10:00 PM</div><div class="event"><b>Ardhajaamam</b><span>Final pooja period.</span></div>
+      </div>
+      <div class="evidence"><span class="sourcechip">Temple-site-derived schedule</span><span class="sourcechip">Independent historical source: six daily poojas</span> Production should show “last verified” at the individual record level.</div>
+    </section>
+
+    <section class="section" id="map">
+      <div class="section-title"><div><div class="kicker">Orientation before instruction</div><h2>Temple layout & sacred spaces</h2></div></div>
+      <div class="route-grid">
+        <div class="plan"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/10th_to_13th_century_Chidambaram_Nataraja_Temple_plan.svg" alt="Historical plan of Chidambaram Nataraja Temple"><small>Historical plan by Sarah Welch, CC BY-SA 4.0. It is explicitly not to scale and does not identify every structure; use it as a visual reference, not a navigation-grade map.</small></div>
+        <div class="route-list">
+          <div class="route-item"><div class="dot">1</div><div><b>Four cardinal gopuras</b><span>East · South · West · North</span></div></div>
+          <div class="route-item"><div class="dot">2</div><div><b>Sivaganga sacred pool</b><span>One of the major identifiable spaces in the complex.</span></div></div>
+          <div class="route-item"><div class="dot">3</div><div><b>Devi temple</b><span>A major internal shrine area represented on the historical plan.</span></div></div>
+          <div class="route-item"><div class="dot">4</div><div><b>Chit Sabha + Kanaka Sabha</b><span>Central Nataraja sacred zone.</span></div></div>
+          <div class="route-item"><div class="dot">5</div><div><b>Govindaraja / Vishnu shrine</b><span>Reflects the complex’s Shaiva and Vaishnava sacred landscape.</span></div></div>
+          <div class="route-item"><div class="dot">6</div><div><b>1000-pillar hall / choultry</b><span>Represented on the plan; public naming should follow the selected authoritative source.</span></div></div>
+        </div>
+      </div>
+      <div class="evidence"><span class="sourcechip verified">Wikimedia plan</span><span class="sourcechip verified">Cuddalore / Municipal sources</span></div>
+    </section>
+
+    <section class="section" id="architecture">
+      <div class="section-title"><div><div class="kicker">See what makes the complex distinct</div><h2>Architecture & sacred art</h2></div></div>
+      <div class="gallery">
+        <div><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Chidambaram_Nataraja_temple_East_Gopuram.JPG" alt="East Gopuram of Chidambaram Nataraja Temple"><div class="caption">East Gopuram · BishkekRocks · CC BY-SA 3.0 · Wikimedia Commons</div></div>
+        <div class="stack"><div class="info-card"><b>Dravidian temple architecture</b><p>Government museum documentation identifies the temple as a living Hindu monument with major Chola and Vijayanagara-period associations.</p></div><div class="info-card"><b>Dance as architecture</b><p>Academic and reference sources document karana dance reliefs on the temple gopurams, reinforcing the temple’s unusual relationship between worship, movement and sacred art.</p></div></div>
+      </div>
+      <div class="evidence"><span class="sourcechip">Govt. Museum Chennai</span><span class="sourcechip">National Mission for Manuscripts publication</span></div>
+    </section>
+
+    <section class="section" id="festivals">
+      <div class="section-title"><div><div class="kicker">Annual rhythm</div><h2>Major festivals</h2></div></div>
+      <div class="cards2"><div class="info-card"><b>Aani Tirumanjanam</b><p>Listed by Cuddalore District among the temple’s major annual traditions.</p></div><div class="info-card"><b>Margazhi Tiruvadirai / Arudra Darshan</b><p>A major Nataraja festival period. The production schema should store festival name, Tamil month, Gregorian date/rule, duration, crowd note, procession details and sources separately.</p></div></div>
+      <div class="evidence"><span class="sourcechip verified">Cuddalore District</span></div>
+    </section>
+
+    <section class="section" id="visit">
+      <div class="section-title"><div><div class="kicker">Practical information</div><h2>Plan your visit</h2></div><span class="badge warn">Live data should be date-stamped</span></div>
+      <div class="grid-4">
+        <div class="fact"><div class="label">Railway</div><div class="value">Chidambaram R.S.</div><div class="sub">Government museum directory: approx. 2 km</div></div>
+        <div class="fact"><div class="label">Bus stand</div><div class="value">Chidambaram</div><div class="sub">Government museum directory: approx. 2 km</div></div>
+        <div class="fact"><div class="label">Visitor conduct</div><div class="value">Maintain tranquillity</div><div class="sub">Respect temple beliefs and rites</div></div>
+        <div class="fact"><div class="label">Photography</div><div class="value">Needs current verification</div><div class="sub">Older government directory records “not allowed”</div></div>
+      </div>
+      <div class="alert" style="margin-top:13px">⏱️ <div><b>Do not hard-code visitor hours.</b> One municipal page currently lists 6:00 AM–12:30 PM and 4:30 PM–10:00 PM; temple-site-derived references list 6:00 AM–12:00 PM and 5:00 PM–10:00 PM; an older museum directory lists shorter hours. The real product should display the freshest verified value and preserve the other sources in the editorial evidence layer.</div></div>
+    </section>
+
+    <section class="section" id="sources">
+      <div class="section-title"><div><div class="kicker">Wikipedia-like trust layer</div><h2>References & provenance</h2></div></div>
+      <p class="lead">Every claim can carry one or more source records. Sources are not only shown at the bottom—they remain linked to the exact field, SOP step, image, pooja or festival record that they support.</p>
+      <div class="cards2">
+        <div class="info-card"><b>Primary / official-style sources</b><p>Cuddalore District, Chidambaram Municipality, Government Museum Chennai, temple authority publications where available.</p></div>
+        <div class="info-card"><b>Enrichment sources</b><p>Academic publications, historical studies, inscriptions, licensed imagery and named on-ground verification.</p></div>
+      </div>
+    </section>
+  </div>
+
+  <aside class="rightcol">
+    <div class="rightcard"><h3>Data confidence</h3><div class="big">82% pilot-ready</div><p>Identity and architectural context are strong. Live timings, photography policy and exact devotee route need source-date validation.</p><div class="statusline"><span>Identity</span><span class="badge ok">Verified</span></div><div class="statusline"><span>History</span><span class="badge ok">Cross-referenced</span></div><div class="statusline"><span>Worship sequence</span><span class="badge warn">Needs authority</span></div><div class="statusline"><span>Operational timings</span><span class="badge warn">Conflict</span></div></div>
+    <div class="rightcard"><h3>Prototype principle</h3><p><b>Devotional, not decorative.</b> Imagery should help users understand the temple: entrance, layout, shrine, sacred element, ritual, festival and practical visit context.</p></div>
+    <div class="rightcard"><h3>Quick correction</h3><p>Visitors should be able to flag a changed time, rule, facility or description without becoming a full contributor.</p><a class="btn" style="background:#f1e1c6;color:#5a2a18;padding:9px 11px" href="#">Suggest an edit</a></div>
+  </aside>
+</main>
+</div>
+
+<div class="contributor-panel">
+<main class="page">
+  <div class="content">
+    <div class="contrib-hero"><div class="eyebrow">Contributor workspace · Example record</div><h2>Thillai Nataraja Temple</h2><div>Structured content entry with field-level evidence, repeatable records and editorial verification.</div><div class="progress"><span></span></div><small>82% complete · 3 items require authority verification</small></div>
+
+    <div class="formgroup"><h3>1. Temple identity</h3>
+      <div class="formrow"><div class="fieldname"><b>Official Temple Name</b><code>temple_name_en</code></div><div class="fieldvalue">Thillai Nataraja Temple</div><div class="req required">REQUIRED</div><div class="dtype">TEXT</div></div>
+      <div class="formrow"><div class="fieldname"><b>Local Name</b><code>temple_name_local</code></div><div class="fieldvalue">சிதம்பரம் நடராஜர் கோவில்</div><div class="req optional">RECOMMENDED</div><div class="dtype">TEXT</div></div>
+      <div class="formrow"><div class="fieldname"><b>Presiding Deity</b><code>presiding_deity</code></div><div class="fieldvalue">Nataraja (Shiva)</div><div class="req required">REQUIRED</div><div class="dtype">ENTITY</div></div>
+      <div class="formrow"><div class="fieldname"><b>Sacred Classification</b><code>sacred_classifications</code></div><div class="fieldvalue">Pancha Bhuta Sthalam — Akasha / Space</div><div class="req optional">OPTIONAL</div><div class="dtype">MULTI</div></div>
+      <div class="formrow"><div class="fieldname"><b>Location</b><code>city / district / state / country / pin</code></div><div class="fieldvalue">Chidambaram · Cuddalore · Tamil Nadu · India · 608001</div><div class="req required">REQUIRED</div><div class="dtype">GEO</div></div>
+    </div>
+
+    <div class="formgroup"><h3>2. Sacred identity & history</h3>
+      <div class="formrow"><div class="fieldname"><b>Spiritual Significance</b><code>spiritual_significance</code></div><div class="fieldvalue">Akasha symbolism; Nataraja cosmic dance; Chit Sabha and associated sacred halls.</div><div class="req required">REQUIRED</div><div class="dtype">RICH TEXT</div></div>
+      <div class="formrow"><div class="fieldname"><b>Sthala Puranam</b><code>sthala_puranam</code></div><div class="fieldvalue">Contributor enters temple-tradition account with scripture / temple-source evidence.</div><div class="req optional">ENRICHMENT</div><div class="dtype">RICH TEXT</div><div class="fieldnote">This is deliberately separate from historical chronology.</div></div>
+      <div class="formrow"><div class="fieldname"><b>Documented History</b><code>documented_history</code></div><div class="fieldvalue">Long multi-dynasty development; major medieval Chola-era and later additions.</div><div class="req required">REQUIRED</div><div class="dtype">RICH TEXT</div></div>
+      <div class="formrow"><div class="fieldname"><b>Architecture Style</b><code>architecture_style</code></div><div class="fieldvalue">Dravidian temple architecture</div><div class="req optional">RECOMMENDED</div><div class="dtype">LOOKUP</div></div>
+    </div>
+
+    <div class="formgroup"><h3>3. Visiting information</h3>
+      <div class="formrow"><div class="fieldname"><b>Regular Opening Hours</b><code>opening_hours_note</code></div><div class="fieldvalue">⚠ Conflicting sources — requires current temple verification</div><div class="req required">REQUIRED</div><div class="dtype">SCHEDULE</div><div class="fieldnote">Store schedule rows + source + valid-from/last-verified date instead of one free-text field.</div></div>
+      <div class="formrow"><div class="fieldname"><b>Dress Code</b><code>dress_code</code></div><div class="fieldvalue">Not published in pilot until a current authoritative source is attached.</div><div class="req optional">RECOMMENDED</div><div class="dtype">RICH TEXT</div></div>
+      <div class="formrow"><div class="fieldname"><b>Photography Policy</b><code>photography_policy</code></div><div class="fieldvalue">Older directory: not allowed · current policy pending verification</div><div class="req optional">RECOMMENDED</div><div class="dtype">RULE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Transit</b><code>nearest_rail / bus / airport</code></div><div class="fieldvalue">Chidambaram railway station and bus stand — older govt. directory: approx. 2 km</div><div class="req optional">RECOMMENDED</div><div class="dtype">GEO</div></div>
+    </div>
+
+    <div class="formgroup"><h3>4. Worship SOP — repeatable 6-step content</h3>
+      <div class="repeat-note">One row per SOP step in the Excel/database table. Each step supports instruction, explanation, image, source IDs, verification state and temple-authority sign-off.</div>
+      <div class="formrow"><div class="fieldname"><b>Step 1</b><code>sop_step</code></div><div class="fieldvalue">Before you go — current timings, conduct, restricted items, what needs re-verification.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Step 2</b><code>sop_step</code></div><div class="fieldvalue">Enter & orient — gateway and sacred-space orientation.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Step 3</b><code>sop_step</code></div><div class="fieldvalue">Verified shrine sequence — currently awaiting authority confirmation.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Step 4</b><code>sop_step</code></div><div class="fieldvalue">Main darshan context — Nataraja / Chit Sabha / temple-specific guidance.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Step 5</b><code>sop_step</code></div><div class="fieldvalue">Poojas, sevas, abhishekam and booking/participation information.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Step 6</b><code>sop_step</code></div><div class="fieldvalue">Before leaving — verified local practices and temple etiquette.</div><div class="req required">REQUIRED</div><div class="dtype">REPEATABLE</div></div>
+    </div>
+
+    <div class="formgroup"><h3>5. Repeatable records</h3>
+      <div class="repeat-note">Do not flatten these into Festival_1/Festival_2 columns. Each item is its own row linked by Temple ID.</div>
+      <div class="formrow"><div class="fieldname"><b>Shrines & worship route</b><code>shrines_route[]</code></div><div class="fieldvalue">Shrine name, deity, sequence, location, directions, rounds, image, source, verification.</div><div class="req optional">RECOMMENDED</div><div class="dtype">TABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Daily poojas</b><code>poojas[]</code></div><div class="fieldvalue">Name, local name, start/end time, description, recurrence, source.</div><div class="req optional">RECOMMENDED</div><div class="dtype">TABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Festivals</b><code>festivals[]</code></div><div class="fieldvalue">Name, local month, date rule, duration, description, crowd note, images, source.</div><div class="req optional">RECOMMENDED</div><div class="dtype">TABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>Media</b><code>media[]</code></div><div class="fieldvalue">Image category, caption, rights, creator, date, alt text, SOP/shrine link, source URL.</div><div class="req required">MIN 1</div><div class="dtype">TABLE</div></div>
+      <div class="formrow"><div class="fieldname"><b>References</b><code>sources[]</code></div><div class="fieldvalue">Source type, title, publisher, URL, publication date, access date, pages, notes.</div><div class="req required">MIN 2</div><div class="dtype">TABLE</div></div>
+    </div>
+  </div>
+  <aside class="rightcol">
+    <div class="rightcard"><h3>Submission readiness</h3><div class="statusline"><span>Identity</span><span class="badge ok">100%</span></div><div class="statusline"><span>Sacred details</span><span class="badge ok">90%</span></div><div class="statusline"><span>Worship SOP</span><span class="badge warn">68%</span></div><div class="statusline"><span>Media rights</span><span class="badge ok">100%</span></div><div class="statusline"><span>References</span><span class="badge ok">Strong</span></div></div>
+    <div class="rightcard"><h3>Editorial flags</h3><p>• Verify current regular opening hours<br>• Confirm current photography policy<br>• Obtain priest/temple confirmation for exact devotee shrine sequence</p></div>
+    <div class="rightcard"><h3>Why this works</h3><p>The contributor sees the same information architecture that will render on the public page. Repeatable entities stay structured rather than being trapped inside long text areas.</p></div>
+  </aside>
+</main>
+</div>
+
+<footer class="footer"><div class="footer-inner"><span>Prototype only · No donation/payment flow · Real research used where supportable</span><span>Data model: Temple Master + linked SOP / Shrines / Poojas / Festivals / Media / Sources</span></div></footer>
+
+<script>
+function setMode(mode){document.body.classList.toggle('contributor-mode',mode==='contributor');document.getElementById('publicBtn').classList.toggle('active',mode==='public');document.getElementById('contribBtn').classList.toggle('active',mode==='contributor');window.scrollTo({top:0,behavior:'smooth'});}
+function setEvidence(on){document.body.classList.toggle('show-evidence',on);document.getElementById('evidenceOff').classList.toggle('active',!on);document.getElementById('evidenceOn').classList.toggle('active',on);}
+function toggleSop(btn){btn.parentElement.classList.toggle('open');}
+</script>
+</body></html>

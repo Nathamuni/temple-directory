@@ -1,0 +1,140 @@
+{
+  "templeId": "TPL-IN-TN-KAN-0013",
+  "slug": "kanchi-kamakshi",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kanchi Kamakshi Temple",
+    "alternateNames": [],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Kamakshi",
+      "Kanchipuram",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "காஞ்சி காமாக்ஷி கோயில்",
+    "localLanguage": "Tamil",
+    "consortDeity": "Shiva"
+  },
+  "location": {
+    "city": "Kanchipuram",
+    "district": "Kanchipuram",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "631501",
+    "latitude": 12.8342,
+    "longitude": 79.6987
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 12th century · Built during Chola period",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+  },
+  "narrative": {
+    "summaryIntro": "Kanchi Kamakshi Temple in Kanchipuram, Tamil Nadu, is one of the most significant temples dedicated to Goddess Kamakshi, a form of Parvati. Located in the ancient city of Kanchipuram, known as the 'City of a Thousand Temples,' the temple is an important pilgrimage site for devotees of the goddess. The temple features beautiful Dravidian architecture with ornate gopurams and intricate stone carvings.\n\nKanchipuram itself is a sacred pilgrimage city with profound spiritual significance in Hindu tradition. Kamakshi Temple represents the divine feminine principle and is one of the principal temples in the city. The temple attracts millions of devotees, particularly during Navratri festival when the goddess is worshipped in various forms. The temple complex features multiple shrines and sacred spaces reflecting centuries of spiritual devotion.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Kanchipuram Railway Station, 3 km",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Chennai Airport, 50 km",
+    "airportDistanceKm": 50
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Navratri",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "Festival celebrating the goddess with special rituals and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kanchi Kamakshi Temple — hero image",
+      "caption": "Kanchi Kamakshi Temple entrance",
+      "altText": "Kanchi Kamakshi Temple entrance",
+      "fileOrUrl": "/images/temples/kanchi-kamakshi/hero.jpg",
+      "creator": "Vinayaraj",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Vinayaraj · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Kanchi_Kamakshi_Ambal_Devasthanam,_Sri_Kanchi_Kamakshi_Amman_Temple_2K22TNKAN_(137).jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Kanchi Kamakshi Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Kanchipuram Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Kanchi Kamakshi Temple, Kanchipuram, Tamil Nadu 631501, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

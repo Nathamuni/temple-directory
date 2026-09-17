@@ -1,0 +1,163 @@
+{
+  "templeId": "TPL-IN-KE-GUR-0009",
+  "slug": "guruvayur-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Guruvayur Temple",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "sacredClassifications": [
+      "Krishna",
+      "Guruvayurappan",
+      "Kerala",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ഗുരുവായൂര് ദേവാലയം",
+    "localLanguage": "Malayalam"
+  },
+  "location": {
+    "city": "Guruvayur",
+    "district": "Thrissur",
+    "stateProvince": "Kerala",
+    "country": "India",
+    "postalCode": "680101",
+    "latitude": 10.5824,
+    "longitude": 76.1608
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; present structure 16th century · Rebuilt and developed over centuries",
+    "managingAuthority": "Guruvayur Devaswom",
+    "officialWebsite": "https://www.guruvayurdevaswom.org"
+  },
+  "narrative": {
+    "summaryIntro": "Guruvayur Temple in Kerala is one of the most sacred and important temples dedicated to Lord Krishna and is known as the 'Kashi of the South.' The temple's presiding deity, Guruvayurappan (Krishna), is worshipped by millions of devotees across India. According to tradition, the temple was established by Guru (Brihaspati) and Vayu (Wind God), which gives the temple its distinctive name. The temple features traditional Kerala architectural style with elaborate stone carvings and ornate decorations.\n\nThe temple is renowned for its Nalkili (sacred treasure vault) and traditional practices like Atmanathayyam (ritualistic elephant worship). It is considered one of the holiest pilgrimage destinations in South India and attracts devotees from across the world. The temple has been a center of spiritual devotion for centuries, and its connection to Krishna bhakti (devotion) makes it particularly significant. The temple also hosts several important rituals and festivals throughout the year that draw thousands of worshippers.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Kerala"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire; strict dress code enforced",
+    "nearestRailStation": "Thrissur Railway Station, 30 km",
+    "railDistanceKm": 30,
+    "nearestBusStation": "Well connected by highways from major cities",
+    "nearestAirport": "Kochi International Airport, 65 km",
+    "airportDistanceKm": 65
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "03:30",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Krishna (Guruvayurappan)",
+      "deityOrSubject": "Krishna (Guruvayurappan)",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Janmashtami",
+      "tamilOrLocalMonth": "August–September",
+      "duration": "2 days",
+      "significance": "Celebration of Krishna's birth with special worship and festivities",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Ekadasi",
+      "tamilOrLocalMonth": "Bi-monthly",
+      "duration": "1 day",
+      "significance": "Important fasting day with special puja",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Guruvayur Temple — hero image",
+      "caption": "Guruvayur Temple with ornate architecture",
+      "altText": "Guruvayur Temple with ornate architecture",
+      "fileOrUrl": "/images/temples/guruvayur-temple/hero.jpg",
+      "creator": "Ilya Mauter",
+      "license": "CC BY-SA 2.5",
+      "attributionText": "Ilya Mauter · CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sadhu_at_Guruvayur_Temple.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Guruvayur Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Guruvayur Devaswom Official Portal",
+      "url": "https://www.guruvayurdevaswom.org",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Krishna (Guruvayurappan)"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Guruvayur Temple, Guruvayur, Thrissur, Kerala 680101, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

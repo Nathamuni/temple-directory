@@ -1,85 +1,326 @@
 @import "tailwindcss";
 
+/**
+ * Palette and type scale ported from sample-template/temple_detail_prototype.html.
+ * Declared in @theme so Tailwind generates utilities (bg-cream, text-maroon,
+ * border-line ...) rather than every component reaching for arbitrary values.
+ */
+@theme {
+  --color-ink: #241914;
+  --color-muted: #6e6259;
+  --color-cream: #f7f0df;
+  --color-paper: #fffaf0;
+  --color-soft: #efe3cc;
+  --color-maroon: #5a1717;
+  --color-maroon-deep: #3d0f13;
+  --color-saffron: #c86f16;
+  --color-brass: #c79b45;
+  --color-forest: #28483d;
+  --color-line: #e5d6bb;
+  --color-ok: #2c6a4f;
+  --color-warn: #a25e15;
+
+  --font-display: Georgia, "Times New Roman", "Noto Serif", serif;
+  --font-sans: Inter, ui-sans-serif, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
 :root {
-  --ink: #202122;
-  --ink-soft: #54595d;
-  --line: #a2a9b1;
-  --line-soft: #c8ccd1;
-  --paper: #ffffff;
-  --paper-soft: #f8f9fa;
-  --link: #3366cc;
-  --link-visited: #795cb2;
-  --accent: #b45309; /* deep saffron, used sparingly */
-  --accent-soft: #fff7ed;
+  --shadow-card: 0 8px 30px rgba(61, 34, 19, 0.045);
+  --shadow-hero: 0 18px 50px rgba(59, 29, 14, 0.12);
 }
 
-html {
-  scroll-behavior: smooth;
+/**
+ * Element defaults go in @layer base. Unlayered rules beat layered ones in the
+ * CSS cascade, so an unlayered `a { color: inherit }` would silently override
+ * every Tailwind `text-*` utility on a link.
+ */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.65;
+    background:
+      radial-gradient(circle at 20% 0%, rgba(201, 155, 69, 0.09), transparent 28%),
+      linear-gradient(180deg, #f4ead6 0, #fbf7ef 340px, #f7f2e8 100%);
+    background-attachment: fixed;
+  }
+
+  h1,
+  h2,
+  h3,
+  .display {
+    font-family: var(--font-display);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Links inside running text need a non-colour cue (WCAG 1.4.1). */
+  p a,
+  li a,
+  td a,
+  figcaption a,
+  blockquote a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  :where(a, button, summary, input, select, textarea):focus-visible {
+    outline: 2px solid var(--color-saffron);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
 }
 
-body {
-  background: var(--paper);
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", "Noto Serif", serif;
-  font-size: 16px;
-  line-height: 1.65;
+/* ------------------------------------------------------------------ *
+ * Evidence layer
+ *
+ * Source chips and provenance notes are always server-rendered into the
+ * page and hidden with CSS, so they are present for crawlers and for
+ * testing without JS, and the toggle costs no round trip. The class sits
+ * on <html> so the pre-paint script in layout.tsx can set it before the
+ * first frame and avoid a flash.
+ * ------------------------------------------------------------------ */
+.evidence {
+  display: none;
+}
+html.show-evidence .evidence {
+  display: block;
+}
+@media print {
+  .evidence {
+    display: block;
+  }
 }
 
-/* UI labels, chips, buttons use sans-serif */
-.ui,
-button,
-input,
-select,
-textarea {
-  font-family: ui-sans-serif, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+/* ------------------------------------------------------------------ *
+ * Repeated page furniture. These earn a class because they appear in
+ * most sections and carry several declarations each.
+ * ------------------------------------------------------------------ */
+.section {
+  scroll-margin-top: 88px;
+  margin-bottom: 24px;
+  background: rgba(255, 250, 240, 0.94);
+  border: 1px solid var(--color-line);
+  border-radius: 22px;
+  padding: 26px;
+  box-shadow: var(--shadow-card);
 }
 
-a {
-  color: var(--link);
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
-/* links inside running text need a non-color cue (WCAG 1.4.1) */
-p a,
-li a,
-td a,
-figcaption a,
-blockquote a {
-  text-decoration: underline;
-  text-underline-offset: 2px;
+.kicker {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--color-saffron);
+  font-weight: 900;
+  margin-bottom: 7px;
 }
 
-/* Wikipedia-style section headings */
-.wiki-h2 {
-  font-size: 1.5rem;
-  font-weight: 400;
-  border-bottom: 1px solid var(--line);
-  padding-bottom: 0.25rem;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
-  scroll-margin-top: 4.5rem;
+.fact {
+  background: #f5ead7;
+  border: 1px solid #ead7b7;
+  padding: 16px;
+  border-radius: 15px;
 }
 
-.wiki-h3 {
-  font-size: 1.15rem;
-  font-weight: 700;
-  margin-top: 1.25rem;
-  margin-bottom: 0.5rem;
+.info-card {
+  background: #f8efdf;
+  border: 1px solid #e5d4b6;
+  border-radius: 15px;
+  padding: 16px;
 }
 
-sup.cite a {
-  font-size: 0.7em;
-  color: var(--link);
+.pill {
+  padding: 8px 11px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.11);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  font-size: 12px;
+  font-weight: 750;
 }
 
-/* the only permitted animation: accordion toggles */
-details.sop-step > summary {
+.sourcechip {
+  display: inline-block;
+  background: #eee1c8;
+  color: #664926;
+  border-radius: 999px;
+  padding: 4px 7px;
+  margin: 3px 4px 3px 0;
+  font-weight: 800;
+  font-size: 10px;
+}
+.sourcechip.conflict {
+  background: #f8dfc8;
+  color: #7b3518;
+}
+.sourcechip.verified {
+  background: #dcecdf;
+  color: #24563d;
+}
+
+.badge {
+  padding: 4px 7px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+.badge.ok {
+  background: #dcecdf;
+  color: #21563c;
+}
+.badge.warn {
+  background: #ffead0;
+  color: #8b4b16;
+}
+
+.alert {
+  display: flex;
+  gap: 11px;
+  padding: 14px 15px;
+  border-radius: 14px;
+  background: #fff1dc;
+  border: 1px solid #e8c08a;
+  color: #6b4420;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+/* Unverified spiritual instruction: shown as pending, never as fact. */
+.not-verified {
+  margin-top: 10px;
+  border-left: 3px solid #b86c21;
+  padding: 10px 12px;
+  background: #fff1df;
+  border-radius: 0 8px 8px 0;
+  font-size: 12px;
+}
+
+/* The only permitted animation: accordion toggles. */
+details.sop > summary {
   cursor: pointer;
   list-style: none;
 }
-details.sop-step > summary::-webkit-details-marker {
+details.sop > summary::-webkit-details-marker {
+  display: none;
+}
+details.sop[open] .chev {
+  transform: rotate(180deg);
+}
+.chev {
+  transition: transform 150ms ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .chev {
+    transition: none;
+  }
+}
+
+/* Contributor form rows, from the prototype's .formrow. */
+.formgroup {
+  background: var(--color-paper);
+  border: 1px solid var(--color-line);
+  border-radius: 18px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.formgroup > h3 {
+  margin: 0;
+  padding: 15px 18px;
+  background: #f1e4ce;
+  color: #501a17;
+  font-size: 20px;
+}
+.formrow {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr) 110px;
+  gap: 10px;
+  padding: 12px 16px;
+  border-top: 1px solid #eadfcd;
+  align-items: start;
+}
+@media (max-width: 760px) {
+  .formrow {
+    grid-template-columns: 1fr;
+  }
+}
+.req {
+  font-size: 10px;
+  font-weight: 900;
+  padding: 5px 6px;
+  border-radius: 8px;
+  text-align: center;
+  height: max-content;
+}
+.req.required {
+  background: #f2dcd6;
+  color: #7c2f26;
+}
+.req.recommended {
+  background: #f3ead6;
+  color: #7a5a1e;
+}
+.req.optional {
+  background: #e8e7df;
+  color: #666254;
+}
+
+.field-input {
+  width: 100%;
+  border: 1px solid #ded0b4;
+  background: #fffdf8;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 13px;
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+}
+.field-input:disabled {
+  background: #f3ece0;
+  color: var(--color-muted);
+}
+
+/* ------------------------------------------------------------------ *
+ * Google Website Translate
+ *
+ * The widget is mounted hidden and driven from our own control in the
+ * header (TranslateButton). Google otherwise injects a banner iframe that
+ * pushes the whole page down by ~40px and shifts the sticky header, so its
+ * chrome is suppressed here and only the translated text is kept.
+ * ------------------------------------------------------------------ */
+iframe.skiptranslate,
+.goog-te-banner-frame,
+#goog-gt-tt,
+.goog-te-balloon-frame {
+  display: none !important;
+}
+
+/* Google sets body { top: 40px } to make room for the banner we just hid. */
+body {
+  top: 0 !important;
+  position: static !important;
+}
+
+/* Its highlight styling on translated runs fights the page palette. */
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element {
   display: none;
 }

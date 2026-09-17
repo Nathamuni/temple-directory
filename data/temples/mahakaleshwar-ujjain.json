@@ -1,0 +1,149 @@
+{
+  "templeId": "TPL-IN-MP-UJJ-0019",
+  "slug": "mahakaleshwar-ujjain",
+  "status": "published",
+  "identity": {
+    "nameEn": "Mahakaleshwar Temple, Ujjain",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Ujjain",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "महाकाल मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Ujjain",
+    "district": "Ujjain",
+    "stateProvince": "Madhya Pradesh",
+    "country": "India",
+    "postalCode": "456010",
+    "latitude": 23.1815,
+    "longitude": 75.785
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; multiple reconstructions · Currently standing structure from medieval period",
+    "managingAuthority": "Ujjain Municipality"
+  },
+  "narrative": {
+    "summaryIntro": "Mahakaleshwar Temple in Ujjain is one of the twelve Jyotirlingas and is dedicated to Lord Shiva as Mahakal (Lord of Time). Located on the banks of the Kshipra River, the temple holds immense significance in Shaivite tradition and is one of the most important pilgrimage destinations in central India. The sanctum is unique in that the Shiva Linga is installed facing south, which is rare and symbolically significant.\n\nThe temple is renowned for its spectacular evening Aarti ceremony, which includes the Bhasma Aarti (ash offering), performed by traditional priests. The temple complex features ancient architecture and is situated in the historically significant city of Ujjain, which served as the capital of various dynasties. The temple attracts devotees throughout the year, with special significance during Shivaratri and Ujjain's Kumbh Mela.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "North Indian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Ujjain Railway Station, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Devi Ahilya Bai Holkar Airport, Indore, 55 km",
+    "airportDistanceKm": 55
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "04:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "23:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Night of Shiva; grand celebrations and special rituals",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kartik Purnima",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Full moon festival with special worship",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Mahakaleshwar Temple, Ujjain — hero image",
+      "caption": "Mahakaleshwar Temple in Ujjain",
+      "altText": "Mahakaleshwar Temple in Ujjain",
+      "fileOrUrl": "/images/temples/mahakaleshwar-ujjain/hero.jpg",
+      "creator": "Gyanendra_Singh_Chau…",
+      "license": "CC BY 3.0",
+      "attributionText": "Gyanendra_Singh_Chau… · CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Mahakaleshwar_Temple_Ujjain_-_panoramio.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Mahakaleshwar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Ujjain Tourism Official Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Mahakaleshwar Temple, Ujjain, Madhya Pradesh 456010, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

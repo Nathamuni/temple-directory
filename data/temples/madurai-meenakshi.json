@@ -1,78 +1,164 @@
 {
+  "templeId": "TPL-IN-TN-MAD-0018",
   "slug": "madurai-meenakshi",
   "status": "pending",
-  "stub": true,
-  "name": "Meenakshi Amman Temple, Madurai",
-  "nameLocal": { "script": "Tamil", "text": "மதுரை மீனாட்சி அம்மன் கோயில்" },
-  "subtitle": "Madurai, Tamil Nadu · Presiding Deity: Goddess Meenakshi (Parvati)",
-  "deity": { "presiding": "Devi", "consort": "Sundareswarar (Shiva)" },
+  "identity": {
+    "nameEn": "Meenakshi Amman Temple, Madurai",
+    "alternateNames": [],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Dravidian",
+      "Nayak architecture",
+      "Madurai"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "மதுரை மீனாட்சி அம்மன் கோயில்",
+    "localLanguage": "Tamil",
+    "consortDeity": "Sundareswarar (Shiva)"
+  },
   "location": {
     "city": "Madurai",
     "district": "Madurai",
-    "state": "Tamil Nadu",
+    "stateProvince": "Tamil Nadu",
     "country": "India",
-    "coordinates": { "lat": 9.9195, "lng": 78.1193 }
+    "postalCode": "625001",
+    "latitude": 9.9195,
+    "longitude": 78.1193
   },
-  "classification": {
-    "templeType": "Shakti tradition",
-    "tradition": "Shakta",
-    "architecturalStyle": "Dravidian",
-    "tags": ["Devi", "Dravidian", "Nayak architecture", "Madurai"]
+  "governance": {
+    "establishedEra": "6th century CE origins; present structure largely 17th century CE (Nayak period) · Rebuilt by Tirumala Nayak and predecessors",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
+    "officialWebsite": "https://maduraimeenakshi.hrce.tn.gov.in"
   },
-  "established": { "period": "6th century CE origins; present structure largely 17th century CE (Nayak period)", "yearText": "Rebuilt by Tirumala Nayak and predecessors" },
-  "governingBody": "HR&CE Department, Government of Tamil Nadu",
-  "website": "https://maduraimeenakshi.hrce.tn.gov.in",
-  "timings": {
-    "darshan": [
-      { "label": "Morning", "from": "05:00", "to": "12:30" },
-      { "label": "Evening", "from": "16:00", "to": "21:30" }
-    ],
-    "pujaSchedule": []
+  "narrative": {
+    "summaryIntro": "The Meenakshi Amman Temple (Meenakshi Sundareswarar Temple) in Madurai, Tamil Nadu, is a historic temple dedicated to the goddess Meenakshi, a form of Parvati, and her consort Sundareswarar, a form of Shiva. Unusually among major Hindu temples, the goddess is the principal deity and is worshipped first.\n\nThe temple's fourteen gopurams, sculpted Hall of a Thousand Pillars, and the annual Meenakshi Thirukalyanam (celestial wedding) festival during Chithirai make it one of the most visited temples in India and the heart of the ancient city of Madurai.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
   },
-  "heroImage": {
-    "src": "/images/temples/madurai-meenakshi/hero.jpg",
-    "alt": "Gopuram of the Meenakshi Amman Temple, Madurai",
-    "credit": {
-      "author": "deadrat (Wikimedia Commons)",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple_Gopuram.jpg"
-    }
+  "editorial": {
+    "overallVerificationStatus": "unverified"
   },
-  "atAGlance": [
-    { "icon": "deity", "label": "Presiding Deity", "value": "Goddess Meenakshi with Sundareswarar" },
-    { "icon": "clock", "label": "Darshan Timings", "value": "05:00–12:30 · 16:00–21:30" },
-    { "icon": "tower", "label": "Gopurams", "value": "14 towers; southern gopuram ~52 m" }
-  ],
-  "sections": {
-    "introduction": {
-      "paragraphs": [
-        "The Meenakshi Amman Temple (Meenakshi Sundareswarar Temple) in Madurai, Tamil Nadu, is a historic temple dedicated to the goddess Meenakshi, a form of Parvati, and her consort Sundareswarar, a form of Shiva. Unusually among major Hindu temples, the goddess is the principal deity and is worshipped first.",
-        "The temple's fourteen gopurams, sculpted Hall of a Thousand Pillars, and the annual Meenakshi Thirukalyanam (celestial wedding) festival during Chithirai make it one of the most visited temples in India and the heart of the ancient city of Madurai."
-      ],
-      "citations": [1, 2]
-    }
-  },
-  "worshipSOP": { "steps": [], "entryGuidelines": [], "specialRituals": [], "restrictions": [], "spiritualOutcomes": [] },
-  "festivals": [
-    { "name": "Chithirai Thiruvizha (Meenakshi Thirukalyanam)", "month": "April–May", "duration": "12 days", "description": "The celestial wedding of Meenakshi and Sundareswarar, drawing over a million pilgrims.", "major": true },
-    { "name": "Navaratri", "month": "September–October", "duration": "9 days", "description": "Golu displays and special abhishekams for the goddess.", "major": true }
-  ],
   "visitingInfo": {
-    "bestTime": "October to March; Chithirai (Apr–May) for the wedding festival",
+    "sourceIds": [],
+    "verificationStatus": "unverified",
     "dressCode": "Traditional attire; strict dress code enforced",
-    "howToReach": { "air": "Madurai Airport, 12 km", "rail": "Madurai Junction, 1.5 km", "road": "Well connected by NH roads and buses" },
-    "facilities": []
+    "nearestRailStation": "Madurai Junction, 1.5 km",
+    "railDistanceKm": 1.5,
+    "nearestBusStation": "Well connected by NH roads and buses",
+    "nearestAirport": "Madurai Airport, 12 km",
+    "airportDistanceKm": 12
   },
-  "lamp": { "enabled": true, "lampsToday": 63 },
-  "gallery": [],
-  "nearbyTemples": [
-    { "name": "Koodal Azhagar Temple", "distanceKm": 2 },
-    { "name": "Pazhamudircholai Murugan Temple", "distanceKm": 25 }
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:00",
+      "closeTime": "12:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
   ],
-  "reviews": [],
-  "contact": { "address": "Meenakshi Amman Temple, Madurai Main, Madurai 625001, Tamil Nadu, India" },
-  "references": [
-    { "id": 1, "title": "Arulmigu Meenakshi Sundareswarar Thirukoil — official portal", "publisher": "HR&CE Department, Government of Tamil Nadu", "url": "https://maduraimeenakshi.hrce.tn.gov.in" },
-    { "id": 2, "title": "Meenakshi Temple, Madurai — overview", "publisher": "Wikipedia (with sources therein)", "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple" }
-  ]
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Chithirai Thiruvizha (Meenakshi Thirukalyanam)",
+      "tamilOrLocalMonth": "April–May",
+      "duration": "12 days",
+      "significance": "The celestial wedding of Meenakshi and Sundareswarar, drawing over a million pilgrims.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Navaratri",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "Golu displays and special abhishekams for the goddess.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Meenakshi Amman Temple, Madurai — hero image",
+      "caption": "Gopuram of the Meenakshi Amman Temple, Madurai",
+      "altText": "Gopuram of the Meenakshi Amman Temple, Madurai",
+      "fileOrUrl": "/images/temples/madurai-meenakshi/hero.jpg",
+      "creator": "deadrat (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "deadrat (Wikimedia Commons) · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple_Gopuram.jpg",
+      "editorialApproved": false,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Meenakshi Sundareswarar Thirukoil — official portal",
+      "publisherOrAuthority": "HR&CE Department, Government of Tamil Nadu",
+      "url": "https://maduraimeenakshi.hrce.tn.gov.in",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Meenakshi Temple, Madurai — overview",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [
+      {
+        "name": "Koodal Azhagar Temple",
+        "distanceKm": 2
+      },
+      {
+        "name": "Pazhamudircholai Murugan Temple",
+        "distanceKm": 25
+      }
+    ],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Meenakshi Amman Temple, Madurai Main, Madurai 625001, Tamil Nadu, India",
+    "bestTime": "October to March; Chithirai (Apr–May) for the wedding festival"
+  },
+  "submittedBy": "import"
 }

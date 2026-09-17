@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-MA-NAS-0028",
+  "slug": "trimbakeshwar-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Trimbakeshwar Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Trimbakeshwar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "त्र्यंबकेश्वर मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Nashik",
+    "district": "Nashik",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "422204",
+    "latitude": 19.7409,
+    "longitude": 73.2807
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 17th century · Rebuilt during Marathi dynasties",
+    "managingAuthority": "Trimbakeshwar Temple Trust"
+  },
+  "narrative": {
+    "summaryIntro": "Trimbakeshwar Temple is one of the twelve Jyotirlingas and is dedicated to Lord Shiva as Trimbakeshwar (Lord of Three-eyed Shiva). Located in Nashik, Maharashtra, at the foothills of the Brahmagiri mountain, the temple is known for its intricate Deccan architectural style. The name 'Trimbak' literally means three-eyed, referring to Shiva's three eyes.\n\nThe temple is situated near the source of the sacred Godavari River and is an important pilgrimage site in western India. The temple features elaborate stone carvings and is surrounded by ghats on the river. The site holds immense spiritual significance, particularly during Kumbh Mela celebrations in Nashik, making it one of the major pilgrimage destinations in Maharashtra.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Deccan"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Nashik Road Railway Station, 40 km",
+    "railDistanceKm": 40,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Nashik Airport, 60 km",
+    "airportDistanceKm": 60
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:30",
+      "closeTime": "12:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Celebrated with grand processions and special rituals",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Trimbakeshwar Temple — hero image",
+      "caption": "Trimbakeshwar Temple with Brahmagiri mountain",
+      "altText": "Trimbakeshwar Temple with Brahmagiri mountain",
+      "fileOrUrl": "/images/temples/trimbakeshwar-temple/hero.jpg",
+      "creator": "Niraj Suryawanshi",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Niraj Suryawanshi · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_nj.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Trimbakeshwar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Nashik Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Trimbakeshwar, Nashik, Maharashtra 422204, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

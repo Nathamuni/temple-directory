@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-TN-KAN-0007",
+  "slug": "ekambareswarar-kanchipuram",
+  "status": "published",
+  "identity": {
+    "nameEn": "Ekambareswarar Temple, Kanchipuram",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "Ekambareswarar",
+      "Kanchipuram",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ஏகம்பரேஸ்வரர் கோயில்",
+    "localLanguage": "Tamil"
+  },
+  "location": {
+    "city": "Kanchipuram",
+    "district": "Kanchipuram",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "631501",
+    "latitude": 12.8405,
+    "longitude": 79.7115
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; present structure 8th-16th century · Built during various dynasties including Pallava and Chola",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+  },
+  "narrative": {
+    "summaryIntro": "Ekambareswarar Temple in Kanchipuram, Tamil Nadu, is one of the most ancient temples dedicated to Lord Shiva and is particularly significant for its association with the ancient mango tree within its premises. The temple is one of the major temples in Kanchipuram and features impressive Dravidian architecture with a 150-foot high gopuram. The temple's name 'Ekambareswarar' refers to Shiva worshipped beneath the mango tree (Ekam means one, Ambara means mango tree).\n\nThe temple is known for its magnificent granite structures and elaborate stone carvings developed over multiple dynasties. The sacred mango tree is believed to be thousands of years old and holds immense spiritual significance. The temple attracts thousands of devotees and pilgrims, particularly during Maha Shivaratri and other major festivals. The site represents the continuity of Hindu spiritual tradition spanning centuries.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Kanchipuram Railway Station, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Located within Kanchipuram city",
+    "nearestAirport": "Chennai Airport, 50 km",
+    "airportDistanceKm": 50
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebration of Shiva with special rituals and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Ekambareswarar Temple, Kanchipuram — hero image",
+      "caption": "Ekambareswarar Temple with ancient mango tree",
+      "altText": "Ekambareswarar Temple with ancient mango tree",
+      "fileOrUrl": "/images/temples/ekambareswarar-kanchipuram/hero.jpg",
+      "creator": "tshrinivasan",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "tshrinivasan · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_Kanchipuram_Natarajar.jpeg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Ekambareswarar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Kanchipuram Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Ekambareswarar Temple, Kanchipuram, Tamil Nadu 631501, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

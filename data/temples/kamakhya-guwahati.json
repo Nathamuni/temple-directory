@@ -1,0 +1,212 @@
+{
+  "templeId": "TPL-IN-AS-GUW-0012",
+  "slug": "kamakhya-guwahati",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kamakhya Temple, Guwahati",
+    "alternateNames": [],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Shakti Pitha",
+      "Pilgrimage",
+      "Guwahati"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "কামাখ্যা মন্দিৰ",
+    "localLanguage": "Assamese"
+  },
+  "location": {
+    "city": "Guwahati",
+    "district": "Kamrup",
+    "stateProvince": "Assam",
+    "country": "India",
+    "postalCode": "781011",
+    "latitude": 26.1806,
+    "longitude": 91.7462
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; present structure 16th century · Rebuilt during Ahom dynasty",
+    "managingAuthority": "Guwahati Kamakhya Temple Board"
+  },
+  "narrative": {
+    "summaryIntro": "Kamakhya Temple, located in Guwahati on the banks of the Brahmaputra River, is one of the most significant Shakti Pitha temples in India. Dedicated to Goddess Kamakhya (a form of Durga), the temple is believed to be one of the 51 Shakti Pithas—sacred sites associated with Hindu goddess worship. The temple's distinctive hilltop location and ancient origins make it a major pilgrimage destination.\n\nThe temple complex houses sanctums dedicated to different manifestations of the goddess, including Kali, Tara, and other forms. The unique Assamese architectural style, with its beehive-shaped dome, reflects the region's cultural heritage. The temple attracts millions of devotees annually, particularly during Navratri and Ambubachi Mela festivals, making it one of Assam's most important religious centers.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Assamese"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Guwahati Railway Station, 10 km",
+    "railDistanceKm": 10,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Indira Gandhi International Airport, Guwahati, 22 km",
+    "airportDistanceKm": 22
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "04:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "14:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Annapurna",
+      "deityOrSubject": "Annapurna",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Lakshmi",
+      "deityOrSubject": "Lakshmi",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Saraswati",
+      "deityOrSubject": "Saraswati",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Gayatri",
+      "deityOrSubject": "Gayatri",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Kali",
+      "deityOrSubject": "Kali",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Tara",
+      "deityOrSubject": "Tara",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Ambubachi Mela",
+      "tamilOrLocalMonth": "May–June",
+      "duration": "4 days",
+      "significance": "Major fair celebrating the goddess's menstruation cycle; attracts tantric practitioners",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Navratri",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "Celebration with special rituals and gatherings",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kamakhya Temple, Guwahati — hero image",
+      "caption": "Kamakhya Temple with Brahmaputra river in background",
+      "altText": "Kamakhya Temple with Brahmaputra river in background",
+      "fileOrUrl": "/images/temples/kamakhya-guwahati/hero.jpg",
+      "creator": "Kunal Dalui",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Kunal Dalui · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Guwahati.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Kamakhya Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Assam Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Annapurna",
+      "Lakshmi",
+      "Saraswati",
+      "Gayatri",
+      "Kali",
+      "Tara"
+    ],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Kamakhya Temple, Ambubachi, Guwahati, Assam 781011, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

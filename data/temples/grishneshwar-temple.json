@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-MA-AUR-0008",
+  "slug": "grishneshwar-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Grishneshwar Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Grishneshwar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "घृष्णेश्वर मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Aurangabad",
+    "district": "Aurangabad",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "431111",
+    "latitude": 19.8784,
+    "longitude": 75.3409
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 17th century · Built during Hemadpanti period",
+    "managingAuthority": "Grishneshwar Temple Committee"
+  },
+  "narrative": {
+    "summaryIntro": "Grishneshwar Temple, located near Aurangabad in Maharashtra, is the southernmost and youngest among the twelve Jyotirlingas. Dedicated to Lord Shiva as Grishneshwar, the temple is situated near the UNESCO World Heritage Site of Ellora Caves, one of India's most important archaeological treasures. The temple features Hemadpanti architectural style, characteristic of medieval Maharashtra.\n\nThe temple holds immense historical and spiritual significance as a major pilgrimage destination. Located in a region rich with Buddhist, Hindu, and Jain monastic caves, the temple represents the continuity of Hindu spirituality. The site attracts both religious pilgrims and heritage tourists interested in India's ancient civilizations and architectural traditions.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Hemadpanti"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Aurangabad Railway Station, 30 km",
+    "railDistanceKm": 30,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Aurangabad Airport, 30 km",
+    "airportDistanceKm": 30
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebrations with special pujas",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Grishneshwar Temple — hero image",
+      "caption": "Grishneshwar Temple near Ellora Caves",
+      "altText": "Grishneshwar Temple near Ellora Caves",
+      "fileOrUrl": "/images/temples/grishneshwar-temple/hero.jpg",
+      "creator": "sowrirajan s from Chennai, india",
+      "license": "CC BY 2.0",
+      "attributionText": "sowrirajan s from Chennai, india · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grishneshwar_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Grishneshwar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Aurangabad Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Grishneshwar, Aurangabad, Maharashtra 431111, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

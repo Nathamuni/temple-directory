@@ -1,41 +1,48 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getAllTemples } from "@/lib/temples";
-import type { Temple, TempleStatus } from "@/lib/types";
+import { getAllTemples, completeness, getDataErrors } from "@/lib/temples";
+import { getSession } from "@/lib/session";
+import type { TempleStatus } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "Directory Status",
   description: "Onboarding progress of the Temple Directory — entry statuses, totals and data completeness.",
 };
 
-const STATUS_ORDER: TempleStatus[] = ["published", "verified", "pending", "draft"];
+const STATUS_ORDER: TempleStatus[] = ["published", "verified", "pending", "draft", "rejected"];
+
+const ADVANCE: Partial<Record<TempleStatus, TempleStatus>> = {
+  draft: "pending",
+  pending: "verified",
+  verified: "published",
+};
+const ADVANCE_LABEL: Partial<Record<TempleStatus, string>> = {
+  draft: "Send for review",
+  pending: "Mark verified",
+  verified: "Publish",
+};
+const RETREAT: Partial<Record<TempleStatus, TempleStatus>> = {
+  pending: "draft",
+  verified: "pending",
+  published: "verified",
+  rejected: "draft",
+};
+const RETREAT_LABEL: Partial<Record<TempleStatus, string>> = {
+  pending: "Back to draft",
+  verified: "Back to pending",
+  published: "Unpublish",
+  rejected: "Reopen as draft",
+};
+/** Statuses an admin can still reject from — a decision already made either way is final. */
+const REJECTABLE: TempleStatus[] = ["draft", "pending", "verified"];
 
 const STATUS_STYLE: Record<TempleStatus, { label: string; cls: string }> = {
   published: { label: "Published", cls: "bg-emerald-50 text-emerald-800 border-emerald-200" },
   verified: { label: "Verified", cls: "bg-sky-50 text-sky-800 border-sky-200" },
   pending: { label: "Pending review", cls: "bg-amber-50 text-amber-800 border-amber-200" },
   draft: { label: "Draft", cls: "bg-gray-100 text-gray-700 border-gray-300" },
+  rejected: { label: "Rejected", cls: "bg-rose-50 text-rose-800 border-rose-200" },
 };
-
-function completeness(t: Temple): { pct: number; missing: string[] } {
-  const checks: [string, boolean][] = [
-    ["Introduction", (t.sections?.introduction?.paragraphs?.length ?? 0) > 0],
-    ["History", (t.sections?.history?.paragraphs?.length ?? 0) > 0],
-    ["Architecture", (t.sections?.architecture?.paragraphs?.length ?? 0) > 0],
-    ["Significance", (t.sections?.religiousSignificance?.paragraphs?.length ?? 0) > 0],
-    ["6-step SOP", t.worshipSOP?.steps?.length === 6],
-    ["Festivals", (t.festivals?.length ?? 0) > 0],
-    ["Visiting info", Boolean(t.visitingInfo?.bestTime)],
-    ["Gallery", (t.gallery?.length ?? 0) > 0],
-    ["References ≥ 2", (t.references?.length ?? 0) >= 2],
-    ["Contact", Boolean(t.contact?.address)],
-  ];
-  const done = checks.filter(([, ok]) => ok).length;
-  return {
-    pct: Math.round((done / checks.length) * 100),
-    missing: checks.filter(([, ok]) => !ok).map(([label]) => label),
-  };
-}
 
 function StatTile({ label, value, sub }: { label: string; value: string; sub?: string }) {
   return (
@@ -49,12 +56,17 @@ function StatTile({ label, value, sub }: { label: string; value: string; sub?: s
   );
 }
 
-export default function StatusPage() {
+export default async function StatusPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ error?: string }>;
+}) {
   const temples = getAllTemples();
+  const session = await getSession();
+  const isAdmin = session?.role === "admin";
+  const { error } = await searchParams;
   const byStatus = (s: TempleStatus) => temples.filter((t) => t.status === s);
-  const totalLamps = temples.reduce((sum, t) => sum + (t.lamp?.lampsToday ?? 0), 0);
-  // Mock valuation for the prototype: each active lamp valued at the daily tier (₹51).
-  const lampValue = totalLamps * 51;
+  const dataErrors = getDataErrors();
   const pendingCount = byStatus("pending").length + byStatus("draft").length;
 
   return (
@@ -63,8 +75,38 @@ export default function StatusPage() {
       <p className="ui mt-1 text-sm text-[var(--ink-soft)]">
         Onboarding progress across all temple entries — updated on every build from the data files.
       </p>
+      {isAdmin && dataErrors.length > 0 && (
+        <div className="alert mt-4">
+          <span aria-hidden>⚠️</span>
+          <div>
+            <b>{dataErrors.length} data file(s) could not be loaded</b> and are excluded from the
+            site. The rest of the directory is unaffected.
+            <ul className="mt-1 mb-0 list-disc pl-5">
+              {dataErrors.map((failure) => (
+                <li key={failure.file}>
+                  <code>{failure.file}</code> — {failure.message}
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
 
-      <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-5">
+      {!isAdmin && (
+        <p className="ui mt-2 text-xs text-[var(--ink-soft)]">
+          <Link href="/login?next=/status" className="underline">
+            Log in as admin
+          </Link>{" "}
+          to review, verify, and publish entries from this page.
+        </p>
+      )}
+      {error && (
+        <p className="ui mt-3 border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-800">
+          {error}
+        </p>
+      )}
+
+      <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
         <StatTile label="Total temples" value={String(temples.length)} sub="entries in data/temples/" />
         <StatTile
           label="Live"
@@ -72,11 +114,10 @@ export default function StatusPage() {
           sub="published + verified"
         />
         <StatTile label="Total pending" value={String(pendingCount)} sub="pending review + draft" />
-        <StatTile label="Active lamps today" value={String(totalLamps)} sub="across all temples (mock)" />
         <StatTile
-          label="Total lamp value"
-          value={`₹${lampValue.toLocaleString("en-IN")}`}
-          sub="today, at daily-tier rate (mock)"
+          label="Needs sourcing"
+          value={String(temples.filter((t) => completeness(t).pct < 70).length)}
+          sub="under 70% of the schema filled"
         />
       </div>
 
@@ -86,28 +127,45 @@ export default function StatusPage() {
           <thead>
             <tr className="ui bg-[var(--paper-soft)] text-left">
               <th className="border border-[var(--line-soft)] px-3 py-2">Temple</th>
+              <th className="border border-[var(--line-soft)] px-3 py-2">Submitted by</th>
               <th className="border border-[var(--line-soft)] px-3 py-2">State</th>
               <th className="border border-[var(--line-soft)] px-3 py-2">Status</th>
               <th className="border border-[var(--line-soft)] px-3 py-2">Data completeness</th>
-              <th className="border border-[var(--line-soft)] px-3 py-2">Lamps today</th>
+              {isAdmin && (
+                <th className="border border-[var(--line-soft)] px-3 py-2">Admin actions</th>
+              )}
             </tr>
           </thead>
           <tbody>
             {STATUS_ORDER.flatMap((s) => byStatus(s)).map((t) => {
               const c = completeness(t);
               const style = STATUS_STYLE[t.status];
+              const advance = ADVANCE[t.status];
+              const retreat = RETREAT[t.status];
               return (
                 <tr key={t.slug}>
                   <td className="border border-[var(--line-soft)] px-3 py-2 font-semibold">
-                    <Link href={`/temple/${t.slug}`}>{t.name}</Link>
+                    <Link href={`/temple/${t.slug}`}>{t.identity.nameEn}</Link>
                   </td>
                   <td className="border border-[var(--line-soft)] px-3 py-2 whitespace-nowrap">
-                    {t.location.state}
+                    {t.submittedBy ? (
+                      <span className="ui">{t.submittedBy}</span>
+                    ) : (
+                      <span className="ui text-[var(--ink-soft)]">— (seed data)</span>
+                    )}
+                  </td>
+                  <td className="border border-[var(--line-soft)] px-3 py-2 whitespace-nowrap">
+                    {t.location.stateProvince}
                   </td>
                   <td className="border border-[var(--line-soft)] px-3 py-2">
                     <span className={`ui inline-block rounded border px-2 py-0.5 text-xs font-semibold ${style.cls}`}>
                       {style.label}
                     </span>
+                    {t.status === "rejected" && t.rejectionReason && (
+                      <div className="ui mt-1 text-xs text-[var(--ink-soft)]">
+                        Reason: {t.rejectionReason}
+                      </div>
+                    )}
                   </td>
                   <td className="border border-[var(--line-soft)] px-3 py-2">
                     <div className="flex items-center gap-2">
@@ -121,13 +179,62 @@ export default function StatusPage() {
                     </div>
                     {c.missing.length > 0 && (
                       <div className="ui mt-1 text-xs text-[var(--ink-soft)]">
-                        Missing: {c.missing.join(", ")}
+                        {c.missing.filter((i) => i.level === "error").length} required,{" "}
+                        {c.missing.filter((i) => i.level === "warning").length} recommended field(s)
+                        still empty
                       </div>
                     )}
                   </td>
-                  <td className="border border-[var(--line-soft)] px-3 py-2 text-center">
-                    🪔 {t.lamp?.lampsToday ?? 0}
-                  </td>
+                  {isAdmin && (
+                    <td className="border border-[var(--line-soft)] px-3 py-2">
+                      <div className="flex flex-wrap gap-1.5">
+                        {advance && (
+                          <form method="POST" action={`/api/temples/${t.slug}/status`}>
+                            <input type="hidden" name="status" value={advance} />
+                            <button
+                              type="submit"
+                              className="ui border border-[var(--line-soft)] bg-emerald-50 px-2 py-1 text-xs font-semibold text-emerald-800 hover:bg-emerald-100"
+                            >
+                              {ADVANCE_LABEL[t.status]}
+                            </button>
+                          </form>
+                        )}
+                        {retreat && (
+                          <form method="POST" action={`/api/temples/${t.slug}/status`}>
+                            <input type="hidden" name="status" value={retreat} />
+                            <button
+                              type="submit"
+                              className="ui border border-[var(--line-soft)] px-2 py-1 text-xs font-semibold text-[var(--ink-soft)] hover:bg-[var(--paper-soft)]"
+                            >
+                              {RETREAT_LABEL[t.status]}
+                            </button>
+                          </form>
+                        )}
+                        {REJECTABLE.includes(t.status) && (
+                          <form
+                            method="POST"
+                            action={`/api/temples/${t.slug}/status`}
+                            className="flex items-center gap-1"
+                          >
+                            <input type="hidden" name="status" value="rejected" />
+                            <input
+                              type="text"
+                              name="reason"
+                              required
+                              placeholder="Reason"
+                              className="ui w-24 border border-[var(--line-soft)] px-1.5 py-1 text-xs"
+                            />
+                            <button
+                              type="submit"
+                              className="ui border border-rose-200 bg-rose-50 px-2 py-1 text-xs font-semibold text-rose-800 hover:bg-rose-100"
+                            >
+                              Reject
+                            </button>
+                          </form>
+                        )}
+                      </div>
+                    </td>
+                  )}
                 </tr>
               );
             })}
@@ -137,8 +244,9 @@ export default function StatusPage() {
 
       <p className="ui mt-4 text-xs text-[var(--ink-soft)]">
         Statuses come from each entry&apos;s <code>status</code> field (draft → pending → verified →
-        published). Completeness is computed from the ten core template sections. Lamp counts and
-        values are prototype mock data until the donation module goes live.
+        published). Completeness is measured against the input schema&apos;s required and recommended
+        columns. This directory collects no money: there is no donation, sponsorship or payment flow
+        anywhere in the product.
       </p>
     </div>
   );

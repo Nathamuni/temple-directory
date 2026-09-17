@@ -1,0 +1,166 @@
+{
+  "templeId": "TPL-IN-JAK-KAT-0029",
+  "slug": "vaishno-devi",
+  "status": "published",
+  "identity": {
+    "nameEn": "Vaishno Devi Temple",
+    "alternateNames": [],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Pilgrimage",
+      "Cave Temple",
+      "Trikuta Mountains"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "वैष्णो देवी मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Katra",
+    "district": "Udhampur",
+    "stateProvince": "Jammu and Kashmir",
+    "country": "India",
+    "postalCode": "182301",
+    "latitude": 32.7521,
+    "longitude": 75.3164
+  },
+  "governance": {
+    "establishedEra": "Ancient; legend-based origins · Historically documented from medieval period",
+    "managingAuthority": "Vaishno Devi Shrine Board",
+    "officialWebsite": "https://www.vaishnodevi.org"
+  },
+  "narrative": {
+    "summaryIntro": "Vaishno Devi Temple is located in a naturally formed cave on the Trikuta Mountains in the Udhampur district of Jammu and Kashmir. Dedicated to the goddess Durga (worshipped as Vaishno Devi, Mata Rani, or Trikuta), the temple is one of the most visited pilgrimage sites in India. The shrine houses three naturally formed rock formations believed to represent the three aspects of the goddess: Saraswati, Lakshmi, and Durga.\n\nThe pilgrimage to Vaishno Devi requires trekking approximately 12-14 kilometers through scenic mountain paths. The cave temple is situated at an altitude of 1,560 meters and attracts millions of pilgrims annually. The journey is considered spiritually rewarding, and the temple represents a perfect blend of natural geography and divine spirituality.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Cave Temple"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Comfortable trekking clothing; traditional attire recommended",
+    "nearestRailStation": "Udhampur Railway Station, 35 km",
+    "railDistanceKm": 35,
+    "nearestBusStation": "Accessible by road to Katra; then trek from there",
+    "nearestAirport": "Srinagar Airport, 290 km",
+    "airportDistanceKm": 290
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "13:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Saraswati",
+      "deityOrSubject": "Saraswati",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Lakshmi",
+      "deityOrSubject": "Lakshmi",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Navratri",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "Grand celebrations with special pujas; peak pilgrimage season",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Vaishno Devi Temple — hero image",
+      "caption": "Vaishno Devi Cave Temple entrance",
+      "altText": "Vaishno Devi Cave Temple entrance",
+      "fileOrUrl": "/images/temples/vaishno-devi/hero.jpg",
+      "creator": "Maheshkumarrathi",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Maheshkumarrathi · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katra_Vaishno_Devi_temple_Seen1.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Vaishno Devi Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Vaishno Devi Shrine Board Official Portal",
+      "url": "https://www.vaishnodevi.org",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Saraswati",
+      "Lakshmi"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [
+      "Trekking paths",
+      "Rest shelters"
+    ],
+    "address": "Vaishno Devi Shrine, Katra, Udhampur, Jammu and Kashmir 182301, India",
+    "bestTime": "April to September",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

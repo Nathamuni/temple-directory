@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-KA-HAM-0030",
+  "slug": "virupaksha-hampi",
+  "status": "published",
+  "identity": {
+    "nameEn": "Virupaksha Temple, Hampi",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "Virupaksha",
+      "Hampi",
+      "UNESCO World Heritage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ವಿರುಪಾಕ್ಷ ದೇವಾಲಯ",
+    "localLanguage": "Kannada"
+  },
+  "location": {
+    "city": "Hampi",
+    "district": "Vijayanagara",
+    "stateProvince": "Karnataka",
+    "country": "India",
+    "postalCode": "583239",
+    "latitude": 15.335,
+    "longitude": 76.4636
+  },
+  "governance": {
+    "establishedEra": "7th century CE origins; current structure 15th-16th century · Developed during Vijayanagara Empire",
+    "managingAuthority": "Virupaksha Temple Board"
+  },
+  "narrative": {
+    "summaryIntro": "Virupaksha Temple in Hampi, Karnataka, is the principal temple of the Hampi complex and is dedicated to Lord Shiva as Virupaksha (Lord with eyes on sides of face). One of the most significant temples in South India, it is part of the UNESCO World Heritage Site of Hampi, which contains the ruins of the great medieval Vijayanagara Empire. The temple's main structure was developed during the peak of the Vijayanagara period in the 15th-16th centuries.\n\nThe temple features stunning Dravidian and Vijayanagara architectural styles with elaborate stone carvings, sculptured columns, and ornate gopurams. The surrounding complex includes numerous monuments, pillars, and religious structures that showcase the artistic prowess of the Vijayanagara civilization. The temple remains an active place of worship and is one of the most visited historical and religious sites in India, attracting pilgrims and heritage enthusiasts worldwide.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian and Vijayanagara"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Comfortable attire; traditional dress recommended for temple areas",
+    "nearestRailStation": "Hospet Railway Station, 13 km",
+    "railDistanceKm": 13,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Belgaum Airport, 140 km",
+    "airportDistanceKm": 140
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "19:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Celebrated with special rituals and pilgrimages",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Virupaksha Temple, Hampi — hero image",
+      "caption": "Virupaksha Temple in Hampi with ancient architecture",
+      "altText": "Virupaksha Temple in Hampi with ancient architecture",
+      "fileOrUrl": "/images/temples/virupaksha-hampi/hero.jpg",
+      "creator": "Ingo Mehling",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ingo Mehling · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hampi_-_Hemakuta_Hill,_Virupaksha_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Virupaksha Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Hampi UNESCO World Heritage Site",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Virupaksha Temple, Hampi, Vijayanagara, Karnataka 583239, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

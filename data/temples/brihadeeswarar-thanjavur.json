@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-TN-THA-0004",
+  "slug": "brihadeeswarar-thanjavur",
+  "status": "published",
+  "identity": {
+    "nameEn": "Brihadeeswarar Temple, Thanjavur",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "UNESCO World Heritage",
+      "Chola Architecture",
+      "Thanjavur"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "பெரிய கோயில்",
+    "localLanguage": "Tamil"
+  },
+  "location": {
+    "city": "Thanjavur",
+    "district": "Thanjavur",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "613001",
+    "latitude": 10.787,
+    "longitude": 79.1378
+  },
+  "governance": {
+    "establishedEra": "11th century CE · Built by Raja Raja Chola I in 1010 CE",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+  },
+  "narrative": {
+    "summaryIntro": "Brihadeeswarar Temple (also known as Periya Koil) in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site and a masterpiece of Chola period architecture. Built by Raja Raja Chola I in 1010 CE, the temple is dedicated to Lord Shiva as Brihadeeswarar (Great Lord). The temple's towering vimana (spire) stands at 216 feet and is constructed with granite, representing the pinnacle of medieval South Indian temple architecture.\n\nThe temple is renowned for its magnificent stone carvings, sculptures, and architectural innovations that influenced temple construction for centuries. The massive vimana is one of the tallest structures built in the 11th century and is a remarkable feat of ancient engineering. The temple complex features elaborate gopurams, sacred tanks, and ornate pillared halls. It remains one of the greatest monuments of the Chola dynasty and a testament to Hindu artistic and spiritual excellence.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Thanjavur Railway Station, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Trichy Airport, 60 km",
+    "airportDistanceKm": 60
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Celebrated with grand processions and special pujas",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Brihadeeswarar Temple, Thanjavur — hero image",
+      "caption": "Brihadeeswarar Temple with massive granite tower",
+      "altText": "Brihadeeswarar Temple with massive granite tower",
+      "fileOrUrl": "/images/temples/brihadeeswarar-thanjavur/hero.jpg",
+      "creator": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Bernard Gagnon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_02.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Brihadeeswarar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Great Living Chola Temples UNESCO World Heritage",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Brihadeeswarar Temple, Thanjavur, Tamil Nadu 613001, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

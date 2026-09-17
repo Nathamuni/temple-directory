@@ -1,0 +1,151 @@
+{
+  "templeId": "TPL-IN-GU-DWA-0006",
+  "slug": "dwarkadhish-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Dwarkadhish Temple",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "sacredClassifications": [
+      "Krishna",
+      "Dwarka",
+      "Char Dham",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "દ્વારકાધીશ મંદિર",
+    "localLanguage": "Gujarati"
+  },
+  "location": {
+    "city": "Dwarka",
+    "district": "Devbhumi Dwarka",
+    "stateProvince": "Gujarat",
+    "country": "India",
+    "postalCode": "361335",
+    "latitude": 22.2389,
+    "longitude": 68.9681
+  },
+  "governance": {
+    "establishedEra": "Ancient; multiple renovations · Current structure 15th-16th century",
+    "managingAuthority": "Dwarka Temple Trust"
+  },
+  "narrative": {
+    "summaryIntro": "Dwarkadhish Temple, located in the ancient city of Dwarka in Gujarat, is one of the four cardinal pilgrimage sites (Char Dham) and is dedicated to Lord Krishna. The temple is believed to be built on the site where Krishna ruled his kingdom and is a major center of Vaishnavite worship. The present structure stands at a height of approximately 51.5 meters with elaborate stone carvings.\n\nAccording to Hindu tradition, Dwarka was the capital of Krishna's kingdom and remains a sacred pilgrimage destination. The temple features intricate architectural details characteristic of Gujarat's temple-building tradition. It is revered as one of the oldest and most important Krishna temples in India, attracting devotees year-round.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Gujarat"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Dwarka Railway Station, 3 km",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Connected by highways from major cities",
+    "nearestAirport": "Rajkot Airport, 135 km",
+    "airportDistanceKm": 135
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Krishna (Dwarkadhish)",
+      "deityOrSubject": "Krishna (Dwarkadhish)",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Janmashtami",
+      "tamilOrLocalMonth": "August–September",
+      "duration": "2 days",
+      "significance": "Celebration of Krishna's birth with special worship and festivities",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Dwarkadhish Temple — hero image",
+      "caption": "Dwarkadhish Temple with ornate spires",
+      "altText": "Dwarkadhish Temple with ornate spires",
+      "fileOrUrl": "/images/temples/dwarkadhish-temple/hero.jpg",
+      "creator": "Kaushik.prachi",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Kaushik.prachi · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwarkadhish_Temple.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Dwarkadhish Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Dwarka Tourism Official Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Krishna (Dwarkadhish)"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Dwarkadhish Temple, Dwarka, Devbhumi Dwarka, Gujarat 361335, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

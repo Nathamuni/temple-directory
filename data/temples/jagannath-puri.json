@@ -1,0 +1,175 @@
+{
+  "templeId": "TPL-IN-OD-PUR-0010",
+  "slug": "jagannath-puri",
+  "status": "published",
+  "identity": {
+    "nameEn": "Jagannath Temple, Puri",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "sacredClassifications": [
+      "Jagannath",
+      "Krishna",
+      "Char Dham",
+      "Pilgrimage",
+      "Rath Yatra"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ଜଗନ୍ନାଥ ମନ୍ଦିର",
+    "localLanguage": "Odia",
+    "consortDeity": "Subhadra"
+  },
+  "location": {
+    "city": "Puri",
+    "district": "Puri",
+    "stateProvince": "Odisha",
+    "country": "India",
+    "postalCode": "752001",
+    "latitude": 19.8047,
+    "longitude": 86.1618
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 12th century CE · Built under Somavamshi and Ganga kings",
+    "managingAuthority": "Shri Jagannath Temple Administration",
+    "officialWebsite": "https://www.jagannathtemple.org"
+  },
+  "narrative": {
+    "summaryIntro": "Jagannath Temple in Puri, Odisha, is one of the four cardinal pilgrimage sites (Char Dham) and ranks among the most important temples in Hinduism. The temple is dedicated to Jagannath (a form of Krishna) along with his siblings Balabhadra (Balarama) and Subhadra. The main spire stands at a height of approximately 65.76 meters and dominates the Puri skyline.\n\nThe temple is renowned for its annual Rath Yatra (Chariot Festival), one of the most spectacular religious processions in the world, where millions of devotees gather to witness the deities being pulled through the streets in massive wooden chariots. The temple's rich traditions and architectural magnificence make it a UNESCO World Heritage Site and a major spiritual center.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Odia"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire; strict dress code for temple entry",
+    "nearestRailStation": "Puri Railway Station, 2 km",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Bhubaneswar Airport, 60 km",
+    "airportDistanceKm": 60
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:30",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "22:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Jagannath (Krishna)",
+      "deityOrSubject": "Jagannath (Krishna)",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Balabhadra (Balarama)",
+      "deityOrSubject": "Balabhadra (Balarama)",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Rath Yatra",
+      "tamilOrLocalMonth": "June–July",
+      "duration": "9–10 days",
+      "significance": "Grand chariot festival where deities are pulled through the streets; draws millions of devotees",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Odana Navami",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "1 day",
+      "significance": "Culinary offering festival",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Jagannath Temple, Puri — hero image",
+      "caption": "Jagannath Temple with its distinctive spire",
+      "altText": "Jagannath Temple with its distinctive spire",
+      "fileOrUrl": "/images/temples/jagannath-puri/hero.jpg",
+      "creator": "Krupasindhu Muduli",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Krupasindhu Muduli · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puri_Ratha_Yatra.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Jagannath Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Shri Jagannath Temple Official Portal",
+      "url": "https://www.jagannathtemple.org",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Jagannath (Krishna)",
+      "Balabhadra (Balarama)"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Jagannath Temple, Puri, Odisha 752001, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

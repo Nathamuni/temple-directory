@@ -1,0 +1,151 @@
+{
+  "templeId": "TPL-IN-GU-PRA-0024",
+  "slug": "somnath-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Somnath Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Somnath",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "સોમનાથ મંદિર",
+    "localLanguage": "Gujarati"
+  },
+  "location": {
+    "city": "Prabhas",
+    "district": "Gir Somnath",
+    "stateProvince": "Gujarat",
+    "country": "India",
+    "postalCode": "362268",
+    "latitude": 20.8821,
+    "longitude": 70.4074
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; multiple reconstructions through history · Current structure completed in 1951",
+    "managingAuthority": "Somnath Trust",
+    "officialWebsite": "http://www.somnath.org"
+  },
+  "narrative": {
+    "summaryIntro": "Somnath Temple, located at Prabhas in Gujarat, is the first among the twelve Jyotirlingas—the holiest shrines dedicated to Lord Shiva. Positioned at the confluence of the Veraval River and the Arabian Sea, the temple holds immense spiritual significance in Hinduism. According to legend, Chandra (the Moon God) worshipped Shiva here, earning the site its sacred status.\n\nThe temple has been destroyed and rebuilt multiple times throughout history. The current structure was rebuilt in 1951 after independence, featuring exquisite stone carvings and Chalukya architectural style. It stands as a symbol of Hindu resilience and spiritual devotion, attracting millions of pilgrims and tourists annually.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Chalukya"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Veraval Railway Station, 6 km",
+    "railDistanceKm": 6,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Keshod Airport, 85 km",
+    "airportDistanceKm": 85
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebrations with special pujas and aarti",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kartik Purnima",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Full moon festival with processions and rituals",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Somnath Temple — hero image",
+      "caption": "Somnath Temple overlooking the Arabian Sea",
+      "altText": "Somnath Temple overlooking the Arabian Sea",
+      "fileOrUrl": "/images/temples/somnath-temple/hero.jpg",
+      "creator": "Hritiksharma",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Hritiksharma · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dev_Somnath_Temple,_Dungarpur._by_Hritik_Sharma.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Somnath Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Somnath Trust Official Portal",
+      "url": "http://www.somnath.org",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Somnath Road, Veraval, Gir Somnath, Gujarat 362268, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

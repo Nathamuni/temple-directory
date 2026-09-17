@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-KE-TRI-0021",
+  "slug": "padmanabhaswamy-trivandrum",
+  "status": "published",
+  "identity": {
+    "nameEn": "Padmanabhaswamy Temple, Trivandrum",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "sacredClassifications": [
+      "Vishnu",
+      "Padmanabha",
+      "Trivandrum",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "പദ്മനാഭസ്വാമി കോവിൽ",
+    "localLanguage": "Malayalam"
+  },
+  "location": {
+    "city": "Trivandrum",
+    "district": "Thiruvananthapuram",
+    "stateProvince": "Kerala",
+    "country": "India",
+    "postalCode": "695023",
+    "latitude": 8.4774,
+    "longitude": 76.9485
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; present structure 16th century · Built during the rule of Travancore rulers",
+    "managingAuthority": "Travancore Devaswom Board"
+  },
+  "narrative": {
+    "summaryIntro": "Padmanabhaswamy Temple in Trivandrum, Kerala, is one of the most important temples dedicated to Lord Vishnu and is the presiding deity of the royal Travancore state. The temple is known for its significance in Vaishnavite tradition and its unique architectural blend of Dravidian and Kerala styles. The main sanctum features an impressive gopuram and ornate pillared corridors characteristic of Kerala temple architecture.\n\nThe temple gained international attention in 2011 when its underground vaults were opened, revealing treasures of immense historical and monetary value. The temple remains an important pilgrimage site for devotees of Vishnu and attracts thousands of visitors annually. The temple's architectural beauty, combined with its spiritual significance and rich heritage, makes it a major tourist and pilgrimage destination in Kerala. The temple complex exemplifies the artistic and religious traditions of South India.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian and Kerala"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended; strict dress code enforced",
+    "nearestRailStation": "Trivandrum Central Railway Station, 3 km",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Located in Trivandrum city center",
+    "nearestAirport": "Trivandrum International Airport, 5 km",
+    "airportDistanceKm": 5
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "03:30",
+      "closeTime": "11:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "16:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Alpasantharpan",
+      "tamilOrLocalMonth": "March–April",
+      "duration": "10 days",
+      "significance": "Classical art festival with Kathakali performances",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Padmanabhaswamy Temple, Trivandrum — hero image",
+      "caption": "Padmanabhaswamy Temple with gopuram",
+      "altText": "Padmanabhaswamy Temple with gopuram",
+      "fileOrUrl": "/images/temples/padmanabhaswamy-trivandrum/hero.jpg",
+      "creator": "arijitdas.x",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "arijitdas.x · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padmanabhaswamy_Temple_in_Trivandrum_India.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Padmanabhaswamy Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Travancore Devaswom Board Official Records",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Padmanabhaswamy Temple, Trivandrum, Kerala 695023, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

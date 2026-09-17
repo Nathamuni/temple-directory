@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-UT-CHA-0002",
+  "slug": "badrinath-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Badrinath Temple",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "sacredClassifications": [
+      "Vishnu",
+      "Badrinath",
+      "Char Dham",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "बदरीनाथ मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Chamoli",
+    "district": "Chamoli",
+    "stateProvince": "Uttarakhand",
+    "country": "India",
+    "postalCode": "246424",
+    "latitude": 30.7432,
+    "longitude": 79.4898
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 16th century · Rebuilt by Adi Shankaracharya and later modified",
+    "managingAuthority": "Uttarakhand Shrine Board"
+  },
+  "narrative": {
+    "summaryIntro": "Badrinath Temple is one of the four cardinal shrines (Char Dham) of Hindu pilgrimage and is dedicated to Lord Vishnu in his form as Badrinath (Badrinarayan). Located in the Chamoli district of Uttarakhand at an elevation of 3,300 meters, the temple is situated in a scenic valley surrounded by the Himalayas.\n\nThe temple features a distinctive red and gold pagoda-style architecture. It has been a major pilgrimage center for centuries, attracting devotees from across India and the world who seek blessings and spiritual enlightenment at this sacred shrine of Vishnu.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Himalayan"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Warm clothing essential; traditional attire recommended",
+    "nearestRailStation": "Rishikesh Railway Station, 200 km",
+    "railDistanceKm": 200,
+    "nearestBusStation": "Connected by mountain roads",
+    "nearestAirport": "Jolly Grant Airport, Dehradun, 300 km",
+    "airportDistanceKm": 300
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "19:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Badrinath Inauguration Festival",
+      "tamilOrLocalMonth": "April–May",
+      "duration": "3 days",
+      "significance": "Temple opens after winter closure; celebrations with rituals and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Badrinath Temple — hero image",
+      "caption": "Badrinath Temple with mountain peaks in background",
+      "altText": "Badrinath Temple with mountain peaks in background",
+      "fileOrUrl": "/images/temples/badrinath-temple/hero.jpg",
+      "creator": "Bahuln89",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Bahuln89 · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_temple_in_early_morning.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Badrinath Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Uttarakhand Char Dham Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Badrinath, Chamoli, Uttarakhand 246424, India",
+    "bestTime": "May to October",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

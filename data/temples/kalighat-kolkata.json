@@ -1,0 +1,162 @@
+{
+  "templeId": "TPL-IN-WB-KOL-0011",
+  "slug": "kalighat-kolkata",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kalighat Temple, Kolkata",
+    "alternateNames": [],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Kali",
+      "Shakti Pitha",
+      "Pilgrimage",
+      "Kolkata"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "কালীঘাট মন্দির",
+    "localLanguage": "Bengali"
+  },
+  "location": {
+    "city": "Kolkata",
+    "district": "South 24 Parganas",
+    "stateProvince": "West Bengal",
+    "country": "India",
+    "postalCode": "700026",
+    "latitude": 22.5452,
+    "longitude": 88.3683
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; present structure 18th century · Current temple rebuilt in 1809",
+    "managingAuthority": "Kalighat Temple Trust"
+  },
+  "narrative": {
+    "summaryIntro": "Kalighat Temple in Kolkata is one of the 51 Shakti Pithas and is dedicated to Goddess Kali, the fierce form of the divine mother. Located on the banks of the Hooghly River, the temple holds immense spiritual significance in Tantra and Shakta traditions. According to legend, the toes of the goddess fell at this location when Shiva performed his cosmic dance with the goddess's lifeless body.\n\nThe temple is one of the oldest and most important religious sites in Kolkata and has been a center of devotion for centuries. The current structure was rebuilt in 1809 and features distinctive Bengali architectural style. The temple remains a vibrant place of worship and has served as an inspiration to spiritual leaders and reformers throughout history, including Ramakrishna Paramahamsa.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Bengali"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Howrah or Sealdah Railway Station, 8-12 km",
+    "railDistanceKm": 12,
+    "nearestBusStation": "Located within Kolkata city",
+    "nearestAirport": "Netaji Subhas Chandra Bose International Airport, 16 km",
+    "airportDistanceKm": 16
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Kali",
+      "deityOrSubject": "Kali",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Navratri",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "Celebrated with special pujas and offerings to the goddess",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kali Puja",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Festival dedicated to Goddess Kali",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kalighat Temple, Kolkata — hero image",
+      "caption": "Kalighat Temple entrance",
+      "altText": "Kalighat Temple entrance",
+      "fileOrUrl": "/images/temples/kalighat-kolkata/hero.jpg",
+      "creator": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Bernard Gagnon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Kalighat Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Kolkata Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Kali"
+    ],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Kalighat Temple, Kalighat, Kolkata, West Bengal 700026, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

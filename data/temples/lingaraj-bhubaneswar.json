@@ -1,0 +1,149 @@
+{
+  "templeId": "TPL-IN-OD-BHU-0017",
+  "slug": "lingaraj-bhubaneswar",
+  "status": "published",
+  "identity": {
+    "nameEn": "Lingaraj Temple, Bhubaneswar",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "Lingaraj",
+      "Bhubaneswar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ଲିଙ୍ଗରାଜ ମନ୍ଦିର",
+    "localLanguage": "Odia"
+  },
+  "location": {
+    "city": "Bhubaneswar",
+    "district": "Bhubaneswar",
+    "stateProvince": "Odisha",
+    "country": "India",
+    "postalCode": "751001",
+    "latitude": 20.2361,
+    "longitude": 85.8245
+  },
+  "governance": {
+    "establishedEra": "11th century CE · Built during the rule of Jai Rai, Somavamshi dynasty",
+    "managingAuthority": "Bhubaneswar Temple Board"
+  },
+  "narrative": {
+    "summaryIntro": "Lingaraj Temple in Bhubaneswar, Odisha, is one of the most important temples dedicated to Lord Shiva and is a masterpiece of Odia architecture. Built in the 11th century by Jai Rai of the Somavamshi dynasty, the temple's main sanctum features a towering spire standing at 180 feet. The temple's name 'Lingaraj' literally means 'Lord of the Linga,' and it houses one of the most sacred Shiva lingas in India.\n\nThe temple complex spans over two acres and features intricate stone carvings, sculptures, and multiple smaller shrines. The distinctive Odia architectural style with its curved spire is evident in the main tower. The temple is the presiding deity of Bhubaneswar city and holds immense spiritual significance for Hindus. It attracts thousands of pilgrims and devotees annually, particularly during Maha Shivaratri and other important festivals.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Odia"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Bhubaneswar Railway Station, 3 km",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Well connected by highways",
+    "nearestAirport": "Biju Patnaik International Airport, 7 km",
+    "airportDistanceKm": 7
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebrations with special rituals and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kartik Purnima",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Full moon festival with special worship",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Lingaraj Temple, Bhubaneswar — hero image",
+      "caption": "Lingaraj Temple with tall Odia spire",
+      "altText": "Lingaraj Temple with tall Odia spire",
+      "fileOrUrl": "/images/temples/lingaraj-bhubaneswar/hero.jpg",
+      "creator": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Bernard Gagnon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lingaraja_Temple_01.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Lingaraj Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Bhubaneswar Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Lingaraj Temple, Bhubaneswar, Odisha 751001, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

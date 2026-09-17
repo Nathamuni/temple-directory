@@ -5,9 +5,15 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "gen:schema": "tsx scripts/gen-schema.mts",
+    "typecheck": "tsc --noEmit",
+    "check": "tsx scripts/check-data.mts",
+    "import": "tsx scripts/import-workbook.mts"
   },
   "dependencies": {
+    "exceljs": "^4.4.0",
+    "jszip": "^3.10.1",
     "next": "^15.3.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
@@ -18,6 +24,8 @@
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.5",
     "tailwindcss": "^4.1.8",
-    "typescript": "^5.8.3"
+    "tsx": "^4.23.13",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.131.0"
   }
 }

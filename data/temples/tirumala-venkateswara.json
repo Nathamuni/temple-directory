@@ -1,74 +1,143 @@
 {
+  "templeId": "TPL-IN-AP-TIR-0027",
   "slug": "tirumala-venkateswara",
   "status": "draft",
-  "stub": true,
-  "name": "Sri Venkateswara Swamy Temple, Tirumala",
-  "nameLocal": { "script": "Telugu", "text": "శ్రీ వేంకటేశ్వర స్వామి దేవస్థానం, తిరుమల" },
-  "subtitle": "Tirumala, Tirupati, Andhra Pradesh · Presiding Deity: Lord Venkateswara (Vishnu)",
-  "deity": { "presiding": "Vishnu" },
+  "identity": {
+    "nameEn": "Sri Venkateswara Swamy Temple, Tirumala",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Divya Desam",
+    "sacredClassifications": [
+      "Divya Desam",
+      "Vaishnavite",
+      "Hill temple",
+      "Dravidian",
+      "Divya Desam #106"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "శ్రీ వేంకటేశ్వర స్వామి దేవస్థానం, తిరుమల",
+    "localLanguage": "Telugu"
+  },
   "location": {
     "city": "Tirumala",
     "district": "Tirupati",
-    "state": "Andhra Pradesh",
+    "stateProvince": "Andhra Pradesh",
     "country": "India",
-    "coordinates": { "lat": 13.6833, "lng": 79.3472 }
+    "postalCode": "517504",
+    "latitude": 13.6833,
+    "longitude": 79.3472
   },
-  "classification": {
-    "templeType": "Divya Desam",
-    "tradition": "Vaishnavite",
-    "architecturalStyle": "Dravidian",
-    "divyaDesam": 106,
-    "tags": ["Divya Desam", "Vaishnavite", "Hill temple", "Dravidian"]
+  "governance": {
+    "establishedEra": "Documented from c. 300 CE; expanded under Pallava, Chola and Vijayanagara patronage · Ancient; continuous epigraphic record from the 9th century CE",
+    "managingAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+    "officialWebsite": "https://www.tirumala.org"
   },
-  "established": { "period": "Documented from c. 300 CE; expanded under Pallava, Chola and Vijayanagara patronage", "yearText": "Ancient; continuous epigraphic record from the 9th century CE" },
-  "governingBody": "Tirumala Tirupati Devasthanams (TTD)",
-  "website": "https://www.tirumala.org",
-  "timings": {
-    "darshan": [{ "label": "Darshan (varies by seva calendar)", "from": "03:00", "to": "23:30" }],
-    "pujaSchedule": []
+  "narrative": {
+    "summaryIntro": "The Sri Venkateswara Swamy Temple at Tirumala, in the Tirupati district of Andhra Pradesh, is dedicated to Venkateswara, a form of Vishnu. Set on the seventh peak of the Tirumala Hills, it is among the most visited religious sites in the world, receiving tens of thousands of pilgrims daily.\n\nAdministered by the Tirumala Tirupati Devasthanams, the temple is renowned for its ancient Dravidian shrine, the Ananda Nilayam golden vimana, the laddu prasadam, and centuries of documented endowments from the Pallava, Chola and Vijayanagara periods.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
   },
-  "heroImage": {
-    "src": "/images/temples/tirumala-venkateswara/hero.jpg",
-    "alt": "Entrance of the Tirumala Venkateswara Temple",
-    "credit": {
-      "author": "Nikhilb239",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_temple_entrance_09062015.JPG"
-    }
+  "editorial": {
+    "overallVerificationStatus": "unverified"
   },
-  "atAGlance": [
-    { "icon": "deity", "label": "Presiding Deity", "value": "Lord Venkateswara (Balaji)" },
-    { "icon": "transit", "label": "Nearest Transit", "value": "Tirupati railway station (22 km) · Tirupati Airport (40 km)" }
-  ],
-  "sections": {
-    "introduction": {
-      "paragraphs": [
-        "The Sri Venkateswara Swamy Temple at Tirumala, in the Tirupati district of Andhra Pradesh, is dedicated to Venkateswara, a form of Vishnu. Set on the seventh peak of the Tirumala Hills, it is among the most visited religious sites in the world, receiving tens of thousands of pilgrims daily.",
-        "Administered by the Tirumala Tirupati Devasthanams, the temple is renowned for its ancient Dravidian shrine, the Ananda Nilayam golden vimana, the laddu prasadam, and centuries of documented endowments from the Pallava, Chola and Vijayanagara periods."
-      ],
-      "citations": [1, 2]
-    }
-  },
-  "worshipSOP": { "steps": [], "entryGuidelines": [], "specialRituals": [], "restrictions": [], "spiritualOutcomes": [] },
-  "festivals": [
-    { "name": "Srivari Brahmotsavam", "month": "September–October", "duration": "9 days", "description": "The temple's principal annual festival with daily vahana processions.", "major": true }
-  ],
   "visitingInfo": {
-    "bestTime": "Year-round; weekdays outside festival periods for shorter queues",
+    "sourceIds": [],
+    "verificationStatus": "unverified",
     "dressCode": "Traditional attire mandatory for special darshan",
-    "howToReach": { "air": "Tirupati Airport (40 km)", "rail": "Tirupati station (22 km)", "road": "Ghat road or footpath routes from Tirupati" },
-    "facilities": []
+    "nearestRailStation": "Tirupati station (22 km)",
+    "railDistanceKm": 22,
+    "nearestBusStation": "Ghat road or footpath routes from Tirupati",
+    "nearestAirport": "Tirupati Airport (40 km)",
+    "airportDistanceKm": 40
   },
-  "lamp": { "enabled": true, "lampsToday": 88 },
-  "gallery": [],
-  "nearbyTemples": [
-    { "name": "Sri Padmavathi Ammavari Temple, Tiruchanur", "distanceKm": 27 },
-    { "name": "Sri Govindaraja Swamy Temple, Tirupati", "distanceKm": 22 }
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan (varies by seva calendar)",
+      "openTime": "03:00",
+      "closeTime": "23:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
   ],
-  "reviews": [],
-  "contact": { "address": "Tirumala Tirupati Devasthanams, Tirumala, Tirupati 517504, Andhra Pradesh, India" },
-  "references": [
-    { "id": 1, "title": "Tirumala Tirupati Devasthanams — official portal", "publisher": "TTD", "url": "https://www.tirumala.org" },
-    { "id": 2, "title": "Venkateswara Temple, Tirumala — overview", "publisher": "Wikipedia (with sources therein)", "url": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala" }
-  ]
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Srivari Brahmotsavam",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "9 days",
+      "significance": "The temple's principal annual festival with daily vahana processions.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sri Venkateswara Swamy Temple, Tirumala — hero image",
+      "caption": "Entrance of the Tirumala Venkateswara Temple",
+      "altText": "Entrance of the Tirumala Venkateswara Temple",
+      "fileOrUrl": "/images/temples/tirumala-venkateswara/hero.jpg",
+      "creator": "Nikhilb239",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Nikhilb239 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_temple_entrance_09062015.JPG",
+      "editorialApproved": false,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Tirumala Tirupati Devasthanams — official portal",
+      "publisherOrAuthority": "TTD",
+      "url": "https://www.tirumala.org",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Venkateswara Temple, Tirumala — overview",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [
+      {
+        "name": "Sri Padmavathi Ammavari Temple, Tiruchanur",
+        "distanceKm": 27
+      },
+      {
+        "name": "Sri Govindaraja Swamy Temple, Tirupati",
+        "distanceKm": 22
+      }
+    ],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Tirumala Tirupati Devasthanams, Tirumala, Tirupati 517504, Andhra Pradesh, India",
+    "bestTime": "Year-round; weekdays outside festival periods for shorter queues"
+  },
+  "submittedBy": "import"
 }

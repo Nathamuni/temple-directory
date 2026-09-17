@@ -1,0 +1,146 @@
+{
+  "templeId": "TPL-IN-DE-NEW-0001",
+  "slug": "akshardham-delhi",
+  "status": "verified",
+  "identity": {
+    "nameEn": "Akshardham Temple, Delhi",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Other",
+    "templeType": "Vaishnavite",
+    "sacredClassifications": [
+      "Swaminarayan",
+      "Delhi",
+      "Modern Architecture",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "अक्षरधाम मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "New Delhi",
+    "district": "East Delhi",
+    "stateProvince": "Delhi",
+    "country": "India",
+    "postalCode": "110092",
+    "latitude": 28.5684,
+    "longitude": 77.2814
+  },
+  "governance": {
+    "establishedEra": "Modern; completed 2005 · Built by Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)",
+    "managingAuthority": "BAPS (Bochasanwasi Akshar Purushottam Swaminarayan Sanstha)",
+    "officialWebsite": "https://www.akshardham.com"
+  },
+  "narrative": {
+    "summaryIntro": "Akshardham Temple in Delhi is a modern Hindu temple complex dedicated to Swaminarayan and is one of the largest and most elaborately decorated Hindu temples in the world. Completed in 2005 by the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS), the temple showcases a remarkable synthesis of ancient Hindu architectural traditions with contemporary construction techniques and craftsmanship.\n\nThe temple complex spans fourteen acres and features a magnificent central structure adorned with intricately carved marble, sandstone, and granite. The main sanctum houses the deities of Swaminarayan and his spiritual successors. Beyond its architectural magnificence, Akshardham serves as a cultural and spiritual center, offering exhibitions, cultural programs, and educational activities that promote Hindu values and traditions. The temple is one of Delhi's most visited tourist attractions and a major pilgrimage destination for the Swaminarayan faith.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Modern Hindu Traditional"
+  },
+  "editorial": {
+    "overallVerificationStatus": "unverified"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Comfortable attire",
+    "nearestRailStation": "Akshardham Metro Station on Blue Line",
+    "nearestBusStation": "Located in East Delhi, easily accessible",
+    "nearestAirport": "Indira Gandhi International Airport, 30 km",
+    "airportDistanceKm": 30
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Timings",
+      "openTime": "09:30",
+      "closeTime": "18:30",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Swaminarayan",
+      "deityOrSubject": "Swaminarayan",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Diwali",
+      "tamilOrLocalMonth": "October–November",
+      "duration": "1 day",
+      "significance": "Festival of lights celebrated with elaborate decorations",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Akshardham Temple, Delhi — hero image",
+      "caption": "Akshardham Temple in Delhi with ornate architecture",
+      "altText": "Akshardham Temple in Delhi with ornate architecture",
+      "fileOrUrl": "/images/temples/akshardham-delhi/hero.jpg",
+      "creator": "Juthani1",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Juthani1 · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akshardham_fountain.jpg",
+      "editorialApproved": false,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Akshardham Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Akshardham Official Portal",
+      "url": "https://www.akshardham.com",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": false
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Swaminarayan"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [
+      "Parking",
+      "Facilities for the disabled",
+      "Cultural exhibitions"
+    ],
+    "address": "Akshardham, Delhimarg, New Delhi, Delhi 110092, India",
+    "bestTime": "October to March",
+    "entryFee": "Free (donations welcome)"
+  },
+  "submittedBy": "import"
+}

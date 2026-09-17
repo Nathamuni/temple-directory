@@ -1,273 +1,580 @@
 {
+  "templeId": "TPL-IN-TN-SRI-0025",
   "slug": "srirangam-ranganathaswamy",
   "status": "published",
-  "name": "Sri Ranganathaswamy Temple, Srirangam",
-  "nameLocal": { "script": "Tamil", "text": "ஸ்ரீ அரங்கநாதசுவாமி கோயில், திருவரங்கம்" },
-  "subtitle": "Srirangam, Tiruchirappalli, Tamil Nadu · Presiding Deity: Lord Ranganatha (Vishnu)",
-  "deity": {
-    "presiding": "Vishnu",
-    "consort": "Goddess Ranganayaki (Lakshmi)",
-    "others": ["Chakrathazhwar", "Garuda", "Dhanvantari", "Hayagriva", "Andal", "Ramanuja (shrine)"]
+  "identity": {
+    "nameEn": "Sri Ranganathaswamy Temple, Srirangam",
+    "alternateNames": [],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Divya Desam",
+    "sacredClassifications": [
+      "Divya Desam",
+      "Pancharanga Kshetram",
+      "Vaishnavite",
+      "Dravidian",
+      "Island temple",
+      "Divya Desam #1"
+    ],
+    "spiritualSignificanceShort": "Srirangam is the foremost of the 108 Divya Desams and one of the most important pilgrimage centres of Sri Vaishnavism. It is celebrated as 'Bhooloka Vaikuntam' — Vaikuntha (Vishnu's celestial abode) on earth — and as the first of the Pancharanga Kshetrams, the five Ranganatha temples along the Kaveri.",
+    "nameLocal": "ஸ்ரீ அரங்கநாதசுவாமி கோயில், திருவரங்கம்",
+    "localLanguage": "Tamil",
+    "consortDeity": "Goddess Ranganayaki (Lakshmi)"
   },
   "location": {
     "city": "Srirangam",
     "district": "Tiruchirappalli",
-    "state": "Tamil Nadu",
+    "stateProvince": "Tamil Nadu",
     "country": "India",
-    "address": "Srirangam, Tiruchirappalli, Tamil Nadu 620006, India",
-    "coordinates": { "lat": 10.8624, "lng": 78.6897 }
+    "postalCode": "620006",
+    "latitude": 10.8624,
+    "longitude": 78.6897
   },
-  "classification": {
-    "templeType": "Divya Desam",
-    "tradition": "Vaishnavite",
-    "architecturalStyle": "Dravidian",
-    "divyaDesam": 1,
-    "tags": ["Divya Desam", "Pancharanga Kshetram", "Vaishnavite", "Dravidian", "Island temple"]
+  "governance": {
+    "establishedEra": "Antiquity attested from the Sangam era; expanded 9th–17th centuries CE · Pre-6th century CE origins; present complex largely 14th–17th century CE",
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+    "officialWebsite": "https://srirangam.hrce.tn.gov.in",
+    "officialPhone": "+91-431-2432246"
   },
-  "established": {
-    "period": "Antiquity attested from the Sangam era; expanded 9th–17th centuries CE",
-    "yearText": "Pre-6th century CE origins; present complex largely 14th–17th century CE"
+  "narrative": {
+    "summaryIntro": "Sri Ranganathaswamy Temple at Srirangam, Tiruchirappalli, Tamil Nadu, is a Hindu temple dedicated to Ranganatha, the reclining form of the god Vishnu. Situated on an island formed by the Kaveri and Kollidam rivers, it is generally regarded as the largest functioning Hindu temple in the world, its walled complex covering roughly 63 hectares (156 acres).\n\nThe temple is the first and foremost of the 108 Divya Desams — the Vishnu temples glorified in the Naalayira Divya Prabandham, the early-medieval Tamil canon of the Alvar saints. It is a principal centre of the Sri Vaishnava tradition and was the seat of the philosopher Ramanuja in the 11th–12th centuries.\n\nBuilt and expanded over more than a millennium under the Chola, Pandya, Hoysala, Vijayanagara and Nayak dynasties, the complex contains seven concentric prakaras (enclosures), 21 gopurams (gateway towers), and numerous mandapams (pillared halls). Its 13-tiered Rajagopuram, completed in 1987, rises about 72 metres, making it one of the tallest temple towers in Asia.",
+    "documentedHistory": "According to the temple's Sthalapurana, the Ranga Vimana — the shrine housing Ranganatha — was originally worshipped by the solar dynasty and given by Rama to Vibhishana; while resting on the Kaveri island during his journey to Lanka, the deity chose to remain facing south toward Lanka, and the shrine was established at Srirangam.\n\nHistorically, Srirangam is mentioned in Sangam-era literature, and the temple's fame grew through the hymns of the Alvar saints (6th–9th centuries CE), who dedicated more verses to Ranganatha of Srirangam than to any other deity. Epigraphic records document continuous endowments from the Chola and Pandya periods onwards.\n\nThe temple was sacked during the invasions of the Delhi Sultanate in 1311 (Malik Kafur) and again in 1323. The presiding image was carried away and the temple's traditions disrupted; the deity was restored to Srirangam in 1371 under early Vijayanagara patronage. The following three centuries — under the Vijayanagara empire and the Nayaks of Madurai — saw the greatest expansion of the complex: outer prakaras, gopurams, and grand mandapams.\n\nIn 2017 the temple received the UNESCO Asia-Pacific Award of Merit for cultural heritage conservation, recognising the restoration of the complex using traditional methods and materials.",
+    "associatedSaints": [],
+    "sthalaPuranam": "Srirangam is the foremost of the 108 Divya Desams and one of the most important pilgrimage centres of Sri Vaishnavism. It is celebrated as 'Bhooloka Vaikuntam' — Vaikuntha (Vishnu's celestial abode) on earth — and as the first of the Pancharanga Kshetrams, the five Ranganatha temples along the Kaveri.\n\nThe Alvar saints composed 247 pasurams (hymns) on Ranganatha of Srirangam in the Naalayira Divya Prabandham. The temple is intimately associated with Andal, who according to tradition merged with the deity here, and with Thiruppan Alvar. Ramanuja systematised the temple's administration and worship in the 11th–12th centuries; the Pancharatra agama governs its rituals to this day.\n\nDevotees hold that darshan of Ranganatha at Srirangam, especially through the Paramapada Vasal (Gate of Vaikuntha) on Vaikunta Ekadasi, confers liberation (moksha). The temple is thus a principal destination for Vaishnava pilgrimage in South India and among diaspora communities worldwide.",
+    "architectureStyle": "Dravidian"
   },
-  "governingBody": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
-  "website": "https://srirangam.hrce.tn.gov.in",
-  "timings": {
-    "darshan": [
-      { "label": "Morning", "from": "06:00", "to": "13:00" },
-      { "label": "Evening", "from": "15:00", "to": "21:00" }
-    ],
-    "pujaSchedule": [
-      { "time": "06:00", "name": "Viswaroopa Seva" },
-      { "time": "07:15", "name": "Pooja / Thiruvaradhanam" },
-      { "time": "12:00", "name": "Uchikala Pooja" },
-      { "time": "18:00", "name": "Sayaratchai" },
-      { "time": "21:00", "name": "Ekanta Seva (night ritual)" }
-    ]
+  "editorial": {
+    "overallVerificationStatus": "partial"
   },
-  "heroImage": {
-    "src": "/images/temples/srirangam-ranganathaswamy/hero-rajagopuram.jpg",
-    "alt": "The Rajagopuram of Sri Ranganathaswamy Temple, Srirangam",
-    "caption": "The 72-metre Rajagopuram — among the tallest temple towers in Asia",
-    "credit": {
-      "author": "Rainer Halama",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam-Ranganathaswamy_Temple-.jpg"
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire; shoulders and knees covered. Dhoti/saree recommended for sevas.",
+    "entryRules": "• Traditional dress required; western formal wear is tolerated in outer prakaras but not for special sevas.\n• Free darshan queue operates all day; paid quick-darshan tickets are available at the counters.\n• Elderly and differently-abled devotees may use the wheelchair assistance and separate queue at the main gate.\n• No photography or videography beyond the outer prakaras.\n• No leather goods, footwear, tobacco, alcohol or non-vegetarian food inside the complex.\n• Sanctum entry restricted to Hindus, per temple custom.\n• Mobile phones must be silent; calls are not permitted in the inner prakaras.",
+    "nearestRailStation": "Srirangam railway station (1 km) on the Chennai–Tiruchirappalli line; Tiruchirappalli Junction 9 km.",
+    "railDistanceKm": 1,
+    "nearestBusStation": "City buses and autos from Tiruchirappalli; NH-38/Chennai–Trichy highways.",
+    "nearestAirport": "Tiruchirappalli International Airport (TRZ), ~15 km.",
+    "airportDistanceKm": 15
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
     }
-  },
-  "atAGlance": [
-    { "icon": "deity", "label": "Presiding Deity", "value": "Lord Ranganatha — reclining form of Vishnu" },
-    { "icon": "clock", "label": "Darshan Timings", "value": "06:00–13:00 · 15:00–21:00" },
-    { "icon": "dress", "label": "Dress Code", "value": "Traditional attire; shoulders and knees covered" },
-    { "icon": "transit", "label": "Nearest Transit", "value": "Srirangam railway station (1 km) · Tiruchirappalli Intl. Airport (15 km)" },
-    { "icon": "area", "label": "Complex Size", "value": "About 63 hectares (156 acres) — the largest functioning Hindu temple" },
-    { "icon": "tower", "label": "Gopurams", "value": "21 towers across seven prakaras" }
   ],
-  "sections": {
-    "introduction": {
-      "paragraphs": [
-        "Sri Ranganathaswamy Temple at Srirangam, Tiruchirappalli, Tamil Nadu, is a Hindu temple dedicated to Ranganatha, the reclining form of the god Vishnu. Situated on an island formed by the Kaveri and Kollidam rivers, it is generally regarded as the largest functioning Hindu temple in the world, its walled complex covering roughly 63 hectares (156 acres).",
-        "The temple is the first and foremost of the 108 Divya Desams — the Vishnu temples glorified in the Naalayira Divya Prabandham, the early-medieval Tamil canon of the Alvar saints. It is a principal centre of the Sri Vaishnava tradition and was the seat of the philosopher Ramanuja in the 11th–12th centuries.",
-        "Built and expanded over more than a millennium under the Chola, Pandya, Hoysala, Vijayanagara and Nayak dynasties, the complex contains seven concentric prakaras (enclosures), 21 gopurams (gateway towers), and numerous mandapams (pillared halls). Its 13-tiered Rajagopuram, completed in 1987, rises about 72 metres, making it one of the tallest temple towers in Asia."
-      ],
-      "citations": [1, 2, 4]
+  "worshipSop": [
+    {
+      "sopStepId": "SOP001",
+      "stepNumber": 1,
+      "stepTitle": "Before You Enter",
+      "instruction": "Bathe and wear clean traditional clothing; many pilgrims bathe in the Kaveri before darshan.\nDress code: men — dhoti/pyjama or trousers with upper cloth or shirt; women — saree, half-saree or salwar kameez. Shorts, sleeveless tops and lungis are not permitted.\nCarry offerings if you wish: tulsi garland, flowers, coconut, camphor and incense are customary for Vishnu.\nFootwear must be deposited at the stands outside the outer prakara; mobile phones should be silenced.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     },
-    "history": {
-      "paragraphs": [
-        "According to the temple's Sthalapurana, the Ranga Vimana — the shrine housing Ranganatha — was originally worshipped by the solar dynasty and given by Rama to Vibhishana; while resting on the Kaveri island during his journey to Lanka, the deity chose to remain facing south toward Lanka, and the shrine was established at Srirangam.",
-        "Historically, Srirangam is mentioned in Sangam-era literature, and the temple's fame grew through the hymns of the Alvar saints (6th–9th centuries CE), who dedicated more verses to Ranganatha of Srirangam than to any other deity. Epigraphic records document continuous endowments from the Chola and Pandya periods onwards.",
-        "The temple was sacked during the invasions of the Delhi Sultanate in 1311 (Malik Kafur) and again in 1323. The presiding image was carried away and the temple's traditions disrupted; the deity was restored to Srirangam in 1371 under early Vijayanagara patronage. The following three centuries — under the Vijayanagara empire and the Nayaks of Madurai — saw the greatest expansion of the complex: outer prakaras, gopurams, and grand mandapams.",
-        "In 2017 the temple received the UNESCO Asia-Pacific Award of Merit for cultural heritage conservation, recognising the restoration of the complex using traditional methods and materials."
-      ],
-      "citations": [2, 3, 5]
+    {
+      "sopStepId": "SOP002",
+      "stepNumber": 2,
+      "stepTitle": "At the Entrance (Rajagopuram)",
+      "instruction": "Enter through the southern Rajagopuram gateway, stepping in with the right foot first, per tradition.\nOffer respects at the Dwajasthambam (golden flag post) in the inner court with folded hands.\nPradakshina (circumambulation) is always clockwise; pilgrims traditionally walk the inner prakaras.\nOn festival days, follow the queue signage — the temple operates separate free and paid darshan queues.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     },
-    "architecture": {
-      "paragraphs": [
-        "The complex is a textbook of Dravidian temple architecture at urban scale: seven rectangular prakaras (concentric walled enclosures) wrap the sanctum, the outermost measuring over 3 kilometres in perimeter. The three outer enclosures contain streets, houses and shops — the living town of Srirangam — while the four inner enclosures are strictly religious space.",
-        "The complex has 21 gopurams. The southern Rajagopuram, left unfinished for centuries as a massive base, was completed by the 44th Jeer of the Ahobila Matha in 1987; at about 72 metres (236 ft) over 13 tiers, it dominates the skyline of Tiruchirappalli.",
-        "Notable structures include the Hall of 1000 Pillars (actually 953 pillars of granite, a Vijayanagara-period composition), the Sesharayar Mandapam with its dramatic rearing-horse monolith pillars, the gold-plated Ranga Vimana over the sanctum, and shrines to Ranganayaki Thayar, Chakrathazhwar, and the Vaishnava acharyas, including the shrine where the preserved form of Ramanuja is venerated."
-      ],
-      "citations": [2, 4]
+    {
+      "sopStepId": "SOP003",
+      "stepNumber": 3,
+      "stepTitle": "Inside the Temple Premises",
+      "instruction": "Customary order: Chakrathazhwar and Garuda sannidhi, then Ranganayaki Thayar shrine, before proceeding to the main sanctum — at Divya Desams the Thayar is traditionally worshipped first.\nVisit the Ramanuja shrine in the fourth prakara, where the acharya's preserved form is venerated.\nStand with palms joined (anjali mudra) at each shrine; recite the deity's names or pasurams softly.\nDo not touch the deities, the dhwajasthambam, or festival vahanas.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     },
-    "religiousSignificance": {
-      "paragraphs": [
-        "Srirangam is the foremost of the 108 Divya Desams and one of the most important pilgrimage centres of Sri Vaishnavism. It is celebrated as 'Bhooloka Vaikuntam' — Vaikuntha (Vishnu's celestial abode) on earth — and as the first of the Pancharanga Kshetrams, the five Ranganatha temples along the Kaveri.",
-        "The Alvar saints composed 247 pasurams (hymns) on Ranganatha of Srirangam in the Naalayira Divya Prabandham. The temple is intimately associated with Andal, who according to tradition merged with the deity here, and with Thiruppan Alvar. Ramanuja systematised the temple's administration and worship in the 11th–12th centuries; the Pancharatra agama governs its rituals to this day.",
-        "Devotees hold that darshan of Ranganatha at Srirangam, especially through the Paramapada Vasal (Gate of Vaikuntha) on Vaikunta Ekadasi, confers liberation (moksha). The temple is thus a principal destination for Vaishnava pilgrimage in South India and among diaspora communities worldwide."
-      ],
-      "citations": [2, 5, 6]
+    {
+      "sopStepId": "SOP004",
+      "stepNumber": 4,
+      "stepTitle": "Main Deity Darshan (Ranganatha)",
+      "instruction": "Approach the Garbhagriha through the Gayatri Mandapam; the reclining Ranganatha is viewed feet-first — let your gaze rest at the lotus feet before moving to the face.\nChant 'Om Namo Narayanaya' or the Ranganatha Gadyam as you stand before the sanctum.\nReceive theertham (holy water) in a cupped right hand over the left, sip, and touch the hand to your eyes; receive prasadam with both hands cupped.\nDo not linger at the sanctum doorway during heavy queues; a calm, brief darshan is traditional.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     },
-    "administration": {
-      "paragraphs": [
-        "The temple is administered by the Hindu Religious & Charitable Endowments (HR&CE) Department of the Government of Tamil Nadu, through an Executive Officer and a Board of Trustees. Daily worship follows the Pancharatra agama, conducted by hereditary priest families.",
-        "The temple operates guest houses, annadanam (free food) programmes, an elephant, a museum, and a heritage conservation cell. Official communication, seva bookings and e-donation facilities are provided through the HR&CE portal."
-      ],
-      "citations": [1]
+    {
+      "sopStepId": "SOP005",
+      "stepNumber": 5,
+      "stepTitle": "Sevas & Abhishekam",
+      "instruction": "Archana (name-and-nakshatra puja) may be booked at the counters in the inner prakara.\nAbhishekam and Thirumanjanam sponsorships are available on published days; book in advance at the Devasthanam office or online via the HR&CE portal.\nViswaroopa Seva (early-morning first darshan, 06:00) and Ekanta Seva (night) are especially valued; arrive 30 minutes early.\nPrasadam — the temple's famed puliyodarai (tamarind rice) and sweet pongal — is available at the official counters.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     },
-    "donationsAndServices": {
-      "paragraphs": [
-        "The temple accepts donations for annadanam, renovation (thiruppani), festival sponsorship, and general endowment through the official HR&CE channels. Sevas such as archana, abhishekam and vahana processions may be booked at the temple counters or online.",
-        "Through this directory, devotees may additionally sponsor an Akhand Deepam — a continuously burning lamp — in their name or their family's name (see the Light a Lamp section below)."
-      ],
-      "citations": [1]
+    {
+      "sopStepId": "SOP006",
+      "stepNumber": 6,
+      "stepTitle": "What Not to Do & Before Leaving",
+      "instruction": "Photography is prohibited inside the inner prakaras and sanctum; leather items, tobacco, alcohol and non-vegetarian food must not be brought into the complex.\nNon-Hindus may visit the outer prakaras but are not admitted into the sanctum, per temple custom.\nComplete a final pradakshina and offer a lamp at the lamp stands if you wish.\nWhen leaving the sanctum, avoid turning your back to the deity immediately — step aside first; sit for a few minutes in the mandapam before exiting the temple.",
+      "verificationStatus": "draft",
+      "sourceIds": [],
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
     }
-  },
-  "worshipSOP": {
-    "steps": [
+  ],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Chakrathazhwar",
+      "deityOrSubject": "Chakrathazhwar",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Garuda",
+      "deityOrSubject": "Garuda",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Dhanvantari",
+      "deityOrSubject": "Dhanvantari",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Hayagriva",
+      "deityOrSubject": "Hayagriva",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Andal",
+      "deityOrSubject": "Andal",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Ramanuja (shrine)",
+      "deityOrSubject": "Ramanuja (shrine)",
+      "spaceType": "shrine",
+      "verificationStatus": "unverified",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Viswaroopa Seva",
+      "startTime": "06:00",
+      "recurrence": "Daily",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Pooja / Thiruvaradhanam",
+      "startTime": "07:15",
+      "recurrence": "Daily",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Uchikala Pooja",
+      "startTime": "12:00",
+      "recurrence": "Daily",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Sayaratchai",
+      "startTime": "18:00",
+      "recurrence": "Daily",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Ekanta Seva (night ritual)",
+      "startTime": "21:00",
+      "recurrence": "Daily",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "SEV001",
+      "recordType": "seva",
+      "nameEn": "Archana",
+      "description": "Personalised puja with the devotee's name, gotra and nakshatra recited by the priest.",
+      "bookingMethod": "Counter in the inner prakara",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "SEV002",
+      "recordType": "seva",
+      "nameEn": "Thirumanjanam (Abhishekam)",
+      "description": "Ceremonial bath of the utsava deity with milk, curd, honey and sandal on published days.",
+      "bookingMethod": "Devasthanam office / HR&CE online",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "SEV003",
+      "recordType": "seva",
+      "nameEn": "Vahana Seva Sponsorship",
+      "description": "Sponsor a procession of the deity on one of the temple's vahanas (mounts) during festivals.",
+      "bookingMethod": "Advance booking at Devasthanam office",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "SEV004",
+      "recordType": "seva",
+      "nameEn": "Annadanam",
+      "description": "Sponsor free meals served daily to devotees.",
+      "bookingMethod": "Annadanam counter or online",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Vaikunta Ekadasi (Pagal Pathu & Ra Pathu)",
+      "tamilOrLocalMonth": "December–January (Margazhi)",
+      "duration": "21 days",
+      "significance": "The temple's greatest festival. The Paramapada Vasal (Gate of Vaikuntha) is opened, and Ranganatha in pearl armour passes through it; hundreds of thousands attend. The Araiyar Sevai recital of the Divya Prabandham is performed.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Chithirai Brahmotsavam (Viruppan Thirunal)",
+      "tamilOrLocalMonth": "April–May (Chithirai)",
+      "duration": "10 days",
+      "significance": "Grand annual festival with daily vahana processions and the car (ther) festival through the Chithirai streets.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Jyeshtabhishekam",
+      "tamilOrLocalMonth": "June–July (Aani)",
+      "duration": "1 day",
+      "significance": "Annual ceremonial cleansing and re-anointment of the utsava deity.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Andal Adi Pooram",
+      "tamilOrLocalMonth": "July–August (Adi)",
+      "duration": "10 days",
+      "significance": "Celebrates Andal, the poet-saint bride of Ranganatha.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES005",
+      "festivalNameEn": "Panguni Uthiram",
+      "tamilOrLocalMonth": "March–April (Panguni)",
+      "duration": "1 day",
+      "significance": "Divine wedding festival; the only day Ranganatha and Ranganayaki grant joint darshan (serthi seva).",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sri Ranganathaswamy Temple, Srirangam — hero image",
+      "caption": "The 72-metre Rajagopuram — among the tallest temple towers in Asia",
+      "altText": "The Rajagopuram of Sri Ranganathaswamy Temple, Srirangam",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/hero-rajagopuram.jpg",
+      "creator": "Rainer Halama",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Rainer Halama · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam-Ranganathaswamy_Temple-.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Gopurams rise over the temple town of Srirangam",
+      "caption": "Gopurams rise over the temple town of Srirangam",
+      "altText": "Colourful gopurams of the Ranganathaswamy Temple rising over Srirangam town",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/gopurams-colorful.jpg",
+      "creator": "simianwolverine",
+      "license": "CC BY 2.0",
+      "attributionText": "simianwolverine · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_gopurams_Ranganathaswamy_Temple,_Srirangam_temples_town.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "The temple at dusk",
+      "caption": "The temple at dusk",
+      "altText": "Evening view of the Ranganathaswamy temple",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/evening-view.jpg",
+      "creator": "Surphy4u",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Surphy4u · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_-_Srirangam_-_evening_view.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED004",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "One of the 21 gopurams",
+      "caption": "One of the 21 gopurams",
+      "altText": "View of a gopuram of Srirangam temple",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/gopuram-view.jpg",
+      "creator": "Writer hit",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Writer hit · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam_Temple_Gopuram_View.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED005",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "The Hall of 1000 Pillars, with Vijayanagara-period horse pillars",
+      "caption": "The Hall of 1000 Pillars, with Vijayanagara-period horse pillars",
+      "altText": "Hall of 1000 pillars with sculptures of rearing horses",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/hall-1000-pillars.jpg",
+      "creator": "Haneeshkm",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Haneeshkm · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hall_of_1000_pillars_with_sculptures_of_riding_horses,_Ranganathaswamy_Temple,_Srirangam.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED006",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "The temple elephant among carved pillars",
+      "caption": "The temple elephant among carved pillars",
+      "altText": "Temple elephant among the carved pillars of Srirangam temple",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/temple-elephant.jpg",
+      "creator": "Giridhar Appaji Nag Y",
+      "license": "CC BY 2.0",
+      "attributionText": "Giridhar Appaji Nag Y · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_among_the_pillars_of_Srirangam_temple,_Tiruchirapalli.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED007",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Panoramic view across the complex",
+      "caption": "Panoramic view across the complex",
+      "altText": "Panoramic banner view of Srirangam temple",
+      "fileOrUrl": "/images/temples/srirangam-ranganathaswamy/temple-banner.jpg",
+      "creator": "Haneeshkm",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Haneeshkm · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam_banner.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Ranganathaswamy Thirukoil, Srirangam — official temple portal",
+      "publisherOrAuthority": "HR&CE Department, Government of Tamil Nadu",
+      "url": "https://srirangam.hrce.tn.gov.in",
+      "accessDate": "2026-08-26",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Sri Ranganathaswamy Temple, Srirangam — temple history and architecture overview",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+      "accessDate": "2026-08-26",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Award of Merit 2017: Sri Ranganathaswamy Temple, Tiruchirappalli",
+      "publisherOrAuthority": "UNESCO Asia-Pacific Awards for Cultural Heritage Conservation",
+      "url": "https://bangkok.unesco.org/content/2017-asia-pacific-awards-cultural-heritage-conservation",
+      "accessDate": "2026-08-26",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Monuments of Tiruchirappalli district — Srirangam temple complex",
+      "publisherOrAuthority": "Archaeological Survey of India (Chennai Circle) records",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Naalayira Divya Prabandham — pasurams on Thiruvarangam (Srirangam)",
+      "publisherOrAuthority": "Sri Vaishnava canonical literature",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Koil Olugu — the chronicle of the Srirangam temple",
+      "publisherOrAuthority": "Temple chronicle (historical record)",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Chakrathazhwar",
+      "Garuda",
+      "Dhanvantari",
+      "Hayagriva",
+      "Andal",
+      "Ramanuja (shrine)"
+    ],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002",
+      "FES005"
+    ],
+    "nearbyTemples": [
       {
-        "title": "Before You Enter",
-        "points": [
-          "Bathe and wear clean traditional clothing; many pilgrims bathe in the Kaveri before darshan.",
-          "Dress code: men — dhoti/pyjama or trousers with upper cloth or shirt; women — saree, half-saree or salwar kameez. Shorts, sleeveless tops and lungis are not permitted.",
-          "Carry offerings if you wish: tulsi garland, flowers, coconut, camphor and incense are customary for Vishnu.",
-          "Footwear must be deposited at the stands outside the outer prakara; mobile phones should be silenced."
-        ]
+        "name": "Jambukeswarar Temple, Thiruvanaikaval",
+        "distanceKm": 2,
+        "slug": "thiruvanaikaval-jambukeswarar"
       },
       {
-        "title": "At the Entrance (Rajagopuram)",
-        "points": [
-          "Enter through the southern Rajagopuram gateway, stepping in with the right foot first, per tradition.",
-          "Offer respects at the Dwajasthambam (golden flag post) in the inner court with folded hands.",
-          "Pradakshina (circumambulation) is always clockwise; pilgrims traditionally walk the inner prakaras.",
-          "On festival days, follow the queue signage — the temple operates separate free and paid darshan queues."
-        ]
+        "name": "Ucchi Pillayar Temple, Rockfort, Trichy",
+        "distanceKm": 8
       },
       {
-        "title": "Inside the Temple Premises",
-        "points": [
-          "Customary order: Chakrathazhwar and Garuda sannidhi, then Ranganayaki Thayar shrine, before proceeding to the main sanctum — at Divya Desams the Thayar is traditionally worshipped first.",
-          "Visit the Ramanuja shrine in the fourth prakara, where the acharya's preserved form is venerated.",
-          "Stand with palms joined (anjali mudra) at each shrine; recite the deity's names or pasurams softly.",
-          "Do not touch the deities, the dhwajasthambam, or festival vahanas."
-        ]
-      },
-      {
-        "title": "Main Deity Darshan (Ranganatha)",
-        "points": [
-          "Approach the Garbhagriha through the Gayatri Mandapam; the reclining Ranganatha is viewed feet-first — let your gaze rest at the lotus feet before moving to the face.",
-          "Chant 'Om Namo Narayanaya' or the Ranganatha Gadyam as you stand before the sanctum.",
-          "Receive theertham (holy water) in a cupped right hand over the left, sip, and touch the hand to your eyes; receive prasadam with both hands cupped.",
-          "Do not linger at the sanctum doorway during heavy queues; a calm, brief darshan is traditional."
-        ]
-      },
-      {
-        "title": "Sevas & Abhishekam",
-        "points": [
-          "Archana (name-and-nakshatra puja) may be booked at the counters in the inner prakara.",
-          "Abhishekam and Thirumanjanam sponsorships are available on published days; book in advance at the Devasthanam office or online via the HR&CE portal.",
-          "Viswaroopa Seva (early-morning first darshan, 06:00) and Ekanta Seva (night) are especially valued; arrive 30 minutes early.",
-          "Prasadam — the temple's famed puliyodarai (tamarind rice) and sweet pongal — is available at the official counters."
-        ]
-      },
-      {
-        "title": "What Not to Do & Before Leaving",
-        "points": [
-          "Photography is prohibited inside the inner prakaras and sanctum; leather items, tobacco, alcohol and non-vegetarian food must not be brought into the complex.",
-          "Non-Hindus may visit the outer prakaras but are not admitted into the sanctum, per temple custom.",
-          "Complete a final pradakshina and offer a lamp at the lamp stands if you wish.",
-          "When leaving the sanctum, avoid turning your back to the deity immediately — step aside first; sit for a few minutes in the mandapam before exiting the temple."
-        ]
+        "name": "Samayapuram Mariamman Temple",
+        "distanceKm": 12
       }
     ],
-    "entryGuidelines": [
-      "Traditional dress required; western formal wear is tolerated in outer prakaras but not for special sevas.",
-      "Free darshan queue operates all day; paid quick-darshan tickets are available at the counters.",
-      "Elderly and differently-abled devotees may use the wheelchair assistance and separate queue at the main gate."
-    ],
-    "specialRituals": [
-      { "ritual": "Archana", "description": "Personalised puja with the devotee's name, gotra and nakshatra recited by the priest.", "howToBook": "Counter in the inner prakara" },
-      { "ritual": "Thirumanjanam (Abhishekam)", "description": "Ceremonial bath of the utsava deity with milk, curd, honey and sandal on published days.", "howToBook": "Devasthanam office / HR&CE online" },
-      { "ritual": "Vahana Seva Sponsorship", "description": "Sponsor a procession of the deity on one of the temple's vahanas (mounts) during festivals.", "howToBook": "Advance booking at Devasthanam office" },
-      { "ritual": "Annadanam", "description": "Sponsor free meals served daily to devotees.", "howToBook": "Annadanam counter or online" }
-    ],
-    "restrictions": [
-      "No photography or videography beyond the outer prakaras.",
-      "No leather goods, footwear, tobacco, alcohol or non-vegetarian food inside the complex.",
-      "Sanctum entry restricted to Hindus, per temple custom.",
-      "Mobile phones must be silent; calls are not permitted in the inner prakaras."
+    "reviews": [
+      {
+        "author": "Devotee from Chennai",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Attended Vaikunta Ekadasi — passing through the Paramapada Vasal is an experience beyond words. Plan for long queues."
+      },
+      {
+        "author": "Pilgrim from Singapore",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "The scale of the seven prakaras is humbling. The Viswaroopa Seva at dawn is serene; the puliyodarai prasadam is a must."
+      },
+      {
+        "author": "Visitor from Bengaluru",
+        "rating": 4,
+        "date": "2025-09-03",
+        "text": "Beautifully maintained. The 1000-pillar hall and the museum deserve an unhurried hour each."
+      }
     ],
     "spiritualOutcomes": [
       "Moksha (liberation) — darshan through the Paramapada Vasal on Vaikunta Ekadasi is believed to confer liberation.",
       "Removal of obstacles and ancestral blessings — associated with worship of Ranganatha with tulsi.",
       "Marital harmony and family welfare — attributed to worship of Ranganayaki Thayar."
-    ]
-  },
-  "festivals": [
-    { "name": "Vaikunta Ekadasi (Pagal Pathu & Ra Pathu)", "month": "December–January (Margazhi)", "duration": "21 days", "description": "The temple's greatest festival. The Paramapada Vasal (Gate of Vaikuntha) is opened, and Ranganatha in pearl armour passes through it; hundreds of thousands attend. The Araiyar Sevai recital of the Divya Prabandham is performed.", "major": true },
-    { "name": "Chithirai Brahmotsavam (Viruppan Thirunal)", "month": "April–May (Chithirai)", "duration": "10 days", "description": "Grand annual festival with daily vahana processions and the car (ther) festival through the Chithirai streets.", "major": true },
-    { "name": "Jyeshtabhishekam", "month": "June–July (Aani)", "duration": "1 day", "description": "Annual ceremonial cleansing and re-anointment of the utsava deity.", "major": false },
-    { "name": "Andal Adi Pooram", "month": "July–August (Adi)", "duration": "10 days", "description": "Celebrates Andal, the poet-saint bride of Ranganatha.", "major": false },
-    { "name": "Panguni Uthiram", "month": "March–April (Panguni)", "duration": "1 day", "description": "Divine wedding festival; the only day Ranganatha and Ranganayaki grant joint darshan (serthi seva).", "major": true }
-  ],
-  "visitingInfo": {
+    ],
+    "facilities": [
+      "Cloakroom & footwear stand",
+      "Wheelchair assistance",
+      "Annadanam hall",
+      "Devasthanam guest houses",
+      "Prasadam counters",
+      "Temple museum & viewpoint (Rajagopuram)"
+    ],
+    "address": "The Joint Commissioner / Executive Officer, Sri Ranganathaswamy Temple, Srirangam, Tiruchirappalli 620006, Tamil Nadu, India",
+    "architectureNotes": "The complex is a textbook of Dravidian temple architecture at urban scale: seven rectangular prakaras (concentric walled enclosures) wrap the sanctum, the outermost measuring over 3 kilometres in perimeter. The three outer enclosures contain streets, houses and shops — the living town of Srirangam — while the four inner enclosures are strictly religious space.\n\nThe complex has 21 gopurams. The southern Rajagopuram, left unfinished for centuries as a massive base, was completed by the 44th Jeer of the Ahobila Matha in 1987; at about 72 metres (236 ft) over 13 tiers, it dominates the skyline of Tiruchirappalli.\n\nNotable structures include the Hall of 1000 Pillars (actually 953 pillars of granite, a Vijayanagara-period composition), the Sesharayar Mandapam with its dramatic rearing-horse monolith pillars, the gold-plated Ranga Vimana over the sanctum, and shrines to Ranganayaki Thayar, Chakrathazhwar, and the Vaishnava acharyas, including the shrine where the preserved form of Ramanuja is venerated.",
+    "administrationNotes": "The temple is administered by the Hindu Religious & Charitable Endowments (HR&CE) Department of the Government of Tamil Nadu, through an Executive Officer and a Board of Trustees. Daily worship follows the Pancharatra agama, conducted by hereditary priest families.\n\nThe temple operates guest houses, annadanam (free food) programmes, an elephant, a museum, and a heritage conservation cell. Official communication, seva bookings and e-donation facilities are provided through the HR&CE portal.",
+    "donationsNotes": "The temple accepts donations for annadanam, renovation (thiruppani), festival sponsorship, and general endowment through the official HR&CE channels. Sevas such as archana, abhishekam and vahana processions may be booked at the temple counters or online.\n\nThrough this directory, devotees may additionally sponsor an Akhand Deepam — a continuously burning lamp — in their name or their family's name (see the Light a Lamp section below).",
     "bestTime": "November to March; Margazhi (Dec–Jan) for Vaikunta Ekadasi, though crowds are largest then.",
-    "dressCode": "Traditional attire; shoulders and knees covered. Dhoti/saree recommended for sevas.",
-    "howToReach": {
-      "air": "Tiruchirappalli International Airport (TRZ), ~15 km.",
-      "rail": "Srirangam railway station (1 km) on the Chennai–Tiruchirappalli line; Tiruchirappalli Junction 9 km.",
-      "road": "City buses and autos from Tiruchirappalli; NH-38/Chennai–Trichy highways."
-    },
-    "facilities": ["Cloakroom & footwear stand", "Wheelchair assistance", "Annadanam hall", "Devasthanam guest houses", "Prasadam counters", "Temple museum & viewpoint (Rajagopuram)"],
-    "entryFee": "Free darshan; paid quick-darshan tickets available. Viewpoint ticket separate.",
-    "nearbyAttractions": ["Thiruvanaikaval Jambukeswarar Temple (2 km)", "Rockfort Ucchi Pillayar Temple, Trichy (8 km)", "Kallanai Dam (20 km)"]
+    "entryFee": "Free darshan; paid quick-darshan tickets available. Viewpoint ticket separate."
   },
-  "lamp": { "enabled": true, "lampsToday": 47 },
-  "gallery": [
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/gopurams-colorful.jpg",
-      "alt": "Colourful gopurams of the Ranganathaswamy Temple rising over Srirangam town",
-      "caption": "Gopurams rise over the temple town of Srirangam",
-      "credit": { "author": "simianwolverine", "license": "CC BY 2.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_gopurams_Ranganathaswamy_Temple,_Srirangam_temples_town.jpg" }
-    },
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/evening-view.jpg",
-      "alt": "Evening view of the Ranganathaswamy temple",
-      "caption": "The temple at dusk",
-      "credit": { "author": "Surphy4u", "license": "CC BY-SA 3.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ranganathaswamy_temple_-_Srirangam_-_evening_view.jpg" }
-    },
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/gopuram-view.jpg",
-      "alt": "View of a gopuram of Srirangam temple",
-      "caption": "One of the 21 gopurams",
-      "credit": { "author": "Writer hit", "license": "CC BY-SA 4.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam_Temple_Gopuram_View.jpg" }
-    },
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/hall-1000-pillars.jpg",
-      "alt": "Hall of 1000 pillars with sculptures of rearing horses",
-      "caption": "The Hall of 1000 Pillars, with Vijayanagara-period horse pillars",
-      "credit": { "author": "Haneeshkm", "license": "CC BY-SA 4.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hall_of_1000_pillars_with_sculptures_of_riding_horses,_Ranganathaswamy_Temple,_Srirangam.jpg" }
-    },
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/temple-elephant.jpg",
-      "alt": "Temple elephant among the carved pillars of Srirangam temple",
-      "caption": "The temple elephant among carved pillars",
-      "credit": { "author": "Giridhar Appaji Nag Y", "license": "CC BY 2.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_among_the_pillars_of_Srirangam_temple,_Tiruchirapalli.jpg" }
-    },
-    {
-      "src": "/images/temples/srirangam-ranganathaswamy/temple-banner.jpg",
-      "alt": "Panoramic banner view of Srirangam temple",
-      "caption": "Panoramic view across the complex",
-      "credit": { "author": "Haneeshkm", "license": "CC BY-SA 4.0", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srirangam_banner.jpg" }
-    }
-  ],
-  "nearbyTemples": [
-    { "name": "Jambukeswarar Temple, Thiruvanaikaval", "distanceKm": 2, "slug": "thiruvanaikaval-jambukeswarar" },
-    { "name": "Ucchi Pillayar Temple, Rockfort, Trichy", "distanceKm": 8 },
-    { "name": "Samayapuram Mariamman Temple", "distanceKm": 12 }
-  ],
-  "reviews": [
-    { "author": "Devotee from Chennai", "rating": 5, "date": "2026-01-10", "text": "Attended Vaikunta Ekadasi — passing through the Paramapada Vasal is an experience beyond words. Plan for long queues." },
-    { "author": "Pilgrim from Singapore", "rating": 5, "date": "2025-11-22", "text": "The scale of the seven prakaras is humbling. The Viswaroopa Seva at dawn is serene; the puliyodarai prasadam is a must." },
-    { "author": "Visitor from Bengaluru", "rating": 4, "date": "2025-09-03", "text": "Beautifully maintained. The 1000-pillar hall and the museum deserve an unhurried hour each." }
-  ],
-  "contact": {
-    "phone": "+91-431-2432246",
-    "address": "The Joint Commissioner / Executive Officer, Sri Ranganathaswamy Temple, Srirangam, Tiruchirappalli 620006, Tamil Nadu, India"
-  },
-  "references": [
-    { "id": 1, "title": "Arulmigu Ranganathaswamy Thirukoil, Srirangam — official temple portal", "publisher": "HR&CE Department, Government of Tamil Nadu", "url": "https://srirangam.hrce.tn.gov.in", "accessed": "2026-08-26" },
-    { "id": 2, "title": "Sri Ranganathaswamy Temple, Srirangam — temple history and architecture overview", "publisher": "Wikipedia (with sources therein)", "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam", "accessed": "2026-08-26" },
-    { "id": 3, "title": "Award of Merit 2017: Sri Ranganathaswamy Temple, Tiruchirappalli", "publisher": "UNESCO Asia-Pacific Awards for Cultural Heritage Conservation", "url": "https://bangkok.unesco.org/content/2017-asia-pacific-awards-cultural-heritage-conservation", "accessed": "2026-08-26" },
-    { "id": 4, "title": "Monuments of Tiruchirappalli district — Srirangam temple complex", "publisher": "Archaeological Survey of India (Chennai Circle) records" },
-    { "id": 5, "title": "Naalayira Divya Prabandham — pasurams on Thiruvarangam (Srirangam)", "publisher": "Sri Vaishnava canonical literature" },
-    { "id": 6, "title": "Koil Olugu — the chronicle of the Srirangam temple", "publisher": "Temple chronicle (historical record)" }
-  ]
+  "submittedBy": "import"
 }

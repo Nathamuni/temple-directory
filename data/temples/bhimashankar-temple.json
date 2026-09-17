@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-MA-PUN-0003",
+  "slug": "bhimashankar-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Bhimashankar Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Bhimashankar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "भीमशंकर मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Pune",
+    "district": "Pune",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "412101",
+    "latitude": 19.0649,
+    "longitude": 73.5236
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; current structure 17th-18th century · Rebuilt during Marathi period",
+    "managingAuthority": "Bhimashankar Temple Trust"
+  },
+  "narrative": {
+    "summaryIntro": "Bhimashankar Temple is one of the twelve Jyotirlingas and is located in the Sahyadri (Western Ghats) mountain range near Pune, Maharashtra. Dedicated to Lord Shiva as Bhimashankar, the temple is situated in a scenic region and is considered one of the most important pilgrimage sites in western India. The temple is named after the Bhima River, which originates nearby and flows through the region.\n\nThe temple features traditional Deccan architecture and is surrounded by lush forests and scenic mountain landscapes. The site is a major pilgrimage destination and holds special significance during Maha Shivaratri. The temple's location in the heart of nature makes it a unique combination of spiritual devotion and natural beauty, attracting both pilgrims and nature lovers.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "Deccan"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Trekking attire; traditional attire at temple",
+    "nearestRailStation": "Pune Railway Station, 100 km",
+    "railDistanceKm": 100,
+    "nearestBusStation": "Accessible by road and trek",
+    "nearestAirport": "Pune Airport, 100 km",
+    "airportDistanceKm": 100
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Celebrated with grand festivals and pilgrimages",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Bhimashankar Temple — hero image",
+      "caption": "Bhimashankar Temple in the Western Ghats",
+      "altText": "Bhimashankar Temple in the Western Ghats",
+      "fileOrUrl": "/images/temples/bhimashankar-temple/hero.jpg",
+      "creator": "ସୁରଥ କୁମାର ପାଢ଼ୀ",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "ସୁରଥ କୁମାର ପାଢ଼ୀ · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar_temple,_Maharashtra.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Bhimashankar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Pune Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Bhimashankar, Pune, Maharashtra 412101, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

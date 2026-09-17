@@ -1,0 +1,139 @@
+{
+  "templeId": "TPL-IN-MP-KHA-0020",
+  "slug": "omkareshwar-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Omkareshwar Temple",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Omkareshwar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "",
+    "nameLocal": "ओंकारेश्वर मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Khandwa",
+    "district": "Khandwa",
+    "stateProvince": "Madhya Pradesh",
+    "country": "India",
+    "postalCode": "450549",
+    "latitude": 21.8191,
+    "longitude": 75.4802
+  },
+  "governance": {
+    "establishedEra": "Ancient origins; multiple reconstructions · Current structure medieval period",
+    "managingAuthority": "Omkareshwar Temple Committee"
+  },
+  "narrative": {
+    "summaryIntro": "Omkareshwar Temple is one of the twelve Jyotirlingas dedicated to Lord Shiva and is located on an island in the sacred Narmada River in the Khandwa district of Madhya Pradesh. The temple's name derives from the Om (ॐ) symbol, which is said to be naturally formed by the shape of the island. The site is of great significance in Hindu pilgrimage traditions and represents the meeting point of sacred geography and spiritual symbolism.\n\nThe temple complex features traditional North Indian architecture and is surrounded by the flowing Narmada River, creating a serene and spiritually charged atmosphere. The island location makes it a unique pilgrimage destination, accessible by bridge. The temple attracts devotees year-round and holds special significance during Maha Shivaratri and other important festivals.",
+    "documentedHistory": "",
+    "associatedSaints": [],
+    "architectureStyle": "North Indian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Omkareshwar Railway Station, 10 km",
+    "railDistanceKm": 10,
+    "nearestBusStation": "Accessible by road from Khandwa",
+    "nearestAirport": "Indore Airport, 200 km",
+    "airportDistanceKm": 200
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "verificationStatus": "needs recheck",
+      "sourceIds": []
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Grand celebrations with special rituals and processions",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Omkareshwar Temple — hero image",
+      "caption": "Omkareshwar Temple on the Narmada River island",
+      "altText": "Omkareshwar Temple on the Narmada River island",
+      "fileOrUrl": "/images/temples/omkareshwar-temple/hero.jpg",
+      "creator": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Bernard Gagnon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Omkareshwar_04.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Omkareshwar Temple — Wikipedia",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Madhya Pradesh Tourism Information",
+      "accessDate": "2026-09-17",
+      "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Omkareshwar, Khandwa, Madhya Pradesh 450549, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

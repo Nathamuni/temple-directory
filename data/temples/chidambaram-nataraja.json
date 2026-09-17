@@ -1,0 +1,457 @@
+{
+  "templeId": "TPL-IN-TN-CUD-0001",
+  "slug": "chidambaram-nataraja",
+  "status": "published",
+  "identity": {
+    "nameEn": "Thillai Nataraja Temple",
+    "alternateNames": [
+      "Nataraja Temple",
+      "Chidambaram Nataraja Temple"
+    ],
+    "presidingDeity": "Nataraja (Shiva)",
+    "tradition": "Shaiva",
+    "templeType": "Major Hindu temple",
+    "sacredClassifications": [
+      "Pancha Bhuta Sthalam — Akasha / Space"
+    ],
+    "spiritualSignificanceShort": "Revered for Nataraja’s cosmic dance and its association with Akasha (space/ether) in the Pancha Bhuta tradition.",
+    "nameLocal": "சிதம்பரம் நடராஜர் கோவில்",
+    "localLanguage": "Tamil",
+    "presidingDeityLocal": "நடராஜர்",
+    "consortDeity": "Sivakamasundari / Sivakami",
+    "sampradayaAgama": "Vedic/Dikshitar tradition — wording requires source-specific care"
+  },
+  "location": {
+    "city": "Chidambaram",
+    "district": "Cuddalore",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "608001",
+    "latitude": 11.3998,
+    "longitude": 79.6936
+  },
+  "governance": {
+    "establishedEra": "Ancient roots; major medieval development",
+    "founderPatron": "Multiple royal patrons across dynasties",
+    "managingAuthority": "Podhu Deekshidhar / Dikshitar administration — source-date before public display",
+    "administrationType": "Hereditary administration"
+  },
+  "narrative": {
+    "summaryIntro": "A living Shaiva temple centred on Nataraja, known for its Chit Sabha, Kanaka Sabha, sacred Sivaganga tank, monumental gopurams and long history of royal patronage.",
+    "documentedHistory": "Government and historical sources describe long development with substantial Chola-era and later additions.",
+    "associatedSaints": [
+      "Appar",
+      "Sambandar",
+      "Sundarar",
+      "Manikkavachakar (source each in production)"
+    ],
+    "sthalaPuranam": "Traditional accounts should be entered in a dedicated sourced section; not filled here without an approved temple/scriptural source.",
+    "architectureStyle": "Dravidian temple architecture",
+    "sacredTank": "Sivaganga",
+    "sacredTextReferences": "Tevaram / Thiruvasagam associations — attach exact source records",
+    "inscriptionsSummary": "Multiple inscriptions are documented; provide epigraphic source before detailed claims."
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced",
+    "primaryLanguage": "English",
+    "lastVerifiedDate": "2026-09-17",
+    "verificationNotes": "Operational timings and exact devotee route require current authority verification."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "conflict",
+    "dressCode": "Needs current authoritative confirmation",
+    "entryRules": "Maintain tranquillity; respect temple beliefs and rites (municipal guidance).",
+    "footwearRules": "Remove footwear according to on-site instructions.",
+    "photographyPolicy": "Older Government Museum directory records photography/videography as not allowed; current policy requires re-verification.",
+    "mobilePolicy": "Follow current on-site instructions.",
+    "accessibilityNotes": "Accessibility details require current on-site verification.",
+    "nearestRailStation": "Chidambaram Railway Station",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Chidambaram Bus Stand",
+    "busDistanceKm": 2,
+    "officialContactNote": "Verify same-day operational details with the temple before travel.",
+    "lastVerifiedDate": "2026-09-17"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "festivalOverride": false,
+      "notes": "Temple-site-derived reference; municipal source differs slightly.",
+      "sourceIds": [
+        "SRC002",
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "17:00",
+      "closeTime": "22:00",
+      "closedFlag": false,
+      "festivalOverride": false,
+      "notes": "Temple-site-derived reference; municipal source lists 16:30 reopening.",
+      "sourceIds": [
+        "SRC002",
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "conflict"
+    }
+  ],
+  "worshipSop": [
+    {
+      "sopStepId": "SOP001",
+      "stepNumber": 1,
+      "stepTitle": "Before you go",
+      "instruction": "Confirm same-day opening/pooja times and current visitor rules before travel.",
+      "explanation": "Municipal guidance asks visitors to maintain tranquillity and respect temple rites.",
+      "restrictionOrCaution": "Current photography policy needs re-verification.",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Do not publish an invented universal entry-foot or pradakshina rule.",
+      "linkedShrineIds": [],
+      "linkedMediaIds": []
+    }
+  ],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Chit Sabha + Kanaka Sabha",
+      "deityOrSubject": "Nataraja sacred zone",
+      "spaceType": "sabha",
+      "locationDescription": "Central sacred complex",
+      "linkedMediaIds": [
+        "MED003"
+      ],
+      "sourceIds": [
+        "SRC006",
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Paal Nivedhyam",
+      "startTime": "06:30",
+      "recurrence": "Daily",
+      "description": "Paduka procession from palliyarai toward the sanctum in the cited schedule.",
+      "sourceIds": [
+        "SRC007",
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Maha Aarthi",
+      "startTime": "07:00",
+      "recurrence": "Daily",
+      "description": "Morning aarthi.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja",
+      "startTime": "07:45",
+      "endTime": "09:00",
+      "recurrence": "Daily",
+      "description": "First pooja period.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Irandaam Kaalam",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "recurrence": "Daily",
+      "description": "Second pooja period.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Uchikaalam",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "description": "Third pooja period.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Saayarakshai",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "recurrence": "Daily",
+      "description": "Fourth pooja period.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "pooja",
+      "nameEn": "Irandaam Kaalam (evening)",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "recurrence": "Daily",
+      "description": "Fifth pooja period in cited schedule.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "pooja",
+      "nameEn": "Ardhajaamam",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "recurrence": "Daily",
+      "description": "Final pooja period.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Aani Tirumanjanam",
+      "tamilOrLocalMonth": "Aani",
+      "significance": "Major annual Nataraja temple festival/tradition listed by Cuddalore District.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "verified",
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Margazhi Tiruvadirai / Arudra Darshan",
+      "tamilOrLocalMonth": "Margazhi",
+      "significance": "Major Nataraja festival period.",
+      "sourceIds": [
+        "SRC001",
+        "SRC007"
+      ],
+      "verificationStatus": "partial",
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sivaganga Temple Tank",
+      "caption": "Sivaganga tank with temple gopuram at Chidambaram Nataraja Temple.",
+      "altText": "Temple tank with gopuram reflected in water.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Temple_Tank_%28Sivaganga%29%2C_Nataraja_Temple_-_panoramio.jpg",
+      "creator": "Gabriele Giuseppini",
+      "captureDate": "2008-03-15",
+      "license": "CC BY 3.0",
+      "attributionText": "Gabriele Giuseppini · CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Tank_(Sivaganga),_Nataraja_Temple_-_panoramio.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "East Gopuram",
+      "caption": "East Gopuram of the Nataraja Temple, Chidambaram.",
+      "altText": "Elaborately sculpted East Gopuram entrance.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Chidambaram_Nataraja_temple_East_Gopuram.JPG",
+      "creator": "BishkekRocks",
+      "captureDate": "2008-08-24",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "BishkekRocks · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chidambaram_Nataraja_temple_East_Gopuram.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "map",
+      "category": "map",
+      "title": "Historical Temple Plan",
+      "caption": "Historical plan identifying cardinal gopuras, 1000-pillar hall, Sivaganga pool, Devi temple, Shiva sanctum/Chit Sabha/Kanaka Sabha and Vishnu shrine.",
+      "altText": "Diagrammatic historical plan of Chidambaram Nataraja Temple complex.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/10th_to_13th_century_Chidambaram_Nataraja_Temple_plan.svg",
+      "creator": "Sarah Welch",
+      "captureDate": "2017-11-18",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Sarah Welch · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:10th_to_13th_century_Chidambaram_Nataraja_Temple_plan.svg",
+      "linkedShrineId": "SHR001",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Nataraja Temple, Chidambaram",
+      "publisherOrAuthority": "Cuddalore District, Government of Tamil Nadu",
+      "url": "https://cuddalore.nic.in/tourist-place/chidamabaram/",
+      "accessDate": "2026-09-17",
+      "claimScope": "Identity, history, major halls, festivals and temple context.",
+      "reliabilityNote": "Government page includes some interpretive claims; use it selectively and cross-reference technical/historical statements.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Places of Interest — Chidambaram Municipality",
+      "publisherOrAuthority": "Chidambaram Municipality",
+      "url": "https://www.tnurbantree.tn.gov.in/chidambaram/places-of-interest/",
+      "accessDate": "2026-09-17",
+      "claimScope": "Visitor conduct, Nataraja identity, Pancha Bhuta significance, one current timing statement.",
+      "reliabilityNote": "Operational timing differs from other sources; keep conflict visible.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Directory of Monuments in Tamil Nadu — Nataraja Temple",
+      "publisherOrAuthority": "Government Museum Chennai",
+      "url": "https://govtmuseumchennai.org/uploads/topics/16529639911706.pdf",
+      "accessDate": "2026-09-17",
+      "pageOrSection": "Nataraja Temple entry",
+      "claimScope": "Address, distance from rail/bus, historical visitor rules, administration, period and architecture.",
+      "reliabilityNote": "Directory appears older; do not treat operational details as current without recheck.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "Temple Tank (Sivaganga), Nataraja Temple",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Gabriele Giuseppini",
+      "url": "https://commons.wikimedia.org/wiki/File:Temple_Tank_(Sivaganga),_Nataraja_Temple_-_panoramio.jpg",
+      "publicationDate": "2008-03-15",
+      "accessDate": "2026-09-17",
+      "claimScope": "Licensed hero / tank image.",
+      "reliabilityNote": "CC BY 3.0 attribution required.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "Chidambaram Nataraja temple East Gopuram",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "BishkekRocks",
+      "url": "https://commons.wikimedia.org/wiki/File:Chidambaram_Nataraja_temple_East_Gopuram.JPG",
+      "publicationDate": "2008-08-24",
+      "accessDate": "2026-09-17",
+      "claimScope": "Licensed gopuram image.",
+      "reliabilityNote": "CC BY-SA attribution/share-alike conditions apply.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "10th to 13th century Chidambaram Nataraja Temple plan",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Sarah Welch",
+      "url": "https://commons.wikimedia.org/wiki/File:10th_to_13th_century_Chidambaram_Nataraja_Temple_plan.svg",
+      "publicationDate": "2017-11-18",
+      "accessDate": "2026-09-17",
+      "claimScope": "Historical visual plan of major temple spaces.",
+      "reliabilityNote": "Not to scale; many details are not identified.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "other",
+      "title": "Nataraja Temple Chidambaram Timings — temple-site-derived research",
+      "publisherOrAuthority": "Temple Timings",
+      "url": "https://temple-timings.com/temples/tamil-nadu/chidambaram/nataraja-temple/",
+      "accessDate": "2026-09-17",
+      "claimScope": "Detailed six-kaalam schedule and temple-site-derived general hours.",
+      "reliabilityNote": "Secondary aggregator; use as operational lead and re-verify directly with temple authority before travel-critical publication.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "academic",
+      "title": "Brahmotsavams of Chidambaram Nataraja Temple",
+      "publisherOrAuthority": "Tamil Nadu History Congress / proceedings",
+      "author": "K. Veerachelvam",
+      "url": "https://www.tnhc.org.in/docs/proceedings/Pollachi-2010.pdf",
+      "accessDate": "2026-09-17",
+      "claimScope": "Historical context and statement that poojas are conducted six times daily.",
+      "reliabilityNote": "Academic conference/proceedings source; not current operational authority.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Chidambaram Nataraja Temple, Chidambaram, Tamil Nadu 609601, India",
+    "bestTime": "October to February",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

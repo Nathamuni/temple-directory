@@ -33,3 +33,33 @@ and rendered visibly on the site.
 | File | Source | Author | License |
 |---|---|---|---|
 | hero.jpg | [Tirumala Venkateswara temple entrance 09062015.JPG](https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_temple_entrance_09062015.JPG) | Nikhilb239 | CC BY-SA 4.0 |
+
+## Bulk-seeded temples (2026-09-11)
+
+| File | Source | Author | License |
+|---|---|---|---|
+| temples/akshardham-delhi/hero.jpg | see temple JSON heroImage.credit | Juthani1 | CC BY-SA 3.0 |
+| temples/badrinath-temple/hero.jpg | see temple JSON heroImage.credit | Bahuln89 | CC BY-SA 3.0 |
+| temples/chidambaram-nataraja/hero.jpg | see temple JSON heroImage.credit | Jean-Pierre Dalbéra from Paris, France | CC BY 2.0 |
+| temples/dwarkadhish-temple/hero.jpg | see temple JSON heroImage.credit | Kaushik.prachi | CC BY-SA 3.0 |
+| temples/grishneshwar-temple/hero.jpg | see temple JSON heroImage.credit | sowrirajan s from Chennai, india | CC BY 2.0 |
+| temples/guruvayur-temple/hero.jpg | see temple JSON heroImage.credit | Ilya Mauter | CC BY-SA 2.5 |
+| temples/kanchi-kamakshi/hero.jpg | see temple JSON heroImage.credit | Vinayaraj | CC BY-SA 4.0 |
+| temples/kashi-vishwanath/hero.jpg | see temple JSON heroImage.credit | Ashvin Kaitabhya, clicked by Abhishek Pandey | CC BY-SA 4.0 |
+| temples/somnath-temple/hero.jpg | see temple JSON heroImage.credit | Hritiksharma | CC BY-SA 4.0 |
+| temples/bhimashankar-temple/hero.jpg | see temple JSON heroImage.credit | ସୁରଥ କୁମାର ପାଢ଼ୀ | CC BY-SA 3.0 |
+| temples/brihadeeswarar-thanjavur/hero.jpg | see temple JSON heroImage.credit | Bernard Gagnon | CC BY-SA 3.0 |
+| temples/ekambareswarar-kanchipuram/hero.jpg | see temple JSON heroImage.credit | tshrinivasan | CC BY-SA 3.0 |
+| temples/jagannath-puri/hero.jpg | see temple JSON heroImage.credit | Krupasindhu Muduli | CC BY-SA 3.0 |
+| temples/kalighat-kolkata/hero.jpg | see temple JSON heroImage.credit | Bernard Gagnon | CC BY-SA 3.0 |
+| temples/kamakhya-guwahati/hero.jpg | see temple JSON heroImage.credit | Kunal Dalui | CC BY-SA 3.0 |
+| temples/kedarnath-temple/hero.jpg | see temple JSON heroImage.credit | Shaq774 at en.wikipedia | Public domain |
+| temples/konark-sun-temple/hero.jpg | see temple JSON heroImage.credit | Subhrajyoti07 | CC BY-SA 4.0 |
+| temples/lingaraj-bhubaneswar/hero.jpg | see temple JSON heroImage.credit | Bernard Gagnon | CC BY-SA 3.0 |
+| temples/mahakaleshwar-ujjain/hero.jpg | see temple JSON heroImage.credit | Gyanendra_Singh_Chau… | CC BY 3.0 |
+| temples/omkareshwar-temple/hero.jpg | see temple JSON heroImage.credit | Bernard Gagnon | CC BY-SA 3.0 |
+| temples/padmanabhaswamy-trivandrum/hero.jpg | see temple JSON heroImage.credit | arijitdas.x | CC BY-SA 3.0 |
+| temples/ramanathaswamy-rameswaram/hero.jpg | see temple JSON heroImage.credit | Saral Shots | CC BY-SA 4.0 |
+| temples/trimbakeshwar-temple/hero.jpg | see temple JSON heroImage.credit | Niraj Suryawanshi | CC BY-SA 3.0 |
+| temples/vaishno-devi/hero.jpg | see temple JSON heroImage.credit | Maheshkumarrathi | CC BY-SA 4.0 |
+| temples/virupaksha-hampi/hero.jpg | see temple JSON heroImage.credit | Ingo Mehling | CC BY-SA 4.0 |

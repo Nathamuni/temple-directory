@@ -1,6 +1,18 @@
 node_modules/
 .next/
 out/
+.wrangler/
 *.tsbuildinfo
 next-env.d.ts
 .DS_Store
+.env*.local
+
+# Local safety copy written by scripts/migrate-temples.mts
+data/.backup-pre-migration/
+
+# Claude Code local state, including scratch worktrees (hundreds of MB)
+.claude/
+
+# Workbooks downloaded from /admin/bulk-import — generated output, not source
+/temple-directory-export.xlsx
+/temple-directory-import-template.xlsx

@@ -1,165 +1,264 @@
 // ============================================================================
 // TEMPLE DIRECTORY — DATA ENTRY TEMPLATE
 // ============================================================================
-// HOW TO USE:
-//   1. Copy this file to  data/temples/<your-temple-slug>.json
-//   2. Remove ALL // comments (JSON does not allow them — this .jsonc file is
-//      never loaded by the site; only .json files in data/temples/ are).
-//   3. Fill every MANDATORY field. Delete optional fields you cannot fill.
-//   4. Place images in  public/images/temples/<slug>/  and record author,
-//      license and source URL for each — also add them to
-//      public/images/ATTRIBUTIONS.md.
-//   5. Run `npm run build` — the validator will name any missing field.
+// The canonical input model is Temple_Directory_Input_Schema.xlsx: one Temple
+// Master row plus eight linked, repeatable sheets. This file is the same model
+// as it lands on disk — one JSON file per temple in data/temples/<slug>.json.
 //
-// RULES (enforced at build time):
-//   • status must be: draft | pending | verified | published
-//   • references: MINIMUM 2 (official/government source, scripture, ASI, etc.)
-//   • worshipSOP.steps: EXACTLY 6 steps in the standard order (unless stub)
-//   • Tone: neutral, factual, encyclopedic. No marketing or devotional hype.
+// THREE WAYS TO CREATE AN ENTRY, in order of preference:
+//   1. /contribute — a form generated from the schema itself, with add/remove
+//      editors for every repeatable record. Nothing can drift out of sync.
+//   2. /admin/bulk-import — download the workbook, fill it in Excel, upload it.
+//   3. By hand, using this file as a guide. Copy it, strip the // comments
+//      (JSON forbids them), and run `npm run check`.
+//
+// THE ONE RULE THAT MATTERS
+//   Every repeatable record carries `sourceIds` and `verificationStatus`.
+//   A worship instruction, shrine order, pradakshina count or mantra is shown
+//   publicly ONLY when its record is "verified", "authority-verified" or
+//   "cross-referenced". Anything else renders as "Not published yet".
+//   Do not raise a verificationStatus to make content appear. Attach a source.
+//
+// Field-by-field documentation — data type, required/recommended/optional, and
+// which page section each column feeds — lives in src/lib/schema.ts, which is
+// generated from the workbook's 10_Column_Dictionary sheet. Allowed values for
+// every enumerated field are in LOOKUPS in that same file.
 // ============================================================================
 {
-  // MANDATORY — URL slug, lowercase-hyphenated, matches this filename
-  "slug": "example-temple",
+  "templeId": "TPL-IN-TN-CUD-0001",   // stable internal id; unique across the directory
+  "slug": "example-temple",           // public URL: /temple/<slug>; must match the filename
+  "status": "draft",                  // draft | pending | verified | published | rejected
 
-  // MANDATORY — editorial workflow state:
-  //   draft    = data entry in progress
-  //   pending  = complete, awaiting review
-  //   verified = sources + SOP checked (priest-verified for SOP)
-  //   published= live on the site
-  "status": "draft",
-
-  // Set true ONLY for a thin placeholder entry (renders a reduced page,
-  // SOP not yet required). Remove for a full entry.
-  "stub": false,
-
-  // MANDATORY — full official name in English
-  "name": "Sri Example Swamy Temple, Townname",
-  // OPTIONAL — name in regional script
-  "nameLocal": { "script": "Tamil", "text": "..." },
-  // MANDATORY — one line: location + presiding deity
-  "subtitle": "Townname, State · Presiding Deity: ...",
-
-  "deity": {
-    "presiding": "Shiva",              // MANDATORY — main deity (use the broad name: Shiva, Vishnu, Devi, Murugan, Ganesha...)
-    "consort": "",                     // OPTIONAL
-    "others": ["...", "..."]           // OPTIONAL — sub-shrine deities
+  // ---- 01_Temple_Master -----------------------------------------------------
+  "identity": {
+    "nameEn": "Sri Example Swamy Temple",        // REQUIRED
+    "nameLocal": "உதாரணர் கோவில்",
+    "localLanguage": "Tamil",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",                   // REQUIRED
+    "presidingDeityLocal": "",
+    "consortDeity": "",
+    "tradition": "Shaiva",                       // REQUIRED — see LOOKUPS
+    "sampradayaAgama": "",
+    "templeType": "Major Hindu temple",          // REQUIRED
+    "sacredClassifications": ["Pancha Bhuta Sthalam — Akasha / Space"],
+    "spiritualSignificanceShort": "Why devotees revere this temple, in two or three sentences." // REQUIRED
   },
-
   "location": {
-    "city": "",                        // MANDATORY
-    "district": "",                    // OPTIONAL
-    "state": "",                       // MANDATORY
-    "country": "India",                // MANDATORY
-    "address": "",                     // OPTIONAL — full postal address with PIN
-    "coordinates": { "lat": 0.0, "lng": 0.0 }   // MANDATORY — decimal degrees
+    "city": "Townname",                          // REQUIRED
+    "district": "Districtname",                  // REQUIRED
+    "stateProvince": "Tamil Nadu",               // REQUIRED
+    "country": "India",                          // REQUIRED
+    "postalCode": "600001",
+    "latitude": 11.3998,
+    "longitude": 79.6936,
+    "mapUrl": ""
+  },
+  "governance": {
+    "establishedEra": "Ancient roots; major medieval development",
+    "founderPatron": "",
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
+    "administrationType": "Government department", // see LOOKUPS
+    "officialWebsite": "",
+    "officialPhone": "",
+    "officialEmail": ""
+  },
+  "narrative": {
+    "summaryIntro": "A 100–180 word page introduction.",   // REQUIRED
+    "sthalaPuranam": "Traditional account, clearly labelled as temple tradition.",
+    "documentedHistory": "What sources actually document about this temple's development.", // REQUIRED
+    "architectureStyle": "Dravidian temple architecture",
+    "sacredTree": "",
+    "sacredTank": "",
+    "sacredTextReferences": "",
+    "associatedSaints": [],
+    "inscriptionsSummary": ""
+  },
+  "editorial": {
+    "primaryLanguage": "English",
+    "overallVerificationStatus": "unverified",   // REQUIRED — see LOOKUPS
+    "lastVerifiedDate": "",
+    "verificationNotes": ""
   },
 
-  "classification": {
-    "templeType": "",                  // MANDATORY — e.g. Divya Desam, Jyotirlinga, Shakti Peeth, Paadal Petra Sthalam, Regional
-    "tradition": "",                   // e.g. Shaivite, Vaishnavite, Shakta
-    "architecturalStyle": "",          // e.g. Dravidian, Nagara, Kerala, Vesara, Cave, Rock-cut
-    "divyaDesam": null,                // OPTIONAL — number 1–108 if applicable
-    "tags": []                         // free-form category tags
-  },
-
-  "established": {
-    "period": "",                      // MANDATORY — e.g. "7th century CE, Pallava period"
-    "yearText": ""                     // human-readable dating note
-  },
-
-  // MANDATORY — government department / trust / committee
-  "governingBody": "",
-  "website": "",                       // OPTIONAL
-
-  "timings": {
-    "darshan": [ { "label": "Morning", "from": "06:00", "to": "12:00" } ],
-    "pujaSchedule": [ { "time": "06:00", "name": "..." } ]
-  },
-
-  // MANDATORY — one high-resolution exterior/sanctum photo, with credit
-  "heroImage": {
-    "src": "/images/temples/example-temple/hero.jpg",
-    "alt": "",
-    "caption": "",
-    "credit": { "author": "", "license": "CC BY-SA 4.0", "sourceUrl": "" }
-  },
-
-  // 4–6 icon cards. icon keys: deity | clock | dress | transit | area | tower
-  "atAGlance": [
-    { "icon": "deity", "label": "Presiding Deity", "value": "" }
-  ],
-
-  // Wiki prose. Each section: paragraphs (array of strings) + citations
-  // (reference ids used by that section). Neutral third-person voice.
-  "sections": {
-    "introduction":         { "paragraphs": ["", ""], "citations": [1, 2] },   // MANDATORY — 2–3 paragraphs, SEO-critical
-    "history":              { "paragraphs": [""], "citations": [] },
-    "architecture":         { "paragraphs": [""], "citations": [] },
-    "religiousSignificance":{ "paragraphs": [""], "citations": [] },
-    "administration":       { "paragraphs": [""], "citations": [] },
-    "donationsAndServices": { "paragraphs": [""], "citations": [] }
-  },
-
-  // THE CORE DIFFERENTIATOR — exactly 6 steps, this order, priest-verified.
-  // Document what IS practised at THIS temple; never prescribe belief.
-  "worshipSOP": {
-    "steps": [
-      { "title": "Before You Enter",                  "points": ["", ""] },
-      { "title": "At the Entrance",                   "points": ["", ""] },
-      { "title": "Inside the Temple Premises",        "points": ["", ""] },
-      { "title": "Main Deity Darshan",                "points": ["", ""] },
-      { "title": "Sevas & Abhishekam",                "points": ["", ""] },
-      { "title": "What Not to Do & Before Leaving",   "points": ["", ""] }
-    ],
-    "entryGuidelines": ["", ""],
-    "specialRituals": [
-      { "ritual": "Archana", "description": "", "howToBook": "" }
-    ],
-    "restrictions": ["", ""],
-    // "Believed Spiritual Outcomes" — only as documented in recognized texts
-    "spiritualOutcomes": ["", ""]
-  },
-
-  "festivals": [
-    { "name": "", "month": "", "duration": "", "description": "", "major": true }
-  ],
-
+  // ---- 02_Visiting_Info (one per temple) ------------------------------------
   "visitingInfo": {
-    "bestTime": "",
     "dressCode": "",
-    "howToReach": { "air": "", "rail": "", "road": "" },
-    "facilities": [""],
-    "entryFee": "",
-    "nearbyAttractions": [""]
+    "entryRules": "",
+    "footwearRules": "",
+    "photographyPolicy": "",
+    "mobilePolicy": "",
+    "prasadInfo": "",
+    "accessibilityNotes": "",
+    "parkingNotes": "",
+    "accommodationNotes": "",
+    "nearestRailStation": "",
+    "railDistanceKm": 0,
+    "nearestBusStation": "",
+    "busDistanceKm": 0,
+    "nearestAirport": "",
+    "airportDistanceKm": 0,
+    "officialContactNote": "How a visitor should confirm same-day details.",
+    "sourceIds": ["SRC001"],                     // REQUIRED
+    "lastVerifiedDate": "2026-09-17",            // REQUIRED
+    "verificationStatus": "unverified"           // REQUIRED
   },
 
-  // Akhand Deepam widget. lampsToday seeds the mock "lamps burning" counter.
-  "lamp": { "enabled": true, "lampsToday": 0 },
-
-  // Each gallery image MUST carry credit (author, license, source URL)
-  "gallery": [
+  // ---- 03_Opening_Hours[] ---------------------------------------------------
+  // One row per session. Conflicting sources are kept visible, not resolved:
+  // set verificationStatus "conflict" and explain in notes.
+  "openingHours": [
     {
-      "src": "/images/temples/example-temple/photo1.jpg",
-      "alt": "", "caption": "",
-      "credit": { "author": "", "license": "", "sourceUrl": "" }
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "06:00",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "notes": "",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
     }
   ],
 
-  "nearbyTemples": [
-    { "name": "", "distanceKm": 0, "slug": "" }    // slug optional — links if that temple exists in the directory
+  // ---- 04_Worship_SOP[] — up to 6 steps -------------------------------------
+  // `instruction` is shown publicly only at "authority-verified" (or another
+  // verified status). Leave it at "draft" until a temple authority confirms it.
+  "worshipSop": [
+    {
+      "sopStepId": "SOP001",
+      "stepNumber": 1,
+      "stepTitle": "Before you go",
+      "instruction": "Temple-specific instruction.",
+      "explanation": "Why, and what it means.",
+      "localTerms": "",
+      "mantraOrSloka": "",
+      "whatToCarry": "",
+      "restrictionOrCaution": "",
+      "linkedShrineIds": [],
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "authorityReviewer": "",
+      "authorityReviewDate": "",
+      "verificationStatus": "draft",
+      "editorNotes": ""
+    }
   ],
 
-  "reviews": [
-    { "author": "", "rating": 5, "date": "YYYY-MM-DD", "text": "" }
+  // ---- 05_Shrines_Route[] ---------------------------------------------------
+  // Set sequenceNumber / pradakshinaCount ONLY when the order itself is
+  // authority-verified; otherwise the page lists the spaces without a sequence.
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main sanctum",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "",
+      "routeDirection": "",
+      "recommendedAction": "",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "verificationStatus": "unverified"
+    }
   ],
 
-  "contact": { "phone": "", "email": "", "address": "" },
+  // ---- 06_Pooja_Seva[] ------------------------------------------------------
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja",
+      "nameLocal": "",
+      "startTime": "07:45",
+      "endTime": "09:00",
+      "recurrence": "Daily",
+      "description": "",
+      "devoteeParticipation": "",
+      "bookingMethod": "",
+      "feeNote": "",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    }
+  ],
 
-  // MANDATORY — MINIMUM 2. Acceptable types: official temple/government site,
-  // HR&CE records, Sthalapurana / scriptural reference, ASI report,
-  // published historical documentation, priest-verified SOP sign-off.
-  "references": [
-    { "id": 1, "title": "", "publisher": "", "url": "", "accessed": "YYYY-MM-DD" },
-    { "id": 2, "title": "", "publisher": "" }
-  ]
+  // ---- 07_Festivals[] -------------------------------------------------------
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "festivalNameLocal": "",
+      "tamilOrLocalMonth": "Masi",
+      "gregorianRuleOrDate": "February–March",
+      "duration": "1 day",
+      "significance": "Why this festival matters at this temple.",
+      "processionOrRituals": "",
+      "crowdNote": "",
+      "visitorAdvice": "",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  // ---- 08_Media[] -----------------------------------------------------------
+  // Exactly one row with category "hero" and editorialApproved true is required
+  // to publish. Media carries its rights chain, not claim sources.
+  // Place local files under public/images/temples/<slug>/ and also record them
+  // in public/images/ATTRIBUTIONS.md.
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Example Temple — hero image",
+      "caption": "What the image shows.",
+      "altText": "Accessibility description.",
+      "fileOrUrl": "/images/temples/example-temple/hero.jpg",
+      "creator": "Photographer Name",
+      "captureDate": "",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Photographer Name · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:...",
+      "editorialApproved": false,
+      "verificationStatus": "pending"
+    }
+  ],
+
+  // ---- 09_Sources[] — minimum 2 admin-approved to publish -------------------
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Source title",
+      "publisherOrAuthority": "Publishing authority",
+      "author": "",
+      "url": "https://example.gov.in/page",
+      "publicationDate": "",
+      "accessDate": "2026-09-17",
+      "pageOrSection": "",
+      "claimScope": "Exactly which claims this source supports.",
+      "reliabilityNote": "Known limitations or conflicts.",
+      "archivedUrl": "",
+      "adminApproved": false
+    }
+  ],
+
+  // ---- Product fields with no column in the workbook ------------------------
+  // These round-trip through the workbook's 12_Extensions sheet.
+  // There are deliberately no donation, sponsorship or payment fields: the
+  // directory collects no money, matching the workbook README's "no payment or
+  // donation fields are required for the present non-paid directory MVP".
+  "extensions": {
+    "otherDeities": [],
+    "address": "",
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  }
 }
