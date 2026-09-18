@@ -1,0 +1,152 @@
+{
+  "slug": "padmanabhaswamy-trivandrum",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Sree Padmanabhaswamy Temple, Thiruvananthapuram",
+      "publisherOrAuthority": "Kerala Tourism, Department of Tourism, Government of Kerala",
+      "url": "https://www.keralatourism.org/destination/padmanabha-swamy-temple-thiruvananthapuram/13/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Darshan session timings; dress code for men and women and dhoti rental at the entrance; entry restricted to Hindus; Anantha Shayana form of the deity and the 18 ft idol of 12,008 salagramams; Kerala-Dravidian architectural blend, Ottakkal Mandapam and the corridor of 365 and a quarter granite pillars; 8th-century origin and Marthanda Varma's 1750 dedication; ten-day festivals in Meenam and Thulam and the six-yearly Murajapam.",
+      "reliabilityNote": "State tourism destination page; undated and not the temple's own notice board. Timings are stated to vary during festivals and special occasions, so they need same-day confirmation.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Padmanabhaswamy Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Divya Desam status and Nammalwar's hymns; documented history including the 1425 CE record-room, the renovation completed in 906 ME (1731 CE) and the Thrippadidanam of 17 January 1750; the three-door darshan arrangement; gopuram tiers and 1566 foundation; Ottakkal Mandapam installed 1731; named subsidiary shrines; the Supreme Court Administrative Committee of 13 July 2020 and the 2011 vault proceedings; Painkuni/Alpashi festivals, Navaratri and the sexennial Laksha Deepam preceded by Murajapam.",
+      "reliabilityNote": "Tertiary encyclopedic source. Used for history, architecture and shrine names, not for current operational detail.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "media repository",
+      "title": "File:Padmanabhaswamy Temple Gopuram.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Shishirdasika",
+      "url": "https://commons.wikimedia.org/wiki/File:Padmanabhaswamy_Temple_Gopuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the main gopuram only; author and licence string.",
+      "reliabilityNote": "Contributor-uploaded image; licence and authorship as declared on the Commons file page.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Padmanabhaswamy is one of the 108 Divya Desams of Vaishnavism, eulogised in the Tamil Divya Prabandham, where Nammalwar praises the temple and its city. The deity is worshipped in the Anantha Shayana form, reclining on the serpent Anantha, and is seen through three separate doors that reveal the head, the mid-section and the feet in turn. Since Marthanda Varma's Thrippadidanam of 1750 the rulers of Travancore have governed as Padmanabha Dasa, servants of the deity, which makes the temple the religious centre of the former kingdom as well as a pilgrimage site.",
+    "sacredClassifications": [
+      "Divya Desam — one of the 108 Divya Desams",
+      "Divya Desam — Malai Nadu group",
+      "Anantha Shayana kshetram"
+    ],
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "localLanguage": "Malayalam"
+  },
+
+  "governance": {
+    "establishedEra": "Origins traced to the 8th century by Kerala Tourism; the present structure follows the renovation completed in 906 Malayalam Era (1731 CE) under Marthanda Varma",
+    "founderPatron": "Extensively rebuilt and endowed by Marthanda Varma of Travancore, who dedicated the kingdom to the deity on 17 January 1750",
+    "managingAuthority": "Administrative Committee constituted under the Supreme Court of India judgment of 13 July 2020, alongside the traditional Ettara Yogam and the Tantri of the Tharananallur family"
+  },
+
+  "narrative": {
+    "documentedHistory": "The temple keeps an unusually deep documentary record. Around 1425 CE Veera Iravi Varma built a granta-pura, or record-room, to house temple documents, and more than 3,000 cadjan-leaf records were transferred to the Kerala Archives Department in 1867.\n\nThe temple as it now stands is largely the result of the reconstruction undertaken after Marthanda Varma's accession, completed in 906 Malayalam Era (1731 CE). On 17 January 1750 Marthanda Varma performed the Thrippadidanam, formally surrendering the Kingdom of Travancore to Padmanabhaswamy; the rulers thereafter styled themselves Padmanabha Dasa.\n\nIn 2011 five of the temple's underground vaults were opened under Supreme Court supervision, while the principal Vault B was left unopened. The litigation concluded with the judgment of 13 July 2020, which placed secular administration, assets and finances under a court-appointed Administrative Committee while leaving religious custom with the traditional bodies.",
+    "architectureStyle": "A blend of Kerala and Dravidian styles; the seven-tier gopuram, about 100 feet high, is in Pandyan style with a foundation dated to 1566",
+    "sacredTank": "Padma Theertham, adjoining the temple",
+    "associatedSaints": [
+      "Nammalwar"
+    ]
+  },
+
+  "visitingInfo": {
+    "dressCode": "A strict dress code is enforced. Men wear a mundu or dhoti around the waist reaching the heels and do not wear a shirt of any kind; dhotis can be rented at the temple entrance. Women wear a sari, mundum neriyathum (set-mundu), skirt and blouse, or half sari.",
+    "entryRules": "Only Hindus are permitted inside the temple.",
+    "officialContactNote": "Darshan slots are stated to vary during festivals and special occasions. Confirm the day's timings with the temple before travelling rather than relying on a published schedule.",
+    "sourceIds": ["SRC001"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "sourced"
+  },
+
+  "openingHours": [
+    { "hoursId": "HRS001", "dayType": "daily", "sessionName": "Nirmalya Darshanam", "openTime": "03:30", "closeTime": "04:45", "closedFlag": false, "notes": "Darshan slot as listed by Kerala Tourism; timings vary during festivals.", "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS002", "dayType": "daily", "sessionName": "Morning darshan", "openTime": "06:30", "closeTime": "07:00", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS003", "dayType": "daily", "sessionName": "Forenoon darshan", "openTime": "08:30", "closeTime": "10:00", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS004", "dayType": "daily", "sessionName": "Late morning darshan", "openTime": "10:30", "closeTime": "11:10", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS005", "dayType": "daily", "sessionName": "Midday darshan", "openTime": "11:45", "closeTime": "12:00", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS006", "dayType": "daily", "sessionName": "Evening darshan", "openTime": "16:30", "closeTime": "18:15", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS007", "dayType": "daily", "sessionName": "Night darshan", "openTime": "18:45", "closeTime": "19:20", "closedFlag": false, "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" }
+  ],
+
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Painkuni Utsavam",
+      "tamilOrLocalMonth": "Meenam (Panguni), March–April",
+      "duration": "10 days",
+      "significance": "One of the temple's two ten-day annual festivals, held in the Malayalam month of Meenam.",
+      "processionOrRituals": "Concludes with the Aarat procession to Shankumugham Beach, the ruler of Travancore escorting the processional idols for the ritual sea bath.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Alpashi Utsavam",
+      "tamilOrLocalMonth": "Thulam (Aipasi), October–November",
+      "duration": "10 days",
+      "significance": "The second of the temple's two ten-day annual festivals, held in the Malayalam month of Thulam.",
+      "processionOrRituals": "Also concludes with the Aarat procession to Shankumugham Beach.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Laksha Deepam",
+      "gregorianRuleOrDate": "Once every six years",
+      "significance": "A sexennial observance in which a hundred thousand oil lamps are lit across the temple premises.",
+      "processionOrRituals": "Preceded by fifty-six days of Murajapam, the chanting of the three Vedas.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Navaratri",
+      "duration": "9 days",
+      "significance": "Idols of Saraswati Amman, Mun Uditha Nangai and Kumara Swami are brought in procession from Padmanabhapuram Palace, Suchindram and Kumarakovil for the nine days.",
+      "processionOrRituals": "The Swathi Sangeethotsavam music festival is held in association with the observance.",
+      "sourceIds": ["SRC002"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "shrines": [
+    { "shrineId": "SHR001", "shrineName": "Garbhagriha — Anantha Shayana Padmanabha", "deityOrSubject": "Vishnu as Padmanabha reclining on Anantha", "spaceType": "shrine", "locationDescription": "The main sanctum, viewed through three separate doors: the first showing the head with the Shiva linga under the right hand, Sridevi and Brahma on the lotus; the second the abhisheka and utsava idols; the third the feet with Bhudevi and Markandeya Muni.", "sourceIds": ["SRC001", "SRC002"], "verificationStatus": "cross-referenced" },
+    { "shrineId": "SHR002", "shrineName": "Thekkedom", "deityOrSubject": "Ugra Narasimha", "spaceType": "shrine", "locationDescription": "Subsidiary shrine within the complex.", "sourceIds": ["SRC002"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR003", "shrineName": "Thiruvambadi", "deityOrSubject": "Krishna as Parthasarathi", "spaceType": "shrine", "locationDescription": "Holds an independent status within the complex, with its own namaskara mandapam, bali stones and flagmast.", "sourceIds": ["SRC002"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR004", "shrineName": "Ottakkal Mandapam", "deityOrSubject": "Single-stone platform before the sanctum", "spaceType": "hall", "locationDescription": "A single granite slab about 20 feet square and 2.5 feet thick, brought from Tirumala village and installed in 1731; by custom only the ruler of Travancore prostrates upon it.", "sourceIds": ["SRC001", "SRC002"], "verificationStatus": "cross-referenced" },
+    { "shrineId": "SHR005", "shrineName": "Main gopuram", "deityOrSubject": "Seven-tier eastern tower", "spaceType": "gopuram", "locationDescription": "About 100 feet high, in Pandyan style, its foundation dated to 1566; an 80-foot flagstaff stands before the main entry.", "sourceIds": ["SRC002"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR006", "shrineName": "Padma Theertham", "deityOrSubject": "Temple tank", "spaceType": "tank", "locationDescription": "Adjoins the temple on the east.", "sourceIds": ["SRC002"], "verificationStatus": "sourced" }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Padmanabhaswamy Temple Gopuram",
+      "caption": "The seven-tier main gopuram of the Sree Padmanabhaswamy Temple, Thiruvananthapuram.",
+      "altText": "Tall tiered stone gopuram of Padmanabhaswamy Temple against the sky.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Padmanabhaswamy_Temple_Gopuram.jpg",
+      "creator": "Shishirdasika",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Shishirdasika · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padmanabhaswamy_Temple_Gopuram.jpg"
+    }
+  ]
+}

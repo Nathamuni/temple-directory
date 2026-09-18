@@ -1,0 +1,247 @@
+{
+  "templeId": "TPL-IN-KA-UDU-0040",
+  "slug": "udupi-krishna-matha",
+  "status": "published",
+  "identity": {
+    "nameEn": "Sri Krishna Matha, Udupi",
+    "alternateNames": [
+      "Udupi Sri Krishna Temple",
+      "Krishna Mutt"
+    ],
+    "presidingDeity": "Krishna",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnavite",
+    "sacredClassifications": [
+      "Krishna",
+      "Dvaita Vedanta",
+      "Ashta Matha"
+    ],
+    "spiritualSignificanceShort": "The Sri Krishna Matha in Udupi was founded in the 13th century by the Vaishnavite philosopher Madhvacharya, propagator of the Dvaita school of Vedanta. Krishna is worshipped here as Balakrishna, and devotees do not view the sanctum idol directly but through a carved window known as the Kanakana Kindi. The temple and matha are administered jointly by the eight Ashta Mathas founded by Madhvacharya, which take turns managing worship and administration under the biennial Paryaya system."
+  },
+  "location": {
+    "city": "Udupi",
+    "district": "Udupi",
+    "stateProvince": "Karnataka",
+    "country": "India",
+    "postalCode": "576101",
+    "latitude": 13.3322,
+    "longitude": 74.7461
+  },
+  "governance": {
+    "establishedEra": "13th century CE, founded by Madhvacharya",
+    "managingAuthority": "The eight Ashta Mathas of Udupi, administering the temple in rotation under the Paryaya system",
+    "administrationType": "Monastic institution",
+    "founderPatron": "Madhvacharya"
+  },
+  "narrative": {
+    "summaryIntro": "The Sri Krishna Matha in Udupi, Karnataka, is a Vaishnavite temple and monastery founded in the 13th century by Madhvacharya, propounder of the Dvaita school of Vedanta philosophy. Krishna is worshipped here in the form of Balakrishna, and the temple is administered jointly by eight monasteries, the Ashta Mathas, that Madhvacharya established with his direct disciples as their founding heads.\n\nA distinctive feature of worship at the matha is that devotees do not see the sanctum idol face to face; darshan is taken through a carved window, the Kanakana Kindi, on the temple's outer wall. Administration and the conduct of daily worship rotate between the eight mathas under the Paryaya system, with each matha's pontiff taking charge for a two-year term.",
+    "documentedHistory": "The matha's own tradition holds that Madhvacharya, while at the port of Malpe, recovered a Krishna idol from a stranded ship, embedded in a large ball of gopichandana clay, and installed it at Udupi; this account is a devotional tradition rather than an independently documented event. The temple's Kerala-influenced architecture and its cluster of shrines developed around this founding.\n\nA further tradition associated with the temple concerns the poet-saint Kanakadasa, a non-Brahmin devotee who, according to the story, was barred from entering the temple; when he stood outside praying, a crack said to have opened in the rear wall let him view the idol, and the temple's chief priest at the time, Vadiraja Tirtha, is said to have had the opening enlarged into a permanent window rather than sealed. This window, the Kanakana Kindi, together with an inner silver-plated window called the Navagraha Kindi, remains the means by which devotees today take darshan of the deity; the legend explaining its origin is recorded as tradition, not verified history.\n\nAdministration of the matha and its daily worship is shared among the eight Ashta Mathas — Palimaru, Adamaru, Krishnapura, Puttige, Shirur, Sodhe, Kaniyooru and Pejavara — grouped in four pairs, under the Paryaya system by which each matha's swami takes charge of the temple for a two-year term in strict rotation. Wikipedia notes the Paryaya tradition had completed 500 years as of 2021. The matha lost extensive landholdings following Karnataka's Land Reforms Act of 1975, and its Pauli (outer corridor) was renovated with a Brahmakalashotsava ceremony held on 18 May 2017.",
+    "architectureStyle": "Kerala-influenced",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC003"
+    ],
+    "verificationStatus": "conflict",
+    "nearestAirport": "Mangaluru International Airport, approximately 60 km",
+    "airportDistanceKm": 60,
+    "officialContactNote": "The temple's own darshan and pooja schedule can shift around the biennial Paryaya transfer of administration; confirm same-day timings locally. A temple dress-code policy is reported to have taken effect from 19 January 2026, but its specific terms were not found in the sources consulted.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Temple hours (Karnataka Tourism)",
+      "openTime": "04:30",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "notes": "As stated by Karnataka Tourism. Conflicts with the 5:00 AM-9:00 PM window given on the temple's Wikipedia article.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Temple hours (Wikipedia)",
+      "openTime": "05:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "As stated on the temple's Wikipedia article. Conflicts with the 4:30 AM-9:30 PM window given by Karnataka Tourism.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Garbhagriha (main sanctum)",
+      "deityOrSubject": "Krishna (Balakrishna)",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum housing the Krishna idol. Devotees do not view the idol directly; darshan is taken through the outer Kanakana Kindi window and the inner, silver-plated Navagraha Kindi window, which has nine holes.",
+      "linkedMediaIds": [
+        "MED001"
+      ],
+      "sourceIds": [
+        "SRC001",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Kanakana Kindi (Kanaka's Window)",
+      "deityOrSubject": "Devotional window associated with Kanakadasa",
+      "spaceType": "other",
+      "locationDescription": "A window on the temple's rear wall through which devotees take darshan of Krishna. Temple tradition attributes its origin to the saint Kanakadasa, who, barred from the temple as a non-Brahmin, is said to have received darshan through a crack in the wall that the then chief priest, Vadiraja Tirtha, had enlarged into a permanent window; this account is recorded as tradition, not verified history.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Kanakadasa Mantapa",
+      "deityOrSubject": "Kanakadasa",
+      "spaceType": "shrine",
+      "locationDescription": "A mantapa containing an image of the saint Kanakadasa, within the temple precincts.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Daily poojas",
+      "recurrence": "Daily",
+      "description": "The temple's Wikipedia article states that 18 separate poojas are performed daily; individual names and exact timings for each were not available in the sources consulted.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Paryaya Utsava",
+      "gregorianRuleOrDate": "Every two years, on even-numbered years, around Makara Sankranti (mid-January)",
+      "significance": "Marks the handover of temple administration and daily worship from one Ashta Matha to the next in the fixed order of rotation; the tradition is reported to have completed 500 years as of 2021.",
+      "crowdNote": "Draws large numbers of pilgrims and dignitaries.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Krishna Janmashtami",
+      "significance": "Celebrates the birth of Krishna, the temple's presiding deity.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sri Krishna Matha, Udupi — hero image",
+      "caption": "The Sri Krishna Matha temple complex in Udupi.",
+      "altText": "Exterior view of the Sri Krishna Matha temple complex in Udupi, Karnataka.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Udupi_Sri_Krishna_Matha_Temple.jpg",
+      "creator": "Ashok Prabhakaran",
+      "license": "CC BY-SA 2.0",
+      "attributionText": "Ashok Prabhakaran · CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Udupi Sri Krishna Matha — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding by Madhvacharya in the 13th century; idol-origin legend (gopichandana/stranded ship); Kanakadasa and Kanakana Kindi legend; Navagraha Kindi and Kanakana Kindi as the means of darshan; Kerala architectural style; list of the eight Ashta Mathas and the Paryaya rotation, including that it completed 500 years as of 2021; festival list including Paryaya and Krishna Janmashtami; 18 daily poojas; coordinates; opening hours 5:00 AM-9:00 PM; loss of landholdings under the 1975 Land Reforms Act; 2017 Brahmakalashotsava renovation ceremony; dress-code policy reported from 19 January 2026.",
+      "reliabilityNote": "Tertiary encyclopedic source; its opening-hours figure conflicts with Karnataka Tourism's.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Ashta Mathas of Udupi — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Ashta_Mathas_of_Udupi",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding of the eight mathas by Madhvacharya with his direct disciples as first heads; names of the eight mathas (Pejavara, Palimaru, Adamaru, Puttige, Sodhe, Kaniyooru, Shiroor, Krishnapura) and their grouping into four pairs; existence of the Paryaya rotation system; each matha's presiding deity and pontiff.",
+      "reliabilityNote": "Tertiary encyclopedic source; gives no specific dates for the mathas' founding or the length of Paryaya terms.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Udupi Sri Krishna Temple",
+      "publisherOrAuthority": "Karnataka Tourism, Government of Karnataka",
+      "url": "https://karnatakatourism.org/en/attractions/udupi-sri-krishna-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding by Madhvacharya in the 13th century; Krishna worshipped as Balakrishna; darshan through the nine-holed Navagraha Kitiki; Paryaya Utsava as the biennial handover festival; Kanakana Kindi and its association with Kanakadasa; presence of a golden chariot, the Brahma Ratha, a goshala and the Kanakadasa Mantapa; opening hours 4:30 AM-9:30 PM; distance from Bengaluru about 400 km; Mangaluru Airport about 60 km away.",
+      "reliabilityNote": "State tourism attraction page; undated. Its opening-hours figure conflicts with Wikipedia's.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "File:Udupi Sri Krishna Matha Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Ashok Prabhakaran",
+      "url": "https://commons.wikimedia.org/wiki/File:Udupi_Sri_Krishna_Matha_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple complex only; author and licence string.",
+      "reliabilityNote": "Photograph originally posted to Flickr in March 2010 and uploaded to Commons in December 2010; author and licence as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Sri Krishna Matha, Udupi, Karnataka 576101, India",
+    "bestTime": "",
+    "entryFee": ""
+  },
+  "submittedBy": "import"
+}

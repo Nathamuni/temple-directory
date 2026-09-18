@@ -1,0 +1,98 @@
+{
+  "templeId": "TPL-IN-MP-MAI-0061",
+  "slug": "maihar-sharda-devi",
+  "status": "published",
+  "identity": {
+    "nameEn": "Maa Sharda Devi Temple, Maihar",
+    "alternateNames": [
+      "Maa Sharda Mandir",
+      "Sharda Devi Temple (Maihar)"
+    ],
+    "presidingDeity": "Sharda Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti Peetha",
+    "sacredClassifications": [
+      "Shakti Peetha"
+    ],
+    "spiritualSignificanceShort": "The Maa Sharda Temple crowns Trikuta hill above the town of Maihar and is regarded by devotees as a Shakti Peetha, associated with the Goddess as an incarnation of Saraswati. Tradition credits its discovery to the legendary warrior-brothers Alha and Udal.",
+    "nameLocal": "मां शारदा देवी मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Maihar",
+    "district": "Maihar",
+    "stateProvince": "Madhya Pradesh",
+    "country": "India",
+    "latitude": 24.2611,
+    "longitude": 80.7231
+  },
+  "governance": {
+    "officialWebsite": "https://www.maihartemple.com"
+  },
+  "narrative": {
+    "summaryIntro": "The Maa Sharda Temple sits atop Trikuta hill overlooking the town of Maihar in Madhya Pradesh. Regarded by devotees as a Shakti Peetha and an incarnation of Saraswati, the shrine is traditionally linked to the warrior-brothers Alha and Udal, who are said to have discovered it and, according to legend, still visit before dawn.",
+    "documentedHistory": "Temple tradition holds that the site is where Sati's necklace fell, following Vishnu's division of her body into 51 parts after her self-immolation, giving it status as a Shakti Peetha. A separate legend credits the legendary brothers Alha and Udal with discovering the shrine on Trikuta hill and, after twelve years of penance by Alha, receiving a boon of immortality from the Goddess; folk tradition holds Alha still visits the temple in the Brahma Muhurta before dawn.",
+    "sacredTextReferences": "",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Maa Sharda Temple, Maihar",
+      "caption": "The Maa Sharda Temple on Trikuta hill, Maihar.",
+      "altText": "Hilltop view of the Maa Sharda Devi temple at Maihar.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Maa%20Sharda%20Temple,%20Maihar.jpg",
+      "creator": "RishiAgrahari95",
+      "license": "CC0 1.0",
+      "attributionText": "RishiAgrahari95 · CC0 1.0 (public domain dedication)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maa_Sharda_Temple,_Maihar.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Maa Sharda Mandir, Maihar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maa_Sharda_Mandir,_Maihar",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location, Shakti Peetha and Alha-Udal legends, official website URL.",
+      "reliabilityNote": "No government or official-temple source independently checked in this research pass; managing authority, timings and contact details are not corroborated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Maa Sharda Temple, Maihar — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Maa_Sharda_Temple,_Maihar.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (RishiAgrahari95) and license (CC0 1.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

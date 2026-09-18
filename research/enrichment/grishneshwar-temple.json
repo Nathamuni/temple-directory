@@ -1,0 +1,255 @@
+{
+  "slug": "grishneshwar-temple",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Grishneshwar Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Grishneshwar_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Jyotirlinga status among the twelve; location in Verul village, Aurangabad (Chhatrapati Sambhajinagar) district at approximately 20°01'30\"N 75°10'12\"E, about 1.5 km from the Ellora Caves and about 30 km north-west of Aurangabad city; destruction of the structure during the Delhi Sultanate period in the 13th-14th centuries; 16th-century restoration under Maloji Bhosale; rebuilding to its present form in 1729 under the sponsorship of Gautama Bai Holkar of Indore; black stone construction in the Hemadpanthi idiom over an area of about 44,000 sq ft; the Jyotirlinga murti in the garbhagriha and the large Nandi before the main door; the site's status as a nationally protected monument; the Ghushma (Kusuma) sthala-purana; the tradition that men enter the sanctum bare-chested.",
+      "reliabilityNote": "Tertiary source, used for history, architecture and site features only; no timing is taken from it. Its 1729 / Gautama Bai Holkar attribution conflicts with the more commonly repeated 18th-century attribution to Ahilyabai Holkar — see notes. The article's coordinates differ from those previously held in this directory (19.8784, 75.3409).",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Ghrishneshwar Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Ghrishneshwar_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "The entry custom that men go bare-chested into the garbhagriha; black stone construction over about 44,000 sq ft; the Nandi in front of the main door; Mahashivaratri as the festival named for the temple.",
+      "reliabilityNote": "Tertiary source. The entry custom is described as local Hindu tradition, not as a posted temple rule, and is recorded here on that basis.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Grishneshwar Jyotirlinga Temple — grishneshwarjyotirling.org",
+      "publisherOrAuthority": "Site self-describes as the temple's official website; footer credits YatraDham.Org",
+      "url": "https://grishneshwarjyotirling.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Published darshan and aarti timings; the temple address given as Ghrishneshwar Temple Rd, Verul, Maharashtra 431102; the festivals it lists as observed (Mahashivaratri, Shravan, Kartik Purnima, Ganesh Chaturthi).",
+      "reliabilityNote": "Self-styled official site but names no temple trust and is powered by a third-party portal (YatraDham.Org), so it is treated as a non-official source. Its timings are recorded as 'needs recheck' and should not be relied on without confirmation at the temple. No telephone number is published on it.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "File:Grishneshvara Temple si0351.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "G41rn8",
+      "url": "https://commons.wikimedia.org/wiki/File:Grishneshvara_Temple_si0351.jpg",
+      "publicationDate": "2002",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image MED002 only: author and licence.",
+      "reliabilityNote": "Media licensing source only. The file description's dating claims about the linga are not reproduced as fact in this entry.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Grishneshwar temple, Jyotirlinga shrine, at Aurangabad Maharashtra.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Sharma.aditya1006",
+      "url": "https://commons.wikimedia.org/wiki/File:Grishneshwar_temple,_Jyotirlinga_shrine,_at_Aurangabad_Maharashtra.jpg",
+      "publicationDate": "2012-03-29",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image MED003 only: author and licence.",
+      "reliabilityNote": "Media licensing source only. Dual-licensed CC BY-SA 3.0 and GFDL 1.2+; the CC licence is used here.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Grishneshwar is counted among the twelve Jyotirlingas of Shiva, and is widely treated as the last of the twelve. It stands in Verul village about a kilometre and a half from the Ellora Caves, so the living Jyotirlinga sits beside one of the great rock-cut complexes of the Deccan. The temple takes its name from the devotee Ghushma of its sthala-purana, whose son Shiva is said to have restored to her at this spot.",
+    "sacredClassifications": [
+      "Jyotirlinga — one of the twelve"
+    ],
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "nameLocal": "घृष्णेश्वर मंदिर",
+    "localLanguage": "Marathi"
+  },
+
+  "location": {
+    "district": "Chhatrapati Sambhajinagar (Aurangabad)",
+    "latitude": 20.02497,
+    "longitude": 75.16992
+  },
+
+  "governance": {
+    "establishedEra": "Rebuilt in its present form in the 18th century, on a site restored in the 16th century by Maloji Bhosale after earlier destruction",
+    "founderPatron": "16th-century restoration attributed to Maloji Bhosale; the 18th-century rebuilding attributed by Wikipedia to Gautama Bai Holkar of Indore in 1729, and elsewhere to Ahilyabai Holkar — see narrative notes"
+  },
+
+  "narrative": {
+    "documentedHistory": "Grishneshwar stands in Verul village in the district of Chhatrapati Sambhajinagar (formerly Aurangabad), roughly 1.5 km from the Ellora Caves and about 30 km north-west of the district city. Its position beside the Ellora escarpment places a continuously worshipped Shaiva shrine immediately next to one of the largest rock-cut cave complexes in India.\n\nThe temple's fabric records a cycle of destruction and rebuilding. An earlier structure was destroyed during the Delhi Sultanate period in the 13th-14th centuries. A restoration in the 16th century is attributed to Maloji Bhosale, grandfather of Chhatrapati Shivaji Maharaj, and further damage followed during the Mughal-Maratha conflicts. The present temple is an 18th-century Holkar rebuilding: the Wikipedia article on the temple dates it to 1729 under the sponsorship of Gautama Bai Holkar of Indore, while the attribution most commonly repeated in travel and reference writing is to Ahilyabai Holkar, who is also credited with rebuilding Kashi Vishwanath. No government or trust source confirming either attribution was located, so both are recorded and neither is stated as settled.\n\nArchitecturally, the temple is built of stone in the Hemadpanthi idiom of the Deccan and spans an area given as about 44,000 sq ft; its interior and exterior walls carry sculpture and carved ornament. The garbhagriha holds the Jyotirlinga, and a large Nandi stands before the main door. The temple is a nationally protected monument.\n\nA local tradition, described as such rather than as a posted rule, requires men to enter the garbhagriha bare-chested.",
+    "sthalaPuranam": "The temple's traditional account concerns Ghushma (also given as Kusuma), a devotee who daily made and worshipped 101 earthen Shiva lingas. Her son was killed by a jealous co-wife and his body thrown into a pond; Shiva, moved by her constancy, restored the boy to her, and the deity is said to have remained at this place as Ghrishneshwar.",
+    "architectureStyle": "Hemadpanthi, stone-built, over an area given as about 44,000 sq ft"
+  },
+
+  "visitingInfo": {
+    "entryRules": "Local Hindu tradition at this temple requires men to go bare-chested to enter the garbhagriha. Described in reference sources as a customary practice rather than a posted temple regulation; confirm on arrival.",
+    "officialContactNote": "No temple trust website or telephone number could be confirmed from a government or trust source. The site that presents itself as the temple's official page names no trust and is run by a third-party portal, so its timings should be confirmed at the temple or with the district administration before travelling. The temple is a protected monument, so ASI conditions may apply to the surrounding fabric.",
+    "sourceIds": ["SRC001", "SRC002", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "sourced",
+    "notes": "The previously recorded distances (Aurangabad railway station 30 km, Aurangabad airport 30 km) could not be confirmed from any page opened and are not restated. Sources opened give the temple as about 30 km north-west of Aurangabad city and about 1.5 km from the Ellora Caves. The postal code differs between sources: this directory holds 431111 while the self-styled official site gives 431102, so no postal code is asserted here."
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "05:30",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "notes": "From a self-styled official site that names no managing trust; not confirmed by any government or trust source.",
+      "sourceIds": ["SRC003"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Afternoon and evening darshan",
+      "openTime": "13:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "From a self-styled official site that names no managing trust; not confirmed by any government or trust source.",
+      "sourceIds": ["SRC003"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Morning Aarti",
+      "startTime": "05:00",
+      "recurrence": "Daily",
+      "description": "Listed in the daily aarti schedule published by grishneshwarjyotirling.org.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Bhog Aarti (noon)",
+      "startTime": "12:00",
+      "recurrence": "Daily",
+      "description": "Listed in the daily aarti schedule published by grishneshwarjyotirling.org.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "20:00",
+      "recurrence": "Daily",
+      "description": "Listed in the daily aarti schedule published by grishneshwarjyotirling.org.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Mahashivaratri",
+      "significance": "The principal Shaiva festival observed at this Jyotirlinga; named by both the reference article on the temple and the temple's web presence as the temple's main observance.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002", "SRC003"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Shravan (month-long Shaiva observance)",
+      "significance": "Listed among the observances kept at the temple. The Shravan month draws Shaiva pilgrimage across Maharashtra; no temple-specific programme was sourced.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Kartik Purnima",
+      "significance": "Listed among the observances kept at the temple; no temple-specific ritual detail was sourced.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Ganesh Chaturthi",
+      "significance": "Listed among the observances kept at the temple; no temple-specific ritual detail was sourced.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Garbhagriha (Jyotirlinga sanctum)",
+      "deityOrSubject": "Shiva as Grishneshwar, in the form of the Jyotirlinga",
+      "spaceType": "shrine",
+      "locationDescription": "The inner sanctum of the temple. Local tradition requires men to enter bare-chested.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001", "SRC002"],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Nandi",
+      "deityOrSubject": "Nandi, the bull vehicle of Shiva",
+      "spaceType": "other",
+      "locationDescription": "A large Nandi image stands in front of the main door of the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001", "SRC002"],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Grishneshvara Temple, Ellora",
+      "caption": "The Grishneshwar temple at Verul, near the Ellora Caves.",
+      "altText": "Stone temple with a carved tower at Verul near Ellora, Maharashtra.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Grishneshvara_Temple_si0351.jpg",
+      "creator": "G41rn8",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "G41rn8 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grishneshvara_Temple_si0351.jpg"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Grishneshwar temple, Jyotirlinga shrine",
+      "caption": "The tower of the Grishneshwar temple, photographed in March 2012.",
+      "altText": "Carved stone tower of the Grishneshwar Jyotirlinga temple in Maharashtra.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Grishneshwar_temple%2C_Jyotirlinga_shrine%2C_at_Aurangabad_Maharashtra.jpg",
+      "creator": "Sharma.aditya1006",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Sharma.aditya1006 · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grishneshwar_temple,_Jyotirlinga_shrine,_at_Aurangabad_Maharashtra.jpg"
+    }
+  ]
+}

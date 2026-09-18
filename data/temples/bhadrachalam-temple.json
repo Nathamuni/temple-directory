@@ -1,0 +1,747 @@
+{
+  "templeId": "TPL-IN-TS-BHA-0044",
+  "slug": "bhadrachalam-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Sri Sita Ramachandraswamy Temple, Bhadrachalam",
+    "alternateNames": [
+      "Bhadrachalam Temple",
+      "Bhadradri Temple",
+      "Sri Sita Ramachandraswamy Devasthanam"
+    ],
+    "presidingDeity": "Rama",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnavite",
+    "sacredClassifications": [
+      "Vaishnavite",
+      "Rama temple",
+      "Divya Kshetram (Godavari)",
+      "Dakshina Ayodhya"
+    ],
+    "spiritualSignificanceShort": "Bhadrachalam is one of the principal Rama temples in India, popularly called Dakshina Ayodhya ('the Ayodhya of the South'). Its presiding image is the four-armed Vaikuntha Rama, seated with Sita on his lap and flanked by Lakshmana, an iconographic form distinct from the more common standing or two-armed Rama found elsewhere. The temple is closely linked to the 17th-century poet-devotee Bhadrachala Ramadasu (Kancharla Gopanna), whose Telugu devotional songs to Rama remain part of its musical tradition.",
+    "nameLocal": "శ్రీ సీతారామచంద్రస్వామి దేవస్థానం, భద్రాచలం",
+    "localLanguage": "Telugu"
+  },
+  "location": {
+    "city": "Bhadrachalam",
+    "district": "Bhadradri Kothagudem",
+    "stateProvince": "Telangana",
+    "country": "India",
+    "postalCode": "507111",
+    "latitude": 17.6669,
+    "longitude": 80.8828
+  },
+  "governance": {
+    "establishedEra": "Traditional origin in the Treta Yuga (itihasa, not datable) · Present structure documented from the second half of the 17th century CE, associated with the renovation/construction credited to Kancharla Gopanna (Bhadrachala Ramadasu)",
+    "managingAuthority": "Telangana State Endowments Department (Sri Sita Ramachandraswamy Devasthanam, Bhadrachalam)",
+    "founderPatron": "Kancharla Gopanna (Bhadrachala Ramadasu), a 17th-century Golconda-era revenue official (tahsildar) who is documented to have spent large sums — including revenue funds he was not authorised to use — renovating and enlarging the temple, for which he was imprisoned roughly 12-14 years. Devotional accounts of a miraculous repayment of the debt, with Rama and Lakshmana appearing in the Sultan's dream, are traditional legend rather than documented history.",
+    "administrationType": "Government department",
+    "officialWebsite": "https://bhadradritemple.telangana.gov.in/"
+  },
+  "narrative": {
+    "summaryIntro": "The Sri Sita Ramachandraswamy Temple at Bhadrachalam, on the banks of the Godavari river in Bhadradri Kothagudem district, Telangana, is one of the principal Rama temples in India and is popularly known as Dakshina Ayodhya. Its presiding deity is the four-armed Vaikuntha Rama, seated with Sita on his lap and flanked by Lakshmana — an iconographic form distinct from the standing or two-armed Rama images found at most other Rama temples.\n\nThe temple is closely associated with the 17th-century poet-devotee Kancharla Gopanna, known as Bhadrachala Ramadasu, who is credited with renovating and enlarging the shrine while serving as a Golconda-era revenue official. His Telugu devotional kirtanas to Rama remain part of the temple's musical tradition and are said to have influenced the Carnatic composer Tyagaraja. The temple is administered today by the Telangana State Endowments Department.",
+    "documentedHistory": "According to the itihasa (traditional narrative) recounted by the temple, Rama, Sita and Lakshmana passed through the Dandaka forest near the Godavari during their fourteen-year exile. A stone is said to have become the sage Bhadra through Rama's grace, and Bhadra's long penance on the Godavari bank is remembered as the origin of the hill on which the temple stands; the icon's later rediscovery is separately attributed in local tradition to a tribal woman, Pokala Dhammakka, who is said to have found it in an anthill. These are devotional accounts rather than datable events.\n\nThe documented history of the present temple begins in the 17th century. Kancharla Gopanna (c. 1620-1688), a Niyogi Brahmin later known as Bhadrachala Ramadasu, took up a revenue post at Bhadrachalam around 1650 through relatives who were ministers at the Qutb Shahi court, and was later tahsildar of the Palvoncha paragana. He spent substantial sums, including government revenue he was not authorised to use, renovating and enlarging the Sita Ramachandraswamy temple, and invited priestly families from the Ranganathaswamy temple at Srirangam to establish Pancharatra Agama worship there. For this unauthorised spending he was imprisoned at Golconda for roughly twelve to fourteen years under Sultan Abul Hasan Qutb Shah (Tana Shah), the last ruler of the Qutb Shahi dynasty, and died in 1688. Multiple devotional accounts describe his release — including a story that Rama and Lakshmana appeared in the Sultan's dream and repaid the debt in gold coins, and alternative versions in which the Sultan freed him after an inquiry or out of clemency — but English-language secondary sources note plainly that these release narratives 'lack historical evidence,' and this record does not present any one version as settled fact. A widely repeated story that the poet-saint Kabir intervened on Gopanna's behalf is likewise treated by these sources as legend rather than history, and is chronologically difficult to reconcile with Kabir's own dates.\n\nIn the following centuries the temple continued to draw endowments and remained a site of institutional continuity: it stayed with the Hyderabad State in an 1860s boundary settlement even as surrounding territory passed to British administration, and its lands were merged into Khammam district in 1959. Government oversight of maintenance passed to the Andhra Pradesh Endowments ministry in 1958, and recorded repairs were carried out from 1960 under the endowments minister of the time. The temple withstood severe Godavari flash floods in August 1986, when the kalyana mandapam was inundated except for its gopuram but daily rituals continued. During the 2014 division of Andhra Pradesh, Bhadrachalam's location on the border between the two successor states made it a point of political contention, and it was ultimately retained within Telangana; the district of Bhadradri Kothagudem, containing Bhadrachalam, was created in the state's 2016 district reorganisation. The temple is administered today by the Telangana State Endowments Department.",
+    "associatedSaints": [
+      "Bhadrachala Ramadasu (Kancharla Gopanna)",
+      "Tumu Lakshmi Narasimha Dasu",
+      "Varada Ramadasu"
+    ],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC004",
+      "SRC005",
+      "SRC006"
+    ],
+    "verificationStatus": "needs recheck",
+    "entryRules": "Arjitha sevas, vehicle poojas, accommodation and other services can be booked through the Telangana Endowments Department's official portal for the temple.",
+    "officialContactNote": "Confirm same-day darshan, seva timings and any festival-day changes on the official portal, bhadradritemple.telangana.gov.in, before travelling. The site's listed office phone number and email address could not be confirmed as specific to this temple (see reliabilityNote on SRC004) and are omitted here.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Temple hours (Monday-Saturday)",
+      "openTime": "04:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "Darshan is suspended for a midday closure from 1:00 PM to 3:00 PM; the temple reopens at 3:00 PM and closes for the night at 9:00 PM.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "weekend",
+      "sessionName": "Temple opening (Sunday)",
+      "openTime": "04:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "The official Arjitha Sevas schedule gives Sunday's Suprabhata Seva, and with it the temple's opening, as half an hour earlier than the rest of the week (4:00 AM instead of 4:30 AM).",
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Midday closure",
+      "closedFlag": true,
+      "openTime": "13:00",
+      "closeTime": "15:00",
+      "notes": "Darshan is not offered during this window.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Bhadra Shrine",
+      "deityOrSubject": "Bhadra (as a rock bearing Rama's footprint)",
+      "spaceType": "shrine",
+      "locationDescription": "The first of the temple's three architectural divisions, believed by tradition to correspond to Bhadra's head; contains a rock said to bear Rama's footprints.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Main Sanctum",
+      "deityOrSubject": "Vaikuntha Rama, with Sita and Lakshmana",
+      "spaceType": "shrine",
+      "locationDescription": "The garbhagriha housing the four-armed Vaikuntha Rama with Sita on his lap and Lakshmana at his side; by tradition sited at the heart of Bhadra.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Rajagopuram",
+      "deityOrSubject": "Main temple tower",
+      "spaceType": "gopuram",
+      "locationDescription": "The main tower of the temple, at the third of its three architectural divisions, by tradition sited at Bhadra's feet.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Vaikuntha Dwaram",
+      "deityOrSubject": "Ceremonial entrance",
+      "spaceType": "other",
+      "locationDescription": "A large entrance built in 1974 to manage pilgrim flow; devotees pass through it during Vaikuntha Ekadashi observances.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Kalyana Mandapam",
+      "deityOrSubject": "Hall for the Sita-Rama wedding festival",
+      "spaceType": "hall",
+      "locationDescription": "The hall used for the annual Sri Sitarama Kalyanotsavam; inundated except for its gopuram in the August 1986 Godavari floods.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Sri Anjaneya Swamy Devasthanam",
+      "deityOrSubject": "Hanuman",
+      "spaceType": "shrine",
+      "locationDescription": "Sub-shrine within the temple complex, listed among the devasthanam's constituent temples on the official portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Sri Ranganayaka Swamy Devasthanam",
+      "deityOrSubject": "Ranganatha",
+      "spaceType": "shrine",
+      "locationDescription": "Shrine on the Ranganayakula Gutta hillock, a higher point of the complex facing south.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR008",
+      "shrineName": "Parnasala Devasthanam",
+      "deityOrSubject": "Site associated with Rama's forest exile",
+      "spaceType": "other",
+      "locationDescription": "A related shrine site, administered together with the main devasthanam, associated by tradition with the exile sojourn of Rama, Sita and Lakshmana.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR009",
+      "shrineName": "Sri Govindaraja Swamy Temple",
+      "deityOrSubject": "Govindaraja (Vishnu)",
+      "spaceType": "shrine",
+      "locationDescription": "Sub-shrine within the temple complex, listed among the devasthanam's constituent temples on the official portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR010",
+      "shrineName": "Sri Yogananda Lakshmi Narasimha Swamy Temple",
+      "deityOrSubject": "Narasimha with Lakshmi",
+      "spaceType": "shrine",
+      "locationDescription": "Sub-shrine associated with a Saturday abhishekam ritual in the temple's weekly worship calendar.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR011",
+      "shrineName": "Sri Annapurna Sahitha Kasi Visweswara Swamy Temple",
+      "deityOrSubject": "Shiva as Visweswara, with Annapurna",
+      "spaceType": "shrine",
+      "locationDescription": "Sub-shrine within the temple complex, listed among the devasthanam's constituent temples on the official portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR012",
+      "shrineName": "Lakshmi Tayaru Ammavari Temple",
+      "deityOrSubject": "Lakshmi",
+      "spaceType": "shrine",
+      "locationDescription": "Sub-shrine associated with a Friday ritual in the temple's weekly worship calendar.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "seva",
+      "nameEn": "Suprabhata Seva",
+      "startTime": "04:30",
+      "endTime": "05:00",
+      "recurrence": "Daily (4:00 AM on Sundays)",
+      "description": "The waking ritual that opens the day's worship. The official Arjitha Sevas schedule gives 4:30 AM Monday to Saturday and 4:00 AM on Sunday.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "other",
+      "nameEn": "Balabhogam, Nivedana, Sevakalam",
+      "startTime": "05:30",
+      "endTime": "07:00",
+      "recurrence": "Daily",
+      "description": "Morning food offering and associated rites.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "abhishekam",
+      "nameEn": "Abhishekam at Bhadruni Kovela",
+      "startTime": "07:00",
+      "recurrence": "Daily",
+      "description": "Abhishekam performed at Bhadra's shrine, at the rock said to bear Rama's footprints.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "archana",
+      "nameEn": "Antaralaya Archana",
+      "startTime": "07:30",
+      "endTime": "20:00",
+      "recurrence": "Daily",
+      "description": "Booked archana offered through most of the day in the antarala (the vestibule between sanctum and hall).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "archana",
+      "nameEn": "Sahasra Namarchana",
+      "startTime": "08:30",
+      "endTime": "09:30",
+      "recurrence": "Daily",
+      "description": "Recitation of the deity's thousand names.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "seva",
+      "nameEn": "Nitya Kalyanam",
+      "startTime": "09:30",
+      "endTime": "11:30",
+      "recurrence": "Daily",
+      "description": "The daily re-enactment of the wedding of Sita and Rama. The temple's own timings page gives 9:30-11:30 AM, while its Arjitha Sevas page gives the start as 9:00 AM; the discrepancy has not been resolved.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "other",
+      "nameEn": "Raja Bhogam",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "description": "The principal midday food offering.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "seva",
+      "nameEn": "Vendi Radha Seva",
+      "startTime": "18:00",
+      "recurrence": "Daily",
+      "description": "Evening seva involving the silver processional chariot/vehicle of the deity.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ009",
+      "recordType": "seva",
+      "nameEn": "Alaya Chuttu Seva",
+      "startTime": "19:00",
+      "recurrence": "Daily",
+      "description": "Circumambulation of the processional deity around the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ010",
+      "recordType": "seva",
+      "nameEn": "Vahana Seva",
+      "startTime": "19:00",
+      "recurrence": "Daily",
+      "description": "Processional worship of the deity on a vahana (vehicle).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ011",
+      "recordType": "seva",
+      "nameEn": "Darbaru Seva",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "recurrence": "Daily",
+      "description": "Evening court-audience ritual for the deity.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ012",
+      "recordType": "other",
+      "nameEn": "Pavalimpu Seva (night rest ritual, with Nivedana Bhogam)",
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "description": "The closing ritual of the day; the temple's timings page lists a nivedana bhogam from 8:30-9:00 PM after which the temple closes, while the Arjitha Sevas page lists Pavalimpu Seva at 9:00 PM.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ013",
+      "recordType": "other",
+      "nameEn": "Gopuja",
+      "startTime": "08:00",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "description": "Worship offered to cows, drawing on the tradition of cattle husbandry associated with the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ014",
+      "recordType": "aarti",
+      "nameEn": "Sandhya Harathi",
+      "startTime": "18:00",
+      "recurrence": "Weekly - Friday",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ015",
+      "recordType": "archana",
+      "nameEn": "Suvarna Tulasi Ashtothara Namarchana",
+      "startTime": "08:30",
+      "endTime": "11:00",
+      "recurrence": "Weekly - Saturday",
+      "description": "Archana with 108 names offered using a golden tulasi.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ016",
+      "recordType": "archana",
+      "nameEn": "Suvarna Pushpa Ashtothara Namarchana",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "recurrence": "Weekly - Sunday",
+      "description": "Archana with 108 names offered using golden flowers.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ017",
+      "recordType": "other",
+      "nameEn": "Pattabhishekam",
+      "startTime": "11:00",
+      "recurrence": "Monthly, on the Pushyami Nakshatram day",
+      "description": "Coronation ritual for the deity, performed on the monthly nakshatram day associated with Rama's own coronation.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ018",
+      "recordType": "other",
+      "nameEn": "Sudarshana Homam",
+      "startTime": "09:00",
+      "recurrence": "Monthly, on the Chitha Nakshatram day",
+      "description": "Fire ritual dedicated to Vishnu's Sudarshana Chakra.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ019",
+      "recordType": "archana",
+      "nameEn": "Laksha Kumkumarchana",
+      "startTime": "15:30",
+      "recurrence": "Monthly, on the Bahula Ekadasi day",
+      "description": "Archana offered with a lakh (100,000) applications of kumkum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Brahmotsavam (Sri Sitarama Kalyanotsavam)",
+      "tamilOrLocalMonth": "March-April (Chaitra), coinciding with Rama Navami",
+      "duration": "12 days",
+      "significance": "The temple's principal annual festival, centred on the ceremonial wedding (Kalyanotsavam) of Sita and Rama, with associated rites including Ankurarpanam, Dwajarohanam, Mahapattabhishekam and Teppotsavam (float festival).",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Vaikuntha Ekadashi",
+      "tamilOrLocalMonth": "December-January (Margashira-Pushya)",
+      "duration": "21-day observance",
+      "significance": "Includes a float festival (Teppotsavam) on the Godavari using the swan-shaped Hamsavahanam, and Rathotsavam (chariot festival) coinciding with Makar Sankranti. Per the Brahma Purana as cited by the temple's own account, devotees who worship Vaikuntha Rama on this day are held to attain salvation.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Vasanthotsavam",
+      "tamilOrLocalMonth": "February-March, coinciding with Holi",
+      "significance": "A spring festival including the Dolotsavam swing ritual for the deity and preparation of turmeric-based rites.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Vijayadashami (Dussehra)",
+      "tamilOrLocalMonth": "September-October",
+      "duration": "10 days",
+      "significance": "Marked by daily Ramayana recitation, weapon worship, and a night-time Ramlila; the deity is taken in procession on elephant and horse vehicles.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sri Sita Ramachandraswamy Temple, Bhadrachalam — hero image",
+      "caption": "View of the Bhadrachalam temple complex",
+      "altText": "View of the Sri Sita Ramachandraswamy Temple complex at Bhadrachalam",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bhadrachalam_Temple.jpg",
+      "creator": "Trived m96",
+      "license": "CC BY 2.5 IN",
+      "attributionText": "Trived m96 · CC BY 2.5 IN",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhadrachalam_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Bhadrachalam temple gopuram",
+      "caption": "Gopuram of the Sita Ramachandraswamy temple, Bhadrachalam",
+      "altText": "Gopuram (tower) of the Bhadrachalam temple",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bhadrachalam_temple_gopuram.jpg",
+      "creator": "Srinivas",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Srinivas · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhadrachalam_temple_gopuram.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "media repository",
+      "title": "Sita Ramachandraswamy Temple, Bhadrachalam — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Sita_Ramachandraswamy_Temple,_Bhadrachalam",
+      "accessDate": "2026-09-18",
+      "claimScope": "History (both documented and legendary strands), iconography of Vaikuntha Rama, architecture and sub-shrines of the temple complex, associated figures (Ramadasu, Tumu Lakshmi Narasimha Dasu, Varada Ramadasu), and festival descriptions (Brahmotsavam, Vaikuntha Ekadashi, Vasanthotsavam, Vijayadashami).",
+      "reliabilityNote": "Tertiary encyclopedic source citing academic works (e.g. Warrier 2014, Anantharaman 2006, Eaton 2005) that were not independently checked here. The article itself states that the stories of Gopanna's miraculous release 'lack historical evidence,' and this record follows that caution.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Bhadrachala Ramadasu — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Bhadrachala_Ramadasu",
+      "accessDate": "2026-09-18",
+      "claimScope": "Biography of Kancharla Gopanna (Bhadrachala Ramadasu): birth c. 1620 in Nelakondapalli, his revenue-official career, his temple renovation and unauthorised use of government funds, imprisonment at Golconda, death in 1688, and the disputed authenticity of poems attributed to him.",
+      "reliabilityNote": "The article states his biography has been 'largely reconstructed from poems he composed,' indicating significant uncertainty in specific dates and events.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "media repository",
+      "title": "Bhadrachalam — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhadrachalam",
+      "accessDate": "2026-09-18",
+      "claimScope": "Town-level location facts: district, coordinates, PIN code 507111, and demographic figures.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Sree Seetha Ramachandra Swamy Devasthanam — official portal (home)",
+      "publisherOrAuthority": "Telangana State Endowments Department",
+      "url": "https://bhadradritemple.telangana.gov.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Postal address and PIN code (507111), the list of sub-shrines within the devasthanam complex (Sri Anjaneya Swamy, Sri Ranganayaka Swamy, Parnasala, Sri Govindaraja Swamy, Sri Yogananda Lakshmi Narasimha Swamy, Sri Annapurna Sahitha Kasi Visweswara Swamy, Lakshmi Tayaru Ammavari), and the categories of sevas offered (Arjitha Sevas, Vehicle Poojas, Bhoghams, Saswatha Annadanam, Mutyala Talambralu, Saswatha Pujas).",
+      "reliabilityNote": "The page's listed contact phone number (0872-3236-018) and email address (eo-vemulawada@telangana.gov.in) appear to be a template artifact shared with the Endowments Department's Vemulawada temple page — 0872 is not Bhadrachalam's STD code, and the email domain names Vemulawada rather than Bhadrachalam. These contact details are therefore omitted from this record rather than published as verified for this temple.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Temple Timings",
+      "publisherOrAuthority": "Telangana State Endowments Department (Sree Seetha Ramachandra Swamy Devasthanam)",
+      "url": "https://bhadradritemple.telangana.gov.in/timings/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily temple opening/closing times and the core daily ritual schedule: Suprabhata Seva, Balabhogam/Nivedana/Sevakalam, Sahasra Namarchana, the archana windows, Nitya Kalyanam, Raja Bhogam, Darbaru Seva, and Pavalimpu Seva, plus the midday closure from 1-3 PM.",
+      "reliabilityNote": "Page is undated. It gives Nitya Kalyanam as 9:30-11:30 AM, which conflicts with the 9:00 AM start given on the same domain's Arjitha Sevas page (SRC006); both are recorded, and the conflict is flagged rather than resolved.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Arjitha Sevas",
+      "publisherOrAuthority": "Telangana State Endowments Department (Sree Seetha Ramachandra Swamy Devasthanam)",
+      "url": "https://bhadradritemple.telangana.gov.in/arjithasevas/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Named arjitha sevas and their timings, including Suprabhatham's Sunday variation, daily sevas (Abhishekam at Bhadruni Kovela, Antaralaya Archana, Vendi Radha Seva, Alaya Chuttu Seva, Vahana Seva, Gopuja), weekly sevas (Sandhya Harathi on Friday; Suvarna Tulasi and Suvarna Pushpa Ashtothara Namarchana on Saturday/Sunday), and monthly nakshatram-day sevas (Pattabhishekam, Sudarshana Homam, Laksha Kumkumarchana).",
+      "reliabilityNote": "Page is undated; ticket prices shown on the page are omitted here because they change.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "government",
+      "title": "Telangana State Department of Endowments — official portal",
+      "publisherOrAuthority": "Government of Telangana",
+      "url": "https://endowments.ts.nic.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms that the Bhadrachalam Sri Sita Ramachandraswamy temple is administered by the Telangana State Endowments Department, alongside other major state-administered temples such as Vemulawada, Yadagirigutta and Jogulamba.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "media repository",
+      "title": "File:Bhadrachalam Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bhadrachalam_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hero image file; author attribution (Trived m96) and licence (CC BY 2.5 IN), dated 23 August 2009.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "media repository",
+      "title": "File:Bhadrachalam temple gopuram.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bhadrachalam_temple_gopuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Gopuram image file; author attribution (Srinivas) and licence, dated 28 September 2009. The file is multi-licensed; CC BY-SA 4.0 is recorded here.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Sita",
+      "Lakshmana",
+      "Hanuman (Anjaneya)",
+      "Ranganatha",
+      "Govindaraja",
+      "Yogananda Lakshmi Narasimha",
+      "Lakshmi"
+    ],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002",
+      "FES003",
+      "FES004"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [
+      "Choultry (pilgrim rooms)",
+      "Guest house cottages",
+      "Dormitory halls",
+      "Function halls",
+      "Saswatha Annadanam (daily food offering to pilgrims)"
+    ],
+    "address": "Sree Seetha Ramachandra Swamy Devasthanam, Bhadrachalam, Bhadradri Kothagudem district, Telangana 507111, India"
+  },
+  "submittedBy": "import"
+}

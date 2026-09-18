@@ -1,0 +1,204 @@
+{
+  "templeId": "TPL-IN-RJ-PUS-0052",
+  "slug": "pushkar-brahma-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Brahma Temple, Pushkar",
+    "alternateNames": [
+      "Jagatpita Brahma Mandir",
+      "Brahma Mandir"
+    ],
+    "presidingDeity": "Brahma",
+    "consortDeity": "Gayatri",
+    "tradition": "Other",
+    "templeType": "Brahma (creator) worship",
+    "sacredClassifications": [
+      "Brahma temple",
+      "Pushkar",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "The temple at Pushkar is one of only a small number of temples in India dedicated to Brahma, the Hindu creator-god, and by most accounts consulted here the most prominent among them. Tradition, as recorded by government and encyclopedic sources, holds that Brahma performed a yagna at this site and that his consort Savitri, arriving after the rites had begun without her, cursed him to be worshipped only here — an account recorded as legend rather than settled history."
+  },
+  "location": {
+    "city": "Pushkar",
+    "district": "Ajmer",
+    "stateProvince": "Rajasthan",
+    "country": "India",
+    "postalCode": "305022",
+    "latitude": 26.4872,
+    "longitude": 74.5542
+  },
+  "governance": {
+    "establishedEra": "The present structure is dated to around the 14th century CE by Wikipedia's architectural summary; the Incredible India portal attributes renovation to Adi Shankara, though sources disagree on whether this renovation belongs to the 8th century (his traditional lifetime) or the 14th century (see documented history). Popular tradition holds the site itself to be far older.",
+    "managingAuthority": "Managed by hereditary priests of the Parashar gotra, described by Wikipedia as belonging to a Sanyasi (ascetic) sect, rather than by a single formal trust identified in the sources consulted",
+    "administrationType": "Hereditary administration"
+  },
+  "narrative": {
+    "summaryIntro": "The Brahma Temple at Pushkar, in Ajmer district, Rajasthan, stands beside Pushkar Lake and is among the very few temples in India dedicated to Brahma, the creator deity of the Hindu trinity. Built of marble and stone with a distinctive red shikhara and a hamsa (goose) motif marking Brahma's mount, the present structure is generally dated to around the 14th century CE, though popular tradition holds the site itself to be far older. The sanctum enshrines a four-headed marble image of Brahma together with his consort Gayatri. According to the Puranic account recorded by the Government of India's tourism portal, the temple's uniqueness traces to a curse: when Brahma performed a yagna here without his wife Savitri, who arrived late, Savitri cursed him to be worshipped only at this single site. The temple draws its largest crowds during the Kartik Poornima festival, held alongside the Pushkar Camel Fair.",
+    "documentedHistory": "Wikipedia's architectural summary places the present temple structure in the 14th century CE, attributing earlier construction by tradition to the sage Vishwamitra and noting an 8th-century renovation credited to Adi Shankara, with further repairs and additions later made under Maharaja Jawat Raj of Ratlam. The Government of India's Incredible India portal instead states that Adi Shankara oversaw renovations 'in the 14th century' and installed the images of Brahma and Gayatri then; since Adi Shankara's traditional lifetime is placed in the 8th century CE, this 14th-century date is inconsistent with Wikipedia's dating of his renovation, and the discrepancy is recorded here rather than resolved. Rajasthan Tourism's own website lists the temple among Pushkar's religious sites, but its publicly accessible directory page did not, at the time of access, provide historical detail beyond the listing itself.\n\nThe temple sanctum holds a four-headed marble image of Brahma seated cross-legged, alongside an image of his consort Gayatri; the Incredible India portal notes the temple's marble floor is inlaid with silver coins bearing donors' names. Worship is traditionally conducted by priests of the Parashar gotra belonging to a Sanyasi order, rather than by a formal public trust of the kind that administers many other major temples.",
+    "associatedSaints": [],
+    "architectureStyle": "Rajasthani",
+    "sthalaPuranam": "According to the Puranic account recorded by the Incredible India portal and other secondary sources, Brahma performed a yagna on the banks of Pushkar Lake; when his wife Savitri arrived late and found that Gayatri had taken her place in the ritual, she cursed Brahma to be worshipped in only one place — the site of the yagna — which is offered by these sources as the reason so few Brahma temples exist elsewhere. This account is recorded as devotional tradition, not as verified history."
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "Detailed sourcing for this temple is thinner than typical for this dataset. Rajasthan Tourism's official page lists the temple but its accessible content did not go beyond a directory entry, so most historical and architectural detail here rests on the Government of India's Incredible India portal and on Wikipedia rather than a temple-specific government or official-temple source. No official trust website or temple phone number was located. Wikipedia and the Incredible India portal also disagree on the century of Adi Shankara's renovation, which is recorded as an open discrepancy rather than resolved."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002"
+    ],
+    "verificationStatus": "conflict",
+    "nearestRailStation": "Ajmer Junction, approximately 15 km",
+    "nearestAirport": "Kishangarh Airport; Jaipur and Delhi airports also serve the area",
+    "officialContactNote": "No temple phone number or official trust website was found in the government and encyclopedic sources consulted; confirm current darshan hours locally in Pushkar before visiting.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning (winter)",
+      "openTime": "06:00",
+      "closeTime": "13:30",
+      "closedFlag": false,
+      "notes": "The Incredible India portal gives winter hours of 6:00 AM-1:30 PM and 3:00-8:30 PM, and summer hours of 5:00 AM-1:30 PM and 3:00-9:00 PM. Wikipedia gives a single winter window of 6:30 AM-8:30 PM with a midday closure of 1:30-3:00 PM, and summer hours of 6:00 AM-9:00 PM; the two sources broadly agree on a midday closure but differ on the exact opening time.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Afternoon-evening (winter)",
+      "openTime": "15:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "Per the Incredible India portal's winter hours; Wikipedia gives a close time of 8:30 PM for winter as well but does not split the session the same way.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Garbhagriha (sanctum)",
+      "deityOrSubject": "Brahma and Gayatri (four-headed marble image)",
+      "spaceType": "shrine",
+      "locationDescription": "Sanctum sanctorum at the rear of the temple, holding a four-headed marble image of Brahma seated cross-legged with Gayatri.",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Mandapa",
+      "deityOrSubject": "Outdoor pillared hall",
+      "spaceType": "hall",
+      "locationDescription": "A pillared hall preceding the sanctum, part of the temple's Rajasthani-style plan, reached by marble steps from a high plinth.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Kartik Poornima",
+      "significance": "Wikipedia and the Incredible India portal both describe Kartik Poornima, in October-November, as the temple's major annual festival, when thousands bathe in Pushkar Lake; it coincides with the Pushkar Camel Fair.",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Brahma Temple, Pushkar — frontal view",
+      "caption": "Frontal view of the Brahma Temple at Pushkar, Rajasthan, photographed in October 2006.",
+      "altText": "Marble temple building with a red-topped spire, seen from the front, at Pushkar, Rajasthan.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Brahma_Temple%2C_Pushkar.jpg",
+      "creator": "V.Vasant (Flickr user vasantv)",
+      "license": "CC BY 2.0",
+      "attributionText": "V.Vasant · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brahma_Temple,_Pushkar.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Pushkar Tourism: Places to Visit in Pushkar",
+      "publisherOrAuthority": "Rajasthan Tourism (Department of Tourism, Government of Rajasthan)",
+      "url": "https://www.tourism.rajasthan.gov.in/pushkar.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Lists Brahma Temple among Pushkar's religious places.",
+      "reliabilityNote": "The publicly accessible content of this page was a navigation/directory listing; it did not provide independent historical, timing, or contact detail for the temple beyond the listing itself.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Visit the Historic Brahma Temple in Ajmer",
+      "publisherOrAuthority": "Incredible India (Ministry of Tourism, Government of India)",
+      "url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer/brahma-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location 15 km from Ajmer; nearest airports Jaipur, Delhi and Kishangarh, nearest railway station Ajmer Junction; winter hours 6:00 AM-1:30 PM and 3:00-8:30 PM, summer hours 5:00 AM-1:30 PM and 3:00-9:00 PM; 14th-century construction date; Adi Shankara renovation and installation of the Brahma and Gayatri images; the Savitri curse legend; red shikhara with hamsa motif; marble floor inlaid with silver coins.",
+      "reliabilityNote": "National tourism portal, undated; its statement that Adi Shankara's renovation occurred 'in the 14th century' is inconsistent with his traditionally accepted 8th-century lifetime, a discrepancy recorded but not resolved here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Brahma Temple, Pushkar — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "accessDate": "2026-09-18",
+      "claimScope": "Coordinates 26°29'14\"N 74°33'15\"E; 14th-century structure with an 8th-century renovation attributed to Adi Shankara and later repairs under Maharaja Jawat Raj of Ratlam; Rajasthani architecture, marble and stone-slab construction with molten-lead joints; mandapa and garbhagriha plan; four-headed marble idol of Brahma deified in 718 CE; priests of the Parashar gotra belonging to a Sanyasi sect; Kartik Poornima festival and Pushkar Camel Fair; winter hours 6:30 AM-8:30 PM with a midday closure of 1:30-3:00 PM, summer hours 6:00 AM-9:00 PM; the Padma Purana legend of Brahma slaying the demon Vajranabha and the Savitri curse.",
+      "reliabilityNote": "Tertiary source; used for most historical and architectural detail in the absence of a fuller official-temple or state-government source.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "File:Brahma Temple, Pushkar.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brahma_Temple,_Pushkar.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Source and licensing (CC BY 2.0, credited to V.Vasant) for MED001.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Brahma Temple Road, Ganahera, Pushkar, Ajmer, Rajasthan 305022, India"
+  },
+  "submittedBy": "import"
+}

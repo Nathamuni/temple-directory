@@ -1,0 +1,302 @@
+{
+  "templeId": "TPL-IN-KE-THR-0036",
+  "slug": "vadakkunnathan-thrissur",
+  "status": "published",
+  "identity": {
+    "nameEn": "Vadakkunnathan Temple, Thrissur",
+    "alternateNames": [
+      "Vadakkumnathan Temple",
+      "Thenkailasam",
+      "Dakshina Kailasam"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "consortDeity": "Parvati",
+    "sacredClassifications": [
+      "Shiva",
+      "Kerala",
+      "Pilgrimage",
+      "ASI-protected monument"
+    ],
+    "spiritualSignificanceShort": "Vadakkunnathan is one of the oldest Shiva temples in Kerala, standing on a raised, walled nine-acre site at the centre of Thrissur town. Its main sanctum houses a large Shiva lingam, and its grounds also enshrine Parvati, Shankaranarayana (a combined Shiva–Vishnu form) and Rama. The temple and its murals are protected as a monument of national importance, and its surrounding maidan is the site of Thrissur Pooram, widely described as the largest and most elaborate of Kerala's temple pooram festivals.",
+    "nameLocal": "തൃശ്ശൂർ വടക്കുന്നാഥ ക്ഷേത്രം",
+    "localLanguage": "Malayalam"
+  },
+  "location": {
+    "city": "Thrissur",
+    "district": "Thrissur",
+    "stateProvince": "Kerala",
+    "country": "India",
+    "postalCode": "680001",
+    "latitude": 10.524511,
+    "longitude": 76.214526
+  },
+  "governance": {
+    "establishedEra": "Traditional founding attributed to Parashurama; present structure and murals largely later Kerala-era construction, extensively restored 2005–2015",
+    "managingAuthority": "Cochin Devaswom Board",
+    "officialWebsite": "https://sreewadakkunathantemple.org"
+  },
+  "narrative": {
+    "summaryIntro": "Vadakkunnathan Temple stands on a hillock at the heart of Thrissur town, within a walled enclosure of roughly nine acres. Kerala Tourism and Wikipedia both describe it as one of the oldest temples in the state, built largely in wood and stone in the classical Kerala idiom, with four gopurams facing the cardinal directions and a koothambalam (temple theatre) within the complex. The main sanctum houses a Shiva lingam, and subsidiary shrines are dedicated to Parvati, Shankaranarayana, Rama, Ganesha, Krishna and Subrahmanya, among others. The temple and its mural paintings are protected as a monument of national importance, and a restoration spanning more than a decade under the guidance of the Archaeological Survey of India was completed in 2015, for which the project received the UNESCO Asia-Pacific Award for Cultural Heritage Conservation. The temple grounds and the surrounding Swaraj Round are the setting each year for Thrissur Pooram, a large multi-temple festival known for its caparisoned elephants and fireworks.",
+    "sthalaPuranam": "Temple tradition, as recorded on Wikipedia and the temple's own site, attributes the founding of the shrine to the sage Parashurama. A separate and widely repeated legend holds that the parents of the philosopher Adi Shankara, Shivaguru and Aryamba of Kalady, prayed at this temple for 41 days for a child, and that Shankara's birth followed; this is a devotional tradition rather than a documented historical event, and Shankara's traditional birthplace is Kalady, not Thrissur.",
+    "documentedHistory": "The temple and its murals have been declared a monument of national importance under India's Ancient Monuments and Archaeological Sites and Remains Act, with conservation overseen by the Archaeological Survey of India (ASI); in 2012 the ASI recommended the temple, along with other Kerala sites, for inclusion on the UNESCO World Heritage tentative list. A restoration effort spanning more than ten years, using traditional materials and techniques and involving more than 300 craftsmen, was completed in 2015 and received the UNESCO Asia-Pacific Award for Cultural Heritage Conservation. Wikipedia records that during Tipu Sultan's 1789 campaign in the region, his forces borrowed cooking vessels from the temple, and that on departure he presented the temple with a large bronze lamp.",
+    "associatedSaints": [
+      "Adi Shankara"
+    ],
+    "architectureStyle": "Kerala temple architecture (wood and stone), with four gopurams and a koothambalam"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Thrissur Railway Station, within Thrissur town",
+    "officialContactNote": "Timings and access can change on Thrissur Pooram day and other festival occasions; confirm same-day hours with the temple or the Cochin Devaswom Board before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "04:00",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "notes": "As published by Kerala Tourism. Hours are known to change on Thrissur Pooram day and other festival occasions.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "17:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "As published by Kerala Tourism. Hours are known to change on Thrissur Pooram day and other festival occasions.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Sreekovil (Main Sanctum)",
+      "deityOrSubject": "Shiva, as a large lingam",
+      "spaceType": "shrine",
+      "locationDescription": "Wikipedia describes the lingam as about 16 feet high and conventionally covered by a mound of ghee.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Koothambalam",
+      "deityOrSubject": "Traditional temple theatre",
+      "spaceType": "hall",
+      "locationDescription": "A performance hall within the complex used for traditional temple arts; some accounts describe it as very old, though this record does not treat that dating as firmly established.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Four gopurams",
+      "deityOrSubject": "Entrance towers",
+      "spaceType": "gopuram",
+      "locationDescription": "Monumental towers stand on each of the four cardinal sides of the walled enclosure.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Shankaranarayana shrine",
+      "deityOrSubject": "Shankaranarayana (combined Shiva–Vishnu form)",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary shrine within the complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Rama shrine",
+      "deityOrSubject": "Rama",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary shrine within the complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Thrissur Pooram",
+      "tamilOrLocalMonth": "Medam (April–May)",
+      "duration": "Approximately 36 hours",
+      "significance": "A multi-temple festival centred on the Vadakkunnathan grounds and the surrounding Thekkinkadu maidan; Kerala Tourism and Wikipedia both describe it as the largest and most elaborate of Kerala's pooram festivals.",
+      "processionOrRituals": "Features caparisoned elephants from participating temples, the Ilanjithara melam percussion ensemble, the kudamattom display of ceremonial parasols, and fireworks. Kerala Tourism records that the festival brings together ten participating temples and was instituted by Sakthan Thampuran.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002",
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Aanayoottu",
+      "tamilOrLocalMonth": "Karkkidakam (July)",
+      "duration": "1 day",
+      "significance": "Described by Kerala Tourism as the temple's second-largest festival, an elephant-feeding ceremony held on the first day of Karkkidakam.",
+      "processionOrRituals": "The chief priest offers rice, ghee, coconut, jaggery and sugarcane to elephants gathered at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Maha Shivaratri",
+      "significance": "A principal festival at the temple, observed with continuous abhishekam.",
+      "processionOrRituals": "Wikipedia describes continuous abhishekam with ghee and coconut, and states that around one lakh temple lamps are lit for the occasion.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Vadakkunnathan Temple — hero image",
+      "caption": "The west nada (entrance) of Vadakkunnathan Temple, an ASI-protected monument.",
+      "altText": "Stone and wood gateway structure at the west entrance of Vadakkunnathan Temple, Thrissur.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Vadakkunnathan_Temple_west_nada_DSC_0595.JPG",
+      "creator": "Ranjith Siji",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ranjith Siji · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vadakkunnathan_Temple_west_nada_DSC_0595.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Vadakkunnathan Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Vadakkunnathan_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location and coordinates; the 16-foot lingam and subsidiary deities; the Parashurama founding legend and Adi Shankara birth legend; ASI National Monument protection and 2012 UNESCO tentative-list recommendation; the Koothambalam, four gopurams and murals (Vasukisayana, Nrithanatha); Thrissur Pooram, Aanayoottu and Maha Shivaratri; the 1789 Tipu Sultan episode; the 2015 restoration and UNESCO Asia-Pacific award.",
+      "reliabilityNote": "Tertiary encyclopedic source; some claims (e.g. the Koothambalam's age) are stated with hedges in the article itself and are treated cautiously here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Vadakkumnathan Temple — Kerala Temple Architecture",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/temples/thrissur/vadakkumnathan",
+      "accessDate": "2026-09-18",
+      "claimScope": "Overview description, UNESCO Asia-Pacific Award, and Thrissur Pooram/Aanayoottu descriptions.",
+      "reliabilityNote": "State tourism page, undated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Vadakkumnathan Temple – the abode of Lord Shiva at Thrissur",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/destination/vadakkumnatha-temple-thrissur/70/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location and coordinates; opening hours ('04:00 A.M. - 11:00 A.M. and 05:00 P.M. - 08:30 P.M.'); Aanayoottu and Thrissur Pooram descriptions.",
+      "reliabilityNote": "State tourism destination page, undated; treated as indicative and reconfirm before travelling, since Kerala temple hours commonly shift on festival days.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Vadakkumnathan Temple - A Legacy in Architecture",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/kerala-article/2016/vadakkumnathan-temple-thrissur/614",
+      "accessDate": "2026-09-18",
+      "claimScope": "Architectural description (nine-acre walled site, wood-and-stone construction, four gopurams, koothambalam), the decade-long ASI-guided restoration and its methods, and Thrissur Pooram description.",
+      "reliabilityNote": "State tourism feature article, dated 2016.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "official temple",
+      "title": "Sree Wadakkunathan Temple — official site",
+      "publisherOrAuthority": "Venugopalaswamy Kainkaryam Trust / Cochin Devaswom Board",
+      "url": "https://sreewadakkunathantemple.org",
+      "accessDate": "2026-09-18",
+      "claimScope": "Deity and subsidiary shrines; Parashurama founding tradition; the Venugopalaswamy Kainkaryam Trust's role in restoration and conservation since 2005.",
+      "reliabilityNote": "Temple's own site; does not publish detailed darshan timings.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Vadakkunnathan Temple west nada DSC 0595.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Ranjith Siji",
+      "url": "https://commons.wikimedia.org/wiki/File:Vadakkunnathan_Temple_west_nada_DSC_0595.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple's west nada only; author and licence string.",
+      "reliabilityNote": "Contributor-uploaded image from Wiki Loves Monuments 2016; licence and authorship as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Parvati",
+      "Shankaranarayana",
+      "Rama"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Vadakkunnathan Temple, Thrissur, Kerala 680001, India",
+    "bestTime": "October to March; Thrissur Pooram in April–May for the festival",
+    "entryFee": "Free"
+  },
+  "submittedBy": "development@cness.co"
+}

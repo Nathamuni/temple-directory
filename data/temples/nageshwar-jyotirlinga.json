@@ -1,0 +1,249 @@
+{
+  "templeId": "TPL-IN-GU-DWA-0050",
+  "slug": "nageshwar-jyotirlinga",
+  "status": "published",
+  "identity": {
+    "nameEn": "Nageshwar Jyotirlinga Temple",
+    "alternateNames": [
+      "Nagnath Mahadev Mandir",
+      "Nageshvara Jyotirlinga"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shiva",
+      "Dwarka",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Nageshwar, near Dwarka on Gujarat's Saurashtra coast, is counted among the twelve Jyotirlingas where Shiva is held to have manifested as a column of light. The temple's own trust places it in the ancient forest of Daarukavanam and describes its Shivalinga as swayambhu, or self-manifested. Its identification as the Jyotirlinga named in the Shiva Purana is contested by two other claimant sites, a dispute recorded in the documented history below rather than resolved here.",
+    "localLanguage": "Gujarati"
+  },
+  "location": {
+    "city": "Dwarka",
+    "district": "Devbhumi Dwarka",
+    "stateProvince": "Gujarat",
+    "country": "India",
+    "postalCode": "361335",
+    "latitude": 22.3359,
+    "longitude": 69.0869
+  },
+  "governance": {
+    "establishedEra": "Ancient by tradition (Shiva Purana); construction date of the present temple and its statue not documented in the sources consulted",
+    "managingAuthority": "Shree Nagnath Mahadev Trust",
+    "officialWebsite": "https://nageshwarjyotirling.org/",
+    "administrationType": "Public trust",
+    "officialPhone": "+91 7517576175",
+    "officialEmail": "nagnath.mahadev.trust@gmail.com"
+  },
+  "narrative": {
+    "summaryIntro": "Nageshwar Jyotirlinga Temple stands near Dwarka on the Saurashtra coast of Gujarat and is counted among the twelve Jyotirlingas, the shrines where Shiva is held to have manifested as a column of light. The Shree Nagnath Mahadev Trust, which administers the temple, places it in the ancient forest of Daarukavanam and identifies its Shivalinga as swayambhu, or self-manifested. The complex is best known today for its underground sanctum and for a large seated statue of Shiva, given as roughly 25 metres (about 80 feet) by government tourism sources, rising above a garden and pond on the grounds. Gujarat's district administration and national tourism authorities corroborate the temple's location and its role as a pilgrimage stop near Dwarka, though which of several claimant sites is the 'true' Nageshwar Jyotirlinga named in the Shiva Purana remains disputed among other pilgrimage centres and secondary sources.",
+    "documentedHistory": "The temple's own dating is traditional rather than archaeological: the Shree Nagnath Mahadev Trust, the Devbhumi Dwarka district administration and the Government of India's Incredible India portal all frame the site through the Shiva Purana account of Daarukavanam, without giving a construction date for the present structure or its large Shiva statue. Both the district administration's site and the Incredible India portal independently state that archaeological investigation at the site has found evidence of five successive earlier settlement layers, though neither source ties this evidence to a specific temple-building phase.\n\nThe temple's identification as one of the twelve Jyotirlingas is itself contested. Wikipedia's survey of the dispute records three claimant sites for the Nageshvara Jyotirlinga named in the Shiva Purana: this temple near Dwarka in Gujarat, the Aundha Nagnath temple in Hingoli district, Maharashtra, and the Jageshwar temple complex near Almora, Uttarakhand — the last argued for on the basis that the Shiva Purana's 'Daru forest' may refer to Himalayan deodar forests rather than a coastal one, and the Wikipedia article notes there is no archaeological evidence of forest cover at the Dwarka site. Popular pilgrimage practice and Gujarat's own tourism authorities treat the Dwarka-area temple as the Nageshwar Jyotirlinga, but no source consulted here resolves the underlying dispute definitively.",
+    "associatedSaints": [],
+    "sthalaPuranam": "Two versions of the temple's founding legend appear across the sources consulted, and both are recorded here as devotional tradition rather than settled history. The Devbhumi Dwarka district government site recounts a story in which the Balakhilya sages, testing Shiva after he interrupted their penance in the guise of a naked ascetic, cursed his linga to fall to earth, and Brahma and Vishnu intervened to have it reinstated as a Jyotirlinga at this site. Gujarat Tourism and Wikipedia instead give the Shiva Purana story of the demon Daaruka (Daruk), who imprisoned a Shiva devotee named Supriya together with other captives; Supriya's chanting of Shiva's name is said to have summoned the god, who slew the demon, after which the lingam Supriya had worshipped became known as Nagesha."
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "The trust's own site states Darshan hours of 6:00 AM-9:00 PM; Gujarat Tourism describes hours only loosely as running from dawn to dusk, which is broadly but not precisely consistent with the trust's figure. Airport distances differ between sources: Gujarat Tourism gives Porbandar 107 km and Jamnagar 126 km, while the Incredible India portal and Wikipedia name only Jamnagar without a distance figure; Gujarat Tourism's more specific figures are used here. The temple's status as the 'true' Nageshwar Jyotirlinga is itself disputed against two other claimant sites (see documented history)."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Dwarka Railway Station, approximately 16 km",
+    "railDistanceKm": 16,
+    "nearestAirport": "Porbandar Airport, approximately 107 km",
+    "airportDistanceKm": 107,
+    "officialContactNote": "Confirm same-day darshan and pooja timings with the Shree Nagnath Mahadev Trust on +91 7517576175 or nagnath.mahadev.trust@gmail.com; Gujarat Tourism describes hours only as 'dawn to dusk' rather than giving fixed clock times.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan",
+      "openTime": "06:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "Stated on the Shree Nagnath Mahadev Trust's own website. Gujarat Tourism describes hours only loosely as 'dawn to dusk'.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main sanctum (Garbhagriha)",
+      "deityOrSubject": "Nageshwar Shivalinga",
+      "spaceType": "shrine",
+      "locationDescription": "An underground sanctum housing the swayambhu Shivalinga, as described by the Devbhumi Dwarka district government site and the Incredible India portal.",
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Seated Shiva statue and garden",
+      "deityOrSubject": "Shiva (colossal seated statue)",
+      "spaceType": "other",
+      "locationDescription": "A large statue of a seated Shiva, given as roughly 25 metres (about 80 feet) tall, set within a garden with a pond on the temple grounds.",
+      "sourceIds": [
+        "SRC002",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Daily Pooja",
+      "startTime": "06:30",
+      "endTime": "17:30",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Evening Pooja",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "significance": "Both Gujarat Tourism and the Incredible India portal describe Maha Shivaratri as the temple's principal festival, drawing large numbers of devotees.",
+      "sourceIds": [
+        "SRC002",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Nageshwar Jyotirlinga Temple — hero image",
+      "caption": "Nageshwar Jyotirlinga Temple, near Dwarka, Gujarat, photographed in January 2009.",
+      "altText": "Exterior view of the Nageshwar Jyotirlinga temple building near Dwarka, Gujarat.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nageshwar_temple_outdoors.JPG",
+      "creator": "Amitparikh",
+      "license": "Public Domain",
+      "attributionText": "Amitparikh · Public Domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nageshwar_temple_outdoors.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Official Nagnath Mahadev Mandir Dwarka | Nageshwar Jyotirlinga",
+      "publisherOrAuthority": "Shree Nagnath Mahadev Trust",
+      "url": "https://nageshwarjyotirling.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Identification as custodian of Nagnath Mahadev Mandir (Nageshwar Jyotirlinga), Daarukavanam, Dwarka, Gujarat; address (Daarukavanam, Dwarka, Gujarat 361335); darshan hours 6:00 AM-9:00 PM; pooja timings 6:30 AM-5:30 PM and 8:00-9:00 PM; contact phone +91 7517576175 and email nagnath.mahadev.trust@gmail.com; the Shiva Purana framing of Shiva manifesting at Daarukavanam as Nageshwar.",
+      "reliabilityNote": "Page is undated and devotional in register; operational timings may change without notice.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Nageshwar Jyotirlinga Devbhoomi Dwarka",
+      "publisherOrAuthority": "Gujarat Tourism (Tourism Corporation of Gujarat Ltd.)",
+      "url": "https://gujarattourism.com/saurashtra/devbhoomi-dwarka/nageshwar-jyotirlinga.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location 18 km from Dwarka city; description as one of twelve Jyotirlingas; the Daaruka-Supriya legend; nearby Gopi Talav Tirth; best visiting period November to February; Maha Shivaratri as a major festival; nearest airports Porbandar (107 km) and Jamnagar (126 km); nearby attractions including Dwarkadhish Temple and Beyt Dwarka.",
+      "reliabilityNote": "State tourism page, undated; gives temple hours only as 'dawn to dusk' rather than fixed times.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Nageshwar Jyotirling | District Devbhumi Dwarka, Government of Gujarat",
+      "publisherOrAuthority": "District Administration, Devbhumi Dwarka (National Informatics Centre)",
+      "url": "https://devbhumidwarka.nic.in/tourist-place/nageshwar-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location between Dwarka city and Beyt Dwarka Island, about 16 km from Dwarka; description as one of twelve swayambhu jyothirlingas; underground sanctum; 25-metre seated Shiva statue and garden with pond; archaeological evidence of five earlier city layers at the site; the Balakhilya-sages sthala purana account; access via NH 947 and Dwarka railway station.",
+      "reliabilityNote": "District government page, undated; carries no darshan timings or temple phone number of its own.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Explore Dwarka's Nageshwar Jyotirling Temple",
+      "publisherOrAuthority": "Incredible India (Ministry of Tourism, Government of India)",
+      "url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka/nageshwar-jyotirlinga",
+      "accessDate": "2026-09-18",
+      "claimScope": "80-foot seated Shiva statue; underground sanctum; description as one of twelve swayambhu Jyotirlingas; archaeological evidence of five earlier cities at the site; the Daaruka-Supriya legend; nearest airport Jamnagar, nearest railway station Dwarka; Maha Shivaratri celebrations; hours given loosely as dawn to dusk.",
+      "reliabilityNote": "National tourism portal, undated; some devotional claims (e.g. protective properties of worship) are recorded as tradition only and not repeated as fact.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Nageshwar Jyotirlinga — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Nageshwar_Jyotirlinga",
+      "accessDate": "2026-09-18",
+      "claimScope": "Coordinates 22°20'09\"N 69°05'13\"E; the Daaruka-Supriya legend from the Shiva Purana; Maha Shivaratri as major festival; the three-way location dispute among the Dwarka temple, Aundha Nagnath temple (Hingoli, Maharashtra) and Jageshwar temple (Almora, Uttarakhand), including the observation that the Shiva Mahapurana points to a location on the western (Arabian) sea and that Deodar forests associated with Shiva in some texts are a Himalayan feature; nearest airport Jamnagar and nearest railway stations Dwarka and Okha.",
+      "reliabilityNote": "Tertiary source; used mainly for the documented location controversy, which is not resolved by any source consulted.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Nageshwar temple outdoors.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Nageshwar_temple_outdoors.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Source and licensing (Public Domain, credited to Amitparikh) for MED001.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Nageshwar Jyotirlinga Temple, Daarukavanam, near Dwarka, Devbhumi Dwarka, Gujarat 361335, India",
+    "bestTime": "November to February"
+  },
+  "submittedBy": "import"
+}

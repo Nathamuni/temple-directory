@@ -14,7 +14,7 @@
       "Cave Temple",
       "Trikuta Mountains"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Vaishno Devi is worshipped in a natural cave on Trikuta mountain, where the goddess is present not as an image but as three natural rock formations, the Pindis, identified as Mahakali, Mahalakshmi and Mahasaraswati. The Holy Cave lies at about 1,585 m and is reached on foot by a roughly 12 km ascent from Katra. It is among the most heavily visited pilgrimage sites in India, with 9.52 million visitors recorded by the Shrine Board in 2023.",
     "nameLocal": "वैष्णो देवी मंदिर",
     "localLanguage": "Hindi"
   },
@@ -30,11 +30,13 @@
   "governance": {
     "establishedEra": "Ancient; legend-based origins · Historically documented from medieval period",
     "managingAuthority": "Vaishno Devi Shrine Board",
-    "officialWebsite": "https://www.vaishnodevi.org"
+    "officialWebsite": "https://www.vaishnodevi.org",
+    "administrationType": "Government department",
+    "officialPhone": "18001807212"
   },
   "narrative": {
     "summaryIntro": "Vaishno Devi Temple is located in a naturally formed cave on the Trikuta Mountains in the Udhampur district of Jammu and Kashmir. Dedicated to the goddess Durga (worshipped as Vaishno Devi, Mata Rani, or Trikuta), the temple is one of the most visited pilgrimage sites in India. The shrine houses three naturally formed rock formations believed to represent the three aspects of the goddess: Saraswati, Lakshmi, and Durga.\n\nThe pilgrimage to Vaishno Devi requires trekking approximately 12-14 kilometers through scenic mountain paths. The cave temple is situated at an altitude of 1,560 meters and attracts millions of pilgrims annually. The journey is considered spiritually rewarding, and the temple represents a perfect blend of natural geography and divine spirituality.",
-    "documentedHistory": "",
+    "documentedHistory": "Until the mid-1980s the shrine was run by hereditary trustees. In August 1986 the Shri Mata Vaishno Devi Shrine Board was constituted and took over management; the Board's authority rests on the Jammu and Kashmir Shri Mata Vaishno Devi Shrine Act, 1988. The Board is chaired ex officio by the state Governor with up to nine nominated members, and its day-to-day work is directed by a Chief Executive Officer.\n\nSince the takeover the approach to the shrine has been progressively engineered for very large pilgrim volumes: a registration and access-control system, a metalled track, battery-operated vehicles, pony and palanquin services and helicopter flights from the Sanjhichhat and Panchi helipads. The Shrine Board recorded 9.52 million visitors in 2023.\n\nAdministratively the shrine lies in Reasi district; the Board's own address is Katra, District Reasi, Jammu and Kashmir 182301. Older references placing it in Udhampur district predate the creation of Reasi district.",
     "associatedSaints": [],
     "architectureStyle": "Cave Temple"
   },
@@ -42,14 +44,23 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Comfortable trekking clothing; traditional attire recommended",
     "nearestRailStation": "Udhampur Railway Station, 35 km",
     "railDistanceKm": 35,
     "nearestBusStation": "Accessible by road to Katra; then trek from there",
     "nearestAirport": "Srinagar Airport, 290 km",
-    "airportDistanceKm": 290
+    "airportDistanceKm": 290,
+    "entryRules": "Yatra registration is compulsory and free. Only the Shri Mata Vaishno Devi Shrine Board may issue it — no private or other organisation is authorised to. Each yatri is registered, photographed on the spot and issued an RFID Yatra Access Card, which is the documentary permission to proceed to the Shrine. Registration is done at the Yatra Registration Counter at the Katra bus stand, at YRC-II about a kilometre away on the Udhampur road, or online. The card holder must cross the first check post at Banganga, about 1.5 km from the YRC, within six hours of the card being issued; otherwise the card is confiscated and a fresh one must be obtained.",
+    "accessibilityNotes": "The Bhawan is reached by a trek of approximately 12 km from Katra. Battery-operated vehicles are available for elderly and disabled pilgrims on designated stretches, alongside ponies and palanquins; helicopter services operate to the Sanjhichhat and Panchi helipads.",
+    "officialContactNote": "Confirm registration procedure, track conditions and helicopter availability with the Shrine Board before travelling — toll free 18001807212, or 9906019494. Shrine Board, Katra, District Reasi, Jammu and Kashmir 182301.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -77,24 +88,57 @@
   "shrines": [
     {
       "shrineId": "SHR001",
-      "shrineName": "Saraswati",
-      "deityOrSubject": "Saraswati",
+      "shrineName": "The three Pindis in the Holy Cave",
+      "deityOrSubject": "Mahakali, Mahalakshmi and Mahasaraswati",
       "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "locationDescription": "Inside the Holy Cave at the Bhawan, on Trikuta mountain at about 1,585 m. The goddess is worshipped as three natural rock formations rather than as a sculpted image.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
     },
     {
       "shrineId": "SHR002",
-      "shrineName": "Lakshmi",
-      "deityOrSubject": "Lakshmi",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "shrineName": "Ardhkuwari (Garbhjoon)",
+      "deityOrSubject": "Vaishno Devi",
+      "spaceType": "other",
+      "locationDescription": "An intermediate halt on the track between Katra and the Bhawan, containing the narrow Garbhjoon or womb chamber through which pilgrims pass.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
-  "poojas": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Morning Aarti",
+      "recurrence": "Daily",
+      "description": "The Shrine Board states the aarti is performed twice a day, the first time in the morning just before sunrise. It has no fixed clock time and shifts with sunrise through the year. The full procedure takes nearly two hours, during which darshan is suspended. The pujaris perform the rites inside the sanctum and then bring the thaal to the mouth of the cave, where the aarti concludes before the assembled yatris; prasad and holy water are distributed afterwards.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "recurrence": "Daily",
+      "description": "The second aarti of the day, performed immediately after sunset and therefore without a fixed clock time. As in the morning, the procedure takes nearly two hours and darshan remains suspended throughout.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -122,6 +166,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katra_Vaishno_Devi_temple_Seen1.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Vaishnodevi trail from Katra",
+      "caption": "The pilgrim trail from Katra towards the Vaishno Devi Bhawan, photographed in September 2012.",
+      "altText": "A paved pilgrim track winding up a forested hillside on the route from Katra to Vaishno Devi.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vaishnodevi_trail_from_Katra_91.JPG",
+      "creator": "Vinayaraj",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Vinayaraj · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaishnodevi_trail_from_Katra_91.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -140,6 +199,61 @@
       "url": "https://www.vaishnodevi.org",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Yatra Registration | Shri Mata Vaishno Devi Shrine Board",
+      "publisherOrAuthority": "Shri Mata Vaishno Devi Shrine Board",
+      "url": "https://www.maavaishnodevi.org/blog/yatra-registration",
+      "accessDate": "2026-09-18",
+      "claimScope": "Compulsory yatra registration; the Shrine Board as the only statutory and legal registration authority; registration is free and computerised; on-the-spot photograph; RFID Yatra Access Card as the documentary permission to proceed; Yatra Registration Counter at Katra bus stand and YRC-II about one kilometre away on the Udhampur road; Banganga check post about 1.5 km from the YRC and the six-hour rule; online registration available.",
+      "reliabilityNote": "Official Shrine Board page but undated. Registration procedure and counter locations are operational details that the Board changes; confirm before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "About Board | Shri Mata Vaishno Devi Shrine Board",
+      "publisherOrAuthority": "Shri Mata Vaishno Devi Shrine Board",
+      "url": "https://www.maavaishnodevi.org/about-board",
+      "accessDate": "2026-09-18",
+      "claimScope": "Board constituted in August 1986 under the Jammu and Kashmir Shri Mata Vaishno Devi Shrine Act, 1988; board composition (Governor as ex-officio Chairman, up to nine nominated members, a Chief Executive Officer); Board address at Katra, District Reasi, J&K 182301; toll-free number 18001807212 and phone 9906019494.",
+      "reliabilityNote": "Official page, undated. Note that the Board's own address places the shrine in District Reasi, not Udhampur.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Aarti | Shri Mata Vaishno Devi Shrine Board",
+      "publisherOrAuthority": "Shri Mata Vaishno Devi Shrine Board",
+      "url": "https://www.maavaishnodevi.org/blog/aarti",
+      "accessDate": "2026-09-18",
+      "claimScope": "Aarti performed twice daily, before sunrise and immediately after sunset; the procedure takes nearly two hours during which darshan is suspended; the outline of the ritual and the distribution of prasad and holy water afterwards.",
+      "reliabilityNote": "Official page, undated. It deliberately gives no clock times — the aarti tracks sunrise and sunset and therefore shifts through the year. No fixed aarti time is recorded in this file for that reason.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Vaishno Devi Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vaishno_Devi_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Holy Cave altitude of about 1,585 m (5,200 ft) on Trikuta mountain in Reasi district; approximately 12 km trek from Katra to the Bhawan; the three Pindis identified as Mahakali, Mahalakshmi and Mahasaraswati; the Ardhkuwari halt with the Garbhjoon; helicopter services from Sanjhichhat and Panchi helipads, battery vehicles, ponies and palanquins; the Shrine Board's 1986 assumption of management from hereditary trustees; 9.52 million visitors recorded in 2023.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. The 2023 visitor figure is a single year and should not be presented as a current annual rate.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "media repository",
+      "title": "File:Vaishnodevi trail from Katra 91.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vaishnodevi_trail_from_Katra_91.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the trail photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page. Photograph dated 20 September 2012; the trail has been upgraded since.",
       "adminApproved": true
     }
   ],

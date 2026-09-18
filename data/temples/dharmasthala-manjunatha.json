@@ -1,0 +1,541 @@
+{
+  "templeId": "TPL-IN-KA-DHA-0039",
+  "slug": "dharmasthala-manjunatha",
+  "status": "published",
+  "identity": {
+    "nameEn": "Dharmasthala Manjunatha Temple",
+    "alternateNames": [
+      "Shri Kshetra Dharmasthala",
+      "Sri Manjunatheshwara Swamy Temple"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "Manjunatha",
+      "Hindu-Jain shared worship"
+    ],
+    "spiritualSignificanceShort": "Dharmasthala is widely cited as an example of shared Hindu-Jain religious life: the sanctum's Shivalinga, worshipped as Manjunatheshwara, is served by Madhwa Vaishnava priests, while the temple and its charitable institutions are administered hereditarily by a Jain family holding the title Heggade (Dharmadhikari). The town also holds shrines to four Dharma Daiva guardian deities, a marble Jain basadi to the tirthankara Chandraprabha, and a 39-foot Bahubali statue, and is known for providing free meals to every visitor irrespective of faith.",
+    "localLanguage": "Kannada"
+  },
+  "location": {
+    "city": "Dharmasthala",
+    "district": "Dakshina Kannada",
+    "stateProvince": "Karnataka",
+    "country": "India",
+    "postalCode": "574216",
+    "latitude": 12.96012,
+    "longitude": 75.37836
+  },
+  "governance": {
+    "establishedEra": "Traditional founding c. 1200 CE by Birmanna Pergade; Shivalinga reconsecrated in the 16th century by Vadiraja Tirtha",
+    "managingAuthority": "Heggade family, hereditary Dharmadhikari of Shri Kshetra Dharmasthala",
+    "founderPatron": "Birmanna Pergade (traditional founder); Devaraja Heggade, who invited Vadiraja Tirtha of Udupi for the 16th-century reconsecration",
+    "administrationType": "Hereditary administration",
+    "officialWebsite": "https://www.shridharmasthala.org/"
+  },
+  "narrative": {
+    "summaryIntro": "Shri Kshetra Dharmasthala is a Hindu temple dedicated to Shiva, worshipped here as Sri Manjunatheshwara, in the town of Dharmasthala on the banks of the Netravati river in Dakshina Kannada district, Karnataka. Temple tradition credits its founding, roughly 800 years ago, to the Jain chieftain Birmanna Pergade, whose descendants — holding the hereditary title Heggade — have administered the institution ever since. The Shivalinga is worshipped by Madhwa Vaishnava priests even as day-to-day administration of the temple and its charitable institutions remains with the Jain Heggade family, a combination widely described as an example of shared Hindu-Jain religious life. The complex also includes shrines to the goddess Ammanavaru and to four Dharma Daiva guardian deities, the marble Chandranatha Basadi dedicated to the Jain tirthankara Chandraprabha, and a 39-foot monolithic statue of Bahubali on a nearby hill. The current Dharmadhikari is Dr. D. Veerendra Heggade, who has held the post since 1968. The temple is known for free communal meals provided to every visitor and for its annual Lakshadeepotsava, when roughly a hundred thousand lamps are lit across the complex.",
+    "documentedHistory": "According to the temple's own historical account, Dharmasthala was originally the village of Kuduma in Mallarmadi, where the Jain chieftain Birmanna Pergade and his wife Ammu Ballalthi lived in a house called Nelyadi Beedu. Temple tradition holds that four Dharma Daivas (guardian deities) — Kalarahu, Kalarkai, Kumaraswamy and Kanyakumari — directed the couple to build shrines in their honour; Brahmin priests engaged for the rituals then asked that a Shivalinga also be installed, and the vassal Annappa Swamy is said to have brought the image of Manjunatheshwara from the Kadri Manjunath temple near Mangaluru. Around the sixteenth century the then administrator Devaraja Heggade invited the Dvaita saint Vadiraja Tirtha of Udupi, who declined to accept hospitality until the linga had been consecrated by Vedic rite; after performing the reconsecration himself, he is said to have named the place Dharmasthala, \"the abode of dharma.\" The temple's own history page states that twenty-one generations of the Heggade family (a name derived from Pergade) have since held the hereditary post of Dharmadhikari. In the twentieth century the post passed from Manjayya Heggade (1918-1955) to Ratnavarma Heggade (1955-1968) to the present Dharmadhikari, Dr. D. Veerendra Heggade, who succeeded to the position on 24 October 1968 at the age of nineteen. Since 1973 the temple town has also held a 39-foot monolithic statue of Bahubali on a nearby hillside — though a district government page instead dates it to 1980 — and since 1972 the institution has organised mass weddings for couples who could not otherwise afford one; Wikipedia records that 10,698 couples had married through the programme as of 2013.",
+    "associatedSaints": [
+      "Vadiraja Tirtha"
+    ]
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC003",
+      "SRC004",
+      "SRC005",
+      "SRC006",
+      "SRC007"
+    ],
+    "verificationStatus": "conflict",
+    "accommodationNotes": "The temple trust operates guest houses at Dharmasthala; per the official site, bookings can be made only through www.shridharmasthala.org and not through any other platform.",
+    "nearestRailStation": "Puttur Railway Station, about 49 km (Karnataka Tourism); the Dakshina Kannada district government page instead names Mangaluru Railway Station, about 72 km — the two government sources disagree on which is nearest.",
+    "railDistanceKm": 49,
+    "nearestBusStation": "Mangaluru Central Bus Stand, about 74 km (Dakshina Kannada district government page); Karnataka Tourism gives no bus distance.",
+    "busDistanceKm": 74,
+    "nearestAirport": "Mangaluru International Airport; Karnataka Tourism states 75 km, while the Dakshina Kannada district government page states 82 km.",
+    "airportDistanceKm": 75,
+    "officialContactNote": "Temple helpline 08256-266666, office 08256-266655, fax 08256-277116; trust office hours 9:30 AM-2:00 PM and 4:00 PM-9:00 PM. The temple's own routine page notes that darshan and pooja timings vary on special occasions, so confirm same-day timings locally before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning Darshan",
+      "openTime": "06:30",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "notes": "The temple's routine page states the shrine gates open at 4:00 AM; general morning darshan runs 6:30-11:00 AM. The page notes that temple timings may vary on special occasions.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Afternoon Darshan",
+      "openTime": "12:15",
+      "closeTime": "14:30",
+      "closedFlag": false,
+      "notes": "Resumes after the midday Nithyabali procession, per the temple's routine page.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Evening Darshan",
+      "openTime": "17:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "Followed by the evening Mahapooja at 8:30 PM, per the temple's routine page.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Sri Manjunatheshwara garbhagriha",
+      "deityOrSubject": "Shiva, as Manjunatheshwara",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum of the temple, housing the Shivalinga which temple tradition holds was brought from the Kadri Manjunath temple near Mangaluru.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002",
+        "SRC008"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Ammanavaru shrine",
+      "deityOrSubject": "Ammanavaru (mother goddess)",
+      "spaceType": "shrine",
+      "locationDescription": "Shrine to the goddess Ammanavaru within the temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Shrines to the Dharma Daivas (Kalarahu, Kalarkai, Kumaraswamy, Kanyakumari)",
+      "deityOrSubject": "Kalarahu, Kalarkai, Kumaraswamy and Kanyakumari — guardian deities of the founding legend",
+      "spaceType": "shrine",
+      "locationDescription": "Four shrines that temple tradition holds were built by Birmanna Pergade before the Manjunatheshwara Shivalinga was installed beside them.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002",
+        "SRC008"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Sri Chandranatha Swamy Basadi",
+      "deityOrSubject": "Chandraprabha (Jain Tirthankara)",
+      "spaceType": "shrine",
+      "locationDescription": "A white marble Jain basadi within the Dharmasthala complex, dedicated to the tirthankara Chandraprabha.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006",
+        "SRC008"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Bahubali (Gomateshwara) statue",
+      "deityOrSubject": "Bahubali",
+      "spaceType": "other",
+      "locationDescription": "A 39-foot monolithic statue of Bahubali on a 13-foot pedestal, carved from a single block of granite, on a hillside near the temple complex. Wikipedia and the Wikimedia Commons file description both give 1973 as the year of installation; the Dakshina Kannada district government page instead states 1980.",
+      "linkedMediaIds": [
+        "MED002"
+      ],
+      "sourceIds": [
+        "SRC006",
+        "SRC007",
+        "SRC009",
+        "SRC013"
+      ],
+      "verificationStatus": "conflict"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "abhishekam",
+      "nameEn": "Shatharudra Abhisheka",
+      "startTime": "08:30",
+      "endTime": "10:30",
+      "recurrence": "Daily",
+      "description": "Special abhisheka to the Shivalinga; the temple's routine page links its significance to Lord Rama's worship of Shiva in his Rudra form.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "archana",
+      "nameEn": "Shiva Sahasranamavali",
+      "startTime": "11:00",
+      "recurrence": "Daily",
+      "description": "Recitation of the thousand names of Shiva.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Maha Naivedya Samarpana",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "description": "Principal food offering to the deity, followed by distribution to devotees.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Mahapooja (midday)",
+      "startTime": "12:00",
+      "endTime": "12:15",
+      "recurrence": "Daily",
+      "description": "The temple's principal midday worship, with the idol decorated in Vedic ornamentation, hymn recitation and temple instruments.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "other",
+      "nameEn": "Nithyabali (midday)",
+      "startTime": "12:10",
+      "recurrence": "Daily",
+      "description": "A processional offering performed three times a day; general darshan is briefly suspended during the rite.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Evening Mahapooja",
+      "startTime": "20:30",
+      "endTime": "20:45",
+      "recurrence": "Daily",
+      "description": "The day's closing principal worship.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "other",
+      "nameEn": "Nithyabali (evening)",
+      "startTime": "20:45",
+      "recurrence": "Daily",
+      "description": "The evening processional offering that closes the day's worship.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "seva",
+      "nameEn": "Tulabhara Seva",
+      "recurrence": "By prior booking",
+      "description": "Ceremonial weighing of a devotee against offerings. The temple states that this and other special poojas or utsavas require advance booking through the temple's Parupathyagar and cannot be performed on festival days.",
+      "bookingMethod": "Contact the temple Parupathyagar in advance.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Lakshadeepotsava",
+      "gregorianRuleOrDate": "November-December; exact dates vary by year",
+      "significance": "The temple's major annual festival, when roughly one hundred thousand lamps are lit across the complex. The temple's own website also associates the festival with an interfaith 'All-Faith Conference,' and Karnataka Tourism describes accompanying literary and religious discourses.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC006",
+        "SRC009"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Maha Shivaratri",
+      "gregorianRuleOrDate": "February-March, per the Hindu lunar calendar",
+      "significance": "Hindu festival marking the night of Shiva, listed among the festivals observed at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Bahubali Vardhantyutsava",
+      "significance": "An annual anniversary observance associated with the Bahubali statue at Dharmasthala; the temple's official website references its 44th edition.",
+      "linkedMediaIds": [
+        "MED002"
+      ],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Dharmasthala Temple Tower",
+      "caption": "The tower (gopura) of the Manjunatha temple at Dharmasthala.",
+      "altText": "The temple tower of the Manjunatha temple complex at Dharmasthala, Karnataka.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dharmasthala_Temple_Tower.jpg",
+      "creator": "Gopal Venkatesan",
+      "license": "CC BY 2.0",
+      "attributionText": "Gopal Venkatesan · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharmasthala_Temple_Tower.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "other",
+      "title": "Bahubali (Gomateshwara) statue at Dharmasthala",
+      "caption": "The 39-foot monolithic statue of Bahubali (Gomateshwara) on a hillside near the Dharmasthala temple complex.",
+      "altText": "A tall stone statue of Bahubali standing upright near the Dharmasthala temple.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Gomateshwara_of_Dharmasthala.jpg",
+      "creator": "Abdulla Al Muhairi",
+      "license": "CC BY 2.0",
+      "attributionText": "Abdulla Al Muhairi · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gomateshwara_of_Dharmasthala.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shri Kshetra Dharmasthala — Official Website (Home)",
+      "publisherOrAuthority": "Shri Kshetra Dharmasthala",
+      "url": "https://www.shridharmasthala.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Postal address and contact numbers; guest house booking policy; mention of Lakshadeepotsava with an All-Faith Conference; reference to the 44th Bahubali Vardhantyutsava; office hours.",
+      "reliabilityNote": "The trust's own homepage; undated, and the Bahubali Vardhantyutsava edition number may reflect earlier cached content.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "History — Shri Kshetra Dharmasthala",
+      "publisherOrAuthority": "Shri Kshetra Dharmasthala",
+      "url": "https://www.shridharmasthala.org/history/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding legend: Birmanna Pergade, Ammu Ballalthi and Nelyadi Beedu; the Dharma Daivas and their four shrines; the fetching of the Manjunatheshwara linga from Kadri; the 16th-century reconsecration by Vadiraja Tirtha and the naming of Dharmasthala; the claim of twenty-one generations of Heggade succession.",
+      "reliabilityNote": "Official devotional/historical account; undated, and its earliest legendary details are not independently corroborated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Temple Routine — Shri Kshetra Dharmasthala",
+      "publisherOrAuthority": "Shri Kshetra Dharmasthala",
+      "url": "https://www.shridharmasthala.org/temple-routine/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily darshan sessions and pooja/seva schedule: shrine gate opening at 4 AM, morning/afternoon/evening darshan windows, Shatharudra Abhisheka, Shiva Sahasranamavali, Maha Naivedya Samarpana, Mahapooja, and Nithyabali (midday and evening).",
+      "reliabilityNote": "Official routine page; undated, and it states directly that timings vary on special occasions.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Seva — Shri Kshetra Dharmasthala",
+      "publisherOrAuthority": "Shri Kshetra Dharmasthala",
+      "url": "https://www.shridharmasthala.org/seva/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Existence of Tulabhara seva; requirement that special poojas and utsavas be booked in advance through the temple Parupathyagar and cannot be held on festival days; utsava season from Deepavali to Hathanavadhi (May).",
+      "reliabilityNote": "Official seva page; does not give fees or a full seva list.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "official temple",
+      "title": "Contact — Shri Kshetra Dharmasthala",
+      "publisherOrAuthority": "Shri Kshetra Dharmasthala",
+      "url": "https://www.shridharmasthala.org/contact/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Postal address, helpline and office phone numbers, fax number, and trust office hours.",
+      "reliabilityNote": "The published email address is obscured behind script-based anti-spam protection and could not be read directly, so it is not recorded in this entry.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Dharmasthala — Best Temples in Karnataka",
+      "publisherOrAuthority": "Karnataka Tourism, Government of Karnataka",
+      "url": "https://karnatakatourism.org/en/destinations/dharmasthala",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location on the Netravati river in the Western Ghats; distance from Bengaluru and Mangaluru; the Sri Chandranatha Swamy Basadi and the Bahubali statue; the Manjusha and Car museums; free meals; Lakshadeepotsava in November-December; transport distances to Mangaluru airport (75 km) and Puttur railway station (49 km).",
+      "reliabilityNote": "State tourism destination page; undated; its transport distances differ from those on the Dakshina Kannada district government page.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "government",
+      "title": "Dharmasthala — District Dakshina Kannada, Government of Karnataka",
+      "publisherOrAuthority": "Dakshina Kannada District Administration, Government of Karnataka",
+      "url": "https://dk.nic.in/en/tourist-place/dharmasthala/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Description of the temple as an amalgam of Shaiva, Madhwa Vaishnava and Jain traditions under hereditary Heggade administration; the Bahubali statue's installation year (given here as 1980); transport distances to Mangaluru airport (82 km), railway station (72 km) and bus stand (74 km).",
+      "reliabilityNote": "District government tourism page; its 1980 installation date for the Bahubali statue conflicts with the 1973 date given by Wikipedia and the Wikimedia Commons file description, and its transport distances differ from Karnataka Tourism's.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "other",
+      "title": "Dharmasthala Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Dharmasthala_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Deities worshipped (Manjunatha, Ammanavaru, Chandraprabha, Kalarahu, Kalarkai, Kumaraswamy, Kanyakumari); founding date and founder; the 16th-century reconsecration; the hereditary Heggade/Dharmadhikari administration; festivals including Maha Shivaratri; SDM group institutions.",
+      "reliabilityNote": "Tertiary encyclopedic source. Its statement of 'nearly 20 generations' of Heggade succession is not perfectly consistent with the temple's own claim of twenty-one generations or with Veerendra Heggade's Wikipedia page, which describes him as 21st in the line; the exact generation count is treated as approximate rather than settled.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "other",
+      "title": "Dharmasthala — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Dharmasthala",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location in Belthangady taluk, Dakshina Kannada district; coordinates and postal code 574216; the Netravati river; the Bahubali statue's dimensions and 1973 installation date; mass weddings organised since 1972 (10,698 couples by 2013); local administration by a Gram Panchayat.",
+      "reliabilityNote": "Tertiary encyclopedic source, used mainly for geography and the Bahubali statue's date, which conflicts with the Dakshina Kannada district page's 1980.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC010",
+      "sourceType": "other",
+      "title": "Veerendra Heggade — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Veerendra_Heggade",
+      "accessDate": "2026-09-18",
+      "claimScope": "Current Dharmadhikari's full name and birth date; succession to the post on 24 October 1968 at age 19; his role over the temple's trust properties and the SDM Educational Society; national honours; nomination to the Rajya Sabha in 2022; the Annapoorna community kitchen.",
+      "reliabilityNote": "Tertiary encyclopedic source for a living public figure; used here only for the succession date and institutional role, not for other, unrelated matters discussed elsewhere on the same page, which fall outside this record's scope.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC011",
+      "sourceType": "other",
+      "title": "Manjayya Heggade — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Manjayya_Heggade",
+      "accessDate": "2026-09-18",
+      "claimScope": "The Dharma Adhikari title; Manjayya Heggade's tenure 1918-1955, succeeding his uncle Chandayya Heggade and succeeded by Ratnavarma Heggade.",
+      "reliabilityNote": "Tertiary encyclopedic source, used only for the twentieth-century succession sequence.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC012",
+      "sourceType": "media repository",
+      "title": "File:Dharmasthala Temple Tower.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Gopal Venkatesan",
+      "url": "https://commons.wikimedia.org/wiki/File:Dharmasthala_Temple_Tower.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hero image of the temple tower; author and licence.",
+      "reliabilityNote": "Contributor-uploaded image, dated 18 January 2012 on Commons; licence and authorship as declared on the file page.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC013",
+      "sourceType": "media repository",
+      "title": "File:Gomateshwara of Dharmasthala.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Abdulla Al Muhairi",
+      "url": "https://commons.wikimedia.org/wiki/File:Gomateshwara_of_Dharmasthala.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the Bahubali statue; author and licence; statue dimensions (39 ft, 13-ft pedestal, about 175 tonnes) and a 1973 carving/installation date.",
+      "reliabilityNote": "Contributor-uploaded image, dated 18 January 2012 on Commons; its 1973 date agrees with Wikipedia but conflicts with the Dakshina Kannada district page's 1980.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Ammanavaru",
+      "Chandraprabha (Jain Tirthankara)",
+      "Kalarahu",
+      "Kalarkai",
+      "Kumaraswamy",
+      "Kanyakumari"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [
+      "Free communal dining (Annadana) for all visitors regardless of faith",
+      "Manjusha Museum, housing palm-leaf manuscripts and religious artefacts",
+      "Car Museum of vintage automobiles",
+      "Guest house accommodation, bookable only through the official website"
+    ],
+    "address": "Shri Kshetra Dharmasthala, Belthangady Taluk, Dakshina Kannada District, Karnataka 574216, India"
+  },
+  "submittedBy": "development@cness.co"
+}

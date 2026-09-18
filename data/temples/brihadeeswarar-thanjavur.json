@@ -14,7 +14,7 @@
       "Chola Architecture",
       "Thanjavur"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Brihadeeswarar Temple is the Chola imperial temple that Rajaraja I inaugurated in his nineteenth regnal year and named Rajarajesvaram after himself. Devotees revere it as a living Shaiva sanctuary built around one of the largest monolithic Shiva lingas in India, standing about 8.7 m high within the sanctum. Worship established here a thousand years ago has continued without a break, which is why UNESCO's inscription classes it among the 'Great Living Chola Temples'.",
     "nameLocal": "பெரிய கோயில்",
     "localLanguage": "Tamil"
   },
@@ -29,26 +29,35 @@
   },
   "governance": {
     "establishedEra": "11th century CE · Built by Raja Raja Chola I in 1010 CE",
-    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
+    "founderPatron": "Rajaraja Chola I (r. AD 985-1012)",
+    "administrationType": "Government department"
   },
   "narrative": {
     "summaryIntro": "Brihadeeswarar Temple (also known as Periya Koil) in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site and a masterpiece of Chola period architecture. Built by Raja Raja Chola I in 1010 CE, the temple is dedicated to Lord Shiva as Brihadeeswarar (Great Lord). The temple's towering vimana (spire) stands at 216 feet and is constructed with granite, representing the pinnacle of medieval South Indian temple architecture.\n\nThe temple is renowned for its magnificent stone carvings, sculptures, and architectural innovations that influenced temple construction for centuries. The massive vimana is one of the tallest structures built in the 11th century and is a remarkable feat of ancient engineering. The temple complex features elaborate gopurams, sacred tanks, and ornate pillared halls. It remains one of the greatest monuments of the Chola dynasty and a testament to Hindu artistic and spiritual excellence.",
-    "documentedHistory": "",
+    "documentedHistory": "The temple is the principal foundation of the Chola emperor Rajaraja I. The Archaeological Survey of India records that Rajaraja (AD 985-1012) inaugurated it in his nineteenth regnal year, AD 1009-10, and that he named it after himself; the HR&CE Department states that it was built from AD 1003 to 1010. A later inscription referring to the deity as 'Periya Udaiya Nayanar' is the origin of the modern Tamil name Peruvudaiyar Kovil, alongside the Sanskrit-derived Brihadisvara.\n\nThe temple stands within a walled inner prakara that ASI measures at 240.9 m east-west by 122 m north-south. The sanctum houses a brihad-linga about 8.7 m high, among the largest monolithic lingas in India. The vimana rises above it in a series of tapering storeys to a height given by secondary sources as 63.4 m, and is crowned by an octagonal cupolic sikhara that rests on a single block of granite — a square of 7.8 m weighing some 80 tons.\n\nThe monolithic Nandi facing the sanctum is recorded as weighing about 25 tonnes and measuring 3.65 m high, 5.94 m long and 2.59 m broad. Chola-period mural paintings survive on the walls of the lower ambulatory inside the sanctum wall, which ASI describes as among the finest examples of Chola and later painting.\n\nThe Brihadisvara Temple was inscribed on the UNESCO World Heritage List in 1987 as part of the Great Living Chola Temples, a serial property that also includes the Brihadisvara Temple at Gangaikondacholapuram and the Airavatesvara Temple at Darasuram. It is protected by the Archaeological Survey of India while daily worship continues under the HR&CE Department.",
     "associatedSaints": [],
-    "architectureStyle": "Dravidian"
+    "architectureStyle": "Dravidian",
+    "inscriptionsSummary": "ASI records that the moulded plinth of the temple is extensively engraved with inscriptions by its royal builder, in which Rajaraja refers to his many endowments and pious acts."
   },
   "editorial": {
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Thanjavur Railway Station, 2 km",
     "railDistanceKm": 2,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Trichy Airport, 60 km",
-    "airportDistanceKm": 60
+    "airportDistanceKm": 60,
+    "busDistanceKm": 1,
+    "officialContactNote": "The temple is an ASI-protected monument in which daily worship continues under HR&CE. Confirm same-day darshan and pooja timings on the HR&CE temple page (tid=13968) before travelling; festival days alter the schedule.",
+    "lastVerifiedDate": "2026-09-17"
   },
   "openingHours": [
     {
@@ -56,25 +65,130 @@
       "dayType": "daily",
       "sessionName": "Morning",
       "openTime": "06:00",
-      "closeTime": "12:00",
+      "closeTime": "12:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists the morning session as 06:00 AM IST - 12:30 PM IST.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
       "sessionName": "Evening",
       "openTime": "16:00",
-      "closeTime": "21:00",
+      "closeTime": "20:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists the evening session as 04:00 PM IST - 08:30 PM IST.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main sanctum and vimana",
+      "deityOrSubject": "Brihadeeswarar (Shiva) as a monolithic linga",
+      "spaceType": "shrine",
+      "locationDescription": "At the centre of the walled inner prakara, which ASI measures at 240.9 m east-west by 122 m north-south. The linga within the sanctum is about 8.7 m high; the vimana above is crowned by an octagonal cupolic sikhara resting on a single 7.8 m square granite block weighing 80 tons.",
+      "linkedMediaIds": [
+        "MED002"
+      ],
+      "sourceIds": [
+        "SRC004",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Nandi mandapa",
+      "deityOrSubject": "Nandi",
+      "spaceType": "hall",
+      "locationDescription": "Facing the sanctum along the east-west axis. The monolithic Nandi is recorded as weighing about 25 tonnes and measuring 3.65 m high, 5.94 m long and 2.59 m broad.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Subsidiary shrines of the complex",
+      "deityOrSubject": "Parvati, Kartikeya (Murugan), Ganesha, Dakshinamurti, Chandeshvara and Nataraja",
+      "spaceType": "shrine",
+      "locationDescription": "Distributed around the main temple within the prakara; several are later additions to Rajaraja's original foundation.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Morning pooja",
+      "startTime": "08:30",
+      "recurrence": "Daily",
+      "description": "HR&CE states: 'The morning pooja is performed at 8.30 am.'",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Uchi Kala Pooja",
+      "startTime": "12:00",
+      "recurrence": "Daily",
+      "description": "HR&CE states: 'The Uchi kala (afternoon) Pooja is performed at 12 noon.'",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Evening pooja",
+      "startTime": "18:00",
+      "recurrence": "Daily",
+      "description": "HR&CE states: 'The evening pooja is performed at 6.00 pm.'",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Ardhajama Pooja",
+      "startTime": "20:00",
+      "recurrence": "Daily",
+      "description": "HR&CE states: 'Ardhajama (Night) Puja is performed at 8.00 pm.'",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -102,6 +216,36 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brihadeeswarar_Temple_02.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Sikhara of the Brihadeeswarar vimana",
+      "caption": "The sikhara crowning the vimana of the Brihadeeswarar Temple, which rests on a single granite block weighing about 80 tons.",
+      "altText": "Close view of the tiered granite vimana of the Brihadeeswarar Temple rising to its octagonal capstone.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brihad_Sikharam.jpg",
+      "creator": "Bvvsprakash",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Bvvsprakash · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brihad_Sikharam.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Brihadishvara Temple, Thanjavur",
+      "caption": "General view of the Brihadishvara Temple at Thanjavur, on the south bank of the Kaveri.",
+      "altText": "Wide exterior view of the granite Brihadishvara Temple complex at Thanjavur.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Beautiful_view_of_the_Brihadishvara_Temple.jpg",
+      "creator": "Shailee Mehendale",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Shailee Mehendale · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_view_of_the_Brihadishvara_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -119,6 +263,50 @@
       "title": "Great Living Chola Temples UNESCO World Heritage",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Pragadheeswarar Temple, Thanjavur - 613001, Thanjavur District [TM013968]",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=13968",
+      "accessDate": "2026-09-17",
+      "claimScope": "Official temple name in English and Tamil (Arulmigu Pragadheeswarar / அருள்மிகு பிரகதீஸ்வரசுவாமி திருக்கோயில்), the alternate name Rajarajeswaram, HR&CE temple code TM013968, daily opening hours, the four daily poojas and their times, and the statement that the temple was built by Rajaraja I from AD 1003-1010.",
+      "reliabilityNote": "Page carries no publication or last-updated date. The structured pooja table on the &action=pooja_info view is empty; the four pooja times come from the page's prose. Operational timings should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Great Living Chola Temples",
+      "publisherOrAuthority": "Archaeological Survey of India (ASI), Ministry of Culture, Government of India",
+      "url": "https://asi.nic.in/pages/WorldHeritageCholaTemples",
+      "accessDate": "2026-09-17",
+      "claimScope": "World Heritage inscription in 1987 as part of the Great Living Chola Temples; Rajaraja (AD 985-1012) as builder and the 19th regnal year (AD 1009-10) inauguration; inner prakara dimensions; the octagonal sikhara on a single 7.8 m square granite block weighing 80 tons; the 8.7 m brihad-linga; the inscribed moulded plinth; the mural paintings of the lower ambulatory.",
+      "reliabilityNote": "Page undated. ASI text is descriptive rather than a formal notification; it is used here only for architectural and heritage-status claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Brihadeeswara Temple, Thanjavur",
+      "publisherOrAuthority": "Tamil Nadu Tourism Department, Government of Tamil Nadu",
+      "url": "https://www.tamilnadutourism.tn.gov.in/destinations/brihadeeswara-temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Distances to Thanjavur Bus Stand, Thanjavur Junction Railway Station and Tiruchirapalli International Airport; best season to visit; the Nandi monolith dimensions as the department states them.",
+      "reliabilityNote": "Page undated and written for visitors rather than as a technical record; its Nandi and tower figures differ from ASI and academic measurements, so only the access distances and season are relied on here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Brihadisvara Temple, Thanjavur",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple,_Thanjavur",
+      "accessDate": "2026-09-17",
+      "claimScope": "The original name Rajarajeshvaram and the derivation of Peruvudaiyar Kovil from the 'Periya Udaiya Nayanar' inscription; the 63.4 m vimana height; the monolithic Nandi's weight and dimensions; the extent of surviving Chola frescoes; the list of subsidiary shrines.",
+      "reliabilityNote": "Tertiary source, editable. Used for enrichment only; heritage status and the principal architectural claims are carried by the ASI source.",
       "adminApproved": true
     }
   ],

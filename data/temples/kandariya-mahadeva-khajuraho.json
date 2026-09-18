@@ -1,0 +1,97 @@
+{
+  "templeId": "TPL-IN-MP-KHJ-0060",
+  "slug": "kandariya-mahadeva-khajuraho",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kandariya Mahadeva Temple, Khajuraho",
+    "alternateNames": [],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "UNESCO World Heritage Site (Khajuraho Group of Monuments)"
+    ],
+    "spiritualSignificanceShort": "Kandariya Mahadeva is the largest and most ornate of the surviving Khajuraho temples, dedicated to Shiva. Built by the Chandela dynasty in the 11th century, it is renowned for its towering shikhara and extensive figural and erotic sculpture, and is protected as part of the UNESCO-listed Khajuraho Group of Monuments.",
+    "nameLocal": "कंदारिया महादेव मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Khajuraho",
+    "district": "Chhatarpur",
+    "stateProvince": "Madhya Pradesh",
+    "country": "India",
+    "latitude": 24.8531,
+    "longitude": 79.9197
+  },
+  "governance": {
+    "establishedEra": "c. 1025–1050 CE, reign of the Chandela ruler Vidyadhara",
+    "founderPatron": "Vidyadhara, Chandela dynasty",
+    "managingAuthority": "Archaeological Survey of India",
+    "administrationType": "Government department"
+  },
+  "narrative": {
+    "summaryIntro": "The Kandariya Mahadeva Temple at Khajuraho, Madhya Pradesh, is the largest of the surviving Khajuraho temples and is dedicated to Shiva. Built under the Chandela ruler Vidyadhara in the early 11th century, it is renowned for its soaring shikhara, said to evoke Mount Meru, and for the extensive figural sculpture covering its exterior. It is protected as part of the Khajuraho Group of Monuments, a UNESCO World Heritage Site inscribed in 1986.",
+    "documentedHistory": "Scholarship dates the temple's construction to between 1025 and 1050 CE, under Vidyadhara, who is understood to have commemorated his military successes, including resistance to Mahmud of Ghazni, by building the temple for his family deity. It is the largest and most architecturally developed of the Khajuraho temples associated with the Chandela dynasty. The Khajuraho Group of Monuments, including this temple, was inscribed on the UNESCO World Heritage List in 1986 in recognition of its preservation and testimony to Chandela-era art and culture.",
+    "architectureStyle": "North Indian Nagara style; a 31-metre shikhara composed of 84 miniature spires rising in a mountain-like profile, with three mandapas and three vertical bands of sculpture, including divine and erotic imagery, on the exterior walls.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "sourced"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kandariya Mahadeva Temple, Khajuraho",
+      "caption": "Exterior view of the Kandariya Mahadeva Temple, showing its shikhara.",
+      "altText": "The tall shikhara of Kandariya Mahadeva Temple at Khajuraho.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandariya%20Mahadeva%20Temple,%20Khajuraho,%20Madhya%20Pradesh,%20India%20002.jpg",
+      "creator": "WarmaFiesta",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "WarmaFiesta · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kandariya_Mahadeva_Temple,_Khajuraho,_Madhya_Pradesh,_India_002.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Kandariya Mahadeva Temple — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kandariya_Mahadeva_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Dating, patron, architecture, UNESCO/ASI protection status.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Kandariya Mahadeva Temple, Khajuraho — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kandariya_Mahadeva_Temple,_Khajuraho,_Madhya_Pradesh,_India_002.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (WarmaFiesta) and license (CC BY-SA 4.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "templeId": "TPL-IN-AP-SRI-0042",
+  "slug": "srisailam-mallikarjuna",
+  "status": "published",
+  "identity": {
+    "nameEn": "Sri Bhramaramba Mallikarjuna Swamy Temple, Srisailam",
+    "alternateNames": [
+      "Srisailam Temple",
+      "Srigiri",
+      "Sriparvatam"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Jyotirlinga and Shakti Peetha",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shakti Peetha",
+      "Shiva",
+      "Devi",
+      "Hill temple",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Srisailam is one of the twelve Jyotirlingas of Shiva, worshipped here as Mallikarjuna, and is simultaneously revered as a Shakti Peetha, where the goddess is worshipped as Bhramaramba Devi. The Andhra Pradesh government's own tourism description states that Srisailam is one of only two places in India — alongside Varanasi — where an ancient Jyotirlinga and a Shakti Peetha coexist within a single temple, and notes that devotees are permitted to touch the lingam directly with hand or forehead, a practice not common to all twelve Jyotirlingas. Devotional and government-tourism accounts also connect the site to Adi Shankaracharya, who is traditionally said to have composed devotional verses near Srisailam. Sources vary on precisely which enumerated list of Shakti Peethas the shrine belongs to and its rank within it — the Government of India's national utsav.gov.in portal places it 6th among 18 Maha Shakti Peethas, while other reference material places it among the wider, differently-numbered list of Shakta pithas; this reflects genuinely competing classification traditions rather than a single settled count, and is recorded here as such.",
+    "nameLocal": "శ్రీ భ్రమరాంబా మల్లికార్జున స్వామి వారి దేవస్థానం, శ్రీశైలం",
+    "localLanguage": "Telugu"
+  },
+  "location": {
+    "city": "Srisailam",
+    "district": "Nandyal",
+    "stateProvince": "Andhra Pradesh",
+    "country": "India",
+    "postalCode": "518101",
+    "latitude": 16.0742,
+    "longitude": 78.8681
+  },
+  "governance": {
+    "establishedEra": "Satavahana-era inscriptions attest to the site from the 2nd century CE · Principal surviving temple fabric built under the Reddi kings (14th century CE) and substantially expanded under the Vijayanagara empire (14th–16th centuries CE)",
+    "managingAuthority": "Sri Bhramaramba Mallikarjuna Swamy Varla Devasthanam, under the Andhra Pradesh Endowments Department",
+    "administrationType": "Government department",
+    "officialWebsite": "https://www.srisailadevasthanam.org/",
+    "officialPhone": "+91 98490 05495",
+    "officialEmail": "endow-edpsec@gov.in"
+  },
+  "narrative": {
+    "summaryIntro": "The Sri Bhramaramba Mallikarjuna Swamy Temple stands on a hilltop in the Nallamala Hills at Srisailam, in Nandyal district, Andhra Pradesh, overlooking the Krishna River. It is dedicated to Shiva, worshipped here as Mallikarjuna, and to his consort, worshipped as the goddess Bhramaramba — a rare pairing that makes the temple both one of the twelve Jyotirlingas and one of the Shakti Peethas of Hindu tradition.\n\nAdministered by the Sri Bhramaramba Mallikarjuna Swamy Varla Devasthanam under the Andhra Pradesh Endowments Department, the temple complex is enclosed by tall fortified walls with four gateway towers (gopurams) and preserves architectural and inscriptional evidence spanning the Satavahana, Reddi and Vijayanagara periods. In July 2026 the Archaeological Survey of India reported a newly identified Vijayanagara-era bas-relief on the temple's southern prakara wall depicting giraffes and camels, evidence that the site was also a medieval hub of long-distance trade alongside its role as a pilgrimage centre.",
+    "documentedHistory": "Inscriptional evidence of the Satavahana dynasty places a shrine at Srisailam as far back as the 2nd century CE. The temple's Wikipedia-sourced architectural account dates the core sanctum housing the Mallikarjuna lingam to the 7th century CE; this specific dating is not corroborated by any government source consulted here, and the Nandyal district administration's own tourism page instead states that construction of the temple occurred in the 14th century CE — the two accounts are not necessarily describing the same phase of building, but the discrepancy in dating is recorded here as unresolved.\n\nThe Reddi dynasty (c. 1325–1448 CE) is described as a golden age of patronage: Prolaya Vema Reddi is credited with major repairs to the temple and with building a flight of steps from the Krishna River up to the temple (Patala Ganga), and Anavema Reddi is credited with constructing the Veerasiromandapam, associated with Veerashaiva votive practice. Under the Vijayanagara empire, Harihara I (14th–15th centuries CE) undertook most of the temple's later structural additions, and Krishnadevaraya is credited with further mandapas and gopuram work.\n\nIn July 2026, the Archaeological Survey of India announced the identification of a rare bas-relief on the southern prakara (enclosure) wall of the temple depicting a procession of two giraffes and two camels with attendants, part of a set of narrative bas-reliefs the ASI dates to the 14th–16th centuries CE (the Vijayanagara period). The ASI states this and other finds, including copper plates and inscriptions reported from the Ghantamandapam area, indicate Srisailam functioned as a hub of medieval maritime trade with Africa and the Middle East in addition to its role as a pilgrimage centre.",
+    "associatedSaints": [
+      "Adi Shankaracharya — traditionally said to have composed devotional verses near Srisailam (per Andhra Pradesh Tourism's description of the nearby Paladhara-Panchadhara site)"
+    ],
+    "architectureStyle": "Dravidian, with substantial Vijayanagara-period additions"
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC003",
+      "SRC004",
+      "SRC005",
+      "SRC007"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Markapur Road railway station (~83–85 km; AP Tourism-linked and national portal figures differ slightly)",
+    "railDistanceKm": 85,
+    "nearestBusStation": "Srisailam bus stand (~2 km)",
+    "nearestAirport": "Kurnool Airport (~180 km); Hyderabad's Rajiv Gandhi International Airport is also used, though sources vary on the exact distance",
+    "airportDistanceKm": 180,
+    "accessibilityNotes": "The temple's administration streams a free live darshan online via YouTube (channel: @SrisailaTv). The Government of India's national utsav.gov.in portal separately lists a live-view darshan window of 11:59 AM–12:01 PM.",
+    "officialContactNote": "The temple's own website (srisailadevasthanam.org) is a JavaScript-rendered application that could not be read by automated retrieval for this record, so no consolidated official timetable from the temple itself is reflected here. Darshan hours below are drawn from Andhra Pradesh Tourism and the Government of India's Incredible India portal, which disagree on the morning session; confirm same-day timings via the Devasthanam or its national-portal contact details before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "05:30",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "notes": "Andhra Pradesh Tourism states darshan runs 5:30 AM–1:00 PM. The Government of India's Incredible India portal instead states the morning session runs 6:00 AM–3:30 PM. The two government sources disagree; times shown here follow AP Tourism.",
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "18:00",
+      "closeTime": "22:00",
+      "closedFlag": false,
+      "notes": "AP Tourism and the Government of India's Incredible India portal agree on this evening window.",
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Mallikarjuna Sanctum",
+      "deityOrSubject": "Mallikarjuna (Shiva lingam)",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum housing the self-manifest Mallikarjuna lingam. Dated to the 7th century CE per the temple's Wikipedia-sourced architectural account, but the Nandyal district government portal instead states the temple's construction occurred in the 14th century CE — the two accounts conflict and are recorded as such.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC007"
+      ],
+      "verificationStatus": "conflict"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Bhramaramba Devi Shrine",
+      "deityOrSubject": "Bhramaramba Devi (Shakti)",
+      "spaceType": "shrine",
+      "locationDescription": "Shrine of the goddess Bhramaramba within the temple complex, the seat of the site's status as a Shakti Peetha alongside the Mallikarjuna sanctum's status as a Jyotirlinga.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Mukha Mandapa",
+      "deityOrSubject": "Pillared hall before the sanctum",
+      "spaceType": "hall",
+      "locationDescription": "A hall with intricately sculpted pillars, built during the Vijayanagara period.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Sahasralinga",
+      "deityOrSubject": "One thousand lingams",
+      "spaceType": "other",
+      "locationDescription": "A grouping of one thousand lingams within the complex, traditionally attributed to Rama; a further set of five lingams is traditionally attributed to the Pandavas.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Veerasiromandapam",
+      "deityOrSubject": "Votive mandapa",
+      "spaceType": "hall",
+      "locationDescription": "A mandapa built under the Reddi king Anavema Reddi (Reddi dynasty, c. 1325–1448 CE), historically associated with Veerashaiva votive practice.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Patala Ganga",
+      "deityOrSubject": "Bathing ghat on the Krishna River",
+      "spaceType": "tank",
+      "locationDescription": "A flight of steps down to the Krishna River, traditionally credited to the Reddi king Prolaya Vema Reddi; AP Tourism separately lists it as a sacred bathing spot roughly 1 km from the main temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC003"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Outer Prakaram (Enclosure Walls and Gopurams)",
+      "deityOrSubject": "Enclosure walls and four gateway towers",
+      "spaceType": "prakaram",
+      "locationDescription": "The temple's walled enclosure, reported as roughly 183 m by 152 m with walls about 8.5 m tall, spanning about two hectares with four gopurams. In July 2026 the Archaeological Survey of India identified a Vijayanagara-era (14th–16th century) bas-relief of two giraffes and two camels with attendants on a panel of the southern prakara wall, cited as evidence of the temple's medieval international trade links.",
+      "linkedMediaIds": [
+        "MED001",
+        "MED002"
+      ],
+      "sourceIds": [
+        "SRC001",
+        "SRC008"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri Brahmotsavam",
+      "tamilOrLocalMonth": "Magha (February–March)",
+      "duration": "11 days, observed with Navahnika Deeksha",
+      "significance": "The temple's principal annual festival, per the Government of India's utsav.gov.in event listing. Rituals described include Dhwajarohanam (flag-hoisting), a midnight Lingodbhava Maha Rudrabhishekam on the night of Maha Shivaratri itself, the Pagalankarana ceremony, Kalyanotsavam, multiple vahana (vehicle) processions, Rathotsavam (chariot procession) and Teppotsavam (float festival). The Government of India's Incredible India portal separately confirms Maha Shivaratri as the temple's key festival occasion.",
+      "verificationStatus": "verified",
+      "sourceIds": [
+        "SRC006",
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Mallikarjuna Temple, Srisailam — hero image",
+      "caption": "View of the Sri Bhramaramba Mallikarjuna Swamy Temple, Srisailam",
+      "altText": "View of the Sri Bhramaramba Mallikarjuna Swamy Temple complex at Srisailam",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Mallikarjuna_Temple%2C_Sri_Sailam.jpg",
+      "creator": "Arpita Tripathy",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Arpita Tripathy · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mallikarjuna_Temple,_Sri_Sailam.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Srisailam temple entrance gopuram",
+      "caption": "Entrance gopuram of the Srisailam temple complex",
+      "altText": "Gateway tower (gopuram) at the entrance of the Srisailam temple complex",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Srisailam_Entrance_Gopuram.jpg",
+      "creator": "Srinivas Chidumalla",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Srinivas Chidumalla · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Srisailam_Entrance_Gopuram.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Mallikarjuna Temple, Srisailam — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mallikarjuna_Temple,_Srisailam",
+      "accessDate": "2026-09-18",
+      "claimScope": "Jyotirlinga/Shakti Peetha status; Satavahana-era inscriptional evidence; Reddi and Vijayanagara-period construction history (Harihara I, Krishnadevaraya, Prolaya Vema Reddi, Anavema Reddi); temple dimensions and gopuram count; Mukha Mandapa, Sahasralinga, Veerasiromandapam and Patala Ganga; coordinates; the Mallikarjuna naming legend.",
+      "reliabilityNote": "The article itself flags its History section as needing expansion (noted since April 2017). Treated as the base historical/architectural account and cross-referenced against government sources where possible.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Srisailam — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Srisailam",
+      "accessDate": "2026-09-18",
+      "claimScope": "Town-level geography: coordinates, PIN code 518101, Nandyal district, Nallamala forest range and Nagarjunsagar-Srisailam Tiger Reserve context, road/rail/air access.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Srisailam — destination page",
+      "publisherOrAuthority": "Andhra Pradesh Tourism (Government of Andhra Pradesh)",
+      "url": "https://aptourism.gov.in/destinations/50/srisailam",
+      "accessDate": "2026-09-18",
+      "claimScope": "Morning/evening darshan timings (5:30 AM–1:00 PM, 6:00 PM–10:00 PM); the temple's status as one of two sites in India (with Varanasi) combining a Jyotirlinga and Shakti Peetha; the practice of touching the lingam directly; the legend of Parvata, son of Silada Maharishi; the Chenchu tribal legend depicted on the temple walls; vimana architecture description (Chalukyan style, nine tiers); Patala Ganga, Sakshi Ganapathi (3 km) and other nearby attractions; Adi Shankaracharya's association with Paladhara-Panchadhara.",
+      "reliabilityNote": "State tourism destination page; undated, and darshan hours may be revised without notice.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Srisailam Temple",
+      "publisherOrAuthority": "Incredible India, Ministry of Tourism, Government of India",
+      "url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool/srisailam-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Morning/evening darshan timings (6:00 AM–3:30 PM, 6:00 PM–10:00 PM); Jyotirlinga status; the Tarakasura and Markandeya legends; Maha Shivaratri as the principal festival.",
+      "reliabilityNote": "National tourism portal; undated, and its darshan hours conflict with Andhra Pradesh Tourism's figures for the morning session.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Srisailam temple — darshan listing",
+      "publisherOrAuthority": "utsav.gov.in, Government of India (National Portal / Ministry of Culture)",
+      "url": "https://www.utsav.gov.in/view-darshan/srisailam-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Alternate historical names (Srigiri, Sirigiri, Sriparvatam, Srinagam); the temple's rank as 2nd of 12 Jyotirlingas and 6th of 18 Maha Shakti Peethas per this portal's own listing; administration contact (Executive Officer's office at Gollapudi, Vijayawada 521225; phone 9849005495; email endow-edpsec[at]gov[dot]in, here rendered in standard email form); nearest airport (Kurnool, ~180 km), nearest railway station (Markapur, ~85 km) and nearest bus stand (Srisailam, ~2 km); live-darshan streaming via YouTube channel @SrisailaTv and an 11:59 AM–12:01 PM live-view window.",
+      "reliabilityNote": "Government of India cultural-events portal; administrative contact details may lag changes at the temple/Endowments Department level.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Srisailam, Maha Sivaratri Bramhostavalu",
+      "publisherOrAuthority": "utsav.gov.in, Government of India (National Portal / Ministry of Culture)",
+      "url": "https://utsav.gov.in/view-event/srisailam-maha-sivaratri-bramhostavalu",
+      "accessDate": "2026-09-18",
+      "claimScope": "Maha Shivaratri Brahmotsavam festival details: 11-day duration with Navahnika Deeksha, observance in the Magha month, and the rituals performed (Dhwajarohanam, Lingodbhava Maha Rudrabhishekam, Pagalankarana, Kalyanotsavam, vahana sevas, Rathotsavam, Teppotsavam).",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "government",
+      "title": "Temple Tourism",
+      "publisherOrAuthority": "Nandyal District Administration, Government of Andhra Pradesh",
+      "url": "https://nandyal.ap.gov.in/temple-tourism/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Distances from Nandyal (158 km), Kurnool (180 km) and Hyderabad (210 km); temple's elevation (over 1,500 ft); statement that construction occurred in the 14th century CE; description of wall carvings depicting elephant-hunting scenes and forms of Shiva; nearby attractions including Sikhareswaram, Hatakeswaram, Paldhara-Panchadhara, Sakshi Ganapathi, Pathala Ganga and the Chenchu Lakshmi Tribal Museum.",
+      "reliabilityNote": "District government tourism page; its 14th-century construction statement is not reconciled here with Wikipedia's separate claim of a 7th-century core sanctum — recorded as a conflict.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "other",
+      "title": "ASI uncovers evidence of medieval trade at Srisailam",
+      "publisherOrAuthority": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/asi-uncovers-evidence-of-medieval-trade-at-srisailam-1971419",
+      "accessDate": "2026-09-18",
+      "claimScope": "The Archaeological Survey of India's identification (reported 16 July 2026) of a Vijayanagara-period (14th–16th century) bas-relief of two giraffes and two camels with attendants on the southern prakara wall of the temple, and the ASI's stated conclusion that this and related finds indicate medieval maritime trade links between Srisailam and Africa/the Middle East.",
+      "reliabilityNote": "News report of an ASI announcement; the ASI's own primary publication was not directly accessible for this record.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "media repository",
+      "title": "File:Mallikarjuna Temple, Sri Sailam.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mallikarjuna_Temple,_Sri_Sailam.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution (Arpita Tripathy) and licence (CC BY-SA 4.0) for the hero image listed in media.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC010",
+      "sourceType": "media repository",
+      "title": "File:Srisailam Entrance Gopuram.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Srisailam_Entrance_Gopuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution (Srinivas Chidumalla) and licence (CC BY-SA 3.0) for the gopuram image listed in media.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC011",
+      "sourceType": "official temple",
+      "title": "Srisailam Devasthanam Online",
+      "publisherOrAuthority": "Sri Bhramaramba Mallikarjuna Swamy Varla Devasthanam",
+      "url": "https://www.srisailadevasthanam.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Existence of the temple's official website and its online booking service for accommodation and sevas, per the site's own meta description.",
+      "reliabilityNote": "The site is a JavaScript-rendered single-page application; automated retrieval could only read its page metadata (title and meta description), not its rendered content, so darshan timings, seva schedules and contact details could not be sourced from this site directly for this record.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Bhramaramba Devi (Parvati/Shakti — the temple's co-presiding Shakti Peetha goddess)"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [
+      {
+        "name": "Sakshi Ganapathi Temple",
+        "distanceKm": 3
+      }
+    ],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Sri Bhramaramba Mallikarjuna Swamy Varla Devasthanam, Srisailam, Nandyal District, Andhra Pradesh 518101, India",
+    "bestTime": "During major festivals and Utsavam celebrations (per Andhra Pradesh Tourism); the Maha Shivaratri Brahmotsavam in the Magha month (February–March) is the principal annual occasion."
+  },
+  "submittedBy": "development@cness.co"
+}

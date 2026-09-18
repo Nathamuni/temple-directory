@@ -1,0 +1,100 @@
+{
+  "templeId": "TPL-IN-WB-TAR-0064",
+  "slug": "tarapith-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Tarapith Temple",
+    "alternateNames": [
+      "Tara Maa Temple (Tarapith)"
+    ],
+    "presidingDeity": "Tara",
+    "tradition": "Shakta",
+    "templeType": "Shaktipeeth",
+    "sacredClassifications": [
+      "Shakti Peetha"
+    ],
+    "spiritualSignificanceShort": "Tarapith, in Birbhum district of West Bengal, is a major centre of Tantric Shakta worship dedicated to the Goddess Tara. The temple stands beside a cremation ground on the Dwarka river and is closely associated with the 19th-century Tantric saint Bamakhepa.",
+    "nameLocal": "তারাপীঠ মন্দির",
+    "localLanguage": "Other"
+  },
+  "location": {
+    "city": "Tarapith",
+    "district": "Birbhum",
+    "stateProvince": "West Bengal",
+    "country": "India",
+    "postalCode": "731233",
+    "latitude": 24.1167,
+    "longitude": 87.8
+  },
+  "governance": {},
+  "narrative": {
+    "summaryIntro": "Tarapith, a village in Birbhum district, West Bengal, is a major pilgrimage site of Shakta Tantric worship dedicated to the Goddess Tara. The temple stands on the bank of the Dwarka river adjoining a cremation ground, a setting central to its Tantric tradition, and is visited daily by large numbers of pilgrims from West Bengal and beyond.",
+    "documentedHistory": "Tarapith is closely associated with the 19th-century Tantric saint Bamakhepa, who is said to have worshipped at the temple and lived in the adjoining cremation ground, with his ashram located on the bank of the Dwarka river. The site's association with cremation-ground worship reflects its place within the Tantric Shakta tradition. The temple is reached from Rampurhat, roughly 6 km away, which is the nearest subdivisional town and rail junction.",
+    "sacredTextReferences": "",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "nearestRailStation": "Rampurhat Junction",
+    "sourceIds": [
+      "SRC001"
+    ],
+    "verificationStatus": "sourced",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Tarapith Temple",
+      "caption": "The Tarapith temple in Birbhum district, West Bengal.",
+      "altText": "Exterior view of the Tarapith temple complex.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarapith_Temple_01.jpg",
+      "creator": "Tarunsamanta",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Tarunsamanta · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tarapith_Temple_01.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Tarapith — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tarapith",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location, Tantric/cremation-ground tradition, Bamakhepa association, nearest rail station.",
+      "reliabilityNote": "No official temple committee or West Bengal government source independently checked in this research pass; visiting hours and administration are not corroborated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Tarapith Temple — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tarapith_Temple_01.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (Tarunsamanta) and license (CC BY-SA 4.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent"
+}

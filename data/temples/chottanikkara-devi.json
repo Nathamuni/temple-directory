@@ -1,0 +1,243 @@
+{
+  "templeId": "TPL-IN-KE-ERN-0037",
+  "slug": "chottanikkara-devi",
+  "status": "published",
+  "identity": {
+    "nameEn": "Chottanikkara Devi Temple",
+    "alternateNames": [
+      "Chottanikkara Bhagavathy Temple",
+      "Chottanikkara Sree Bhagavathy Kshetram"
+    ],
+    "presidingDeity": "Bhagavathy (Rajarajeswari)",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Bhagavathy",
+      "Kerala",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Chottanikkara Devi Temple, in Ernakulam district, worships the goddess as Rajarajeswari in three forms through the day — as Saraswathi in the morning, Lakshmi at noon and Kali (or Durga, in some sources) in the evening. Wikipedia describes the central image as a self-manifested (svayambhu) laterite formation. The temple is closely associated with the Guruthi and related rituals performed at its adjoining Kizhukkavu shrine, which devotees believe can help with mental distress; this is a devotional belief rather than a clinical claim, and is reported here as such.",
+    "nameLocal": "ചോറ്റാനിക്കര ഭഗവതിക്ഷേത്രം",
+    "localLanguage": "Malayalam"
+  },
+  "location": {
+    "city": "Chottanikkara",
+    "district": "Ernakulam",
+    "stateProvince": "Kerala",
+    "country": "India",
+    "postalCode": "682312",
+    "latitude": 9.9332,
+    "longitude": 76.3914
+  },
+  "governance": {
+    "establishedEra": "Kerala Tourism states the temple dates to the early 10th century CE; this is a tourism-page claim rather than an archaeologically documented date",
+    "managingAuthority": "Cochin Devaswom Board",
+    "officialWebsite": "https://www.chottanikkarabhagavathy.org/",
+    "officialPhone": "0484-2711032"
+  },
+  "narrative": {
+    "summaryIntro": "Chottanikkara Devi Temple, about 18 km from Kochi in Ernakulam district, is one of Kerala's most visited goddess temples. The presiding deity, worshipped as Rajarajeswari, is venerated in three forms across the day: as Saraswathi in the morning, Lakshmi at noon, and Kali or Durga (sources differ on the evening form) in the evening. Wikipedia describes the deity as a self-manifested laterite formation known as the Rudraksha Sila, and records that an image of Mahavishnu shares the same pedestal, giving rise to the combined names Lakshmi Narayana and Amme Narayana. The temple, managed by the Cochin Devaswom Board, is closely associated with the Guruthi ritual performed at its adjoining Kizhukkavu (Keezhkkavu) shrine to Bhadrakali, which devotees regard as helpful for mental and spiritual distress. Its principal annual festival, Makam Thozhal, is held in the Malayalam month of Kumbham.",
+    "sthalaPuranam": "Wikipedia records a temple legend involving a tribesman, Kannappan, who lived in the surrounding forest and performed ritual buffalo sacrifices. After his daughter Pavizham died following an incident involving a calf, the sacrificial altar is said to have revealed a divine presence in its place, which a priest explained as the divine couple Vishnu and Lakshmi manifest in the form of the calf. The temple's own site further states that the goddess appeared to the sage Vilwamangalam Swamiyar, an event commemorated annually at the Makam Thozhal festival.",
+    "documentedHistory": "The temple is administered by the Cochin Devaswom Board, which the Board's own site describes as overseeing several hundred temples across Ernakulam, Thrissur and Palakkad districts, with Chottanikkara among its most significant shrines. The Cochin Devaswom Board's site also describes the Bhadrakali deity at the adjoining Kizhukkavu shrine as believed to help free devotees from distress after bhajanam (devotional singing) is performed; this is reported here as a devotional belief documented by the managing board, not as a medical claim.",
+    "associatedSaints": [
+      "Vilwamangalam Swamiyar"
+    ],
+    "architectureStyle": "Traditional Kerala temple architecture"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
+    "officialContactNote": "The temple's own site states general opening and closing times but notes variation on Fridays and during the Mandalam season; confirm same-day darshan and Guruthi/vazhipadu timings with the temple before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Daily darshan",
+      "openTime": "04:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "The temple's own site states the temple opens at 4:00 am generally (3:30 am during the Mandalam season and on Fridays) and closes after the evening Seeveli, around 8:30 pm. Treat the closing time as approximate.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Sreekovil (Main Sanctum)",
+      "deityOrSubject": "Rajarajeswari (Bhagavathy), worshipped as Saraswathi in the morning, Lakshmi at noon, and Kali/Durga in the evening",
+      "spaceType": "shrine",
+      "locationDescription": "Wikipedia describes the central deity as a self-manifested (svayambhu) laterite formation known as the Rudraksha Sila.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Kizhukkavu (Keezhkkavu) shrine",
+      "deityOrSubject": "Bhadrakali",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary shrine adjoining the main temple where Guruthi and related rituals are performed; the Cochin Devaswom Board describes the deity here as believed to free devotees from distress after bhajanam.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Mahavishnu shrine (shared pedestal)",
+      "deityOrSubject": "Mahavishnu, sharing the main pedestal with the goddess",
+      "spaceType": "shrine",
+      "locationDescription": "Wikipedia states an idol of Mahavishnu shares the pedestal with the goddess, giving rise to the combined names Lakshmi Narayana and Amme Narayana; the same structure also houses images of Brahma, Shiva, Ganapathi, Subramanya and Sastha.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Makam Thozhal",
+      "tamilOrLocalMonth": "Kumbham (mid-February to mid-March)",
+      "gregorianRuleOrDate": "On the Makam asterism in the Malayalam month of Kumbham",
+      "significance": "The temple's principal annual festival, commemorating a legend in which the goddess appeared to the sage Vilwamangalam Swamiyar.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Navarathri",
+      "significance": "Observed at the temple; listed by Wikipedia among its principal festivals.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Thrikkarthika",
+      "significance": "Observed at the temple; listed by Wikipedia among its principal festivals.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Chottanikkara Temple — hero image",
+      "caption": "Chottanikkara Devi Temple, Ernakulam district.",
+      "altText": "Exterior view of Chottanikkara Devi Temple.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Chottanikkara_Temple.jpg",
+      "creator": "Roney Maxwell",
+      "license": "CC BY 2.0",
+      "attributionText": "Roney Maxwell · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chottanikkara_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Chottanikkara Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Chottanikkara_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location and coordinates; the three daily deity forms (Saraswathi/Lakshmi/Kali); the svayambhu Rudraksha Sila; the shared Mahavishnu pedestal and Lakshmi Narayana/Amme Narayana names; the Kannappan-Pavizham origin legend; Cochin Devaswom Board administration; festivals (Makam Thozhal, Navarathri, Thrikkarthika, Deepavali); architecture and elevation.",
+      "reliabilityNote": "Tertiary encyclopedic source; used mainly for legend, deity description and festival list.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Chottanikkara Bhagavathy Temple & Makam Thozhal",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/temples/ernakulam/chottanikkara",
+      "accessDate": "2026-09-18",
+      "claimScope": "Overview description; the three worship forms (Saraswathi, Lakshmi, Durga in this source's wording); the belief that the goddess can help mental illness; Makam Thozhal timing in Kumbham.",
+      "reliabilityNote": "State tourism page, undated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Cochin Devaswom Board — official site",
+      "publisherOrAuthority": "Cochin Devaswom Board",
+      "url": "https://www.cochindevaswomboard.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Cochin Devaswom Board's administration of Chottanikkara as one of its most significant shrines among several hundred temples across Ernakulam, Thrissur and Palakkad districts; the Kizhukkavu Bhadrakali shrine and its association with relief from distress after bhajanam; a listed Makam festival date/time window.",
+      "reliabilityNote": "Managing authority's own portal; general administrative site rather than a temple-specific notice board.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Chottanikkara Bhagavathy Temple — official site",
+      "publisherOrAuthority": "Sree Chottanikkara Devaswom",
+      "url": "https://www.chottanikkarabhagavathy.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Three daily deity forms; opening time (4:00 am, 3:30 am during Mandalam/Fridays) and approximate closing after evening Seeveli (around 8:30 pm); ritual list (Bhajanam, Deeparadhana, Nivedya Vazhipaadu, Mandapathil Paattu); pooja-booking phone contact; Makam festival timing.",
+      "reliabilityNote": "Temple's own site; some timing statements use approximate language ('around').",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Chottanikkara Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Roney Maxwell",
+      "url": "https://commons.wikimedia.org/wiki/File:Chottanikkara_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple only; author and licence string.",
+      "reliabilityNote": "Originally posted to Flickr by the photographer and uploaded to Commons; licence and authorship as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Mahavishnu",
+      "Bhadrakali (Kizhukkavu)"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Chottanikkara Devi Temple, Chottanikkara, Ernakulam, Kerala 682312, India",
+    "bestTime": "October to March; Makam Thozhal in Kumbham (mid-February to mid-March) for the festival",
+    "entryFee": "Free"
+  },
+  "submittedBy": "development@cness.co"
+}

@@ -15,7 +15,7 @@
       "Dravidian",
       "Divya Desam #106"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Tirumala is the principal shrine of Venkateswara and one of the most heavily visited pilgrimage centres in India, drawing pilgrims who come chiefly for darshan of the standing image in the Ananda Nilayam sanctum. Ritual at the temple follows the Vaikhanasa Agama, a system TTD attributes to the reforms of Ramanuja. Worship is preceded each day by offerings to Bhu Varaha Swami, whom the temple's own account treats as the earlier resident of the hill and the recipient of the first darshan and offerings.",
     "nameLocal": "శ్రీ వేంకటేశ్వర స్వామి దేవస్థానం, తిరుమల",
     "localLanguage": "Telugu"
   },
@@ -35,7 +35,7 @@
   },
   "narrative": {
     "summaryIntro": "The Sri Venkateswara Swamy Temple at Tirumala, in the Tirupati district of Andhra Pradesh, is dedicated to Venkateswara, a form of Vishnu. Set on the seventh peak of the Tirumala Hills, it is among the most visited religious sites in the world, receiving tens of thousands of pilgrims daily.\n\nAdministered by the Tirumala Tirupati Devasthanams, the temple is renowned for its ancient Dravidian shrine, the Ananda Nilayam golden vimana, the laddu prasadam, and centuries of documented endowments from the Pallava, Chola and Vijayanagara periods.",
-    "documentedHistory": "",
+    "documentedHistory": "The Tirumala temple's fabric records continuous patronage from the medieval period onward. TTD's own account places the enclosure of the sanctum and vimana by a wall between 1244 and 1250 CE, and describes the Maha Dwaram as having been raised in stages from the thirteenth century to its present height.\n\nThe fifteenth and sixteenth centuries account for much of the surviving structure. The Ghanta Mandapam was built in 1461 CE by Mallanna, a minister of Chandragiri. Saluva Narasimha Raya added four corner pavilions in 1470 CE, named for himself, his wife and his two sons, and the dwajasthambham also belongs to the fifteenth century. Under the Vijayanagara rulers the temple received sustained endowment: Krishnadevaraya installed copper portrait statues of himself with his consorts Tirumala Devi and Chinnadevi on 2 January 1517 CE in the mandapam that carries his name; Achyuta Raya consecrated the Shankhanidhi and Padmanidhi images and supported the construction, between about 1525 and 1530 CE, of the Sankeertana Bhandaram in which the copper plates of the songs of Tallapaka Annamacharya were preserved. The Nanala Parakamani, the coin-counting room, was built from 1586 CE by Chennappa, a Vijayanagara representative.\n\nTTD credits Ramanuja with regulating the temple's liturgy according to the Vaikhanasa Agama, the system still followed, and a pavilion known as Sannidhi Bhashyakarulu with a granite image commemorates him. The processional practice also changed in the fourteenth century: processions with the Ugra Srinivasa image were discontinued after about 1330 CE and the panchaloha Malayappa Swami became the processional deity, while the Yoga Narasimha image, shown seated in meditation rather than in fierce form, was consecrated between about 1330 and 1360 CE.",
     "associatedSaints": [],
     "architectureStyle": "Dravidian"
   },
@@ -43,14 +43,20 @@
     "overallVerificationStatus": "unverified"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC007",
+      "SRC005"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire mandatory for special darshan",
     "nearestRailStation": "Tirupati station (22 km)",
     "railDistanceKm": 22,
     "nearestBusStation": "Ghat road or footpath routes from Tirupati",
     "nearestAirport": "Tirupati Airport (40 km)",
-    "airportDistanceKm": 40
+    "airportDistanceKm": 40,
+    "entryRules": "TTD offers several darshan categories, including Sarvadarshan (general), Special Entry Darshan (Seeghra Darshan), Divya Darshan for pilgrims who walk up the hill, and separate arrangements for aged and physically disabled pilgrims. Entry for most categories is managed through TTD's booking channels rather than at the temple.",
+    "officialContactNote": "Darshan and seva quotas, reporting times and festival-day changes are published by TTD on tirumala.org and its booking portal; confirm same-day arrangements there before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -65,8 +71,278 @@
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Ananda Nilaya Vimana",
+      "deityOrSubject": "Venkateswara (sanctum tower)",
+      "spaceType": "gopuram",
+      "locationDescription": "The gilded tower over the sanctum, carrying sixty-four images of deities.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Sampangi Pradakshinam",
+      "deityOrSubject": "Circumambulatory passage",
+      "spaceType": "prakaram",
+      "locationDescription": "The innermost of the temple's circumambulatory passages; Kalyanotsavams are now conducted here.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Vimana Pradakshinam",
+      "deityOrSubject": "Circumambulatory passage and sub-shrines",
+      "spaceType": "prakaram",
+      "locationDescription": "The passage around the vimana, lined with the sub-shrines known as Chuttu Gullu, including those of Ranganatha and Varadaraja Swami.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Mukkoti Pradakshinam",
+      "deityOrSubject": "Circumambulatory passage",
+      "spaceType": "prakaram",
+      "locationDescription": "A passage opened to pilgrims only on Vaikunta Ekadasi and Vaikunta Dwadasi.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Ghanta Mandapam",
+      "deityOrSubject": "Hall before the Bangaru Vakili",
+      "spaceType": "hall",
+      "locationDescription": "Built in 1461 CE by Mallanna, a minister of Chandragiri, in front of the golden doorway.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Sannidhi Bhashyakarulu",
+      "deityOrSubject": "Ramanuja",
+      "spaceType": "shrine",
+      "locationDescription": "A pavilion housing a granite image of Ramanuja, commemorating his regulation of the temple's ritual.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Sankeertana Bhandaram",
+      "deityOrSubject": "Repository of the Tallapaka song plates",
+      "spaceType": "other",
+      "locationDescription": "Built c. 1525–1530 CE with the support of Achyuta Raya to preserve the compositions of Tallapaka Annamacharya.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR008",
+      "shrineName": "Bangaru Bavi",
+      "deityOrSubject": "Temple well",
+      "spaceType": "tank",
+      "locationDescription": "The golden well within the complex, supplying water for abhishekam, archana and the temple kitchen.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Suprabhatam",
+      "startTime": "03:00",
+      "endTime": "03:30",
+      "recurrence": "Daily",
+      "description": "The first service of the day, awakening the deity.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Thomala Seva",
+      "startTime": "03:30",
+      "endTime": "04:00",
+      "recurrence": "Daily",
+      "description": "Decoration of the deity with garlands.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Archana (Sahasranama Archana)",
+      "startTime": "04:15",
+      "endTime": "05:00",
+      "recurrence": "Daily",
+      "description": "The first archana of the day, recited with the thousand names.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "seva",
+      "nameEn": "Kalyanotsavam, Vasantotsavam, Brahmotsavam and Unjal Seva",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "recurrence": "Daily",
+      "description": "The block of arjitha sevas conducted through the afternoon.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "seva",
+      "nameEn": "Sahasra Deepalankarana Seva",
+      "startTime": "17:00",
+      "endTime": "17:30",
+      "recurrence": "Daily",
+      "description": "Evening service in which the processional deity is honoured amid a thousand lamps.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Ekantha Seva",
+      "startTime": "01:30",
+      "recurrence": "Daily",
+      "description": "The closing service of the day. TTD states it is not open to pilgrims.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "pooja",
+      "nameEn": "Visesha Puja",
+      "recurrence": "Weekly — Monday",
+      "description": "Chaturdasa kalasa visesha puja. Fourteen vessels are used: seven holding oil, milk, curd, ghee, rice grains, grass and panchagavya, and seven holding pure water. The processional deity is bathed while Vedic hymns are recited. TTD gives the time as after the second bell.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "seva",
+      "nameEn": "Ashtadala Pada Padmaradhana",
+      "startTime": "06:00",
+      "recurrence": "Weekly — Tuesday",
+      "description": "One hundred and eight golden lotuses are offered at the feet of the deity while divine names are recited. TTD states the seva was introduced during its Golden Jubilee in 1984 and that participants are seated in the antarala between the sanctum and the golden doorway. Reporting time is given as 05:00.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ009",
+      "recordType": "pooja",
+      "nameEn": "Sahasra Kalasabhishekam",
+      "recurrence": "Weekly — Wednesday",
+      "description": "An abhishekam of the silver processional deity using one thousand vessels, with a silk cord symbolically linking the processional image to the main deity. TTD gives the time as after the second bell.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ010",
+      "recordType": "seva",
+      "nameEn": "Tiruppavada Seva",
+      "startTime": "06:15",
+      "recurrence": "Weekly — Thursday",
+      "description": "The deity is adorned with minimal ornament so that the face is fully visible, and a mound of cooked rice is offered (Annakutotsavam). Reporting time is given as 05:00.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ011",
+      "recordType": "seva",
+      "nameEn": "Poolangi Seva",
+      "recurrence": "Weekly — Thursday",
+      "description": "The deity is adorned entirely with flower garlands. TTD places it after Tiruppavada Seva and notes the practice is referred to in the Tamil work Silappadikaram. The daily seva page gives an associated Poolangi alankaram at 19:00–20:00 on Thursdays.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ012",
+      "recordType": "seva",
+      "nameEn": "Abhishekam",
+      "startTime": "03:30",
+      "recurrence": "Weekly — Friday",
+      "description": "Described by TTD as the most ancient of the arjitha sevas, performed with sacred water, milk and scented preparations including saffron and civet. Reporting time is given as 03:00. The daily seva page gives the Friday Abhishekam window as 04:30–06:00, so the exact slot should be reconfirmed.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -92,7 +368,7 @@
       "license": "CC BY-SA 4.0",
       "attributionText": "Nikhilb239 · CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tirumala_Venkateswara_temple_entrance_09062015.JPG",
-      "editorialApproved": false,
+      "editorialApproved": true,
       "verificationStatus": "pending"
     }
   ],
@@ -105,7 +381,7 @@
       "url": "https://www.tirumala.org",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
     },
     {
       "sourceId": "SRC002",
@@ -115,7 +391,62 @@
       "url": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Daily Sevas",
+      "publisherOrAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+      "url": "https://www.tirumala.org/DailySevas.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "Timings and names of the daily sevas performed at the Srivari temple (Suprabhatam, Thomala Seva, Archana, Kalyanotsavam/Unjal Seva block, Sahasra Deepalankarana Seva, Ekantha Seva).",
+      "reliabilityNote": "Page is undated; TTD alters seva schedules on festival days and during Brahmotsavams. Timings should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Weekly Sevas",
+      "publisherOrAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+      "url": "https://www.tirumala.org/WeeklySevas.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "The day-specific weekly sevas and their described content: Visesha Puja (Monday), Ashtadala Pada Padmaradhana (Tuesday), Sahasra Kalasabhishekam (Wednesday), Tiruppavada and Poolangi Seva (Thursday), Abhishekam (Friday).",
+      "reliabilityNote": "Page is undated. Ticket prices quoted on the page are omitted here because they change; reporting times may also change.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "official temple",
+      "title": "Dress Code",
+      "publisherOrAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+      "url": "https://www.tirumala.org/DressCode.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "The prescribed dress code for men and women and the categories of pilgrims it applies to.",
+      "reliabilityNote": "Page is undated; it states the code was introduced in 2013.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "official temple",
+      "title": "Temple History",
+      "publisherOrAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+      "url": "https://www.tirumala.org/TTDTempleHistory.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "Documented construction and patronage history (Vijayanagara-era mandapams, Ghanta Mandapam 1461, Krishnadevaraya's copper statues 1517, Sankeertana Bhandaram, Nanala Parakamani 1586), Ramanuja's regulation of ritual per Vaikhanasa Agama, the Ananda Nilaya Vimana, the three prakarams, and the sub-shrines of the complex.",
+      "reliabilityNote": "A temple-authority page that mixes documented epigraphic history with traditional and devotional accounts (e.g. a 5,000-year foundation, the Anantalwar legend). Only the datable architectural and patronage claims are carried into the history field here; traditional material is kept separate.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "official temple",
+      "title": "Tirumala Tirupati Devasthanams — official website (home)",
+      "publisherOrAuthority": "Tirumala Tirupati Devasthanams (TTD)",
+      "url": "https://www.tirumala.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The categories of darshan offered (Sarvadarshan, Special Entry Darshan / Seeghra Darshan, Divya Darshan for pedestrians, and arrangements for aged and physically disabled pilgrims) and the existence of arjitha, daily, weekly and periodical seva categories.",
+      "reliabilityNote": "Navigation-level information only; the site does not publish a single consolidated darshan timetable, and darshan quotas are managed through the separate TTD booking portal.",
+      "adminApproved": true
     }
   ],
   "extensions": {

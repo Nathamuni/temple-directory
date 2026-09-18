@@ -1,0 +1,387 @@
+{
+  "templeId": "TPL-IN-MA-SHI-0047",
+  "slug": "shirdi-sai-baba",
+  "status": "published",
+  "identity": {
+    "nameEn": "Shirdi Sai Baba Temple",
+    "alternateNames": [
+      "Shri Saibaba Samadhi Mandir",
+      "Shri Sai Baba Temple (Shirdi)"
+    ],
+    "presidingDeity": "Sai Baba of Shirdi",
+    "tradition": "Other",
+    "templeType": "Devotional shrine (Sai tradition)",
+    "sacredClassifications": [
+      "Sai Baba",
+      "Samadhi Mandir",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Shirdi Sai Baba Temple, formally the Shri Saibaba Samadhi Mandir, houses the marble memorial of Sai Baba of Shirdi (c. 1838 – 15 October 1918), a spiritual teacher venerated by both Hindu and Muslim devotees who, when asked about his own religious identity, declined to align himself exclusively with either tradition. It is not a temple to a classical Hindu deity avatar but a samadhi shrine to a revered saint/guru figure, and it is among the highest-footfall pilgrimage sites in India.",
+    "nameLocal": "शिर्डी साईबाबा मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Shirdi",
+    "district": "Ahilyanagar",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "423109",
+    "latitude": 19.766182,
+    "longitude": 74.476998
+  },
+  "governance": {
+    "establishedEra": "Sai Baba resided in Shirdi from about 1858 until his death in 1918 · Samadhi Mandir shrine completed 15 October 1918 around the Buti Wada building",
+    "managingAuthority": "Shree Saibaba Sansthan Trust, Shirdi",
+    "founderPatron": "Shreemant Gopalrao Buti of Nagpur, who began building Buti Wada as a residential mansion for Sai Baba; it became the core of the Samadhi Mandir after Baba's death",
+    "administrationType": "Public trust",
+    "officialWebsite": "https://sai.org.in/",
+    "officialPhone": "+91 2423 258500",
+    "officialEmail": "saibaba@sai.org.in"
+  },
+  "narrative": {
+    "summaryIntro": "Shirdi Sai Baba Temple is a pilgrimage complex in the town of Shirdi, in Maharashtra's Ahilyanagar (historically Ahmednagar) district, built around the samadhi (memorial) of Sai Baba of Shirdi. Sai Baba was a spiritual teacher who lived in the village for most of his life until his death in 1918 and was revered by both Hindu and Muslim followers; he consistently declined to identify himself exclusively with either religion. Because he is honoured as a saint and guru rather than as an avatar of a classical deity, the temple sits outside the usual Shaiva, Vaishnava or Shakta classifications.\n\nThe complex is administered by the Shree Saibaba Sansthan Trust and, alongside the Samadhi Mandir, includes several other sites tied to Baba's life: Dwarkamai, the mosque where he lived for over sixty years; Chavadi, his alternate sleeping quarters; Gurusthan, the site under a neem tree where he was first seen in the village; and Lendi Baug, a garden he tended. The temple draws tens of thousands of pilgrims daily and is administered as an attached office of the Government of Maharashtra's Law and Judiciary Department.",
+    "documentedHistory": "Sai Baba of Shirdi (c. 1838 – 15 October 1918) arrived in the village of Shirdi around the age of sixteen and settled there permanently from about 1858. He first practiced austerities beneath a neem tree at a spot now known as Gurusthan, before villagers persuaded him to take up residence in a dilapidated mosque that he renamed Dwarkamai, where he maintained a continuously burning sacred fire and lived mainly on alms for the rest of his life. He also tended a garden known as Lendi Baug. His teaching emphasised self-realisation and a moral code of love, forgiveness, charity, contentment and devotion to God, and he rejected discrimination by caste or religion; when devotees pressed him on his own religious affiliation he refused to identify himself to the exclusion of either Hinduism or Islam, recommending Hindu scriptures to Hindu visitors and the Qur'an to Muslim ones.\n\nSai Baba died on 15 October 1918, coinciding with Vijayadashami. His remains were interred at Buti Wada, a building begun by the Nagpur devotee Shreemant Gopalrao Buti as a residential mansion for Baba, which became the core of the present Samadhi Mandir. According to the Ahilyanagar district administration, the temple complex's principal sites — the Samadhi Mandir, Dwarkamai, Gurusthan and the nearby Khandoba and Mhasoba temples — lie within about a kilometre of one another and can be covered on foot. Baba's samadhi in the Mandir is built of white marble.\n\nThe temple is administered by the Shree Saibaba Sansthan Trust, which, per the temple's Wikipedia article, also runs associated charitable hospitals, educational institutions and social-welfare services. The Government of Maharashtra's Law and Judiciary Department lists 'Shri Saibaba Temple, Shirdi' among its attached offices, confirming the trust's official website, a contact telephone number, and the Shirdi address with postal code 423109. The trust's own website warns devotees to rely only on its two official web addresses (sai.org.in and online.sai.org.in) for bookings and donations, citing fraudulent look-alike sites.",
+    "associatedSaints": [
+      "Sai Baba of Shirdi"
+    ],
+    "architectureStyle": "Composite pilgrimage complex built up through the 20th century around Buti Wada; no single classical temple style documented in sources reviewed"
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced",
+    "verificationNotes": "Core identity, governance and contact details are corroborated across the temple's own trust website, its contact page, and a Maharashtra government department listing. Darshan opening time and the daily aarti schedule come from the trust's home page, which does not state a closing time, a dress code, an entry-fee structure, or specific transit distances in kilometres — none of these are recorded here. History and site descriptions beyond governance lean on Wikipedia and the district tourism page; no academic or inscriptional source was located for this temple."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "cross-referenced",
+    "nearestRailStation": "Shirdi railway station (also served by Kopargaon and Ahmednagar/Ahilyanagar stations)",
+    "nearestBusStation": "Maharashtra State Transport (MSRTC) buses serve Shirdi regularly",
+    "nearestAirport": "Aurangabad Airport and Pune Airport",
+    "officialContactNote": "Confirm same-day darshan and aarti timings with the trust's main office at +91 2423 258500, or the helpline numbers +91 7588375204 / 7588371245 / 7588373189 / 7588374469, before travelling. The trust warns devotees to use only sai.org.in and online.sai.org.in for bookings and donations, citing fraudulent websites, phone numbers and map listings using its name.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Temple opening",
+      "openTime": "04:45",
+      "closedFlag": false,
+      "notes": "The trust's website states the temple opens daily at 4:45 AM. No closing time was stated on the page reviewed; the temple is open every day of the year.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Darshan in Samadhi Mandir begins",
+      "openTime": "06:25",
+      "closedFlag": false,
+      "notes": "Public darshan in the Samadhi Mandir begins after the morning aartis conclude.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Samadhi Mandir",
+      "deityOrSubject": "Samadhi (marble memorial) of Sai Baba of Shirdi",
+      "spaceType": "shrine",
+      "locationDescription": "Built around Buti Wada, the building begun by Shreemant Gopalrao Buti; Baba's remains were interred here on 15 October 1918.",
+      "sourceIds": [
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": [
+        "MED001"
+      ]
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Dwarkamai",
+      "deityOrSubject": "The mosque where Sai Baba lived for over sixty years",
+      "spaceType": "shrine",
+      "locationDescription": "Adjoins the Samadhi Mandir; houses a continuously burning sacred fire (dhuni) tended by Baba.",
+      "sourceIds": [
+        "SRC004",
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Chavadi",
+      "deityOrSubject": "Sai Baba's alternate sleeping quarters",
+      "spaceType": "hall",
+      "locationDescription": "Within the temple complex, close to the Samadhi Mandir.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Gurusthan",
+      "deityOrSubject": "Site beneath a neem tree where Sai Baba was first seen in the village",
+      "spaceType": "sacred tree",
+      "locationDescription": "Within about a kilometre of the Samadhi Mandir, per the district administration's description of the complex.",
+      "sourceIds": [
+        "SRC004",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Lendi Baug",
+      "deityOrSubject": "Garden tended by Sai Baba during his lifetime",
+      "spaceType": "other",
+      "locationDescription": "Within the temple complex grounds.",
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Kakad Aarti",
+      "startTime": "05:15",
+      "recurrence": "Daily",
+      "description": "Morning aarti performed after the temple opens.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "\"Shirdi Majhe Pandharpur\" Aarti",
+      "startTime": "06:20",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "aarti",
+      "nameEn": "Madhyan Aarti (Mid-day Aarti)",
+      "startTime": "12:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "aarti",
+      "nameEn": "Dhoop Aarti",
+      "recurrence": "Daily",
+      "description": "Evening aarti performed at sunset; the trust's website does not give a fixed clock time.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "aarti",
+      "nameEn": "Shej Aarti",
+      "startTime": "22:00",
+      "recurrence": "Daily",
+      "description": "Closing night aarti.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Rama Navami",
+      "tamilOrLocalMonth": "March–April",
+      "duration": "Multiple days",
+      "significance": "Draws large crowds of pilgrims at the Shirdi temple",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Guru Purnima",
+      "tamilOrLocalMonth": "June–July",
+      "duration": "1 day",
+      "significance": "Major festival honouring Sai Baba as guru; draws large crowds",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Vijayadashami (Punyatithi / Mahasamadhi observance)",
+      "tamilOrLocalMonth": "September–October",
+      "duration": "1 day",
+      "significance": "Observes the anniversary of Sai Baba's Mahasamadhi (death) on Vijayadashami in 1918",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC004",
+        "SRC005"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sai Temple Shirdi (tomb), 2024",
+      "caption": "The samadhi (tomb) area of the Sai Temple in Shirdi, photographed during Ramnavami on 17 April 2024.",
+      "altText": "Interior view of the marble samadhi shrine of Sai Baba at Shirdi.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sai_Temple_Shirdi_(tomb)_,2024.jpg",
+      "creator": "Kisna007",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Kisna007 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sai_Temple_Shirdi_(tomb)_,2024.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shree Saibaba Sansthan Trust, Shirdi — Official Website",
+      "publisherOrAuthority": "Shree Saibaba Sansthan Trust, Shirdi",
+      "url": "https://sai.org.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Trust name; main office, helpline and grievance phone numbers; temple opening time (4:45 AM) and darshan start time in the Samadhi Mandir (6:25 AM); daily aarti schedule (Kakad, 'Shirdi Majhe Pandharpur', Madhyan, Dhoop, Shej); donation and online-booking information; warning about fraudulent lookalike websites and phone numbers.",
+      "reliabilityNote": "Official trust homepage, undated. Gives no closing time, dress code or entry-fee structure, so none is recorded here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Shree Saibaba Sansthan Trust, Shirdi — Contact Us",
+      "publisherOrAuthority": "Shree Saibaba Sansthan Trust, Shirdi",
+      "url": "https://sai.org.in/en/contact-us",
+      "accessDate": "2026-09-18",
+      "claimScope": "Postal address (PO Shirdi, Tal. Rahata, Dist. Ahilyanagar, Maharashtra, Pincode 423109); office, PRO and fax phone numbers; email address saibaba@sai.org.in; helpline and grievance numbers.",
+      "reliabilityNote": "Official trust contact page, undated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Shri Saibaba Temple, Shirdi — Law and Judiciary Department",
+      "publisherOrAuthority": "Law and Judiciary Department, Government of Maharashtra",
+      "url": "https://lj.maharashtra.gov.in/en/organization/shri-saibaba-temple-shirdi/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms the temple/trust as an attached office of the department; lists the trust's official website, a contact phone number, and the Shirdi, Tal. Rahata, Dist. Ahilyanagar, Maharashtra 423109 address.",
+      "reliabilityNote": "Government department listing page; contains only basic contact details, no governance narrative or Act citation, so none of that detail is asserted here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Shirdi — Tourist Place, Ahilyanagar District",
+      "publisherOrAuthority": "Ahilyanagar (Ahmednagar) District Administration, Government of Maharashtra (NIC)",
+      "url": "https://ahmednagar.nic.in/en/tourist-place/shirdi/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Sai Baba attained samadhi on Dassera day, 1918; the Samadhi Mandir, Dwarkamai, Gurusthan and the nearby Khandoba and Mhasoba temples lie within about one kilometre of each other; the Samadhi is built of white marble with a decorative railing and silver pillars; rail access via Shirdi, Kopargaon and Ahmednagar stations; air access via Aurangabad and Pune airports; road access via Maharashtra State Transport buses.",
+      "reliabilityNote": "Official district government tourism page, undated. States no specific temple timings.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Shri Sai Baba Temple, Shirdi — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Shri_Sai_Baba_Temple,_Shirdi",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple built around Buti Wada, initiated by Shreemant Gopalrao Buti; shrine interring Baba's remains built 15 October 1918; coordinates 19.766182°N, 74.476998°E; description of Samadhi Mandir, Dwarkamai, Chavadi, Gurusthan and Lendi Baug; complex size over 200 acres; daily aartis (Kakad, Madhyan, Dhoop, Shej); festivals Rama Navami, Guru Purnima and Vijayadashami; Shree Saibaba Sansthan Trust's role running the temple plus hospitals, schools and social services; visitor numbers.",
+      "reliabilityNote": "Tertiary source; used for history, site layout and festival/administration detail not found on the official or government pages reviewed.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Sai Baba of Shirdi — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi",
+      "accessDate": "2026-09-18",
+      "claimScope": "Sai Baba's life dates (c. 1838 – 15 October 1918); arrival in Shirdi around age sixteen, settling permanently from about 1858; austerities under a neem tree; residence at Dwarkamai and its sacred fire; tending of Lendi Baug; core teachings of self-realisation, charity and rejection of caste/religious discrimination; his refusal to identify exclusively with Hinduism or Islam; death on Vijayadashami and interment at Buti Wada; visitor numbers.",
+      "reliabilityNote": "Tertiary source on Sai Baba's biography, used for narrative and shrine descriptions.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "media repository",
+      "title": "File:Sai Temple Shirdi (tomb) ,2024.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sai_Temple_Shirdi_(tomb)_,2024.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution (Kisna007) and licence (CC BY-SA 4.0) for the hero photograph, taken during Ramnavami on 17 April 2024.",
+      "reliabilityNote": "Author and licence copied directly from the Commons File: page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002",
+      "FES003"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Shree Saibaba Sansthan Trust, PO Shirdi, Tal. Rahata, Dist. Ahilyanagar, Maharashtra 423109, India"
+  },
+  "submittedBy": "import"
+}

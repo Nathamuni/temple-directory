@@ -1,0 +1,158 @@
+{
+  "slug": "bhimashankar-temple",
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Bhimashankar Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Bhimashankar_Temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Jyotirlinga status and its description as one of three Jyotirlingas in Maharashtra; location in Bhimashankar village, Khed taluka, Pune district at 19.072°N 73.536°E, elevation 934 m; Nagara architecture with affinities to the Deccan Hemadpanti style and 13th-century dating of the structure; black stone construction; Nana Phadnavis's 18th-century addition of the sabhamandap and shikhara; the bell donated by Chimaji Appa in 1739 after the defeat of the Portuguese at Vasai; the Bhima river rising near the temple; the site's position within the Bhimashankar Wildlife Sanctuary; the kunds Mokshakund, Jnyankund and Sarvatirth; the adjacent Kamalaja Mata temple.",
+      "reliabilityNote": "Tertiary source. Used for history, architecture and site features; no operational timings are taken from it. Its coordinates differ slightly from those previously held in this directory.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "academic",
+      "title": "Floristic diversity of Bhimashankar Wildlife Sanctuary, northern Western Ghats, Maharashtra, India",
+      "publisherOrAuthority": "Journal of Threatened Taxa, Vol. 9 No. 8 (2017)",
+      "author": "Savita Sanjaykumar Rahangdale & Sanjaykumar Ramlal Rahangdale",
+      "url": "https://threatenedtaxa.org/index.php/JoTT/article/view/3074",
+      "publicationDate": "2017",
+      "accessDate": "2026-09-17",
+      "claimScope": "Bhimashankar Wildlife Sanctuary lies on the crestline of the northern Western Ghats in Pune and Thane districts and was notified in October 1985 for the conservation of the Giant Squirrel, Maharashtra's state animal; its major forest types are western subtropical broad-leaved hill forest to moist deciduous, with small evergreen patches; the sanctuary holds 1,142 angiospermic taxa in 619 genera and 124 families, of which 217 are Indian endemics and 53 fall in IUCN threat categories.",
+      "reliabilityNote": "Peer-reviewed floristic survey; authoritative on the sanctuary's status and vegetation. The abstract does not state the sanctuary's area in square kilometres, so no area figure is recorded here. DOI 10.11609/jott.3074.9.8.10493-10527.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Religious Places — District Pune, Government of Maharashtra",
+      "publisherOrAuthority": "Pune District Administration, Government of Maharashtra (NIC)",
+      "url": "https://pune.gov.in/en/tourism/religious-places/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Bhimashankar as one of the twelve Jyotirlingas; the temple as an example of 13th-century architecture; the sabhamandap and shikhara built in the 18th century by Nana Phadnavis. Corroborates the dating and patronage otherwise taken from SRC001.",
+      "reliabilityNote": "Official district tourism listing, undated. It gives no distance from Pune, no travel directions, no timings and no mention of the wildlife sanctuary, so none of those are taken from it.",
+      "adminApproved": false
+    }
+  ],
+  "identity": {
+    "spiritualSignificanceShort": "Bhimashankar is counted among the twelve Jyotirlingas of Shiva and is one of three in Maharashtra. The shrine stands high in the Sahyadri crestline at about 934 m, close to the source of the Bhima river. Its setting inside a notified wildlife sanctuary means a visit is also a walk into protected Western Ghats forest.",
+    "sacredClassifications": [
+      "Jyotirlinga — one of the twelve, and one of three in Maharashtra"
+    ],
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "district": "Pune",
+    "latitude": 19.072,
+    "longitude": 73.536
+  },
+  "governance": {
+    "establishedEra": "Structure dated to the 13th century, with the sabhamandap and shikhara added in the later 18th century by Nana Phadnavis"
+  },
+  "narrative": {
+    "documentedHistory": "The temple stands in Bhimashankar village in Khed taluka of Pune district, at roughly 19.072°N 73.536°E and an elevation of about 934 m on the Sahyadri crest. The building is carved from black stone and is dated to the 13th century; its architecture is Nagara with affinities to the Hemadpanti idiom common in the Deccan. In the later 18th century Nana Phadnavis built the sabhamandap and designed the shikhara, giving the temple much of its present silhouette. A bell in the complex was donated by Chimaji Appa in 1739, taken after the Maratha defeat of the Portuguese at Vasai fort.\n\nThe Bhima river rises near the temple. Several kunds are associated with the site, including Mokshakund, where pilgrims traditionally bathe before entering, Jnyankund, and Sarvatirth; the Kamalaja Mata temple stands nearby.\n\nThe temple sits inside the Bhimashankar Wildlife Sanctuary, notified in October 1985 for the conservation of the Indian giant squirrel (locally Shekru), the state animal of Maharashtra. The sanctuary occupies the crestline of the northern Western Ghats across Pune and Thane districts; its major forest types run from western subtropical broad-leaved hill forest to moist deciduous, with small included patches of evergreen forest. A 2017 floristic survey published in the Journal of Threatened Taxa recorded 1,142 angiospermic taxa there in 619 genera and 124 families, of which 217 are Indian endemics and 53 fall within IUCN threat categories.\n\nThe Pune district administration's own tourism listing independently records Bhimashankar as one of the twelve Jyotirlingas, describes the temple as an example of 13th-century architecture, and attributes the sabhamandap and shikhara to Nana Phadnavis in the 18th century.",
+    "architectureStyle": "Nagara, with affinities to the Deccan Hemadpanti style"
+  },
+  "visitingInfo": {
+    "accessibilityNotes": "The temple lies within the Bhimashankar Wildlife Sanctuary on the Western Ghats crestline at about 934 m; approaches are hill roads and forest paths.",
+    "officialContactNote": "No official temple website or telephone number could be confirmed from a government or trust source; confirm darshan timings locally before travelling, and check Maharashtra Forest Department rules for the surrounding sanctuary.",
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "lastVerifiedDate": "2026-09-17",
+    "verificationStatus": "cross-referenced",
+    "notes": "No sourced darshan timings were found; the opening hours already in the directory remain unsupported. The previously recorded distances (Pune railway station 100 km, Pune airport 100 km) could not be confirmed from any source opened and are not restated here."
+  },
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Mokshakund",
+      "deityOrSubject": "Sacred water tank",
+      "spaceType": "tank",
+      "locationDescription": "Near the temple; pilgrims traditionally bathe here before entering the shrine.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Jnyankund",
+      "deityOrSubject": "Sacred water tank associated with Dattatreya",
+      "spaceType": "tank",
+      "locationDescription": "One of the kunds around the Bhimashankar shrine.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Sarvatirth",
+      "deityOrSubject": "Sacred water site associated with the goddess Bhashitadevi",
+      "spaceType": "tank",
+      "locationDescription": "One of the kunds around the Bhimashankar shrine.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Kamalaja Mata Temple",
+      "deityOrSubject": "Kamalaja, a form of Parvati",
+      "spaceType": "shrine",
+      "locationDescription": "Adjacent to the Bhimashankar temple.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Portuguese bell (Chimaji Appa's bell)",
+      "deityOrSubject": "Bell taken from Vasai fort and donated in 1739",
+      "spaceType": "other",
+      "locationDescription": "In the temple complex; donated by Chimaji Appa after the Maratha defeat of the Portuguese at Vasai.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Bhimashankar temple, front view",
+      "caption": "Front view of the Bhimashankar temple in the Sahyadri hills.",
+      "altText": "Stone temple with a stepped spire seen from the front, surrounded by hills.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bhimashankar_temple_front.jpg",
+      "creator": "Mechatron00",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Mechatron00 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar_temple_front.jpg"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Bhimashankar temple",
+      "caption": "The Bhimashankar temple, the sixth of the twelve Jyotirlingas.",
+      "altText": "Black stone temple with carved spire at Bhimashankar.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bhimashankar_temple.JPG",
+      "creator": "Pradeep245",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Pradeep245 · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhimashankar_temple.JPG"
+    }
+  ]
+}

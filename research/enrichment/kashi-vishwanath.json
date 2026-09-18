@@ -1,0 +1,216 @@
+{
+  "slug": "kashi-vishwanath",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shri Kashi Vishwanath Mandir Rituals - Varanasi",
+      "publisherOrAuthority": "Shri Kashi Vishwanath Temple Trust",
+      "url": "https://shrikashivishwanath.org/general/rituals",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily aarti names and times (Mangala, Midday Bhog, Sapta Rishi, Shringar/Bhog, Shayan), darshan sessions, daily opening at 2:30 AM and closing at 11 PM, temple helpline numbers and email addresses, trust name.",
+      "reliabilityNote": "Page carries no publication or revision date. Aarti and darshan timings at this temple change on festival days and during crowd-control measures; treat as needing recheck before travel.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Shri Kashi Vishwanath Official Web Portal",
+      "publisherOrAuthority": "Shri Kashi Vishwanath Temple Trust",
+      "url": "https://shrikashivishwanath.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Trust postal address at Bansphatak, Varanasi; existence of the paid Sugam Darshan escorted-queue service including free locker and Mewaladdu prasad; free online live darshan service.",
+      "reliabilityNote": "Portal home page, undated. It does not publish a dress code, a prohibited-items list or a phone policy, so none is recorded here.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Kashi Vishwanath Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Documented history of destruction and rebuilding (1194 Ghurid destruction, 1490 Sikandar Lodi, 1585 Todar Mal reconstruction, 1669 Aurangzeb and the Gyanvapi Mosque, 1780 Ahilyabai Holkar, 1835 Ranjit Singh gold donation), 1983 transfer of management to a Uttar Pradesh government board of trustees, the 13 December 2021 corridor inauguration, and the dimensions of the lingam and spire.",
+      "reliabilityNote": "Tertiary encyclopedia source, not an official or government publication. History of this site is politically and legally contested; dates and attributions here reflect the Wikipedia article as read on the access date.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "File:Kashi vishwanath temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kashi_vishwanath_temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page. Image dated 1 May 2017, therefore predates the 2021 corridor redevelopment of the surroundings.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Kashi Vishwanath is revered as the shrine of Shiva as Vishvanatha, 'lord of the universe', in Varanasi, and is counted among the twelve Jyotirlingas. The lingam, about 60 cm tall and 90 cm in circumference, is housed in a silver altar. The temple stands at the centre of the Kashi pilgrimage, and since 2021 a corridor links it directly to the ghats of the Ganga.",
+    "sacredClassifications": ["Jyotirlinga"],
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "nameLocal": "काशी विश्वनाथ मंदिर",
+    "localLanguage": "Hindi"
+  },
+
+  "governance": {
+    "establishedEra": "Present structure built 1780 by Ahilyabai Holkar; the site's temple history is documented from at least the 12th century",
+    "founderPatron": "Ahilyabai Holkar of Indore (present structure, 1780); dome gold-plated with a donation from Maharaja Ranjit Singh, 1835",
+    "managingAuthority": "Shri Kashi Vishwanath Temple Trust",
+    "administrationType": "Trust",
+    "officialWebsite": "https://shrikashivishwanath.org/",
+    "officialPhone": "+91 6393 131 608",
+    "officialEmail": "support@shrikashivishwanath.org"
+  },
+
+  "narrative": {
+    "documentedHistory": "The temple site in Varanasi has a long and heavily contested building history. The temple known as Adi Vishveshwar was destroyed by the Ghurids in 1194, and a mosque was raised on the site between 1236 and 1240. A rebuilt temple was demolished under Sikandar Lodi in 1490. Reconstruction began again during the reign of Akbar, initiated by Raja Man Singh and carried further by Raja Todar Mal in 1585.\n\nIn 1669 the Mughal emperor Aurangzeb destroyed the temple and the Gyanvapi Mosque was built in its place. The structure devotees visit today was built on an adjacent plot in 1780 by the Maratha ruler Ahilyabai Holkar of Indore. In 1835 the Sikh ruler Maharaja Ranjit Singh donated approximately one tonne of gold for plating the temple's dome, the origin of the gilded spire that identifies the temple.\n\nIn 1983 management of the temple passed to a board of trustees constituted by the Government of Uttar Pradesh, and the shrine is administered by the Shri Kashi Vishwanath Temple Trust. The most recent change to the site is the Shri Kashi Vishwanath Dham corridor, inaugurated on 13 December 2021, which cleared and rebuilt the congested lanes around the temple to create a roughly 1.4 km connection between the temple and the Ganga, allowing pilgrims to bathe at the river and walk directly to the shrine.",
+    "architectureStyle": "North Indian, with a gold-plated spire approximately 15.5 m high"
+  },
+
+  "visitingInfo": {
+    "prasadInfo": "The trust's paid Sugam Darshan service concludes with Mewaladdu prasad and includes a free locker and an escorted, queue-free darshan with a shastri assisting.",
+    "accessibilityNotes": "The trust streams a free online live darshan, which it describes as available to all devotees irrespective of physical barriers.",
+    "officialContactNote": "Confirm same-day darshan and aarti timings with the temple trust helpline +91 6393 131 608, or the query line 7080292930 (9:00 AM to 6:00 PM), before travelling. Timings shift on festival days. Trust office: CK 37/40,41,42 Bansphatak, Varanasi 221001.",
+    "sourceIds": ["SRC001", "SRC002"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck"
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Temple opening",
+      "openTime": "02:30",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "notes": "The temple trust states the temple opens daily at 2:30 AM and closes at 11:00 PM. Darshan is not continuous through this window — aartis interrupt it; see the darshan sessions below.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "General darshan (morning)",
+      "openTime": "04:00",
+      "closeTime": "11:00",
+      "closedFlag": false,
+      "notes": "Follows Mangala Aarti.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Afternoon darshan",
+      "openTime": "12:00",
+      "closeTime": "19:00",
+      "closedFlag": false,
+      "notes": "The trust page states 12 Noon to 7 PM, resuming after the midday Bhog Aarti.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS004",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "20:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "The trust page states evening darshan runs until 9:00 PM, after the Sapta Rishi Aarti which ends at 8:30 PM. The start time is inferred from the end of that aarti and should be confirmed.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Mangala Aarti",
+      "nameLocal": "मंगला आरती",
+      "startTime": "03:00",
+      "endTime": "04:00",
+      "recurrence": "Daily",
+      "description": "The first aarti of the day, performed after the temple opens at 2:30 AM.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Midday Bhog Aarti",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "description": "Midday offering of bhog; darshan is suspended during the aarti and resumes at noon.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "aarti",
+      "nameEn": "Sapta Rishi Aarti",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "recurrence": "Daily",
+      "description": "Evening aarti; the trust lists it from 7:00 PM to 8:30 PM.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "aarti",
+      "nameEn": "Shringar / Bhog Aarti",
+      "startTime": "21:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "aarti",
+      "nameEn": "Shayan Aarti",
+      "startTime": "22:30",
+      "recurrence": "Daily",
+      "description": "The closing aarti; the temple closes at 11:00 PM.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Kashi Vishwanath temple",
+      "caption": "The Kashi Vishwanath temple, Varanasi, photographed on 1 May 2017 — before the 2021 corridor redevelopment of the surrounding lanes.",
+      "altText": "Exterior view of the Kashi Vishwanath temple in Varanasi.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kashi_vishwanath_temple.jpg",
+      "creator": "Akshaypilot19",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Akshaypilot19 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kashi_vishwanath_temple.jpg"
+    }
+  ]
+}

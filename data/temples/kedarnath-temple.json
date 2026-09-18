@@ -15,7 +15,7 @@
       "Pilgrimage",
       "Himalayan"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Kedarnath is the highest of the twelve Jyotirlingas, standing at 3,583 m in the Garhwal Himalaya. It is one of the Chota Char Dham shrines and the first site of the Panch Kedar circuit. There is no road to the temple: pilgrims walk roughly 17 km uphill from Gaurikund, and the shrine is accessible for only about half the year.",
     "nameLocal": "केदारनाथ मंदिर",
     "localLanguage": "Hindi"
   },
@@ -30,11 +30,14 @@
   },
   "governance": {
     "establishedEra": "Ancient; present structure 8th century CE · Reconstructed by Adi Shankaracharya",
-    "managingAuthority": "Uttarakhand Shrine Board"
+    "managingAuthority": "Uttarakhand Shrine Board",
+    "administrationType": "Government department",
+    "officialWebsite": "https://badrinath-kedarnath.gov.in/",
+    "officialPhone": "0135-2741600"
   },
   "narrative": {
     "summaryIntro": "Kedarnath Temple is situated in the Himalayan mountain range at an elevation of 3,583 meters, in the Rudraprayag district of Uttarakhand. Dedicated to Lord Shiva, it is one of the twelve Jyotirlingas and forms part of the Char Dham pilgrimage circuit. The temple attracts pilgrims year-round despite its challenging high-altitude location.\n\nThe present temple structure dates back to the 8th century and is attributed to Adi Shankaracharya. Built with stone in a traditional Himalayan architectural style, the temple stands as a testament to ancient engineering and spiritual devotion in one of India's most sacred mountain regions.",
-    "documentedHistory": "",
+    "documentedHistory": "Kedarnath stands at 3,583 m in the Garhwal Himalaya of Rudraprayag district, the highest of the twelve Jyotirlingas and the first shrine of the Panch Kedar circuit. It has no road access; the approach is a roughly 17 km uphill trek from Gaurikund.\n\nThe priesthood is drawn from outside the region: the head priest belongs to the Veerashaiva community of Karnataka, and Jangam priests from south India perform the rituals.\n\nOn 16–17 June 2013 catastrophic floods struck the Kedarnath valley during the North India floods, destroying much of the settlement around the shrine and killing a large number of pilgrims and residents. The temple itself survived: a large boulder lodged behind the structure and deflected the debris flow around it. That rock is now venerated by pilgrims.\n\nThe temple is administered by the Shri Badarinath Kedarnath Temple Committee, constituted under a 1939 Act, which also runs the online booking system for pujas, paths, aartis and bhog.",
     "associatedSaints": [],
     "architectureStyle": "Himalayan"
   },
@@ -42,40 +45,121 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Warm clothing required; traditional attire recommended",
     "nearestRailStation": "Rishikesh Railway Station, 150 km",
     "railDistanceKm": 150,
     "nearestBusStation": "Accessible by trek and road",
     "nearestAirport": "Jolly Grant Airport, Dehradun, 240 km",
-    "airportDistanceKm": 240
+    "airportDistanceKm": 240,
+    "entryRules": "Prior registration is mandatory before booking any puja, path, aarti or bhog, and pilgrim registration is done through the Uttarakhand government portal registrationandtouristcare.uk.gov.in. A valid government photo ID must be produced at the puja counter. For an early-morning abhishek, BKTC instructs pilgrims to collect the slot timing at the puja counter one day in advance. For the evening aarti, the receipt should be shown 15 to 20 minutes before it starts.",
+    "accessibilityNotes": "There is no road to the temple. The shrine is reached by an uphill trek of about 17 km from Gaurikund.",
+    "officialContactNote": "Kedarnath is a seasonal shrine whose kapat opening and closing dates are announced afresh each year — do not plan on fixed dates. Confirm the current season's dates, puja availability and route status with BKTC on 0135-2741600 before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
-      "dayType": "daily",
-      "sessionName": "Morning",
-      "openTime": "06:00",
-      "closeTime": "12:00",
+      "dayType": "seasonal",
+      "sessionName": "Season (kapat open)",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "19:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Kedarnath is open only for about six months a year, from around Akshaya Tritiya in April to around Kartik Purnima in November; it is closed through the winter because of snow, and worship moves to Ukhimath. The exact opening and closing dates are fixed and announced annually and differ every year — no fixed dates are recorded here. BKTC does not publish daily darshan hours for Kedarnath, so none are recorded either.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Bhim Shila (the boulder behind the temple)",
+      "deityOrSubject": "The rock that shielded the temple in the 2013 floods",
+      "spaceType": "other",
+      "locationDescription": "Immediately behind the temple, upslope of the sanctum. The boulder lodged there during the June 2013 floods and diverted the debris flow around the structure; pilgrims now venerate it.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Mahabhishek",
+      "recurrence": "During the open season",
+      "description": "Bookable through the BKTC portal. BKTC does not publish a fixed time slot for Kedarnath abhishek pujas; for an early-morning abhishek the slot time must be collected at the puja counter a day in advance.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Rudrabhishek",
+      "recurrence": "During the open season",
+      "description": "Bookable through the BKTC portal; no fixed time slot is published for Kedarnath.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Laghurudrabhishek",
+      "recurrence": "During the open season",
+      "description": "Bookable through the BKTC portal; no fixed time slot is published for Kedarnath.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Sodasopachar Pooja",
+      "recurrence": "During the open season",
+      "description": "Bookable through the BKTC portal; no fixed time slot is published for Kedarnath.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "18:00",
+      "recurrence": "Daily during the open season",
+      "description": "BKTC states the evening aarti starts around 6:00 PM in the summer season and that the booking receipt should be shown 15 to 20 minutes beforehand. The start time is seasonal and approximate as stated.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -103,6 +187,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Kedarnath Temple with snow covered mountains in background",
+      "caption": "The Kedarnath temple below the snow-covered Garhwal peaks, photographed on 25 June 2011 — before the June 2013 floods.",
+      "altText": "Stone temple at Kedarnath standing on an open plateau with snow-covered Himalayan peaks behind it.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kedarnath_Temple_with_Snow_Covered_Mountains_in_Background.jpg",
+      "creator": "Ayushmanik",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ayushmanik · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_with_Snow_Covered_Mountains_in_Background.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -120,6 +219,50 @@
       "title": "Uttarakhand Shrine Board Official Records",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Book Pooja Online — Shri Badarinath Kedarnath Temple Committee",
+      "publisherOrAuthority": "Shri Badarinath Kedarnath Temple Committee (BKTC)",
+      "url": "https://badrinath-kedarnath.gov.in/online-services/book-puja-online/Book_Pooja_Online.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "The categories of bookable service at Kedarnath — Mahabhishek, Rudrabhishek, Laghurudrabhishek, Sodasopachar, Evening Aarti and various Path; the instruction to take an early-morning abhishek slot at the puja counter a day in advance; evening aarti starting around 6:00 PM in the summer season with the receipt shown 15–20 minutes beforehand; the mandatory government photo ID at the puja counter.",
+      "reliabilityNote": "Official BKTC booking page. It publishes detailed slot times and rates for Badrinath but not for Kedarnath, so no Kedarnath puja clock times beyond the evening aarti are recorded here. Operational details change between seasons.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Shri Badarinath Kedarnath Temple Committee — official portal",
+      "publisherOrAuthority": "Shri Badarinath Kedarnath Temple Committee (BKTC), Government of Uttarakhand",
+      "url": "https://badrinath-kedarnath.gov.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The committee's official name; prior registration mandatory for puja, path, aarti and bhog booking; pilgrim registration via registrationandtouristcare.uk.gov.in; BKTC office number 0135-2741600.",
+      "reliabilityNote": "Live portal, undated content. The Kedarnath-specific pilgrims helpline was not read on this visit and is therefore not recorded.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Kedarnath Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kedarnath_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Altitude of 3,583 m; status as the highest of the twelve Jyotirlingas, a Chota Char Dham site and the first of the Panch Kedar; seasonal opening between Akshaya Tritiya in April and Kartik Purnima in November with winter worship shifted to Ukhimath; the 17 km uphill trek from Gaurikund and the absence of road access; the Veerashaiva head priest from Karnataka and Jangam priests from south India; the June 2013 floods and the boulder that sheltered the temple, now venerated; administration by the BKTC under a 1939 Act.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. Used for history, classification, seasonality and access; not used for any timing.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Kedarnath Temple with Snow Covered Mountains in Background.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_with_Snow_Covered_Mountains_in_Background.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page. The photograph is dated 25 June 2011 and therefore shows the site before the June 2013 floods and the subsequent reconstruction of the surroundings.",
       "adminApproved": true
     }
   ],

@@ -1,0 +1,115 @@
+{
+  "slug": "kalighat-kolkata",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Kalighat Temple Kolkata — Iconic Hindu Pilgrimage Destination",
+      "publisherOrAuthority": "Incredible India, Ministry of Tourism, Government of India",
+      "url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/kalighat-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Completion of the present temple around 1809 under the patronage of the Sabarna Roy Chowdhury family and an earlier structure commissioned by King Manasingha in the early 16th century; the sandstone image of Kali with three eyes, four hands and a gold tongue, attributed to Atmaram Giri and Brahmananda Giri; status as one of the 51 Shakti Peethas and the tradition that Sati's right toe fell here; the Natmandir of 1835, the Jor Bangla, the Harkath Tala, the Sosthi Tala altar to Sosti, Shitala and Mangal Chandi, the Kundupukur tank and the Nakuleshwar Mahadev temple; opening hours 05:00-14:00 and 17:00-22:30; Netaji Subhash Chandra Bose airport and Howrah and Sealdah as nearest stations.",
+      "reliabilityNote": "National tourism portal; undated. Its opening hours differ from the unsourced times previously held in this entry. The temple underwent major renovation in 2024, so structural and access details may have changed since the page was written.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Kalighat Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Kalighat_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Shakti Pitha tradition and the toes of Sati's right foot; construction begun by Santosh Roy Chowdhury in 1798 and completed in 1809 after eleven years; the ath-chala style of Bengal temple architecture, the gabled roofs with terracotta motifs and the eight-faced truncated dome with three spires; the 2024 renovation funded jointly by the Kolkata Municipal Corporation and the Reliance Foundation, including the addition of gold to the spires; Kali Puja, Durga Puja and Snan Yatra as the principal festivals.",
+      "reliabilityNote": "Tertiary encyclopedic source, used for history, architecture and festival names rather than operational detail.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "media repository",
+      "title": "File:Kalighat Kali Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Bernard Gagnon (Bgag)",
+      "url": "https://commons.wikimedia.org/wiki/File:Kalighat_Kali_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms the author and licence of the image already used as this temple's hero: Bernard Gagnon, CC BY-SA 3.0 Unported (also released under compatible earlier versions and the GFDL v1.2+), photographed 11 December 2013 and described as 'Top of the Kalighat Kali Temple, Calcutta'.",
+      "reliabilityNote": "Contributor-uploaded image; licence and authorship as declared on the Commons file page. Opened to verify the existing hero credit, not to add a new image.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Kalighat is counted among the fifty-one Shakti Peethas, the tradition holding that the toes of Sati's right foot fell at this spot. The goddess is worshipped here as Kali in a sandstone image with three eyes, four hands and a protruding gold tongue, attributed to the saints Atmaram Giri and Brahmananda Giri. It is one of the busiest pilgrimage centres in eastern India, drawing hundreds of thousands of devotees a year, above all at Kali Puja and Durga Puja.",
+    "sacredClassifications": [
+      "Shakti Peetha — one of the 51 Shakti Peethas",
+      "Site where the toes of Sati's right foot are traditionally held to have fallen"
+    ],
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "localLanguage": "Bengali"
+  },
+
+  "governance": {
+    "establishedEra": "An earlier structure is attributed to the early 16th century; the present temple was begun in 1798 and completed around 1809",
+    "founderPatron": "Built under the patronage of the Sabarna Roy Chowdhury family; construction begun by Santosh Roy Chowdhury in 1798"
+  },
+
+  "narrative": {
+    "documentedHistory": "The site's temple history is traced back several centuries, an earlier structure being attributed to the patronage of King Manasingha in the early sixteenth century.\n\nThe building standing today is of the turn of the nineteenth century. Santosh Roy Chowdhury began its construction in 1798 and the work, carried out under the patronage of the Sabarna Roy Chowdhury family, took eleven years and was completed around 1809. The Natmandir, the large rectangular veranda from which the sanctum can be seen, was added in 1835.\n\nIn 2024 the temple underwent its first major modern renovation, funded jointly by the Kolkata Municipal Corporation and the Reliance Foundation. Existing terracotta detail was preserved while damaged elements were restored and gold was added to the spires.",
+    "architectureStyle": "Ath-chala (eight-roofed) Bengal temple architecture, with gabled roofs carrying terracotta motifs of deities and natural forms, and a truncated eight-faced dome with three spires",
+    "sacredTank": "Kundupukur, the sacred tank to the south-east of the main temple"
+  },
+
+  "visitingInfo": {
+    "prasadInfo": "The temple is closed between the morning and evening sessions each day.",
+    "nearestRailStation": "Howrah and Sealdah",
+    "nearestAirport": "Netaji Subhash Chandra Bose International Airport, Kolkata",
+    "officialContactNote": "Published opening hours differ between sources, and the temple was substantially renovated in 2024, so queue arrangements and access may have changed. Confirm the day's timings locally before visiting.",
+    "sourceIds": ["SRC001"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "conflict"
+  },
+
+  "openingHours": [
+    { "hoursId": "HRS001", "dayType": "daily", "sessionName": "Morning", "openTime": "05:00", "closeTime": "14:00", "closedFlag": false, "notes": "As stated by Incredible India; differs from the 06:00-12:00 previously held in this entry, which carried no source.", "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "conflict" },
+    { "hoursId": "HRS002", "dayType": "daily", "sessionName": "Evening", "openTime": "17:00", "closeTime": "22:30", "closedFlag": false, "notes": "As stated by Incredible India; differs from the 15:00-21:00 previously held in this entry, which carried no source.", "sourceIds": ["SRC001"], "lastVerifiedDate": "2026-09-18", "verificationStatus": "conflict" }
+  ],
+
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Kali Puja",
+      "significance": "The principal observance for the presiding goddess; one of the occasions that draws the temple's largest crowds.",
+      "crowdNote": "Among the busiest days of the year at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Durga Puja",
+      "significance": "Observed at the temple as one of its major annual gatherings.",
+      "crowdNote": "Among the busiest days of the year at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Snan Yatra",
+      "significance": "The ritual bathing observance, named as one of the temple's three principal festivals.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "shrines": [
+    { "shrineId": "SHR001", "shrineName": "Natmandir", "deityOrSubject": "Assembly veranda facing the sanctum", "spaceType": "hall", "locationDescription": "A large rectangular veranda built in 1835, from which the sanctum and the image of the goddess can be seen.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR002", "shrineName": "Jor Bangla", "deityOrSubject": "Platform for observing rituals", "spaceType": "hall", "locationDescription": "A platform within the complex from which the sacred rituals are watched.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR003", "shrineName": "Harkath Tala", "deityOrSubject": "Site of the traditional animal sacrifice", "spaceType": "other", "locationDescription": "A ceremonial site near the Natmandir where the traditional animal sacrifices are performed.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR004", "shrineName": "Sosthi Tala", "deityOrSubject": "Sosti, Shitala and Mangal Chandi", "spaceType": "shrine", "locationDescription": "An altar about three feet high dedicated to the goddesses Sosti, Shitala and Mangal Chandi.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR005", "shrineName": "Kundupukur", "deityOrSubject": "Sacred tank", "spaceType": "tank", "locationDescription": "A sacred tank to the south-east of the main temple.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" },
+    { "shrineId": "SHR006", "shrineName": "Nakuleshwar Mahadev Temple", "deityOrSubject": "Shiva", "spaceType": "shrine", "locationDescription": "Shiva shrine associated with the Kalighat complex.", "linkedMediaIds": [], "sourceIds": ["SRC001"], "verificationStatus": "sourced" }
+  ]
+}

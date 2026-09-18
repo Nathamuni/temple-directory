@@ -14,7 +14,7 @@
       "Pilgrimage",
       "Guwahati"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Kamakhya on Nilachal hill is among the best known Shakti shrines in India and is counted among the fifty-one shaktipeethas. It holds no image of the goddess: worship centres on a stone in a corner of the cave-like inner chamber carved with the yoni symbol and kept wet by a natural spring. Nine further shrines on the hill — Bhubaneswari, Kali, Tara, Chinnamasta, Bagala, Bhairavi, Dhoomavati, Matangi and Kamala — form with Kamakhya the Dasamahavidya, which makes the hill a centre for tantric worship as well as general pilgrimage.",
     "nameLocal": "কামাখ্যা মন্দিৰ",
     "localLanguage": "Assamese"
   },
@@ -29,11 +29,14 @@
   },
   "governance": {
     "establishedEra": "Ancient origins; present structure 16th century · Rebuilt during Ahom dynasty",
-    "managingAuthority": "Guwahati Kamakhya Temple Board"
+    "managingAuthority": "Guwahati Kamakhya Temple Board",
+    "founderPatron": "Rebuilt in 1565 by Chilarai, then the reigning Koch ruler",
+    "administrationType": "Trust or private body",
+    "officialWebsite": "https://www.maakamakhya.org/"
   },
   "narrative": {
     "summaryIntro": "Kamakhya Temple, located in Guwahati on the banks of the Brahmaputra River, is one of the most significant Shakti Pitha temples in India. Dedicated to Goddess Kamakhya (a form of Durga), the temple is believed to be one of the 51 Shakti Pithas—sacred sites associated with Hindu goddess worship. The temple's distinctive hilltop location and ancient origins make it a major pilgrimage destination.\n\nThe temple complex houses sanctums dedicated to different manifestations of the goddess, including Kali, Tara, and other forms. The unique Assamese architectural style, with its beehive-shaped dome, reflects the region's cultural heritage. The temple attracts millions of devotees annually, particularly during Navratri and Ambubachi Mela festivals, making it one of Assam's most important religious centers.",
-    "documentedHistory": "",
+    "documentedHistory": "The temple standing on Nilachal hill today dates from the sixteenth century: the earlier structure was destroyed by Kala Pahar, and it was reconstructed in 1565 by Chilarai, the reigning ruler of the Koch dynasty.\n\nThe building is laid out in three main chambers along an east-west axis. The western chamber is rectangular; the middle chamber is square and carries inscriptions and images of Naranarayana; the innermost chamber is cave-like and holds a yoni-shaped cleft in the bedrock fed by a natural spring. There is no idol or image of the goddess, worship being directed at the stone bearing the carved yoni symbol.\n\nThe hill carries a wider complex of shrines, including five dedicated to Shiva and three to Vishnu — Kedara, Gadadhara and Pandunath — alongside the nine Dasamahavidya temples.",
     "associatedSaints": [],
     "architectureStyle": "Assamese"
   },
@@ -41,115 +44,337 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Guwahati Railway Station, 10 km",
     "railDistanceKm": 10,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Indira Gandhi International Airport, Guwahati, 22 km",
-    "airportDistanceKm": 22
+    "airportDistanceKm": 22,
+    "entryRules": "Devotees must leave their footwear at the designated camps on the approach road. The entire Kamakhya complex and Nilachal hill is a declared no-tobacco zone.",
+    "prasadInfo": "The sanctum is closed from 13:00 to 14:30 each day for the cooked offerings to the goddess.",
+    "officialContactNote": "The sanctum closes entirely for the Ambubachi period each year and special-darshan tickets are suspended on the reopening days. Confirm the day's schedule and any darshan-pass arrangement with the Office of the Doloi, Maa Kamakhya Devalaya, before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
       "sessionName": "Morning",
-      "openTime": "04:00",
-      "closeTime": "12:00",
+      "openTime": "08:00",
+      "closeTime": "13:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Temple door opens for devotees at 08:00; the Snana of the Pithasthana is at 05:30 and Nitya puja at 06:00, before the doors open. Doors close at 13:00 for the cooked offerings.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "14:00",
-      "closeTime": "21:00",
+      "sessionName": "Afternoon",
+      "openTime": "14:30",
+      "closeTime": "17:15",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Doors reopen for devotees at 14:30 and close for the night at 17:15; the Aarati of the goddess follows at 19:30.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "special",
+      "sessionName": "Ambubachi closure",
+      "closedFlag": true,
+      "notes": "The temple door is closed to devotees for the Ambubachi period — the official site gives 23 to 25 June for 2026 — and reopens on the morning of 26 June after the ritual bathing and the daily puja.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
   "shrines": [
     {
       "shrineId": "SHR001",
-      "shrineName": "Annapurna",
-      "deityOrSubject": "Annapurna",
+      "shrineName": "Garbhagriha — the yoni-marked stone",
+      "deityOrSubject": "Kamakhya",
       "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "locationDescription": "The innermost, cave-like chamber, reached below the middle chamber; it holds a yoni-shaped cleft in the bedrock fed by a natural spring, and there is no idol or image of the goddess.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
     },
     {
       "shrineId": "SHR002",
-      "shrineName": "Lakshmi",
-      "deityOrSubject": "Lakshmi",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "shrineName": "Middle chamber",
+      "deityOrSubject": "Naranarayana inscriptions and images",
+      "spaceType": "hall",
+      "locationDescription": "The square chamber between the western chamber and the sanctum, carrying inscriptions and images of Naranarayana.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
     },
     {
       "shrineId": "SHR003",
-      "shrineName": "Saraswati",
-      "deityOrSubject": "Saraswati",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "shrineName": "Natmandir",
+      "deityOrSubject": "Performance and assembly hall",
+      "spaceType": "hall",
+      "locationDescription": "The western, rectangular chamber; the Deodhani dances at Manasha Puja are held here.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
     },
     {
       "shrineId": "SHR004",
-      "shrineName": "Gayatri",
-      "deityOrSubject": "Gayatri",
+      "shrineName": "Bhubaneswari",
+      "deityOrSubject": "Bhubaneswari",
       "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill around the Kamakhya temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
     },
     {
       "shrineId": "SHR005",
-      "shrineName": "Kali",
-      "deityOrSubject": "Kali",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "shrineId": "SHR006",
       "shrineName": "Tara",
       "deityOrSubject": "Tara",
       "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Chinnamasta",
+      "deityOrSubject": "Chinnamasta",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Bagala",
+      "deityOrSubject": "Bagalamukhi",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR008",
+      "shrineName": "Bhairavi",
+      "deityOrSubject": "Bhairavi",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR009",
+      "shrineName": "Dhoomavati",
+      "deityOrSubject": "Dhumavati",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR010",
+      "shrineName": "Matangi",
+      "deityOrSubject": "Matangi",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR011",
+      "shrineName": "Kamala",
+      "deityOrSubject": "Kamala",
+      "spaceType": "shrine",
+      "locationDescription": "One of the nine Dasamahavidya shrines on Nilachal hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR012",
+      "shrineName": "Kedara",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "One of the Shiva shrines within the complex; the district page records five Shiva shrines and three Vishnu shrines on the hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR013",
+      "shrineName": "Gadadhara",
+      "deityOrSubject": "Vishnu",
+      "spaceType": "shrine",
+      "locationDescription": "One of the three Vishnu shrines within the complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR014",
+      "shrineName": "Pandunath",
+      "deityOrSubject": "Vishnu",
+      "spaceType": "shrine",
+      "locationDescription": "One of the three Vishnu shrines within the complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
-  "poojas": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Snana of the Pithasthana",
+      "startTime": "05:30",
+      "recurrence": "Daily",
+      "description": "The bathing of the pithasthana, performed before the doors open to devotees.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Nitya Puja",
+      "startTime": "06:00",
+      "recurrence": "Daily",
+      "description": "The daily puja, performed before the temple door opens to devotees at 08:00.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Aarati of the Goddess",
+      "startTime": "19:30",
+      "recurrence": "Daily",
+      "description": "Evening aarati, after the door has closed for the night at 17:15.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
       "festivalNameEn": "Ambubachi Mela",
-      "tamilOrLocalMonth": "May–June",
-      "duration": "4 days",
-      "significance": "Major fair celebrating the goddess's menstruation cycle; attracts tantric practitioners",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "tamilOrLocalMonth": "Ashara (June–July)",
+      "gregorianRuleOrDate": "Around 21–22 June; for 2026 the official site gives the closure as 23 to 25 June with reopening on 26 June",
+      "duration": "Four days, of which the sanctum is shut for three",
+      "significance": "Observed as the yearly menstrual cycle of the goddess. Assam Tourism describes it as a four-day festival marking the annual menstruation of Mother Earth; it is the temple's principal gathering and draws tantric practitioners from across India.",
+      "processionOrRituals": "The temple door stays closed to devotees for the duration and reopens on the fourth morning after ritual bathing and the daily puja.",
+      "visitorAdvice": "The sanctum cannot be entered during the closure. The Rs 501 special darshan is stated to be unavailable on 26 and 27 June because of the crowds, and devotees must leave footwear at the designated camps on the approach road.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
     },
     {
       "festivalId": "FES002",
-      "festivalNameEn": "Navratri",
-      "tamilOrLocalMonth": "September–October",
-      "duration": "9 days",
-      "significance": "Celebration with special rituals and gatherings",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Durga Puja",
+      "tamilOrLocalMonth": "Aswina (September–October)",
+      "gregorianRuleOrDate": "A fortnight, from Krishna Navami to Sukla Navami of Aswina",
+      "duration": "A fortnight",
+      "significance": "The principal autumn observance at the temple.",
+      "processionOrRituals": "Includes the ritual bath of the deity with Panchagarva and bali offerings; Kumari Puja, the worship of a virgin girl as a manifestation of the goddess, forms part of the major pujas.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Manasha Puja and Deodhani",
+      "tamilOrLocalMonth": "Sravana Sankranti (August)",
+      "duration": "Three days",
+      "significance": "Worship of Manasha, accompanied by the Deodhani dances.",
+      "processionOrRituals": "Held in the Natmandir of the temple, with shamanistic Deodhani dancing.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Pohan Biya",
+      "tamilOrLocalMonth": "Pohan (December–January)",
+      "significance": "Observed as the marriage day of Devi Kamakhya.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -167,6 +392,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Guwahati.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Kamakhya Temple, Nilachal Hills, Guwahati",
+      "caption": "The Kamakhya temple on Nilachal hill, Guwahati.",
+      "altText": "Exterior of the Kamakhya temple showing its beehive-shaped shikhara on Nilachal hill.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kamakhya_Temple%2C_Nilachal_Hills%2C_Guwahati.JPG",
+      "creator": "Deeporaj",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Deeporaj · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Nilachal_Hills,_Guwahati.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -184,6 +424,62 @@
       "title": "Assam Tourism Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Maa Kamakhya Devalaya — Official Website (home)",
+      "publisherOrAuthority": "Office of the Doloi, Maa Kamakhya Devalaya, Guwahati",
+      "url": "https://www.maakamakhya.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily ritual and door-opening schedule (Snana 5:30, Nitya puja 6:00, doors open 8:00, closed 13:00 for cooked offerings, reopen 14:30, closed 17:15, Aarati 19:30); Special Darshan ticket and general queue; footwear and no-tobacco rules; administration by the Bardeuri Samaj and the office of the Bor-Doloi and Saru-Doloi.",
+      "reliabilityNote": "The temple's own site. The schedule page is undated; named office-holders and ticket prices can change, so operational detail needs same-day confirmation.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Maa Kamakhya Devalaya — Festivals",
+      "publisherOrAuthority": "Office of the Doloi, Maa Kamakhya Devalaya, Guwahati",
+      "url": "https://www.maakamakhya.org/festival",
+      "accessDate": "2026-09-18",
+      "claimScope": "Ambubachi Mela closure and reopening; Durga Puja observed for a fortnight from Krishna Navami to Sukla Navami of Aswina; Manasha Puja and the Deodhani festival at Sravana Sankranti in the Natmandir; Pohan Biya as the marriage day of Devi Kamakhya; Kumari Puja.",
+      "reliabilityNote": "Official but loosely proof-read: the Ambubachi entry gives the closure as '23rd June 2026 to 25th June 2022', an evident typographic error in the end year. The closure window is recorded here as the site states it, with that caveat.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Kamakhya Temple — The Shrine of the Mother Goddess",
+      "publisherOrAuthority": "Assam Tourism, Government of Assam",
+      "url": "https://assamtourism.gov.in/Kamakhya-Temple1.php",
+      "accessDate": "2026-09-18",
+      "claimScope": "Nilachal hill location; standing as one of the best known Shakti shrines and among the 51 shaktipeethas; the absence of an image of the goddess and the yoni-marked stone; the nine surrounding Dasamahavidya temples; Ambubachi described as a four-day festival in June-July.",
+      "reliabilityNote": "State tourism page; undated, gives no timings or distances, and its claim that the shrine is the oldest of the shaktipeethas is a traditional rather than documented assertion.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Kamakhya Temple — Kamrup Metropolitan District",
+      "publisherOrAuthority": "Kamrup Metropolitan District Administration, Government of Assam",
+      "url": "https://kamrupmetro.assam.gov.in/tourist-place-detail/218",
+      "accessDate": "2026-09-18",
+      "claimScope": "Distance of about 7 km from Guwahati; destruction by Kala Pahar and reconstruction in 1565 by Chilarai of the Koch dynasty; the three-chamber plan and the yoni-shaped cleft with its natural spring; the subsidiary Shiva and Vishnu shrines (Kedara, Gadadhara, Pandunath); the festival list including Durgadeul, Madandeul and Vasanti Puja.",
+      "reliabilityNote": "District administration page; undated and gives no timings or transport distances.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "media repository",
+      "title": "File:Kamakhya Temple, Nilachal Hills, Guwahati.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Deeporaj",
+      "url": "https://commons.wikimedia.org/wiki/File:Kamakhya_Temple,_Nilachal_Hills,_Guwahati.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Exterior image of the temple only; author and licence string.",
+      "reliabilityNote": "Contributor-uploaded image; licence and authorship as declared on the Commons file page.",
       "adminApproved": true
     }
   ],

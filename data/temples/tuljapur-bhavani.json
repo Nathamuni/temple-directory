@@ -1,0 +1,305 @@
+{
+  "templeId": "TPL-IN-MA-TUL-0049",
+  "slug": "tuljapur-bhavani",
+  "status": "published",
+  "identity": {
+    "nameEn": "Tulja Bhavani Temple, Tuljapur",
+    "alternateNames": [
+      "Shri Tuljabhavani Mandir",
+      "Tuljapur Bhavani Temple"
+    ],
+    "presidingDeity": "Bhavani (Devi)",
+    "tradition": "Shakta",
+    "templeType": "Shakta",
+    "sacredClassifications": [
+      "Shakti Peetha",
+      "Devi",
+      "Tuljapur",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Tulja Bhavani Temple is counted among the 51 Shakti Pithas and, together with Renuka (Mahur), Mahalakshmi (Kolhapur) and Saptashringi (Vani), is regarded as one of four principal Shakti shrines of Maharashtra. The goddess Bhavani here is worshipped as a manifestation of Parvati/Durga, and the temple is closely associated in tradition with Chhatrapati Shivaji Maharaj, whose family is said to have been devotees of the deity.",
+    "nameLocal": "श्री तुळजाभवानी मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Tuljapur",
+    "district": "Dharashiv",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "413601",
+    "latitude": 18.0114,
+    "longitude": 76.1256
+  },
+  "governance": {
+    "establishedEra": "12th century CE; traditionally dated to 1169 CE",
+    "managingAuthority": "Shri Tuljabhavani Temple Trust",
+    "founderPatron": "Traditionally attributed to Mahamandaleshwara Māradadeva of the Kadamb dynasty (12th century)",
+    "administrationType": "Public trust",
+    "officialWebsite": "https://shrituljabhavani.org/en",
+    "officialPhone": "+91 9422956830",
+    "officialEmail": "shrituljabhavanitemple@gmail.com"
+  },
+  "narrative": {
+    "summaryIntro": "Tulja Bhavani Temple stands in the town of Tuljapur in Dharashiv (formerly Osmanabad) district of Maharashtra, on the Yamunachala hill of the Balaghat range. Dedicated to the goddess Bhavani, it is one of the 51 Shakti Pithas of the subcontinent and is counted among the four principal Shakti shrines of Maharashtra, alongside the temples at Mahur, Kolhapur and Vani.\n\nThe temple is built of black stone in the Hemadpanti architectural idiom associated with the medieval Deccan. It draws very large numbers of pilgrims through the year, with the heaviest crowds during the Sharadiya Navaratri festival in the Hindu month of Ashwin. The site is closely tied in regional tradition to the Bhonsle family and to Chhatrapati Shivaji Maharaj, who is said to have been a devotee of the goddess; two of the temple's entrance gates are named after his parents, Shahaji and Jijabai.",
+    "documentedHistory": "Wikipedia dates the temple's founding to the 12th century CE, traditionally to 1169, attributing it to Mahamandaleshwara Māradadeva of the Kadamb dynasty. The temple sits at approximately 18°00′41″N 76°07′32″E at an elevation of about 648 m, on the Yamunachala hill of the Balaghat range near the Mandakini river and the Bori dam, about 45 km northeast of Solapur. The structure is built of black stone in the Hemadpanti style.\n\nThe temple's association with Chhatrapati Shivaji Maharaj is presented in sourced material as regional tradition rather than as independently documented history: Wikipedia states he was \"reputed to frequently visit this temple to seek blessings,\" and that two of the temple's entrances are named after his parents, Shahaji and Jijabai. No source opened for this record documents a specific sword-gifting episode, so that narrative is not restated here.\n\nGovernance of the temple is described somewhat differently across sources. The temple's own trust website states the temple was registered as a public trust in 1962 under the Bombay Public Trusts Act, 1950, and that its operations follow \"Kawayat Deval\" rules dating to the Nizam's administration. Wikipedia separately states that day-to-day affairs are overseen by a trust headed by the District Collector, while the Government of India's utsav.gov.in tourism portal describes management and priestly rights as resting with the Kadamb Bhope family, descendants of the temple's traditional founder, through an organisation it names Shri Tuljabhavani Mandir Sansthan. These descriptions are not necessarily contradictory — a registered public trust, government oversight through the District Collector, and hereditary priestly rights can coexist — but no single source opened for this record reconciles all three, so all three are reported here rather than resolved into one.\n\nWikipedia also reports a large corridor redevelopment project for the temple precinct, budgeted at approximately ₹1,865 crore and targeted for completion by December 2028, as of the article's most recent update.",
+    "associatedSaints": [],
+    "architectureStyle": "Hemadpanti"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "Contact details, poojas and festival names are sourced to the temple trust's own website (official temple source). Darshan timings come from the Government of India's utsav.gov.in tourism portal (government source) rather than from the trust site itself, whose own 'Hours' field (10:00 AM–6:00 PM) appears to describe office/administrative hours rather than darshan hours and was not used for openingHours. History, architecture and the Shivaji-era tradition rely on Wikipedia (tertiary, non-official) and are marked accordingly. Multiple third-party pilgrimage-guide sites give conflicting darshan hours (e.g. 4:00 AM–10:00 PM); none of those pages were opened directly and none is cited here."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "cross-referenced",
+    "dressCode": "Traditional attire recommended",
+    "nearestRailStation": "Osmanabad (Dharashiv) Railway Station, approximately 31 km",
+    "railDistanceKm": 31,
+    "nearestBusStation": "Tuljapur is well connected by road to Solapur (approx. 45 km) and Dharashiv/Osmanabad town (approx. 25 km)",
+    "officialContactNote": "Confirm current darshan hours, VIP/Sinhasan pooja booking and festival-day arrangements with the temple trust before travelling. Trust phone: +91 9422956830 / +91 9067257215; email shrituljabhavanitemple@gmail.com. Address: Mahadwar Road, Tuljapur, Dharashiv District, Maharashtra 413601.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan",
+      "openTime": "04:30",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "notes": "Timing as published on the Government of India's utsav.gov.in tourism portal. The temple trust's own website lists a separate 10:00 AM–6:00 PM 'Hours' field that appears to be office/administrative hours rather than darshan hours; that figure is not used here. Timings are known to extend or change during Navaratri and other festivals.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Shahaji Mahadwar (main gate)",
+      "deityOrSubject": "Temple entrance gate",
+      "spaceType": "other",
+      "locationDescription": "One of the temple's entrance gates; named, per Wikipedia, after Shivaji Maharaj's father Shahaji Bhonsle.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Jijabai gate",
+      "deityOrSubject": "Temple entrance gate",
+      "spaceType": "other",
+      "locationDescription": "A second temple entrance gate named, per Wikipedia, after Shivaji Maharaj's mother Jijabai.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "abhishekam",
+      "nameEn": "Abhishek Pooja (morning)",
+      "startTime": "06:00",
+      "endTime": "10:00",
+      "recurrence": "Daily",
+      "description": "Daily morning abhishekam performed with milk provided through the Chhatrapati Kolhapur Institution, per the temple trust's website.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "abhishekam",
+      "nameEn": "Abhishek Pooja (evening)",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "description": "Daily evening abhishekam, per the temple trust's website.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Sinhasan Pooja",
+      "recurrence": "Daily, by advance booking",
+      "description": "A booked pooja using an offering of roughly 70 litres of materials including yogurt, milk, condensed milk and mango or sugarcane juice; the trust website states it is performed across five sessions in the morning and two in the evening, without giving exact clock times.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Sharadiya Navaratri",
+      "tamilOrLocalMonth": "Ashwin (September–October)",
+      "duration": "9 days",
+      "significance": "The temple's principal annual festival, a nine-day celebration culminating in Vijayadashami (Dussehra); draws the temple's largest crowds of the year.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Shakambhari Navaratri",
+      "tamilOrLocalMonth": "Pausha (December–January)",
+      "duration": "9 days",
+      "significance": "Described by the temple trust as a mirror celebration of the Sharadiya Navaratri, observed roughly three months later.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Ganesh Chaturthi, Holi and Deepawali",
+      "significance": "Listed by Wikipedia among festivals observed at the temple, alongside Navaratri and Dussehra.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Tulja Bhavani Mandir, Tuljapur — hero image",
+      "caption": "Tulja Bhavani Temple, Tuljapur",
+      "altText": "Tulja Bhavani Temple complex in Tuljapur, Maharashtra",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulja_Bhavani_Mandir,_Tuljapur.jpg",
+      "creator": "अमर राऊत (Amar Raut)",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "अमर राऊत (Amar Raut) · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulja_Bhavani_Mandir,_Tuljapur.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Tuljabhavani Mandir Mahadwar (main entrance gate)",
+      "caption": "The Mahadwar, or main entrance gate, of the Tulja Bhavani temple complex.",
+      "altText": "Main entrance gate (Mahadwar) of the Tulja Bhavani temple complex in Tuljapur.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuljabhavani%20Mandir%20Mahadwar%20(Main%20entrance%20gate).jpg",
+      "creator": "Anjali Sajan",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Anjali Sajan · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuljabhavani_Mandir_Mahadwar_(Main_entrance_gate).jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shri Tuljabhavani Temple Trust — Official Website",
+      "publisherOrAuthority": "Shri Tuljabhavani Temple Trust",
+      "url": "https://shrituljabhavani.org/en",
+      "accessDate": "2026-09-18",
+      "claimScope": "Trust registration in 1962 as a public trust under the Bombay Public Trusts Act, 1950; reference to 'Kawayat Deval' rules from the Nizam-era administration; temple address, phone numbers and email addresses; daily morning and evening Abhishek Pooja timings; Sinhasan Pooja description; Sharadiya Navaratri and Shakambhari Navaratri festival names and character.",
+      "reliabilityNote": "Official temple trust site; primary source for administration, contact details and pooja schedule. Its own 'Hours' field (10:00 AM–6:00 PM) was judged likely to be office hours rather than darshan hours and was not used for openingHours.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Shri Tuljapur Mandir — Incredible India / utsav.gov.in",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India",
+      "url": "https://utsav.gov.in/view-darshan/shri-tuljapur-mandir",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily darshan timing (04:30 AM–09:30 PM); distances to Solapur, Osmanabad railway station and Pune airport; description of temple management resting with the Kadamb Bhope family under an organisation named Shri Tuljabhavani Mandir Sansthan; a listed contact phone number and email.",
+      "reliabilityNote": "Government of India tourism/darshan portal for pilgrimage sites; page is undated. Its description of temple administration differs somewhat from the temple trust's own site and from Wikipedia; all three are reported in the narrative rather than resolved into one.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Tulja Bhavani Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Tulja_Bhavani_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location coordinates and elevation; founding attributed to Mahamandaleshwara Māradadeva of the Kadamb dynasty, 12th century CE, traditionally dated 1169; Hemadpanti black-stone architecture; status as one of the 51 Shakti Pithas and one of four principal Shakti shrines of Maharashtra; the temple's tradition-based association with Shivaji Maharaj and the naming of two entrance gates after his parents Shahaji and Jijabai; festivals observed (Navaratri, Dussehra, Ganesh Chaturthi, Holi, Deepawali); governance description (trust headed by the District Collector); the planned corridor redevelopment project (~₹1,865 crore, targeted for completion by December 2028); district name Dharashiv, formerly Osmanabad.",
+      "reliabilityNote": "Tertiary source; used for history, architecture and site context. Presents the Shivaji association explicitly as reputation/tradition rather than documented fact, and this record follows that framing. No sword-gifting legend appears in the article content that was fetched, so none is included here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Tuljapur — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Tuljapur",
+      "accessDate": "2026-09-18",
+      "claimScope": "PIN code 413601 for Tuljapur town; Tuljapur as the administrative seat of Tuljapur taluka within Dharashiv district.",
+      "reliabilityNote": "Tertiary source, used only for the town-level postal code and taluka administration, not for temple-specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Tulja Bhavani Mandir, Tuljapur.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tulja_Bhavani_Mandir,_Tuljapur.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution (अमर राऊत / Amar Raut) and CC BY-SA 4.0 licence for the hero image.",
+      "reliabilityNote": "Author and licence copied directly from the Commons File: page. Uploaded 15 January 2022.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Tuljabhavani Mandir Mahadwar (Main entrance gate).jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tuljabhavani_Mandir_Mahadwar_(Main_entrance_gate).jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution (Anjali Sajan) and CC BY-SA 3.0 licence for the entrance-gate image.",
+      "reliabilityNote": "Author and licence copied directly from the Commons File: page. Uploaded/created 2 October 2011.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Mahadwar Road, Tuljapur, Dharashiv District, Maharashtra 413601, India",
+    "bestTime": "October (Sharadiya Navaratri) or the cooler months, October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

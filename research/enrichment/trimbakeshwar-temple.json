@@ -1,0 +1,253 @@
+{
+  "slug": "trimbakeshwar-temple",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shri Trimbakeshwar Devsthan Trust, Trimbakeshwar — Daily Programme",
+      "publisherOrAuthority": "Shri Trimbakeshwar Devsthan Trust, Trimbakeshwar",
+      "url": "https://trimbakeshwartrust.com/daily_programme",
+      "accessDate": "2026-09-18",
+      "claimScope": "The trust's own daily programme: Morning Puja (Bramha Deva) 7.00 AM to 8.30 AM and Mid-Day Puja (Mahadev) 10.45 AM to 12.30 PM; the existence of a third, evening Vishnu Puja; the trust's own statement that timings may change on festival days; the trust's name and public trust registration number A-405.",
+      "reliabilityNote": "Page is undated and carries no phone or email. Its evening-puja row repeats the morning time block (7.00 AM to 8.30 AM), which is evidently a page error, so no evening puja time is recorded here. Timings on a temple trust page should be re-confirmed before travel.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Shri Trimbakeshwar Devsthan Trust, Trimbakeshwar — home page",
+      "publisherOrAuthority": "Shri Trimbakeshwar Devsthan Trust, Trimbakeshwar",
+      "url": "https://www.trimbakeshwartrust.com/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Darshan open 05:30 AM to 09:00 PM; the sansthan's registration as a public trust in 1954; the trust's statement that the present temple was constructed by the third Peshwa Balaji Baji Rao; three daily poojas; online booking offered for Rudrabhishek and Laghurudra puja.",
+      "reliabilityNote": "Undated trust website; operational detail, treat as needing recheck. Does not publish a telephone number or email address.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Trimbakeshwar Temple — Nashik District, Government of Maharashtra",
+      "publisherOrAuthority": "Nashik District Administration, Government of Maharashtra (NIC)",
+      "url": "https://nashik.gov.in/en/tourist-place/trimbakeshwar-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple located about 28 km from Nashik; constructed by the third Peshwa Balaji Bajirao (1740-1760); situated near Brahmagiri hill, about 3000 feet above sea level, from which the Godavari flows; one of the twelve Jyotirlingas; association with Sant Nivruttinath of the Varkari tradition, who took samadhi there; nearest airport Ozar (Nashik International) about 24 km; nearest railway station Nashik Road about 40 km; Nashik to Trimbakeshwar road distance about 30 km.",
+      "reliabilityNote": "Official district page, undated. Travel distances are approximate as stated. Its airport distance (24 km) is not consistent with the figure previously held in this directory (60 km); the district figure is preferred but is itself unlabelled as to which road route it measures.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Trimbakeshwar Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Trimbakeshwar_Shiva_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hemadpanthi architectural style and basalt construction; coordinates 19.93222 N, 73.53083 E; the temple's position among the three hills Brahmagiri, Nilagiri and Kalagiri; the three-faced linga associated with Brahma, Vishnu and Shiva and its jewelled crown and gold mask; the Kushavarta kunda in the temple precinct, built by Shrimant Sardar Raosaheb Parnerkar, treated as the source of the Godavari; the destruction of an earlier temple under Aurangzeb and rebuilding by Peshwa Balaji Baji Rao; the Gautama sthala-puranam of the Godavari's descent at Brahmagiri; the maintenance of Hindu genealogy registers by the local pandits.",
+      "reliabilityNote": "Tertiary source, used only for history, architecture and site features. No timing, phone number or festival date is taken from it. Its coordinates differ materially from those previously held in this directory (19.7409, 73.2807).",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Trimbakeshwar Shiva Temple 2005.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Saket Verma (SWarm Bahadur)",
+      "url": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Shiva_Temple_2005.jpg",
+      "publicationDate": "2005-12-18",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image MED002 only: author and licence.",
+      "reliabilityNote": "Media licensing source only; not used for any factual claim.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Trimbakeshwar Temple-Nashik-Maharashtra-1.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Abhideo21",
+      "url": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+      "publicationDate": "2019-04-06",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image MED003 only: author and licence. The same file page records the ASI monument number N-MH-A158 for the temple.",
+      "reliabilityNote": "Media licensing source. The ASI monument number appears in a Commons maintenance template and has not been confirmed against an ASI list, so it is recorded here as a lead rather than asserted in the entry.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Trimbakeshwar is counted among the twelve Jyotirlingas of Shiva. What sets it apart is its linga, which presents three faces identified with Brahma, Vishnu and Shiva rather than a single aniconic form. The temple stands at the foot of Brahmagiri, and the Kushavarta kunda inside its precinct is treated as the source of the Godavari, so the site is at once a Jyotirlinga and a river-source tirtha.",
+    "sacredClassifications": [
+      "Jyotirlinga — one of the twelve",
+      "Source-tirtha of the Godavari (Kushavarta)"
+    ],
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "nameLocal": "त्र्यंबकेश्वर मंदिर",
+    "localLanguage": "Marathi"
+  },
+
+  "location": {
+    "district": "Nashik",
+    "latitude": 19.93222,
+    "longitude": 73.53083
+  },
+
+  "governance": {
+    "establishedEra": "Present temple built by the third Peshwa Balaji Bajirao (r. 1740-1760), on the site of an earlier temple",
+    "founderPatron": "Peshwa Balaji Bajirao (Nanasaheb)",
+    "managingAuthority": "Shri Trimbakeshwar Devsthan Trust, Trimbakeshwar (registered public trust no. A-405; sansthan registered as a public trust in 1954)",
+    "administrationType": "Temple trust",
+    "officialWebsite": "https://www.trimbakeshwartrust.com/"
+  },
+
+  "narrative": {
+    "documentedHistory": "Trimbakeshwar stands in the town of Trimbak in Nashik district, about 28-30 km west of Nashik city, at the foot of Brahmagiri hill. The Nashik district administration records that the present temple was constructed by the third Peshwa, Balaji Bajirao, who ruled between 1740 and 1760, on the site of an older temple; the temple trust makes the same attribution. Accounts of the earlier structure hold that it was destroyed under the Mughal emperor Aurangzeb before the Peshwa rebuilding.\n\nThe temple is built of basalt in the Hemadpanthi idiom of the Deccan. It sits in a walled precinct between the hills of Brahmagiri, Nilagiri and Kalagiri. Its best-known feature is the linga itself, which is described as three-faced, the faces identified with Brahma, Vishnu and Shiva; on festival occasions the linga is covered with a gold mask of the three deities and a jewelled crown. The Nassak Diamond, once part of the temple's ornament, was taken during the Third Anglo-Maratha War and left India.\n\nInside the temple precinct is the Kushavarta kunda, built by Shrimant Sardar Raosaheb Parnerkar, which is treated as the source of the Godavari, the second-longest river in India. The traditional account attaches the river's descent to the sage Gautama, whose austerities on Brahmagiri are said to have brought the Ganga to earth there as the Godavari.\n\nThe town is also associated with Sant Nivruttinath of the Varkari tradition, elder brother of Dnyaneshwar, who according to the district administration took samadhi at Trimbakeshwar. A further distinctive practice at Trimbak is the maintenance of Hindu genealogy registers by the resident pandits.",
+    "sthalaPuranam": "The traditional account recorded for the site holds that the sage Gautama performed prolonged austerities on the peak of Brahmagiri, and that in consequence the Ganga appeared there as a stream and flowed down through the Trimbak hills as the Godavari.",
+    "architectureStyle": "Hemadpanthi, built in basalt",
+    "sacredTank": "Kushavarta kunda, within the temple precinct, regarded as the source of the Godavari",
+    "associatedSaints": [
+      "Sant Nivruttinath"
+    ]
+  },
+
+  "visitingInfo": {
+    "nearestRailStation": "Nashik Road",
+    "railDistanceKm": 40,
+    "nearestAirport": "Ozar (Nashik International) Airport",
+    "airportDistanceKm": 24,
+    "officialContactNote": "The Shri Trimbakeshwar Devsthan Trust publishes darshan hours and the daily puja programme at trimbakeshwartrust.com but does not publish a telephone number or email address; the trust itself warns that timings change on festival days, so confirm through the trust site before travelling, and expect altered arrangements during Simhastha years.",
+    "sourceIds": ["SRC001", "SRC002", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck",
+    "notes": "The district page gives the nearest airport as Ozar/Nashik International at about 24 km; the directory previously held 60 km. Road distance Nashik-Trimbakeshwar is given as about 30 km by the district page and about 28 km in other descriptions of the same route. No sourced bus-station figure, dress code, photography policy or accessibility information was found on any official page opened; those fields are left empty rather than guessed."
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan",
+      "openTime": "05:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "Stated by the temple trust as the daily darshan window. The trust notes timings may change on festival days.",
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Morning Puja (Brahma Deva)",
+      "startTime": "07:00",
+      "endTime": "08:30",
+      "recurrence": "Daily",
+      "description": "First of the three daily poojas listed in the trust's daily programme.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Mid-day Puja (Mahadev)",
+      "startTime": "10:45",
+      "endTime": "12:30",
+      "recurrence": "Daily",
+      "description": "Second of the three daily poojas listed in the trust's daily programme.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Evening Puja (Vishnu Puja)",
+      "recurrence": "Daily",
+      "description": "The third of the trust's three daily poojas. No time is recorded here: the trust's daily-programme page repeats the morning block (7.00 AM to 8.30 AM) against the evening row, which is evidently an error on that page.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "seva",
+      "nameEn": "Rudrabhishek Puja",
+      "recurrence": "On booking",
+      "description": "Offered by the Devsthan Trust with online booking through its website.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "seva",
+      "nameEn": "Laghurudra Puja",
+      "recurrence": "On booking",
+      "description": "Offered by the Devsthan Trust with online booking through its website.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Kushavarta Kunda",
+      "deityOrSubject": "Sacred tank regarded as the source of the Godavari",
+      "spaceType": "tank",
+      "locationDescription": "Within the temple precinct; built by Shrimant Sardar Raosaheb Parnerkar.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC004"],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Trimbakeshwar Jyotirlinga sanctum",
+      "deityOrSubject": "Shiva as Trimbakeshwar; a three-faced linga identified with Brahma, Vishnu and Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum. The linga is covered on occasion with a gold mask of the three deities and a jewelled crown.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC004"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Trimbakeshwar Shiva Temple, 2005",
+      "caption": "The Trimbakeshwar temple, photographed in December 2005.",
+      "altText": "Stone temple with a tall carved spire, seen across the walled precinct at Trimbak.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Trimbakeshwar_Shiva_Temple_2005.jpg",
+      "creator": "Saket Verma (SWarm Bahadur)",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Saket Verma (SWarm Bahadur) · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Shiva_Temple_2005.jpg"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "architecture",
+      "title": "Trimbakeshwar Temple, Nashik",
+      "caption": "The temple at Trimbak, Nashik district, photographed in April 2019.",
+      "altText": "Basalt temple with an ornate shikhara at Trimbak in Nashik district.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg",
+      "creator": "Abhideo21",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Abhideo21 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trimbakeshwar_Temple-Nashik-Maharashtra-1.jpg"
+    }
+  ]
+}

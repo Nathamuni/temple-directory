@@ -1,0 +1,121 @@
+{
+  "templeId": "TPL-IN-JH-DEO-0062",
+  "slug": "vaidyanath-jyotirlinga-deoghar",
+  "status": "published",
+  "identity": {
+    "nameEn": "Baba Baidyanath Temple, Deoghar",
+    "alternateNames": [
+      "Baidyanath Dham",
+      "Vaidyanath Jyotirlinga"
+    ],
+    "presidingDeity": "Shiva (as Baidyanath / Vaidyanath)",
+    "tradition": "Shaiva",
+    "templeType": "Jyotirlinga",
+    "sacredClassifications": [
+      "Jyotirlinga",
+      "Shakti Peetha"
+    ],
+    "spiritualSignificanceShort": "Baba Baidyanath Temple is one of the twelve Jyotirlingas of Shiva and is also counted among the Shakti Peethas. The temple complex, comprising the main shrine and 21 subsidiary temples, is the focus of the Shravani Mela, when millions of pilgrims carry Ganges water from Sultanganj to offer here.",
+    "nameLocal": "बैद्यनाथ मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Deoghar",
+    "district": "Deoghar",
+    "stateProvince": "Jharkhand",
+    "country": "India",
+    "latitude": 24.4925,
+    "longitude": 86.7
+  },
+  "governance": {
+    "managingAuthority": "Baba Baidyanath Temple Management Board",
+    "administrationType": "Government department"
+  },
+  "narrative": {
+    "summaryIntro": "Baba Baidyanath Temple in Deoghar, Jharkhand, is one of the twelve Jyotirlingas of Shiva and is also counted among the Shakti Peethas. The temple complex, in Nagara style with a pyramidal shikhara, comprises the main Baidyanath shrine and 21 subsidiary temples, and is the centre of the annual Shravani Mela pilgrimage.",
+    "documentedHistory": "Temple tradition traces the shrine's origin to a legend of Ravana's penance to Shiva, in which Vishnu, disguised as the shepherd Baiju Gadariya, is said to have caused the Shiva lingam to be set down permanently at this site rather than carried to Lanka. The temple is administered by the Baba Baidyanath Temple Management Board and is the destination of the Shravani Mela, held during the month of Shravana, when pilgrims (kanwariyas) carry Ganges water collected at Sultanganj's Ajgaibinath temple to offer at the shrine.",
+    "architectureStyle": "Nagara style with a pyramidal shikhara rising about 22 metres, within a complex of 22 temples including the main Baidyanath shrine.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "sourced"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Shravani Mela",
+      "tamilOrLocalMonth": "Shravana",
+      "significance": "Millions of pilgrims (kanwariyas) carry Ganges water from Sultanganj's Ajgaibinath temple to offer at the Baidyanath shrine.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Maha Shivaratri",
+      "significance": "A major annual celebration at the temple.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Baidyanath Temple complex, Deoghar",
+      "caption": "The Baidyanath temple and its surrounding temple complex in Deoghar.",
+      "altText": "The Baidyanath temple complex in Deoghar, Jharkhand.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Baidyanath%20temple%20and%20temple%20complex,%20Deoghar%2001.jpg",
+      "creator": "Pinakpani",
+      "license": "CC BY 4.0",
+      "attributionText": "Pinakpani · CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_01.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Baidyanath Temple — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baidyanath_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Jyotirlinga/Shakti Peetha classification, legend, managing board, architecture, Shravani Mela and Maha Shivaratri festivals.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Baidyanath Temple complex, Deoghar — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Baidyanath_temple_and_temple_complex,_Deoghar_01.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (Pinakpani) and license (CC BY 4.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

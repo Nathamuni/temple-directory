@@ -14,7 +14,7 @@
       "Kerala",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Guruvayur is the principal Krishna shrine of Kerala, where the deity is worshipped as Guruvayurappan. Kerala Tourism describes it as one of the oldest revered temples in India and calls it the Dwaraka of the South. It is closely associated with the Thulabharam offering, in which a devotee is weighed against bananas, sugar, jaggery or coconuts given to the temple.",
     "nameLocal": "ഗുരുവായൂര് ദേവാലയം",
     "localLanguage": "Malayalam"
   },
@@ -34,7 +34,7 @@
   },
   "narrative": {
     "summaryIntro": "Guruvayur Temple in Kerala is one of the most sacred and important temples dedicated to Lord Krishna and is known as the 'Kashi of the South.' The temple's presiding deity, Guruvayurappan (Krishna), is worshipped by millions of devotees across India. According to tradition, the temple was established by Guru (Brihaspati) and Vayu (Wind God), which gives the temple its distinctive name. The temple features traditional Kerala architectural style with elaborate stone carvings and ornate decorations.\n\nThe temple is renowned for its Nalkili (sacred treasure vault) and traditional practices like Atmanathayyam (ritualistic elephant worship). It is considered one of the holiest pilgrimage destinations in South India and attracts devotees from across the world. The temple has been a center of spiritual devotion for centuries, and its connection to Krishna bhakti (devotion) makes it particularly significant. The temple also hosts several important rituals and festivals throughout the year that draw thousands of worshippers.",
-    "documentedHistory": "",
+    "documentedHistory": "Kerala Tourism records that the central shrine of the Guruvayur temple was reconstructed in 1638 CE, and that the walls of the sanctum carry murals of the seventeenth century. The surviving complex is built in the Kerala temple idiom, with a nalambalam enclosing the sanctum, a balikkal, gopurams facing east and west, a dwajasthambam about seventy feet high sheathed in gold, and a deepastambam of about twenty-four feet carrying thirteen tiers of lamp receptacles.",
     "associatedSaints": [],
     "architectureStyle": "Kerala"
   },
@@ -42,70 +42,158 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC004",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire; strict dress code enforced",
     "nearestRailStation": "Thrissur Railway Station, 30 km",
     "railDistanceKm": 30,
     "nearestBusStation": "Well connected by highways from major cities",
     "nearestAirport": "Kochi International Airport, 65 km",
-    "airportDistanceKm": 65
+    "airportDistanceKm": 65,
+    "officialContactNote": "The Guruvayur Devaswom administers the temple and publishes darshan, vazhipadu, prasadam and accommodation booking; confirm same-day timings and any dress-code change with the Devaswom before travelling, as published hours change during Ekadasi and the annual festival.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
       "sessionName": "Morning",
-      "openTime": "03:30",
-      "closeTime": "11:00",
+      "openTime": "03:00",
+      "closeTime": "12:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As published by Kerala Tourism. Hours are extended or altered during Guruvayur Ekadasi and the annual festival.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "16:00",
-      "closeTime": "20:30",
+      "sessionName": "Afternoon and evening",
+      "openTime": "16:30",
+      "closeTime": "21:15",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As published by Kerala Tourism. Hours are extended or altered during Guruvayur Ekadasi and the annual festival.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
   "shrines": [
     {
       "shrineId": "SHR001",
-      "shrineName": "Krishna (Guruvayurappan)",
-      "deityOrSubject": "Krishna (Guruvayurappan)",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "shrineName": "Nalambalam",
+      "deityOrSubject": "Enclosure around the sanctum",
+      "spaceType": "prakaram",
+      "locationDescription": "The rectangular structure enclosing the sanctum, in the Kerala temple plan.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Dwajasthambam",
+      "deityOrSubject": "Flagstaff",
+      "spaceType": "other",
+      "locationDescription": "A flagstaff about seventy feet high, clad in gold, standing before the shrine.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Deepastambam",
+      "deityOrSubject": "Pillar of lamps",
+      "spaceType": "other",
+      "locationDescription": "A lamp pillar about twenty-four feet high carrying thirteen tiers of receptacles.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Balikkal",
+      "deityOrSubject": "Sacrificial stone",
+      "spaceType": "other",
+      "locationDescription": "The offering stone within the temple enclosure.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "poojas": [],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Janmashtami",
-      "tamilOrLocalMonth": "August–September",
-      "duration": "2 days",
-      "significance": "Celebration of Krishna's birth with special worship and festivities",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Annual festival (Utsavam)",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "10 days",
+      "significance": "The temple's principal annual festival.",
+      "processionOrRituals": "Kerala Tourism records that the festival commences with the Guruvayur Aanayottam, an elephant race.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
     },
     {
       "festivalId": "FES002",
-      "festivalNameEn": "Ekadasi",
-      "tamilOrLocalMonth": "Bi-monthly",
-      "duration": "1 day",
-      "significance": "Important fasting day with special puja",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Guruvayur Ekadasi",
+      "significance": "A major observance at the temple, described by Kerala Tourism as a month-long celebration with prayers from dawn to dusk.",
+      "processionOrRituals": "Accompanied by an eleven-day Carnatic music festival.",
+      "crowdNote": "One of the most heavily attended periods at Guruvayur; darshan queues and temple hours differ from the ordinary schedule.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Guruvayur Aanayottam",
+      "significance": "An elephant race that marks the beginning of the annual festival.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Ashtami Rohini",
+      "significance": "Observed at the temple as the birth star of Krishna; listed by Kerala Tourism among the temple's principal observances.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES005",
+      "festivalNameEn": "Vaishakam",
+      "significance": "Listed by Kerala Tourism among the temple's principal annual observances.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -141,6 +229,39 @@
       "url": "https://www.guruvayurdevaswom.org",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Is there any dress code for Guruvayur Temple? — FAQ",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/faq/is-there-any-dress-code-for-guruvayur-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "The dress code for men, women and children at Guruvayur temple.",
+      "reliabilityNote": "Published by the Kerala state tourism department on its .org domain rather than by the Guruvayur Devaswom itself; the page is undated. The Devaswom is the authority that sets and can change the code.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Guruvayoor Sree Krishna Temple, Thrissur",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/destination/guruvayoor/74/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple opening hours; the reconstruction of the central shrine in 1638 CE; the 70-foot golden dwajasthambam, the 24-foot deepastambam with thirteen receptacles, the east and west gopurams and the seventeenth-century murals; the annual festival, Aanayottam, Guruvayur Ekadasi, Ashtami Rohini and Vaishakam.",
+      "reliabilityNote": "State tourism page, undated. Opening hours at Guruvayur shift on festival days and during Ekadasi; treat the stated hours as indicative and reconfirm.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Guruvayoor Sree Krishna Swamy Temple in Thrissur",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/temples/thrissur/guruvayoor",
+      "accessDate": "2026-09-18",
+      "claimScope": "Architectural elements of the complex (nalambalam, balikkal, deepastambam, seventeenth-century murals) and the Thulabharam offering.",
+      "reliabilityNote": "Undated tourism page; descriptive rather than scholarly.",
       "adminApproved": true
     }
   ],

@@ -1,0 +1,454 @@
+{
+  "templeId": "TPL-IN-AP-VIJ-0045",
+  "slug": "kanaka-durga-vijayawada",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kanaka Durga Temple, Vijayawada",
+    "alternateNames": [
+      "Sri Durga Malleswara Swamy Varla Devasthanam"
+    ],
+    "presidingDeity": "Durga",
+    "tradition": "Shakta",
+    "templeType": "Shakta",
+    "sacredClassifications": [
+      "Devi temple",
+      "Hill temple",
+      "Dravidian",
+      "Swayambhu"
+    ],
+    "spiritualSignificanceShort": "Kanaka Durga is worshipped atop Indrakeeladri hill on the bank of the Krishna river at Vijayawada as a swayambhu (self-manifested) form of the goddess. Her four-foot, eight-armed sanctum image is shown standing over the demon Mahishasura and piercing him with her trident, recalling the goddess's victory over him. The temple, officially the Sri Durga Malleswara Swamy Varla Devasthanam, shares the hill with a shrine to Malleswara Swamy, a form of Shiva, and is administered by the Andhra Pradesh Endowments Department."
+  },
+  "location": {
+    "city": "Vijayawada",
+    "district": "NTR",
+    "stateProvince": "Andhra Pradesh",
+    "country": "India",
+    "postalCode": "520001",
+    "latitude": 16.519,
+    "longitude": 80.6215
+  },
+  "governance": {
+    "establishedEra": "Traditionally held to be Swayambhu (self-manifested); the earliest known epigraphic reference is a Telugu inscription of 1229 CE recording a donation to \"Bejawada Malleswaradeva at Indrakiladri\"",
+    "managingAuthority": "Sri Durga Malleswara Swamy Varla Devasthanam, under the Andhra Pradesh Endowments Department",
+    "administrationType": "Government department",
+    "officialWebsite": "https://kanakadurgamma.org/",
+    "officialPhone": "0866-2423500",
+    "officialEmail": "endow-eosdmsd@gov.in"
+  },
+  "narrative": {
+    "summaryIntro": "The Kanaka Durga Temple, officially the Sri Durga Malleswara Swamy Varla Devasthanam, stands atop Indrakeeladri hill on the bank of the Krishna river at Vijayawada, NTR district, Andhra Pradesh. It is dedicated to the goddess Kanaka Durga, worshipped as a swayambhu, eight-armed form of Durga standing over the slain demon Mahishasura, and the hill also carries a shrine to Malleswara Swamy, a form of Shiva.\n\nThe temple is administered under the Andhra Pradesh Endowments Department and is among the state's most visited pilgrimage sites, particularly during the Dasara/Navaratri festival, when the goddess is worshipped in ten forms over ten days and large crowds bathe in the Krishna river below the hill.",
+    "documentedHistory": "Popular tradition holds that the sage Indrakila performed penance asking the goddess to reside on his hill and guard the region from demons, and that she went on to slay the demon king Mahishasura, an episode reflected in the sanctum image, which shows her standing over him with her trident. This is presented here as devotional legend rather than documented history.\n\nThe earliest datable evidence for worship on the hill is epigraphic: a Telugu inscription of 1229 CE, found in Veligandla village in Prakasam district, records a donation to \"the God Bejawada Malleswaradeva at Indrakiladri, known as Dakshina Varanasi,\" made by Podukayuri Siddayadeva and Sivamagi Maraya for the merit of their chief Siddaraju, alias Trilochana Pallava, described as a Telugu Pallava king. Wikipedia's own account labels this inscription as being \"from the Chola era\" while also naming a Pallava donor-chief, an inconsistency in the secondary source that is noted here rather than resolved; the inscription itself is significant chiefly for naming the Malleswaradeva (Shiva) shrine at Indrakiladri, indicating worship on the hill was established by the 13th century. The temple states that inscriptions of other, unspecified dynasties are also found at the site, but no further datable detail was available in the sources consulted.\n\nIn the modern period, the Devasthanam introduced a Suprabhata Seva for the goddess on 26 November 2018, modelled on the practice at Tirumala Tirupati Devasthanams: four priests recite Suprabhata mantras before the sanctum between 3 and 4 AM, with the ticket then priced at Rs 300 and daily participation capped at 25 devotees.",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC004",
+      "SRC005",
+      "SRC006",
+      "SRC008",
+      "SRC009"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Vijayawada Railway Junction (approx. 3 km)",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Pandit Nehru Bus Station, Vijayawada (approx. 2 km)",
+    "nearestAirport": "Gannavaram Airport, Vijayawada (approx. 21 km)",
+    "airportDistanceKm": 21,
+    "entryRules": "The Devasthanam offers both a free general queue (Dharma Darshanam) and paid faster-access darshan categories, along with sevas such as Archana, Kumkum Puja, Saree Daanam and Annadanam donations, bookable online at kanakadurgamma.org/tms.ap.gov.in or at temple counters. Exact category names, current fees and reporting times were not independently confirmed from an official source that could be fetched directly and should be reconfirmed before travel.",
+    "accessibilityNotes": "The Ministry of Tourism's national portal (utsav.gov.in) lists darshan as available daily from 4:04 AM to 11:59 PM; this appears to describe the temple's live/online darshan stream rather than a confirmed physical visiting-hours window, which a separate aggregator source gives with a midday break (see openingHours).",
+    "officialContactNote": "Devasthana Information Centre: 0866-2423500 / 2423600, toll-free 1800-425-9099; Executive Officer contact eo_vijayawada@yahoo.co.in, Endowments office endow-eosdmsd@gov.in. Address: Indrakeeladri Hill, Brahmin Street, Vijayawada, NTR District, Andhra Pradesh 520001. Confirm darshan and seva timings before travelling, especially around Dasara/Navaratri when arrangements change materially.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "04:00",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "notes": "Reported by a temple-timings aggregator citing the official portal (kanakadurgamma.org). The official site is a JavaScript single-page application whose content could not be independently fetched to confirm this schedule directly; treat as needing recheck before travel.",
+      "sourceIds": [
+        "SRC009"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Midday closure",
+      "openTime": "13:00",
+      "closeTime": "16:00",
+      "closedFlag": true,
+      "notes": "Break for ritual preparation between the morning and evening darshan sessions, per the same aggregator source.",
+      "sourceIds": [
+        "SRC009"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "16:00",
+      "closeTime": "22:00",
+      "closedFlag": false,
+      "notes": "Per the same aggregator source; not independently confirmed against the temple's own site. Timings are reported to extend on festival days, especially Navaratri/Dasara.",
+      "sourceIds": [
+        "SRC009"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main sanctum (Garbhagriha)",
+      "deityOrSubject": "Kanaka Durga",
+      "spaceType": "shrine",
+      "locationDescription": "The principal sanctum atop Indrakeeladri hill, housing the swayambhu, four-foot, eight-armed image of Kanaka Durga shown standing over the demon Mahishasura and piercing him with her trident. A Sri Chakram and a Ganapati image are placed beside the main goddess.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Malleswara Swamy shrine",
+      "deityOrSubject": "Shiva (Malleswara Swamy)",
+      "spaceType": "shrine",
+      "locationDescription": "Located at the northeast corner of the temple complex. Named in a Telugu inscription of 1229 CE as \"Bejawada Malleswaradeva at Indrakiladri,\" the earliest datable epigraphic reference to worship on the hill.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Nataraja shrine",
+      "deityOrSubject": "Shiva as Nataraja",
+      "spaceType": "shrine",
+      "locationDescription": "Located at the northeast corner of the complex, alongside the Malleswara Swamy shrine.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Subrahmanya shrine",
+      "deityOrSubject": "Subrahmanya (Kartikeya) with Valli and Devasena",
+      "spaceType": "shrine",
+      "locationDescription": "Located on the north side of the temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Hanuman shrine",
+      "deityOrSubject": "Hanuman",
+      "spaceType": "shrine",
+      "locationDescription": "A shrine to Hanuman within the temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Aparajitha Devi shrine",
+      "deityOrSubject": "Aparajitha Devi",
+      "spaceType": "shrine",
+      "locationDescription": "A sub-shrine within the temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Abhaya Anjaneya shrine",
+      "deityOrSubject": "Abhaya Anjaneya (Hanuman)",
+      "spaceType": "shrine",
+      "locationDescription": "A sub-shrine within the temple complex, listed separately from the main Hanuman shrine in the source consulted.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR008",
+      "shrineName": "Kamadhenu Devi shrine",
+      "deityOrSubject": "Kamadhenu",
+      "spaceType": "shrine",
+      "locationDescription": "A sub-shrine within the temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "seva",
+      "nameEn": "Suprabhata Seva",
+      "startTime": "03:00",
+      "endTime": "04:00",
+      "recurrence": "Daily",
+      "description": "Arjitha seva introduced on 26 November 2018, modelled on the practice at Tirumala Tirupati Devasthanams. Four priests recite Suprabhata mantras before the sanctum; participation was capped at 25 devotees a day and the ticket was priced at Rs 300 at introduction. Current pricing and capacity were not independently reconfirmed.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Naivedyam",
+      "recurrence": "Daily (three times)",
+      "description": "Food offerings made to the goddess three times a day.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Dasara (Sharadiya Navaratri)",
+      "tamilOrLocalMonth": "Ashwin (September–October)",
+      "duration": "10 days",
+      "significance": "The temple's principal annual festival. The goddess is worshipped in ten forms across the nine days of Navaratri and Vijayadashami (Swarna Kavachalankrita Durga, Bala Tripurasundari, Annapurna, Gayatri, Lalita Tripura Sundari, Saraswati, Mahalakshmi, Durga, Mahishasura Mardini and Raja Rajeswari Devi), with special alankaram and naivedyam, a Chandi Homam, processions of the utsava murti, and a Teppotsavam (boat festival) on the Krishna river below the hill. It draws pilgrim numbers the district administration treats as of state importance.",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Sakambhari festival",
+      "tamilOrLocalMonth": "Ashadha (June–July)",
+      "duration": "3 days",
+      "significance": "Kanaka Durga is worshipped in her Sakambhari (Banashankari) form over three days.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Varalakshmi Vratam",
+      "tamilOrLocalMonth": "Sravana (July–August), every Friday",
+      "duration": "Each Friday of the month",
+      "significance": "Special Varalakshmi Vratam observed on all Fridays of Sravana month; reported attendance of more than 20,000 devotees during the month.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kanaka Durga Temple, Vijayawada — hero image",
+      "caption": "Kanaka Durga Temple on Indrakeeladri hill, Vijayawada, photographed 11 January 2017.",
+      "altText": "View of the Kanaka Durga Temple complex on Indrakeeladri hill, Vijayawada.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Vijayawada_Kanakadurga_Temple_on_Indrakeeladri.jpg",
+      "creator": "Sushumnarao",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Sushumnarao · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vijayawada_Kanakadurga_Temple_on_Indrakeeladri.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Kanaka Durga Temple gopuram",
+      "caption": "Gopuram of the Kanaka Durga Temple, NTR district, Andhra Pradesh.",
+      "altText": "Gopuram (temple tower) of the Kanaka Durga Temple.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kanakadurga_Temple_gopuram.jpg",
+      "creator": "Srikar Kashyap",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Srikar Kashyap · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanakadurga_Temple_gopuram.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Sri Durga Malleswara Swamy Varla Devasthanam — official website",
+      "publisherOrAuthority": "Sri Durga Malleswara Swamy Varla Devasthanam",
+      "url": "https://kanakadurgamma.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms the temple's official domain and name (Sri Durga Malleswara Swamy Varla Devasthanam) and the existence of an online Sevas/Darshanam booking flow. The site is a JavaScript single-page application; its rendered content (timings, seva lists, festival calendar) could not be extracted via automated fetch, so specific operational claims are not sourced to this page directly.",
+      "reliabilityNote": "Official source in principle, but content was not directly readable in this research session.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Sri Durga Malleswara Swamy Varla Devasthanam — Temple Management System, AP Endowments Department",
+      "publisherOrAuthority": "Andhra Pradesh Endowments Department",
+      "url": "https://tms.ap.gov.in/skdvij/cnt/index",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms the temple is administered through the Andhra Pradesh Endowments Department's Temple Management System (site title \"Home | Endowments Dept.\"). Like the official temple site, this portal is a JavaScript single-page application and its detailed content (history, seva pages) could not be extracted via automated fetch.",
+      "reliabilityNote": "Government portal in principle, but detailed content was not directly readable in this research session.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Kanaka Durga Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kanaka_Durga_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Legend of Sage Indrakila and Mahishasura, the 1229 CE Telugu inscription text naming Bejawada Malleswaradeva and the donors/chief involved, iconography of the main sanctum image, the sub-shrines (Malleswara Swamy, Nataraja, Subrahmanya with Valli and Devasena, Hanuman, Aparajitha Devi, Abhaya Anjaneya, Kamadhenu Devi) and their locations, the ten forms of Durga worshipped during Dasara, the Sakambhari festival, Varalakshmi Vratam in Sravana month, and infobox data (coordinates, architecture, governing body, district, website).",
+      "reliabilityNote": "Tertiary encyclopedia source. The article's own text describes the 1229 CE inscription inconsistently, labelling it \"from the Chola era\" while naming a Pallava donor-chief; this inconsistency is preserved and flagged rather than resolved here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Kanaka Durga Temple Vijayawada — NTR District, Government of Andhra Pradesh",
+      "publisherOrAuthority": "District Administration, NTR District, Government of Andhra Pradesh (hosted by the National Informatics Centre)",
+      "url": "https://ntr.ap.gov.in/tourist-place/kanaka-durga-temple-vijayawada/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location atop Indrakeeladri hill at the entrance to Vijayawada, description as a swayambhu shrine, prominence of Dasara festival celebrations, and how-to-reach information (Gannavaram Airport, Vijayawada Railway Junction, Pandit Nehru Bus Station).",
+      "reliabilityNote": "Undated government tourism page; does not give specific darshan hours or administrative contact details.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Sri Kanakadurga Temple — Events & Festivals in India",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India (utsav.gov.in)",
+      "url": "https://utsav.gov.in/view-darshan/sri-kanakadurga-temple-1",
+      "accessDate": "2026-09-18",
+      "claimScope": "Address (Brahmin Street, Vijayawada), distances to nearest airport (Gannavaram, 21 km), railway station (Vijayawada, 3 km) and bus stand (Vijayawada, 2 km), the unusual iconographic placement of the goddess to the right of Malleswara (rather than the customary left), Navaratri crowd description, live/online darshan hours (4:04 AM–11:59 PM), contact number 9440011717 and an endowments email address.",
+      "reliabilityNote": "Government of India tourism portal; the darshan-hours figure given (4:04 AM–11:59 PM) reads as an online/live-darshan stream window rather than confirmed physical visiting hours, and is treated as such here. The extracted email address differs slightly in spelling from the one confirmed via SRC008; the SRC008 spelling is used in this record.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Endowment Temples — Krishna District, Government of Andhra Pradesh",
+      "publisherOrAuthority": "Krishna District Administration, Government of Andhra Pradesh",
+      "url": "https://krishna.ap.gov.in/endowments/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location on the bank of the Krishna river at Indrakeeladri, the eight-armed iconography of the goddess and the weapons she holds, the presence of a Sri Chakram and a Ganapati image in the sanctum beside the main goddess, the prominence of the Dasara festival, and sacred bathing at the nearby Krishna river.",
+      "reliabilityNote": "District-government endowments page; this page reflects the district's pre-2022 administrative naming (Krishna district), while the temple's current district per Wikipedia and the NTR district portal is NTR district, formed by bifurcation.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "other",
+      "title": "Suprabhata Seva introduced at Durga Temple",
+      "publisherOrAuthority": "The Hans India",
+      "url": "https://www.thehansindia.com/posts/index/Andhra-Pradesh/2018-11-26/Suprabhata-Seva-introduced-at-Durga-Temple/447734",
+      "accessDate": "2026-09-18",
+      "claimScope": "Date of introduction (26 November 2018), timing (3–4 AM), ticket price (Rs 300) and daily participant cap (25 devotees) for the Suprabhata Seva, and that it was modelled on the Tirumala Tirupati Devasthanams practice.",
+      "reliabilityNote": "News report from the time of introduction; price and capacity may have changed since 2018 and were not reconfirmed against a current source.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "other",
+      "title": "Kanaka Durga Temple Vijayawada: Official Contact Number, Email & Devotee Guide",
+      "publisherOrAuthority": "Gokshetra",
+      "url": "https://gokshetra.com/vijayawada-kanaka-durga-temple-office-contact-number-mail/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Contact numbers (1800-425-9099 toll-free; 0866-2423500/2423600), email addresses (endow-eosdmsd@gov.in; eo_vijayawada@yahoo.co.in), full postal address including PIN code (520001), and the general existence of free and paid darshan categories and online seva bookings (Archana, Kumkum Puja, Saree Daanam, Annadanam).",
+      "reliabilityNote": "Independent devotee-guide site, not an official or government source; the postal address given still refers to \"Krishna District,\" reflecting the pre-2022 district boundary.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "other",
+      "title": "Kanaka Durga Temple Vijayawada Timings, Darshan & Guide",
+      "publisherOrAuthority": "templetimings.in",
+      "url": "https://templetimings.in/kdtvdt/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily opening-hours schedule (4:00 AM–1:00 PM, closed 1:00–4:00 PM, 4:00–10:00 PM), stated to be sourced from the official temple portal and last verified June 2026, and a note that timings extend on festival days such as Navaratri and Dussehra.",
+      "reliabilityNote": "Independent aggregator site, not official or government; used only because the official portal's own JavaScript-rendered timings page could not be fetched directly in this session. Treat as needing recheck.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC010",
+      "sourceType": "media repository",
+      "title": "File:Vijayawada Kanakadurga Temple on Indrakeeladri.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vijayawada_Kanakadurga_Temple_on_Indrakeeladri.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the hero photograph used in media (photographed 11 January 2017, uploaded as part of Wiki Loves Monuments 2021).",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC011",
+      "sourceType": "media repository",
+      "title": "File:Kanakadurga Temple gopuram.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kanakadurga_Temple_gopuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the gopuram photograph used in media.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Malleswara Swamy (Shiva)",
+      "Nataraja",
+      "Subrahmanya (Kartikeya) with Valli and Devasena",
+      "Hanuman",
+      "Aparajitha Devi",
+      "Abhaya Anjaneya",
+      "Kamadhenu Devi",
+      "Ganapati"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Indrakeeladri Hill, Brahmin Street, Vijayawada, NTR District, Andhra Pradesh 520001, India"
+  },
+  "submittedBy": "development@cness.co"
+}

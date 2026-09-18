@@ -1,0 +1,258 @@
+{
+  "templeId": "TPL-IN-KA-KUK-0041",
+  "slug": "kukke-subramanya",
+  "status": "published",
+  "identity": {
+    "nameEn": "Kukke Subramanya Temple",
+    "alternateNames": [
+      "Kukke Sri Subrahmanya Temple"
+    ],
+    "presidingDeity": "Subramanya",
+    "tradition": "Kaumara/Murugan",
+    "templeType": "Kaumara",
+    "sacredClassifications": [
+      "Subramanya",
+      "Serpent worship"
+    ],
+    "spiritualSignificanceShort": "Kukke Subramanya Temple, on the Kumaradhara River at the foot of Kumara Parvatha in the Western Ghats of Dakshina Kannada district, is dedicated to Subramanya (Kartikeya), worshipped here in association with serpent deities. In local tradition the serpent king Vasuki is said to have taken refuge here, and the temple is a major centre for serpent-related rites such as Sarpa Samskara and Ashlesha Bali. It is administered by the Karnataka government's Hindu Religious Institutions and Charitable Endowments (Muzrai) Department."
+  },
+  "location": {
+    "city": "Kukke Subramanya",
+    "district": "Dakshina Kannada",
+    "stateProvince": "Karnataka",
+    "country": "India",
+    "postalCode": "574238",
+    "latitude": 12.6639,
+    "longitude": 75.6153
+  },
+  "governance": {
+    "establishedEra": "Antiquity undetermined; Karnataka Tourism describes the site in tradition as about 5,000 years old and among sites associated with the sage Parashurama, a devotional dating not independently corroborated in the sources consulted",
+    "managingAuthority": "Hindu Religious Institutions and Charitable Endowments (Muzrai) Department, Government of Karnataka",
+    "administrationType": "Government department",
+    "founderPatron": "Historically administered by the Koojugodu Kattemane family before passing to state administration"
+  },
+  "narrative": {
+    "summaryIntro": "Kukke Subramanya Temple stands on the banks of the Kumaradhara River in Subramanya village, Kadaba taluk, Dakshina Kannada district, at the foot of Kumara Parvatha in the Western Ghats. It is dedicated to Subramanya (Kartikeya), worshipped here as lord of serpents, and is one of the best-known centres in India for serpent-related rites, particularly Sarpa Samskara and Ashlesha Bali, performed by priests of the Shivalli Madhwa Brahmin community following the ritual manual Tantra Sara Sangraha attributed to Madhvacharya.\n\nThe temple is administered by the Karnataka government's Hindu Religious Institutions and Charitable Endowments (Muzrai) Department, and rituals can be booked through the department's online ITMS portal.",
+    "documentedHistory": "Temple tradition holds that the serpent king Vasuki and other snakes took refuge in caves here while fleeing Garuda, and that Kumaraswamy (Subramanya) and Ganesha defeated the demons Tarakasura and Shurapadma at nearby Kumara Parvatha, after which Kumaraswamy married Devasena; these accounts are recorded in the sources consulted as legend and temple tradition, not as documented history. Karnataka Tourism separately describes the temple as roughly 5,000 years old and among seven sites traditionally associated with the sage Parashurama, a dating that is likewise devotional rather than independently corroborated.\n\nAccording to Wikipedia, the temple's priesthood changed hands in the early 20th century: the original Sthanika Brahmin priests are stated to have lost their position following involvement in independence activism and consequent pressure under British rule, after which Shivalli Madhwa Brahmins took over performance of rituals under the Tantra Sara Sangraha. Administration passed from the hereditary Koojugodu Kattemane family to the present Muzrai (Hindu Religious Endowments) Department of the Karnataka government.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "cross-referenced",
+    "nearestRailStation": "Subramanya Road railway station, about 12 km; Mangaluru Junction, the nearest major railway hub, about 102 km",
+    "railDistanceKm": 12,
+    "nearestAirport": "Mangaluru International Airport, 105-112 km depending on source",
+    "airportDistanceKm": 105,
+    "officialContactNote": "Sarpa Samskara and Ashlesha Bali rituals can be booked online through the Karnataka government's ITMS Muzrai portal. Confirm same-day timings locally, as festival days affect access.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "06:30",
+      "closeTime": "13:30",
+      "closedFlag": false,
+      "notes": "As stated on the Karnataka government's ITMS Muzrai temple portal.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Afternoon/evening darshan",
+      "openTime": "15:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "As stated on the Karnataka government's ITMS Muzrai temple portal; the temple closes fully between 9:00 and 9:30 PM.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main sanctum",
+      "deityOrSubject": "Subramanya",
+      "spaceType": "shrine",
+      "locationDescription": "The principal shrine of Subramanya, worshipped in association with serpent deities, on the bank of the Kumaradhara River.",
+      "linkedMediaIds": [
+        "MED001"
+      ],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "other",
+      "nameEn": "Sarpa Samskara",
+      "description": "A serpent-related ritual performed at the temple, described by Wikipedia as being carried out following the Tantra Sara Sangraha ritual manual; bookable through the Karnataka government's ITMS Muzrai portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "other",
+      "nameEn": "Ashlesha Bali",
+      "description": "A ritual performed for protection connected with serpents; bookable through the Karnataka government's ITMS Muzrai portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Champa Shashti (Subramanya Shashti)",
+      "gregorianRuleOrDate": "Margashirsha month (November-December); the temple's own multi-day observance runs into mid-December",
+      "significance": "The temple's principal annual festival, commemorating Subramanya's victory over the demon Tarakasura and his marriage to Devasena; Champa (frangipani) flowers are offered in abundance during the observance.",
+      "crowdNote": "The temple's largest annual gathering.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Nagara Panchami",
+      "significance": "A serpent-worship observance at the temple, consistent with its association with serpent deities.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Kukke Subramanya Temple — hero image",
+      "caption": "Kukke Subramanya Temple on the banks of the Kumaradhara River.",
+      "altText": "Exterior view of Kukke Subramanya Temple in Dakshina Kannada district, Karnataka.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kukke_Subramanya_Temple_.jpg",
+      "creator": "Bharathesha Alasandemajalu",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Bharathesha Alasandemajalu · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kukke_Subramanya_Temple_.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Kukke Shree Subrahmanya Temple — Karnataka ITMS (Muzrai) portal",
+      "publisherOrAuthority": "Hindu Religious Institutions and Charitable Endowments Department, Government of Karnataka",
+      "url": "https://itms.kar.nic.in/hrcehome/index_temple.php?tid=21",
+      "accessDate": "2026-09-18",
+      "claimScope": "PIN code 574238; location on the Kumaradhara River, Dakshina Kannada district; temple timings (6:30 AM-1:30 PM, 3:30 PM-9:00 PM, closing 9:00-9:30 PM); rituals offered including Sarpa Samskara and Ashlesha Bali; administration by the Hindu Religious and Charitable Endowments Department; online darshan booking and e-payment.",
+      "reliabilityNote": "Official Karnataka government temple-management portal; undated page content.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Kukke Subramanya Temple",
+      "publisherOrAuthority": "Karnataka Tourism, Government of Karnataka",
+      "url": "https://karnatakatourism.org/en/attractions/kukke-subramanya-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Traditional dating of the temple to about 5,000 years and association with the sage Parashurama; Vasuki-refuge legend; Kumaraswamy and Ganesha's defeat of Tarakasura and Shurapadma at Kumara Parvatha and Kumaraswamy's marriage to Devasena; Ashlesha Bali and Sarpa Dosha Parihara rituals, bookable online; distances (Mangaluru airport 105 km, Subramanya Road railway station 12 km, Bengaluru 280 km by road).",
+      "reliabilityNote": "State tourism attraction page; undated. Presents the ~5,000-year dating and the Vasuki/Kumaraswamy narratives as tradition rather than documented history.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Kukke Subrahmanya — Dakshina Kannada District",
+      "publisherOrAuthority": "Dakshina Kannada District Administration, Government of Karnataka",
+      "url": "https://dk.nic.in/en/tourist-place/kukke-subrahmanya/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location in Dakshina Kannada district; Vasuki-refuge tradition; distances (104 km from Mangaluru by road, 102 km from Mangaluru railway station, 112 km from Mangaluru International Airport).",
+      "reliabilityNote": "District government tourism page; undated; gives no temple timings or founding date.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Kukke Subramanya Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Kukke_Subramanya_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location on the Kumaradhara River in Subramanya village, Kadaba taluk, Dakshina Kannada district; coordinates; Vasuki-refuge legend; Shivalli Madhwa Brahmin priesthood following the Tantra Sara Sangraha; Ashlesha Bali Puja and Sarpa Dosha Parihara; administration passing from the Koojugodu Kattemane family to the state Muzrai/Endowment Department; loss of priesthood by the original Sthanika Brahmins in the early 20th century following independence activism; festival list including Shasti and Nagara Panchami.",
+      "reliabilityNote": "Tertiary encyclopedic source, used for history and administration.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Festivals — Calendar, Dates & Celebrations",
+      "publisherOrAuthority": "kukkedevasthanam.org.in (independent informational site)",
+      "url": "https://kukkedevasthanam.org.in/festivals/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Champa Shashti Mahotsava as the temple's grandest festival, in Margashirsha (November-December), commemorating Subramanya's victory over Tarakasura and marriage to Devasena; Nagara Panchami as a major serpent-worship observance.",
+      "reliabilityNote": "The site explicitly states it is not affiliated with, authorised by, or endorsed by the Kukke Sri Subramanya Temple administration; used here only to corroborate festival names already noted on Wikipedia, not as a sole source for operational details.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Kukke Subramanya Temple .jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Bharathesha Alasandemajalu",
+      "url": "https://commons.wikimedia.org/wiki/File:Kukke_Subramanya_Temple_.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple only; author and licence string.",
+      "reliabilityNote": "Photograph taken 27 December 2020, uploaded to Commons 30 July 2021; author and licence as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Kukke Subramanya Temple, Subramanya Post, Kadaba Taluk, Dakshina Kannada District, Karnataka 574238, India",
+    "bestTime": "",
+    "entryFee": ""
+  },
+  "submittedBy": "import"
+}

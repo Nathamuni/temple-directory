@@ -14,7 +14,7 @@
       "Char Dham",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Badrinath is one of the four Char Dham shrines and one of the 108 Divya Desams, dedicated to Vishnu as Badrinarayan. The image in the sanctum is a black stone figure about a foot high, seated in meditation and holding a conch and discus. Unusually for a north Indian temple, the head priest — the Rawal — is drawn from Kerala's Nambudiri Brahmin community, a practice tradition attributes to Adi Shankara.",
     "nameLocal": "बदरीनाथ मंदिर",
     "localLanguage": "Hindi"
   },
@@ -29,11 +29,14 @@
   },
   "governance": {
     "establishedEra": "Ancient origins; current structure 16th century · Rebuilt by Adi Shankaracharya and later modified",
-    "managingAuthority": "Uttarakhand Shrine Board"
+    "managingAuthority": "Uttarakhand Shrine Board",
+    "administrationType": "Government department",
+    "officialWebsite": "https://badrinath-kedarnath.gov.in/",
+    "officialPhone": "0135-2741600"
   },
   "narrative": {
     "summaryIntro": "Badrinath Temple is one of the four cardinal shrines (Char Dham) of Hindu pilgrimage and is dedicated to Lord Vishnu in his form as Badrinath (Badrinarayan). Located in the Chamoli district of Uttarakhand at an elevation of 3,300 meters, the temple is situated in a scenic valley surrounded by the Himalayas.\n\nThe temple features a distinctive red and gold pagoda-style architecture. It has been a major pilgrimage center for centuries, attracting devotees from across India and the world who seek blessings and spiritual enlightenment at this sacred shrine of Vishnu.",
-    "documentedHistory": "",
+    "documentedHistory": "The temple stands at roughly 3,100 m on the bank of the Alaknanda in the Garhwal Himalaya. It is counted both among the four Char Dham shrines and among the 108 Divya Desams of the Vaishnava canon. The deity is a black stone image of Vishnu as Badrinarayan, about a foot high, seated in a meditative posture and holding a conch and a discus. Adjacent to the temple is the Tapt Kund, a hot spring that runs at a near-constant temperature and in which pilgrims bathe before darshan.\n\nThe priesthood is distinctive: the head priest, titled Rawal, is traditionally a Nambudiri Brahmin from Kerala, a practice attributed to Adi Shankara and unusual for a temple in north India.\n\nThe shrine is administered by the Shri Badarinath Kedarnath Temple Committee, a state-appointed body of seventeen members constituted under a 1939 Act, which also administers Kedarnath. The committee runs the online booking system for pujas, paths, aartis and bhog, and prior registration is mandatory for them.",
     "associatedSaints": [],
     "architectureStyle": "Himalayan"
   },
@@ -41,40 +44,179 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Warm clothing essential; traditional attire recommended",
     "nearestRailStation": "Rishikesh Railway Station, 200 km",
     "railDistanceKm": 200,
     "nearestBusStation": "Connected by mountain roads",
     "nearestAirport": "Jolly Grant Airport, Dehradun, 300 km",
-    "airportDistanceKm": 300
+    "airportDistanceKm": 300,
+    "entryRules": "Prior registration is mandatory before booking any puja, path, aarti or bhog, and pilgrim registration is done through the Uttarakhand government portal registrationandtouristcare.uk.gov.in. Anyone attending a booked puja must carry a valid government photo ID — voter ID, Aadhaar, driving licence, passport or PAN card — along with the booking receipt, and should reach the temple gate 15 to 30 minutes before the slot. Booking and donation amounts are non-refundable and non-transferable to another name or date.",
+    "officialContactNote": "Badrinath is a seasonal shrine and the kapat opening and closing dates are announced afresh each year — do not plan on fixed dates. Confirm the current season's dates, darshan hours and road status with BKTC on 0135-2741600 or the Badarinath pilgrims helpline +91-8979001008 (support Monday to Saturday, 10 am to 5 pm) before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
-      "dayType": "daily",
-      "sessionName": "Morning",
-      "openTime": "06:00",
-      "closeTime": "12:00",
+      "dayType": "seasonal",
+      "sessionName": "Season (kapat open)",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "19:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Badrinath is open for roughly six months a year, from late April to early November; it is closed through the winter because of snow and the deity's worship moves to the Narasimha temple at Jyotirmath (Joshimath). The exact kapat opening and closing dates are fixed and announced annually and differ every year — no fixed dates are recorded here. The BKTC portal does not publish daily darshan hours, so none are recorded either.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Tapt Kund",
+      "deityOrSubject": "Hot spring used for ritual bathing",
+      "spaceType": "tank",
+      "locationDescription": "A thermal spring at the foot of the temple, below the main approach; pilgrims commonly bathe here before darshan.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Mahabhishek Puja",
+      "startTime": "04:30",
+      "endTime": "06:30",
+      "recurrence": "Daily during the open season",
+      "description": "Bookable in advance through the BKTC portal; the committee lists it in the early-morning 4:30–6:30 AM window.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Abhishek Puja",
+      "startTime": "04:30",
+      "endTime": "06:30",
+      "recurrence": "Daily during the open season",
+      "description": "Bookable in advance through the BKTC portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Ved Path",
+      "recurrence": "Daily during the open season",
+      "description": "BKTC lists two windows, 7:30 AM to 12:00 PM and 3:00 PM to 6:00 PM.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Geeta Path",
+      "recurrence": "Daily during the open season",
+      "description": "BKTC lists two windows, 7:30 AM to 12:00 PM and 3:00 PM to 6:00 PM.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "aarti",
+      "nameEn": "Kapoor Aarti",
+      "startTime": "18:00",
+      "endTime": "18:10",
+      "recurrence": "Daily during the open season",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "aarti",
+      "nameEn": "Chandi Aarti",
+      "startTime": "18:15",
+      "endTime": "18:30",
+      "recurrence": "Daily during the open season",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "aarti",
+      "nameEn": "Swaran Aarti",
+      "startTime": "18:30",
+      "endTime": "18:45",
+      "recurrence": "Daily during the open season",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "pooja",
+      "nameEn": "Vishnusahasranaam Path",
+      "startTime": "19:00",
+      "endTime": "19:20",
+      "recurrence": "Daily during the open season",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ009",
+      "recordType": "aarti",
+      "nameEn": "Shayan Aarti",
+      "recurrence": "Daily during the open season",
+      "description": "The final aarti of the day. BKTC lists it as bookable but gives no fixed clock time.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -102,6 +244,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_temple_in_early_morning.JPG",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Badrinath Temple",
+      "caption": "The gates of Badrinath Temple, Chamoli district, Uttarakhand.",
+      "altText": "The brightly painted gateway and facade of the Badrinath temple in the Garhwal Himalaya.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Badrinath_Temple.jpg",
+      "creator": "Harshit SR",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Harshit SR · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -119,6 +276,50 @@
       "title": "Uttarakhand Char Dham Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Shri Badarinath Kedarnath Temple Committee — official portal",
+      "publisherOrAuthority": "Shri Badarinath Kedarnath Temple Committee (BKTC), Government of Uttarakhand",
+      "url": "https://badrinath-kedarnath.gov.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The committee's official name; prior registration mandatory for puja, path, aarti and bhog booking; pilgrim registration via registrationandtouristcare.uk.gov.in; BKTC office number 0135-2741600; Badarinath pilgrims helpline +91-8979001008; support email support-ucdb[at]uk[dot]gov[dot]in with Monday–Saturday 10 am to 5 pm support hours.",
+      "reliabilityNote": "Live portal. Puja seat availability and helpline hours change through the season; the page does not publish the annual kapat opening and closing dates.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Book Pooja Online — Shri Badarinath Kedarnath Temple Committee",
+      "publisherOrAuthority": "Shri Badarinath Kedarnath Temple Committee (BKTC)",
+      "url": "https://badrinath-kedarnath.gov.in/online-services/book-puja-online/Book_Pooja_Online.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "The list of bookable pujas, paths and aartis at Badrinath with their stated time slots — Mahabhishek and Abhishek 4:30–6:30 AM, Ved Path and Geeta Path 7:30 AM–12:00 PM and 3:00–6:00 PM, Kapoor Aarti 6:00–6:10 PM, Chandi Aarti 6:15–6:30 PM, Swaran Aarti 6:30–6:45 PM, Vishnusahasranaam Path 7:00–7:20 PM, Shayan Aarti; the requirement to carry a government photo ID; the instruction to reach the temple gate 15–30 minutes early; the non-refundable, non-transferable booking policy.",
+      "reliabilityNote": "Official booking page read on the access date. Slot times and fees are revised between seasons; treat the times as the booked-service windows, not as general darshan hours, which this page does not state.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Badrinath Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Badrinath_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Seasonal opening for about six months from late April to early November; altitude about 3,100 m on the Alaknanda in the Garhwal Himalaya; Divya Desam and Char Dham status; the one-foot black stone image of Vishnu as Badrinarayan; the Rawal head priest drawn from Kerala's Nambudiri Brahmins, attributed to Adi Shankara; the winter transfer of worship to the Narasimha temple at Jyotirmath (Joshimath); administration by a seventeen-member state-appointed committee under a 1939 Act; the Tapt Kund hot spring.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. Used for history, classification and seasonality; not used for any timing.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Badrinath Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Badrinath_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page.",
       "adminApproved": true
     }
   ],

@@ -33,21 +33,29 @@ export default function HomePage() {
 
       <section className="mt-10">
         <h2 className="display mt-0 mb-3 border-b border-line pb-1 text-2xl font-normal">Browse the Directory</h2>
-        <div className="space-y-2">
+        <div className="space-y-3">
           {facets.map((facet) => (
-            <div key={facet} className="flex flex-wrap items-baseline gap-2">
+            <div key={facet} className="flex items-baseline gap-3">
               <span className="w-28 shrink-0 text-sm font-semibold text-muted">
                 By {FACET_LABELS[facet]}
               </span>
-              {getFacetValues(facet).map((v) => (
-                <Link
-                  key={v.slug}
-                  href={`/browse/${facet}/${v.slug}`}
-                  className="border border-[var(--line-soft)] px-2.5 py-1 text-sm hover:bg-[var(--paper-soft)]"
-                >
-                  {v.value} <span className="text-muted">({v.count})</span>
-                </Link>
-              ))}
+              <div className="relative min-w-0 flex-1">
+                <div className="scroll-x flex flex-nowrap gap-2 overflow-x-auto scroll-smooth pr-8">
+                  {getFacetValues(facet).map((v) => (
+                    <Link
+                      key={v.slug}
+                      href={`/browse/${facet}/${v.slug}`}
+                      className="shrink-0 whitespace-nowrap border border-[var(--line-soft)] px-2.5 py-1 text-sm hover:bg-[var(--paper-soft)]"
+                    >
+                      {v.value} <span className="text-muted">({v.count})</span>
+                    </Link>
+                  ))}
+                </div>
+                <div
+                  aria-hidden
+                  className="pointer-events-none absolute inset-y-0 right-0 w-8 bg-gradient-to-l from-paper to-transparent"
+                />
+              </div>
             </div>
           ))}
         </div>

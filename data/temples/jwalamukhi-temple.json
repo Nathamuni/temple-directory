@@ -1,0 +1,200 @@
+{
+  "templeId": "TPL-IN-HP-KAN-0058",
+  "slug": "jwalamukhi-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Jwalamukhi Temple",
+    "alternateNames": [
+      "Jwala Ji",
+      "Jwala Devi Temple",
+      "Jawala Mukhi Temple"
+    ],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Devi",
+      "Shakti Pitha",
+      "Pilgrimage",
+      "Kangra"
+    ],
+    "spiritualSignificanceShort": "Jwalamukhi is one of the 51 Shakti Peethas of the subcontinent, at the site where, by tradition, the tongue of the goddess Sati fell. It holds no idol: worship centres on natural gas flames that burn continuously through fissures in the rock inside the sanctum, understood as nine forms of the goddess (the Navjyoti). The site is also associated with the legend of the devotee Dhyanu Bhagat and with a Mughal-era tradition that the emperor Akbar tried and failed to extinguish the flame.",
+    "nameLocal": "ज्वालामुखी मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Jawalamukhi",
+    "district": "Kangra",
+    "stateProvince": "Himachal Pradesh",
+    "country": "India",
+    "postalCode": "176031",
+    "latitude": 31.8752,
+    "longitude": 76.3243
+  },
+  "governance": {
+    "establishedEra": "Earliest textual mention 14th century CE (Tarikh-i-Firuz-Shahi) · present dome and structure substantially reworked in the 19th century",
+    "managingAuthority": "Office of the Commissioner (Temple)-cum-Deputy Commissioner, Kangra, at Dharamshala, together with the Jwalamukhi Temple Trust",
+    "administrationType": "Government department",
+    "officialPhone": "01892-222705"
+  },
+  "narrative": {
+    "summaryIntro": "Jwalamukhi Temple stands at about 600 m in the Kangra valley of Himachal Pradesh, in the Shivalik range. It is dedicated to the goddess in her form as Jwalamukhi ('flaming mouth') and is counted among the 51 Shakti Peethas. The sanctum holds no image: worship is offered to natural flames that burn continuously through fissures in the rock, fed by underground gas, and traditionally understood as nine forms of the goddess.\n\nThe earliest surviving textual reference to the site by name is in the 14th-century Tarikh-i-Firuz-Shahi of Shams-i Siraj, which records a visit by the Delhi Sultanate ruler Firuz Shah Tughlaq. The temple was visited by Mughal emperor Jahangir after the 1620 conquest of Kangra fort, and in 1809 the Sikh ruler Maharaja Ranjit Singh and Kangra's Raja Sansar Chand concluded a treaty at the temple. The temple's present golden dome and silver door are traditionally attributed to donations from Ranjit Singh and his son Kharak Singh. The temple is administered today by the Kangra district administration's Commissioner (Temple)-cum-Deputy Commissioner office together with a temple trust.",
+    "sthalaPuranam": "Tradition holds that when the god Vishnu cut apart the body of the goddess Sati with his discus, her tongue fell at this site, making it one of the 51 Shakti Peethas. A widely told legend describes the Mughal emperor Akbar attempting to test or extinguish the temple's eternal flame — by building a water channel, covering it with iron vessels, and finally offering a gold umbrella — all of which the tradition says failed, with the umbrella said to have been transformed into an unidentifiable metal, still preserved at the temple. A related legend concerns the devotee Dhyanu Bhagat, said to have offered his own head to the goddess in Akbar's court and to have been restored to life; devotees are said to have since offered coconuts in place of the ancestral practice. These are traditional/devotional accounts and are not presented here as verified history.",
+    "documentedHistory": "Jwalamukhi's earliest datable textual mention is in Shams-i Siraj's 14th-century Tarikh-i-Firuz-Shahi, describing a visit by Firuz Shah Tughlaq. Mughal emperor Jahangir is recorded to have visited the temple after Kangra fort's capture in 1620. Sixteenth- and seventeenth-century writers including Abul Fazl, Thomas Coryat and Jean de Thévenot also described the site's natural flames. In 1809, following the expulsion of Gorkha forces from Kangra, a treaty was concluded between Maharaja Ranjit Singh and Raja Sansar Chand of Kangra at the temple; Ranjit Singh's son Kharak Singh is credited with donating the temple's silver-plated doors. An idol form of the goddess was installed at the temple in 1965 by Raja Baldev Singh of the Guler dynasty, alongside the aniconic flame worship that remains central to the site. Hereditary worship rights belong to priests of the Bhojak community.",
+    "associatedSaints": [],
+    "architectureStyle": "Hindu-Sikh-Mughal composite, with a gilded dome"
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Jwalamukhi Road railway station",
+    "nearestAirport": "Gaggal Airport (Kangra), approximately 50 km via Dharamshala",
+    "accessibilityNotes": "The temple is about 50 km from the district headquarters, Dharamshala; approximately 200 km from Chandigarh, 118 km from Jalandhar, 105 km from Pathankot and 180 km from Shimla by road.",
+    "officialContactNote": "Contact the Office of the Commissioner (Temple)-cum-Deputy Commissioner, Kangra at Dharamshala (phone 01892-222705, email kangratemple@gmail.com) to confirm current darshan timings, festival dates and any entry rules before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Year-round darshan",
+      "closedFlag": false,
+      "notes": "Unlike the seasonal Himalayan Char Dham shrines, Jwalamukhi is open to devotees throughout the year. The official Kangra district temple portal does not publish specific daily opening and closing clock times, so none are recorded here.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Gorakh Dibbi",
+      "deityOrSubject": "Site associated with the ascetic Gorakh Nath",
+      "spaceType": "other",
+      "locationDescription": "To the right of the main Jwalamukhi temple; the official temple portal describes it as a place of penance associated with Gorakh Nath, with a kund (pool) of water that stays cold despite appearing to boil.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Shiva-Shakti",
+      "deityOrSubject": "Shivling with an associated Jyoti",
+      "spaceType": "shrine",
+      "locationDescription": "Above Gorakh Dibbi, reached by a flight of steps, per the official temple portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Chaitra Navratri",
+      "tamilOrLocalMonth": "Chaitra (March–April)",
+      "significance": "One of the two major annual Navratri fairs at the temple, per the official Kangra district temple portal.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Sharad Navratri",
+      "tamilOrLocalMonth": "Ashwin (September–October)",
+      "significance": "One of the two major annual Navratri fairs at the temple, per the official Kangra district temple portal.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Jwalamukhi Temple, Kangra district",
+      "caption": "Exterior view of the Jwalamukhi temple with its gilded dome, Kangra district, Himachal Pradesh.",
+      "altText": "Jwalamukhi temple building with a golden dome, photographed in Kangra district.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jwala_mukhi_temple_kangra_dist..JPG/800px-Jwala_mukhi_temple_kangra_dist..JPG",
+      "creator": "Mani kopalle",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Mani kopalle · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jwala_mukhi_temple_kangra_dist..JPG",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Shri Jawala Mata Mandir — Kangra Temples official portal",
+      "publisherOrAuthority": "Office of the Commissioner (Temple)-cum-Deputy Commissioner, Kangra, Government of Himachal Pradesh",
+      "url": "https://kangratemples.hp.gov.in/shri-jawala-mata-mandir/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Deity and Shakti Peetha status; the nine flames/Navjyoti; location, altitude (~600 m) and road distances from Dharamshala, Chandigarh, Jalandhar, Pathankot and Shimla; nearest rail station (Jwalamukhi Road/Ranital) and nearest airport (Gaggal); the Sati legend, Akbar and Dhyanu Bhagat legends (presented there as tradition); the 1809 treaty context and Ranjit Singh/Kharak Singh donations; the 1965 installation of an idol form by Raja Baldev Singh of Guler; hereditary Bhojak priesthood; worship methods; major festivals (Navratri, Gupt Navratri, temple's idol-form anniversary); nearby shrines (Gorakh Dibbi, Shiva-Shakti, Sid Nagarjuna, etc.); devotee facilities; contact address, phone 01892-222705 and email kangratemple@gmail.com.",
+      "reliabilityNote": "Official Himachal Pradesh government (Kangra district) temple portal. Fetched via direct HTTP request because the site's TLS certificate was expired at access time (WebFetch reported 'certificate has expired'); content was read and verified directly rather than through the standard fetch tool. The page presents some legendary/devotional material (Akbar, Dhyanu Bhagat, gold-dome-funding accounts) without distinguishing it from verified history; those items are treated here as tradition, not settled fact. No specific daily darshan clock times were found on the page.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Jwalamukhi temple, Himachal Pradesh — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jwalamukhi_temple,_Himachal_Pradesh",
+      "accessDate": "2026-09-18",
+      "claimScope": "Coordinates (31°52'31\"N 76°19'27\"E); status as a Shakti Pitha; the 14th-century Tarikh-i-Firuz-Shahi reference to Firuz Shah Tughlaq's visit, the earliest firmly datable textual mention; 16th–17th century European and Mughal-era accounts (Abul Fazl, Thomas Coryat, Jean de Thévenot); the golden dome and pinnacles in a composite architectural style; the silver-plated door donated by Kharak Singh; the theological link to the Vajreshwari temple at Kangra as the goddess's body.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. Used to corroborate and extend the historical record; not used for any timing.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "media repository",
+      "title": "File:Jwala mukhi temple kangra dist..JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Jwala_mukhi_temple_kangra_dist..JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page. Photograph captured 2 October 2012, uploaded 27 September 2013.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [
+      "Free langar (community kitchen) for pilgrims",
+      "Free medical facility",
+      "Yatri Niwas (pilgrim accommodation)",
+      "Water and toilet facilities"
+    ],
+    "address": "Jawalamukhi, Kangra, Himachal Pradesh 176031, India",
+    "bestTime": "Open year-round; Navratri fairs draw the largest crowds",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

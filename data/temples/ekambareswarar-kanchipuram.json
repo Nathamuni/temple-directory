@@ -14,9 +14,10 @@
       "Kanchipuram",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Ekambareswarar Temple is the earth shrine of the Pancha Bhuta Sthalams, the five Shiva temples of South India identified with the elements: here Shiva is worshipped as a Prithvi lingam. It is also a Paadal Petra Sthalam, praised in the seventh-century Tevaram hymns. The temple's sthala vriksham, an ancient mango tree under which the deity is said to have been worshipped, gives the temple its name and remains the focus of devotees' visits.",
     "nameLocal": "ஏகம்பரேஸ்வரர் கோயில்",
-    "localLanguage": "Tamil"
+    "localLanguage": "Tamil",
+    "consortDeity": "Elavarkuzhali (Parvati)"
   },
   "location": {
     "city": "Kanchipuram",
@@ -29,26 +30,38 @@
   },
   "governance": {
     "establishedEra": "Ancient origins; present structure 8th-16th century · Built during various dynasties including Pallava and Chola",
-    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
+    "founderPatron": "Southern Raja Gopuram built by the Vijayanagara king Krishnadevaraya",
+    "administrationType": "Government department",
+    "officialPhone": "96292-93020",
+    "officialEmail": "srikanchiekambaranathar@gmail.com"
   },
   "narrative": {
     "summaryIntro": "Ekambareswarar Temple in Kanchipuram, Tamil Nadu, is one of the most ancient temples dedicated to Lord Shiva and is particularly significant for its association with the ancient mango tree within its premises. The temple is one of the major temples in Kanchipuram and features impressive Dravidian architecture with a 150-foot high gopuram. The temple's name 'Ekambareswarar' refers to Shiva worshipped beneath the mango tree (Ekam means one, Ambara means mango tree).\n\nThe temple is known for its magnificent granite structures and elaborate stone carvings developed over multiple dynasties. The sacred mango tree is believed to be thousands of years old and holds immense spiritual significance. The temple attracts thousands of devotees and pilgrims, particularly during Maha Shivaratri and other major festivals. The site represents the continuity of Hindu spiritual tradition spanning centuries.",
-    "documentedHistory": "",
+    "documentedHistory": "The HR&CE department describes Ekambaranathar as one of the oldest temples in Kanchipuram, estimating its age at more than 1,300 years and holding that it predates the Kailasanathar temple. Inscriptions in the complex span the Pallava through Nayaka periods.\n\nThe large Raja Gopuram over the southern gate was built by the Vijayanagara king Krishnadevaraya and carries an inscribed date of 1509. Wikipedia places his eleven-storey tower in the period 1509-29 and gives its height as 59 m (194 ft), among the tallest in South India; the Wikimedia Commons description of the same tower gives 55 m (180 ft). The Thousand Pillar Hall (Aayiram Kaal Mandapam) is also of the Vijayanagara period; the HR&CE page refers to an Ayrangal Mandapam, formerly called the Nootruka Mandapam.\n\nThe temple is one of the 276 Paadal Petra Sthalams venerated in the Tevaram, and the complex covers roughly 9.3 hectares.",
     "associatedSaints": [],
-    "architectureStyle": "Dravidian"
+    "architectureStyle": "Dravidian",
+    "sacredTree": "Mango (the sthala vriksham). Temple tradition holds that its four branches yield four different kinds of mango and identifies them with the four Vedas; a traditional age of 3,500 years is often quoted but is not a scientific dating.",
+    "inscriptionsSummary": "Inscriptions in the complex range from the Pallava period to the Nayaka period; the southern Raja Gopuram carries an inscribed date of 1509."
   },
   "editorial": {
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC007",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Kanchipuram Railway Station, 2 km",
     "railDistanceKm": 2,
     "nearestBusStation": "Located within Kanchipuram city",
     "nearestAirport": "Chennai Airport, 50 km",
-    "airportDistanceKm": 50
+    "airportDistanceKm": 50,
+    "officialContactNote": "Same-day timings, pooja changes and festival arrangements should be confirmed with the HR&CE temple office on 96292-93020 or at hrce.tn.gov.in (temple id 1816).",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -56,35 +69,208 @@
       "dayType": "daily",
       "sessionName": "Morning",
       "openTime": "06:00",
-      "closeTime": "12:00",
+      "closeTime": "12:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists the morning session as 6:00 AM to 12:30 PM, with a stated afternoon closure from 1:00 PM to 4:00 PM; the half hour between 12:30 and 1:00 PM is not accounted for on the page.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
       "sessionName": "Evening",
       "openTime": "16:00",
-      "closeTime": "21:00",
+      "closeTime": "20:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists the evening session as 4:00 PM to 8:30 PM, although the same site schedules the Ardhajama pooja from 8:30 PM to 9:30 PM.",
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Ekambaranathar sanctum",
+      "deityOrSubject": "Shiva as Ekambareswarar (Prithvi lingam)",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum, housing the earth lingam of the Pancha Bhuta Sthalam series.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Elavarkuzhali shrine",
+      "deityOrSubject": "Elavarkuzhali (Parvati)",
+      "spaceType": "shrine",
+      "locationDescription": "Shrine of the consort goddess within the complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Sthala vriksham (sacred mango tree)",
+      "spaceType": "sacred tree",
+      "locationDescription": "The ancient mango tree from which the temple takes its name; tradition holds that its four branches bear four different varieties of mango, identified with the four Vedas.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Raja Gopuram (southern tower)",
+      "spaceType": "gopuram",
+      "locationDescription": "The eleven-storey tower over the southern gate, built by the Vijayanagara king Krishnadevaraya and carrying an inscribed date of 1509; one of the tallest gopurams in South India.",
+      "linkedMediaIds": [
+        "MED001"
+      ],
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Aayiram Kaal Mandapam (Thousand Pillar Hall)",
+      "spaceType": "hall",
+      "locationDescription": "A pillared hall of the Vijayanagara period. The HR&CE page refers to an Ayrangal Mandapam in the complex, formerly called the Nootruka Mandapam.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Ko pooja",
+      "startTime": "06:00",
+      "endTime": "06:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Ushakala poojai",
+      "startTime": "06:30",
+      "endTime": "07:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi pooja",
+      "startTime": "07:30",
+      "endTime": "08:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Uchikkala pooja",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Sirukala Shanthi pooja",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Sayaraksha pooja",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "pooja",
+      "nameEn": "Ardhajama pooja",
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "recurrence": "Daily",
+      "description": "The last pooja of the day.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Grand celebration of Shiva with special rituals and processions",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Panguni Brahmotsavam",
+      "tamilOrLocalMonth": "Panguni (March-April)",
+      "significance": "The temple's principal annual festival.",
+      "processionOrRituals": "Processions through the festival days, concluding with the Kalyanotsavam, the ceremonial marriage of the deities.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -102,6 +288,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ekambareswarar_Temple_Kanchipuram_Natarajar.jpeg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Raja Gopuram of Ekambareshwara Temple, Kanchipuram",
+      "caption": "The southern Raja Gopuram, one of the tallest temple towers in South India, photographed in August 2015.",
+      "altText": "A tall, many-tiered temple tower densely covered in painted sculpture, seen against the sky.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Raja_Gopuram_%28_Temple_Tower_%29_of_Ekambareshwara_Temple%2C_Kanchipuram.jpg",
+      "creator": "Krishna Chaitanya Chandolu",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Krishna Chaitanya Chandolu · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Raja_Gopuram_(_Temple_Tower_)_of_Ekambareshwara_Temple,_Kanchipuram.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -119,6 +320,62 @@
       "title": "Kanchipuram Tourism Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Ekambaranathar Temple, Kancheepuram - 631502, Kancheepuram District [TM001816]",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1816",
+      "accessDate": "2026-09-18",
+      "claimScope": "Official temple name, postal code, HR&CE administration, daily opening hours, the antiquity of the temple, the inscription range from Pallava to Nayaka periods, and Krishnadevaraya's Raja Gopuram dated 1509.",
+      "reliabilityNote": "Page is undated; timings may be stale and the stated age of the temple is a departmental estimate, not an archaeological finding.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Arulmigu Ekambaranathar Temple, Kancheepuram — Pooja Information",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1816&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "Names and timings of the seven daily poojas.",
+      "reliabilityNote": "Undated page; the page does not state recurrence explicitly, though the listing is the standard daily schedule.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Arulmigu Ekambaranathar Temple, Kancheepuram — Contact Us",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1816&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "Street address, official telephone number and contact email address.",
+      "reliabilityNote": "Undated page; the listed contact address is a Gmail account rather than a tn.gov.in address.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Ekambareswarar Temple (Kanchipuram)",
+      "publisherOrAuthority": "Wikipedia (with sources cited therein)",
+      "url": "https://en.wikipedia.org/wiki/Ekambareswarar_Temple_(Kanchipuram)",
+      "accessDate": "2026-09-18",
+      "claimScope": "Pancha Bhuta Sthalam (Prithvi lingam) status, complex area, Raja gopuram height and Krishnadevaraya's dates, the sthala vriksham mango tree, the Thousand Pillar Hall, Paadal Petra Sthalam status, consort Elavarkuzhali, Panguni Brahmotsavam.",
+      "reliabilityNote": "Tertiary source; not used for any timing, pooja or contact claim. Reference encyclopedia, used for history and architecture only",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "media repository",
+      "title": "File:The Raja Gopuram ( Temple Tower ) of Ekambareshwara Temple, Kanchipuram.jpg",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Krishna Chaitanya Chandolu",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Raja_Gopuram_(_Temple_Tower_)_of_Ekambareshwara_Temple,_Kanchipuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the Raja Gopuram; author and licence.",
+      "reliabilityNote": "Licence and author read from the Commons File: page; photograph dated 20 August 2015.",
       "adminApproved": true
     }
   ],

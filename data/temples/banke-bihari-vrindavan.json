@@ -1,0 +1,349 @@
+{
+  "templeId": "TPL-IN-UP-VRI-0054",
+  "slug": "banke-bihari-vrindavan",
+  "status": "published",
+  "identity": {
+    "nameEn": "Banke Bihari Temple, Vrindavan",
+    "alternateNames": [
+      "Shri Banke Bihari Mandir"
+    ],
+    "presidingDeity": "Krishna",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnavite",
+    "sacredClassifications": [
+      "Krishna",
+      "Vrindavan",
+      "Braj",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Banke Bihari Temple houses a black stone murti worshipped as the combined form of Radha and Krishna, standing in the tribhanga (three-fold bent) posture. The temple is known for a distinctive darshan practice in which a curtain before the deity is repeatedly drawn and reopened through the day rather than left open continuously, and no bells are rung inside. It is among the most visited Krishna shrines in Vrindavan.",
+    "nameLocal": "बांके बिहारी मंदिर",
+    "localLanguage": "Hindi",
+    "consortDeity": "Radha (worshipped as a single combined murti with Krishna)"
+  },
+  "location": {
+    "city": "Vrindavan",
+    "district": "Mathura",
+    "stateProvince": "Uttar Pradesh",
+    "country": "India",
+    "postalCode": "281121",
+    "latitude": 27.57976,
+    "longitude": 77.69051
+  },
+  "governance": {
+    "establishedEra": "Deity tradition traced to the ascetic Swami Haridas (traditionally 16th century); present temple built c. 1862–1864",
+    "managingAuthority": "Goswami sevayats (hereditary priests descended from Goswami Jagannath, principal disciple of Swami Haridas)",
+    "founderPatron": "Construction of the present temple was funded by the Goswamis",
+    "administrationType": "Hereditary administration",
+    "officialWebsite": "https://www.bihariji.org/"
+  },
+  "narrative": {
+    "summaryIntro": "Banke Bihari Temple in Vrindavan, Mathura district, Uttar Pradesh, houses a black stone murti worshipped as the combined form of Radha and Krishna, standing in the tribhanga (three-fold bent) posture. The temple is one of Vrindavan's most visited Krishna shrines and is known for its distinctive darshan practice: rather than remaining continuously open to view, a curtain before the deity is repeatedly drawn and reopened through the day. No bells are rung inside the temple, in keeping with the deity's worship in a child-like form.\n\nThe temple registers among the highest daily footfalls of any Vrindavan shrine, with reported figures of 30,000–40,000 devotees a day, rising to several lakh on festivals such as Janmashtami. Crowd safety at the temple has drawn government and judicial attention in recent years.",
+    "documentedHistory": "According to the temple's own account, the ascetic and musician Swami Haridas (traditionally dated to the 16th century) worshipped a murti under the name Kunj Bihari at Nidhivan, a forest grove in Vrindavan associated with his devotional practice. Temple tradition holds that the deity — a combined form of Radha and Krishna — was revealed to Haridas and passed into the care of his principal disciple, Goswami Jagannath, whose descendants, the Goswami sevayats, continue to conduct its worship, including three daily ceremonies: Shringar (morning adornment), Rajbhog (midday offering) and Shayan (evening rest).\n\nFollowing disputes in the 19th century among different groups of Haridas's followers, the deity was moved from Nidhivan to a newly built temple nearby, completed around 1862–1864 in Rajasthani architectural style. The Mathura district government's tourism page places the temple among several major Vrindavan shrines, including the nearby Radhavallabh and Govind Dev temples.\n\nIn the 21st century the temple has drawn government and judicial attention over crowd safety: a stampede occurred at the temple in 2022, and on 15 May 2025 the Supreme Court of India permitted the Uttar Pradesh government to use funds from the temple trust (reported as up to ₹500 crore) to acquire about five acres of adjoining land for a devotee holding area and corridor project, with the acquired land to be registered in the deity's name. Administration of the temple's funds and the corridor project were the subject of continuing litigation and government measures as of the sources consulted here, and details should be treated as subject to change.",
+    "architectureStyle": "Rajasthani",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC003",
+      "SRC005",
+      "SRC007"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Mathura Junction (MTJ) and Mathura Cantt (MRT)",
+    "nearestAirport": "Kheria Airport, Agra, 46 km",
+    "airportDistanceKm": 46,
+    "officialContactNote": "The temple registers among the highest daily footfalls in Vrindavan (reported at 30,000–40,000 devotees a day, rising to several lakh on festivals such as Janmashtami), and a Supreme Court-directed corridor and crowd-management project was under way as of May 2025. Confirm current darshan arrangements before travelling, especially around major festivals. Address: Goda Vihar, Madan Mohan Bankey Bihari Road, Vrindavan, Mathura district, Uttar Pradesh 281121.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Summer darshan (morning)",
+      "openTime": "07:45",
+      "closeTime": "12:00",
+      "closedFlag": false,
+      "notes": "Official summer schedule (5 March – 10 November per the temple's own site): temple opens 7:45 AM, Shringar Aarti 7:55 AM, Rajbhog/Bhog 11:00–11:30 AM, darshan closes 12:00 noon.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Summer darshan (evening)",
+      "openTime": "17:30",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "notes": "Official summer schedule: temple reopens 5:30 PM, evening Bhog 8:30–9:00 PM, Shayan Aarti and closing 9:30 PM.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Winter darshan (morning)",
+      "openTime": "08:45",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "notes": "Winter schedule (roughly after Diwali through February) per a Mathura-Vrindavan tourism guide; not published on the temple's own site, which lists only a summer table.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "hoursId": "HRS004",
+      "dayType": "daily",
+      "sessionName": "Winter darshan (evening)",
+      "openTime": "16:30",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "Winter schedule per the same tourism guide; treat as needing confirmation before travel.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Shringar Aarti",
+      "startTime": "07:55",
+      "recurrence": "Daily (summer season)",
+      "description": "Morning adornment aarti, performed shortly after the temple opens.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "seva",
+      "nameEn": "Rajbhog",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "recurrence": "Daily (summer season)",
+      "description": "Midday food-offering ceremony; darshan pauses while it is performed.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "seva",
+      "nameEn": "Evening Bhog",
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "recurrence": "Daily (summer season)",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "aarti",
+      "nameEn": "Shayan Aarti",
+      "startTime": "21:30",
+      "recurrence": "Daily (summer season)",
+      "description": "Closing aarti of the day, after which the temple closes for the night.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Janmashtami",
+      "tamilOrLocalMonth": "Bhadrapada (August–September)",
+      "duration": "1 day",
+      "significance": "Krishna's birthday; among the temple's major festivals and its highest-footfall day.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Radha Ashtami",
+      "tamilOrLocalMonth": "Bhadrapada (August–September)",
+      "duration": "1 day",
+      "significance": "Birthday of Radha and, per the temple's own site, also observed as the birthday of Swami Haridas. Listed by the temple for 19 September in 2026; the exact date shifts yearly with the lunar calendar.",
+      "verificationStatus": "verified",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Sharad Purnima",
+      "tamilOrLocalMonth": "Ashwin (October)",
+      "duration": "1 day",
+      "significance": "Maha Raas celebration; the deity is shown holding a flute for this festival. Listed by the temple for 26 October in 2026.",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Holi",
+      "tamilOrLocalMonth": "Phalguna (March)",
+      "significance": "Festival of colours, widely celebrated across Vrindavan's Krishna temples.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Banke Bihari Temple, Vrindavan — main gate",
+      "caption": "Main gate of the Banke Bihari Temple, Vrindavan, photographed 26 February 2012.",
+      "altText": "Main entrance gate of the Banke Bihari Temple in Vrindavan.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bankebihari_temple_main_gate_Vrindavan.JPG",
+      "creator": "Ashish Bhatnagar (आशीष भटनागर)",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Ashish Bhatnagar (आशीष भटनागर) · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bankebihari_temple_main_gate_Vrindavan.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shri Banke Bihari Mandir, Vrindavan Dham — official website",
+      "publisherOrAuthority": "Sewa adhikaris of Shri Banke Bihari Mandir, Vrindavan",
+      "url": "https://www.bihariji.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Summer darshan/aarti timing table (temple open, Shringar Aarti, Bhog, closing aarti), 2026 festival dates for Radha Ashtami, Sharad Poornima and Roop Chaturdashi, and identification of the temple's own managing sewa adhikaris.",
+      "reliabilityNote": "The temple's own site; the darshan table is explicitly for the summer season (5 March–10 November) and no separate winter table is published here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Mandir History — Shri Banke Bihari Mandir",
+      "publisherOrAuthority": "Sewa adhikaris of Shri Banke Bihari Mandir, Vrindavan",
+      "url": "https://www.bihariji.org/public/MandirHistory.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "Swami Haridas founding narrative, the deity's traditional appearance to Haridas, entrustment of worship to Goswami Jagannath, the 1862 construction, and the three daily worship ceremonies (Shringar, Rajbhog, Shayan).",
+      "reliabilityNote": "The temple's own account of its founding tradition; devotional in framing, presented here as the temple's own claim rather than independently verified history.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Shri Banke Bihari — District Mathura, Government of Uttar Pradesh",
+      "publisherOrAuthority": "District administration, Mathura, Government of Uttar Pradesh",
+      "url": "https://mathura.nic.in/tourist-place/shri-banke-bihari/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Meaning of the name Bankey Bihari, the deity's original worship as Kunj-Bihari at Nidhivan, the temple's place among Vrindavan's major Krishna shrines, and general access/transport information (Kheria Airport, Agra, 46 km; Delhi IGI Airport, 136 km; rail via Mathura Junction and Mathura Cantt).",
+      "reliabilityNote": "Undated government tourism page; does not give specific darshan hours or a street address for the temple.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Banke Bihari Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banke_Bihari_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Tribhanga iconography and the Brahma-samhita verse reference, the curtain-drawing darshan tradition and its popular rationale, the absence of bells inside the temple, the festival list (Janmashtami, Radhashtami, Holi, Sharad Purnima, Kartik Purnima, and a Shravan-month swing observance), geographic coordinates (27.57976°N 77.69051°E), and the 19th-century sadhu-goswami dispute that preceded the move to the present site around 1862–1864.",
+      "reliabilityNote": "Tertiary encyclopedia source; used for iconography, tradition and festival context not covered by the temple's own site.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Banke Bihari Temple Vrindavan — Mathura Vrindavan Tourism",
+      "publisherOrAuthority": "Mathura Vrindavan Tourism",
+      "url": "https://mathuravrindavantourism.co.in/banke-bihari-temple-vrindavan",
+      "accessDate": "2026-09-18",
+      "claimScope": "Full postal address including PIN code (Goda Vihar, Madan Mohan Bankey Bihari Road, Vrindavan, Uttar Pradesh 281121), winter darshan and aarti timings, and free entry.",
+      "reliabilityNote": "Independent tourism content site, not an official or government source; used only where the temple's own site and the government page do not cover a detail (winter timings, PIN code).",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Bankebihari temple main gate Vrindavan.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bankebihari_temple_main_gate_Vrindavan.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the main gate photograph used in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File page; photograph dated 26 February 2012.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "other",
+      "title": "SC paves way for Shri Banke Bihari temple corridor in Vrindavan — The Tribune",
+      "publisherOrAuthority": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/india/supreme-court-paves-way-for-shri-banke-bihari-temple-corridor-in-vrindavan",
+      "accessDate": "2026-09-18",
+      "claimScope": "Supreme Court order of 15 May 2025 permitting the Uttar Pradesh government to use temple trust funds (reported as up to ₹500 crore) to acquire about five acres of land around the temple for a devotee holding area, with the land to be registered in the deity's name; the 2022 stampede cited as the catalyst; reported daily footfall of 30,000–40,000, rising to about 5 lakh on major festival days; note that an earlier Allahabad High Court order (November 2023) had barred this use of temple funds.",
+      "reliabilityNote": "News report on active, evolving litigation over temple administration and the corridor project; later developments were not independently verified for this record and the situation should be treated as subject to change.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Radha"
+    ],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002",
+      "FES003"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Goda Vihar, Madan Mohan Bankey Bihari Road, Vrindavan, Mathura district, Uttar Pradesh 281121, India",
+    "bestTime": "February–April and October–December",
+    "entryFee": "Free"
+  },
+  "submittedBy": "development@cness.co"
+}

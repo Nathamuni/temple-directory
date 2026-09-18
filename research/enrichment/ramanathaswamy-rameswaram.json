@@ -1,0 +1,212 @@
+{
+  "slug": "ramanathaswamy-rameswaram",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Ramanathaswamy Temple, Rameswaram - 623526, Ramanathapuram District [TM035671]",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://rameswaramramanathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=35671",
+      "accessDate": "2026-09-18",
+      "claimScope": "Official temple name, HR&CE administration, opening and closing times, the 22 theerthams and their bathing hours, the sthala puranam of Rama's consecration of the lingam, temple area.",
+      "reliabilityNote": "Page is undated and states its opening hours inconsistently (see the notes on openingHours); treat all timings as needing rechecking.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Ramanathaswamy Temple, Rameswaram — Pooja Information",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://rameswaramramanathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=35671&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "Names and timings of the six daily kaala poojas.",
+      "reliabilityNote": "Undated page; no statement about festival-day variation is given, but pooja times at HR&CE temples commonly shift during festivals.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Ramanathaswamy Temple, Rameswaram — Contact Us",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://rameswaramramanathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=35671&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "Street address, official telephone number and departmental email address.",
+      "reliabilityNote": "Undated page.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "sourceTypeNote": "Reference encyclopedia, used for history and architecture only",
+      "title": "Ramanathaswamy Temple",
+      "publisherOrAuthority": "Wikipedia (with sources cited therein)",
+      "url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Patronage history (Pandya, Jaffna kings, Setupatis), corridor dimensions and pillar count, rajagopuram height, the two lingams, Paadal Petra Sthalam status, the significance of the 22 theerthams.",
+      "reliabilityNote": "Tertiary source; not used for any timing, pooja or contact claim.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Ramanathaswamy temple corridor.JPG",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Vensatry",
+      "url": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple_corridor.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple's pillared corridor; author and licence.",
+      "reliabilityNote": "Licence and author read from the Commons File: page; photograph dated 30 May 2013.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Ramanathaswamy Temple is one of the twelve Jyotirlinga shrines of Shiva and the southern site of the Char Dham circuit, and is also a Paadal Petra Sthalam hymned by the Nayanars. Temple tradition holds that Rama consecrated and worshipped a lingam here after the war in Lanka to expiate the sin of brahmahatya, with Sita fashioning a lingam from sand when Hanuman was delayed in bringing one from Kailasa. Pilgrims bathe at the 22 theerthams inside the temple precinct as a defining part of the visit.",
+    "sacredClassifications": ["Jyotirlinga", "Char Dham", "Paadal Petra Sthalam"],
+    "tradition": "Shaiva",
+    "consortDeity": "Parvathavardhini (Parvati)",
+    "localLanguage": "Tamil"
+  },
+
+  "governance": {
+    "founderPatron": "Expanded by the Pandyas in the 12th century; sanctum renovated with stone shipped from Trincomalee under the Jaffna king Jeyaveera Cinkaiariyan (1380-1410); the third corridor built under Muthuramalinga Setupati of Ramanathapuram (r. 1763-1795)",
+    "managingAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+    "administrationType": "Government department",
+    "officialWebsite": "https://rameswaramramanathar.hrce.tn.gov.in",
+    "officialPhone": "04573221223",
+    "officialEmail": "jceorameshwaram_35671.hrce@tn.gov.in"
+  },
+
+  "narrative": {
+    "documentedHistory": "The temple stands on Rameswaram island and occupies roughly 15 acres. It is one of the 276 Paadal Petra Sthalams glorified in the Tevaram hymns of the Nayanars, indicating worship at the site well before the surviving structures.\n\nThe Pandya dynasty expanded the temple during the twelfth century. The kings of Jaffna made substantial contributions: Jeyaveera Cinkaiariyan (1380-1410) is recorded as having shipped stone blocks from Trincomalee for the renovation of the sanctum. The Setupatis of Ramanathapuram were the temple's later patrons; Muthuramalinga Setupati (r. 1763-1795) built the third and outermost corridor for which the temple is best known.\n\nThe outer corridors stand about 6.9 m high and run roughly 400 ft east-west by 640 ft north-south, the inner corridors 224 ft by 352 ft; the combined corridor length is given as about 3,850 ft, with roughly 1,212 pillars in the outer corridor, each about 30 ft from floor to roof centre. The principal rajagopuram rises about 53 m.",
+    "sthalaPuranam": "The HR&CE temple page records the traditional account that Rama, after the war in Lanka, consecrated and worshipped a Sivalinga here to expiate the sin of brahmahatya, and that when Hanuman was delayed in bringing a lingam from Mount Kailasa, Sita fashioned one from sand. The page also describes the island as shaped like a conch in the hands of Thirumal.",
+    "architectureStyle": "Dravidian",
+    "inscriptionsSummary": ""
+  },
+
+  "visitingInfo": {
+    "entryRules": "Bathing at the 22 theerthams inside the temple premises is permitted from 5:30 AM to 12:30 PM and from 3:00 PM to 7:00 PM.",
+    "officialContactNote": "Timings, theertham bathing hours and festival-day arrangements should be confirmed with the HR&CE temple office on 04573221223 or via rameswaramramanathar.hrce.tn.gov.in; the official page states its own opening hours inconsistently.",
+    "sourceIds": ["SRC001", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck"
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:00",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "notes": "The HR&CE page is internally inconsistent: it gives a morning session of 4:00 AM to 1:00 PM while also stating that devotees are admitted from 5:00 AM. The later admission time is recorded here as the practical opening; verify before travelling.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "The HR&CE page gives an afternoon/evening session of 3:00 PM to 8:00 PM but also states that the temple closes at 9:00 PM daily; the Ardhajama pooja is listed at 8:30 PM, consistent with the later closing. Verify before travelling.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+
+  "poojas": [
+    {
+      "poojaId": "PUJ001", "recordType": "pooja", "nameEn": "Thiruvanandal pooja",
+      "startTime": "06:00", "endTime": "06:15", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002", "recordType": "pooja", "nameEn": "Vilaa pooja",
+      "startTime": "07:00", "endTime": "07:15", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003", "recordType": "pooja", "nameEn": "Kalasandhi pooja",
+      "startTime": "10:00", "endTime": "10:15", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004", "recordType": "pooja", "nameEn": "Uchikkala pooja",
+      "startTime": "12:00", "endTime": "12:15", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005", "recordType": "pooja", "nameEn": "Sayaraksha pooja",
+      "startTime": "18:00", "endTime": "18:15", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006", "recordType": "pooja", "nameEn": "Ardhajama pooja",
+      "startTime": "20:30", "endTime": "20:45", "recurrence": "Daily",
+      "description": "The last pooja of the day.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR001", "shrineName": "Ramanathaswamy sanctum", "deityOrSubject": "Shiva as Ramanathaswamy",
+      "spaceType": "shrine",
+      "locationDescription": "The sanctum holds two lingams: the Ramalingam, which tradition says Rama made from sand, and the Vishvalingam, said to have been brought by Hanuman from Kailasa.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002", "shrineName": "Parvathavardhini shrine", "deityOrSubject": "Parvathavardhini (Parvati)",
+      "spaceType": "shrine",
+      "locationDescription": "A separate shrine for the goddess within the complex.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003", "shrineName": "Vishalakshi shrine", "deityOrSubject": "Vishalakshi",
+      "spaceType": "shrine",
+      "locationDescription": "A separate goddess shrine within the complex.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004", "shrineName": "Third corridor (outer prakaram)", "spaceType": "prakaram",
+      "locationDescription": "The outermost pillared corridor, built under Muthuramalinga Setupati (r. 1763-1795); about 6.9 m high, running roughly 400 ft east-west by 640 ft north-south, with about 1,212 pillars.",
+      "linkedMediaIds": ["MED001"], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005", "shrineName": "The 22 theerthams", "spaceType": "tank",
+      "locationDescription": "Twenty-two holy wells inside the temple premises, traditionally identified with the 22 arrows in Rama's quiver. Pilgrims bathe at them in sequence; bathing is permitted 5:30 AM to 12:30 PM and 3:00 PM to 7:00 PM. Agni Theertham, the shore of the Bay of Bengal immediately east of the temple, is counted with them.",
+      "linkedMediaIds": [], "sourceIds": ["SRC001", "SRC004"], "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR006", "shrineName": "Rajagopuram", "spaceType": "gopuram",
+      "locationDescription": "The principal tower of the temple, about 53 m tall.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED001", "mediaType": "image", "category": "architecture",
+      "title": "Corridor of Sri Ramanathaswamy Temple, Rameswaram",
+      "caption": "One of the temple's pillared corridors, photographed in May 2013.",
+      "altText": "A long stone corridor lined on both sides with tall carved pillars receding into the distance.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ramanathaswamy_temple_corridor.JPG",
+      "creator": "Vensatry",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Vensatry · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramanathaswamy_temple_corridor.JPG"
+    }
+  ]
+}

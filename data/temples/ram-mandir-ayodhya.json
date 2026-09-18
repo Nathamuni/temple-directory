@@ -1,0 +1,111 @@
+{
+  "templeId": "TPL-IN-UP-AYO-0055",
+  "slug": "ram-mandir-ayodhya",
+  "status": "published",
+  "identity": {
+    "nameEn": "Shri Ram Janmabhoomi Mandir, Ayodhya",
+    "alternateNames": [
+      "Ram Mandir",
+      "Ram Janmabhoomi Temple"
+    ],
+    "presidingDeity": "Rama (as Ram Lalla)",
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnavite",
+    "sacredClassifications": [
+      "Rama Janmasthan"
+    ],
+    "spiritualSignificanceShort": "The temple marks the traditionally held birthplace (Janmasthan) of Rama in Ayodhya and enshrines Ram Lalla, the infant form of Rama. Consecrated in January 2024 after decades of legal and political dispute over the site, it has become one of the most visited pilgrimage destinations in North India.",
+    "nameLocal": "श्री राम जन्मभूमि मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Ayodhya",
+    "district": "Ayodhya",
+    "stateProvince": "Uttar Pradesh",
+    "country": "India",
+    "latitude": 26.7956,
+    "longitude": 82.1944
+  },
+  "governance": {
+    "establishedEra": "Ground-breaking 5 August 2020; consecrated (Prana Pratishtha) 22 January 2024; construction reported complete 25 November 2025",
+    "managingAuthority": "Shri Ram Janmabhoomi Teerth Kshetra Trust",
+    "administrationType": "Public trust"
+  },
+  "narrative": {
+    "summaryIntro": "Shri Ram Janmabhoomi Mandir in Ayodhya, Uttar Pradesh, is built on the site traditionally held to be the birthplace of Rama. The temple, in Nagara-tradition Maru-Gurjara style, was constructed after a 2019 Supreme Court verdict awarded the disputed site to a trust for temple construction, with a mosque relocated to an alternate site. The idol of Ram Lalla was consecrated on 22 January 2024.",
+    "documentedHistory": "The site was the subject of a long-running legal and political dispute, the Ayodhya dispute, centred on the 16th-century Babri Masjid that stood there until its demolition in 1992. In November 2019 the Supreme Court of India ruled that the disputed 2.77-acre site be handed to a trust for construction of a Hindu temple, while alternate land was allotted for a mosque. The Shri Ram Janmabhoomi Teerth Kshetra Trust was constituted to build and manage the temple; construction began with a Bhumi Pujan on 5 August 2020. The main sanctum's Prana Pratishtha (consecration) ceremony was held on 22 January 2024, with the temple's broader construction reported complete on 25 November 2025.",
+    "architectureStyle": "Maru-Gurjara style within the Nagara tradition, designed per Vastu shastra and Shilpa shastra principles by the Sompura family of temple architects; three storeys, 366 columns, approximately 110m long, 72m wide and up to 49m high.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "sourced"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Ram Navami",
+      "significance": "Celebrates the birth of Rama; the temple's Surya Tilaka mechanism directs sunlight onto the deity's forehead at solar noon on this day.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Shri Ram Janmabhoomi Mandir, Ayodhya",
+      "caption": "The completed Ram Mandir temple structure in Ayodhya.",
+      "altText": "Exterior view of the Ram Mandir temple in Ayodhya, Uttar Pradesh.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri_Ram_Janambhoomi_Mandir,_Ayodhya.jpg",
+      "creator": "Prime Minister's Office, Government of India",
+      "license": "Government Open Data License - India (GODL)",
+      "attributionText": "PMO, Government of India · GODL-India",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Ram_Janambhoomi_Mandir,_Ayodhya.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Ram Mandir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ram_Mandir",
+      "accessDate": "2026-09-18",
+      "claimScope": "History, consecration dates, architecture, managing trust, Ram Navami/Surya Tilaka detail.",
+      "reliabilityNote": "Recent, actively-edited article on an ongoing construction project; details (e.g. exact darshan timings) may change.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Shri Ram Janmabhoomi Mandir, Ayodhya — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shri_Ram_Janambhoomi_Mandir,_Ayodhya.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (Prime Minister's Office, Government of India) and license (Government Open Data License - India (GODL)) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "templeId": "TPL-IN-WB-DAK-0063",
+  "slug": "dakshineswar-kali-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Dakshineswar Kali Temple",
+    "alternateNames": [
+      "Sri Sri Jagadishwari Mahakali Temple"
+    ],
+    "presidingDeity": "Bhavatarini (Kali)",
+    "tradition": "Shakta",
+    "templeType": "Shaktipeeth",
+    "sacredClassifications": [],
+    "spiritualSignificanceShort": "Dakshineswar Kali Temple, on the eastern bank of the Hooghly river in Kolkata, enshrines the Goddess as Bhavatarini, a form of Kali. Built by Rani Rashmoni in the 1850s, it is closely associated with the 19th-century mystic Ramakrishna, who served as a priest here.",
+    "nameLocal": "দক্ষিণেশ্বর কালীমন্দির",
+    "localLanguage": "Other"
+  },
+  "location": {
+    "city": "Dakshineswar, Kolkata",
+    "district": "North 24 Parganas",
+    "stateProvince": "West Bengal",
+    "country": "India",
+    "latitude": 22.655,
+    "longitude": 88.35778
+  },
+  "governance": {
+    "establishedEra": "Constructed 1847–1855; image installed 31 May 1855",
+    "founderPatron": "Rani Rashmoni",
+    "administrationType": "Private trust"
+  },
+  "narrative": {
+    "summaryIntro": "Dakshineswar Kali Temple stands on the eastern bank of the Hooghly river near Kolkata, West Bengal, dedicated to the Goddess as Bhavatarini, a form of Kali. Built between 1847 and 1855 by the philanthropist Rani Rashmoni, the temple is renowned for its association with the 19th-century mystic Ramakrishna, who served as a priest here from 1856.",
+    "documentedHistory": "According to temple tradition, Rani Rashmoni, a zamindar and philanthropist, planned a pilgrimage to Varanasi in 1847 but was instructed in a vision to build a temple to the Goddess instead. The temple was constructed between 1847 and 1855 on land purchased from an Englishman, and the image of the Goddess was installed on Snana Yatra day, 31 May 1855. Ramkumar Chattopadhyay, elder brother of Ramakrishna, served as the temple's first head priest from 1855; Ramakrishna succeeded him in 1856 and his long association with Dakshineswar became central to the temple's later spiritual reputation. Rani Rashmoni endowed the temple with property before her death in 1861.",
+    "architectureStyle": "Bengal Navaratna (nine-spired) style; a three-storey, south-facing structure roughly 14 metres square and over 30 metres high.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "sourced"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Kali Puja",
+      "significance": "Major annual festival at the temple, dedicated to the presiding Goddess.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Durga Puja",
+      "significance": "Observed at the temple as part of its wider Shakta festival calendar.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Snana Yatra",
+      "significance": "Anniversary of the installation of the Goddess's image on 31 May 1855.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Dakshineswar Kali Temple",
+      "caption": "The Navaratna-style Dakshineswar Kali Temple on the Hooghly riverbank.",
+      "altText": "Exterior view of the Dakshineswar Kali Temple, Kolkata.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakshineswar%20Kali%20Temple,%20Dakshineswar,%20North%2024%20Parganas%20district,%20India.jpg",
+      "creator": "Ravi Dwivedi (Libreravi)",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ravi Dwivedi · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_North_24_Parganas_district,_India.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Dakshineswar Kali Temple — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding history, Rani Rashmoni, installation date, Ramakrishna connection, architecture, festivals.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Dakshineswar Kali Temple — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_North_24_Parganas_district,_India.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (Ravi Dwivedi (Libreravi)) and license (CC BY-SA 4.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

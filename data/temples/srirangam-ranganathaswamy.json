@@ -34,7 +34,9 @@
     "establishedEra": "Antiquity attested from the Sangam era; expanded 9th–17th centuries CE · Pre-6th century CE origins; present complex largely 14th–17th century CE",
     "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
     "officialWebsite": "https://srirangam.hrce.tn.gov.in",
-    "officialPhone": "+91-431-2432246"
+    "officialPhone": "+91-431-2432246",
+    "administrationType": "Government department",
+    "officialEmail": "jceotry_25700.hrce@tn.gov.in"
   },
   "narrative": {
     "summaryIntro": "Sri Ranganathaswamy Temple at Srirangam, Tiruchirappalli, Tamil Nadu, is a Hindu temple dedicated to Ranganatha, the reclining form of the god Vishnu. Situated on an island formed by the Kaveri and Kollidam rivers, it is generally regarded as the largest functioning Hindu temple in the world, its walled complex covering roughly 63 hectares (156 acres).\n\nThe temple is the first and foremost of the 108 Divya Desams — the Vishnu temples glorified in the Naalayira Divya Prabandham, the early-medieval Tamil canon of the Alvar saints. It is a principal centre of the Sri Vaishnava tradition and was the seat of the philosopher Ramanuja in the 11th–12th centuries.\n\nBuilt and expanded over more than a millennium under the Chola, Pandya, Hoysala, Vijayanagara and Nayak dynasties, the complex contains seven concentric prakaras (enclosures), 21 gopurams (gateway towers), and numerous mandapams (pillared halls). Its 13-tiered Rajagopuram, completed in 1987, rises about 72 metres, making it one of the tallest temple towers in Asia.",
@@ -44,39 +46,70 @@
     "architectureStyle": "Dravidian"
   },
   "editorial": {
-    "overallVerificationStatus": "partial"
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "The postal address given by HR&CE is 1, South Uthra Street, Srirangam, Thiruchirappalli District, Tamil Nadu 620006. The postal address given by HR&CE is 1, South Uthra Street, Srirangam, Thiruchirappalli District, Tamil Nadu 620006."
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC007",
+      "SRC008",
+      "SRC009"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire; shoulders and knees covered. Dhoti/saree recommended for sevas.",
     "entryRules": "• Traditional dress required; western formal wear is tolerated in outer prakaras but not for special sevas.\n• Free darshan queue operates all day; paid quick-darshan tickets are available at the counters.\n• Elderly and differently-abled devotees may use the wheelchair assistance and separate queue at the main gate.\n• No photography or videography beyond the outer prakaras.\n• No leather goods, footwear, tobacco, alcohol or non-vegetarian food inside the complex.\n• Sanctum entry restricted to Hindus, per temple custom.\n• Mobile phones must be silent; calls are not permitted in the inner prakaras.",
     "nearestRailStation": "Srirangam railway station (1 km) on the Chennai–Tiruchirappalli line; Tiruchirappalli Junction 9 km.",
     "railDistanceKm": 1,
     "nearestBusStation": "City buses and autos from Tiruchirappalli; NH-38/Chennai–Trichy highways.",
     "nearestAirport": "Tiruchirappalli International Airport (TRZ), ~15 km.",
-    "airportDistanceKm": 15
+    "airportDistanceKm": 15,
+    "officialContactNote": "HR&CE publishes the temple's darshan sessions and pooja timings on the temple page at hrce.tn.gov.in (temple id 25700) and advises devotees to be present at least one hour before darshan closes. The department's page states that darshan timings vary during festivals; confirm the day's schedule with the Executive Officer's office on 04312432246 before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
+      "sessionName": "Morning (first session)",
       "openTime": "06:00",
-      "closeTime": "13:00",
+      "closeTime": "09:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists this as two consecutive blocks, 06:00–07:15 and 07:15–09:00, corresponding to the Viswaroopa and Pongal poojas; there is no darshan during the Pongal pooja. This differs from the coarser 06:00–13:00 morning window previously recorded for this temple.",
+      "sourceIds": [
+        "SRC007",
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
+      "sessionName": "Midday",
+      "openTime": "12:00",
+      "closeTime": "14:15",
+      "closedFlag": false,
+      "notes": "HR&CE lists this as 12:00–12:30 and 12:30–14:15.",
+      "sourceIds": [
+        "SRC007"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
       "sessionName": "Evening",
-      "openTime": "15:00",
+      "openTime": "17:30",
       "closeTime": "21:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE lists this as 17:30–19:00 and 19:00–21:00; there is no darshan during the Ksheerannam pooja, 17:30–19:00. The department also describes the shrine as operating 06:00–21:00 daily with closures for rituals, and warns that festival schedules differ.",
+      "sourceIds": [
+        "SRC007",
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
     }
   ],
   "worshipSop": [
@@ -201,92 +234,62 @@
     {
       "poojaId": "PUJ001",
       "recordType": "pooja",
-      "nameEn": "Viswaroopa Seva",
-      "startTime": "06:00",
+      "nameEn": "Viswaroopa Pooja",
+      "startTime": "06:15",
+      "endTime": "07:15",
       "recurrence": "Daily",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "description": "The first service of the day. HR&CE states it is not performed during festivals or during the Tamil month of Markazhi.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "poojaId": "PUJ002",
       "recordType": "pooja",
-      "nameEn": "Pooja / Thiruvaradhanam",
+      "nameEn": "Pongal Pooja",
       "startTime": "07:15",
+      "endTime": "09:00",
       "recurrence": "Daily",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "description": "HR&CE states there is no darshan for devotees during this pooja.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "poojaId": "PUJ003",
       "recordType": "pooja",
-      "nameEn": "Uchikala Pooja",
-      "startTime": "12:00",
+      "nameEn": "Ksheerannam",
+      "startTime": "17:30",
+      "endTime": "19:00",
       "recurrence": "Daily",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "description": "HR&CE states there is no darshan for devotees during this pooja.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "poojaId": "PUJ004",
       "recordType": "pooja",
-      "nameEn": "Sayaratchai",
-      "startTime": "18:00",
+      "nameEn": "Aravanai",
+      "startTime": "21:30",
+      "endTime": "22:00",
       "recurrence": "Daily",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "poojaId": "PUJ005",
-      "recordType": "pooja",
-      "nameEn": "Ekanta Seva (night ritual)",
-      "startTime": "21:00",
-      "recurrence": "Daily",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "poojaId": "SEV001",
-      "recordType": "seva",
-      "nameEn": "Archana",
-      "description": "Personalised puja with the devotee's name, gotra and nakshatra recited by the priest.",
-      "bookingMethod": "Counter in the inner prakara",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "poojaId": "SEV002",
-      "recordType": "seva",
-      "nameEn": "Thirumanjanam (Abhishekam)",
-      "description": "Ceremonial bath of the utsava deity with milk, curd, honey and sandal on published days.",
-      "bookingMethod": "Devasthanam office / HR&CE online",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "poojaId": "SEV003",
-      "recordType": "seva",
-      "nameEn": "Vahana Seva Sponsorship",
-      "description": "Sponsor a procession of the deity on one of the temple's vahanas (mounts) during festivals.",
-      "bookingMethod": "Advance booking at Devasthanam office",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "poojaId": "SEV004",
-      "recordType": "seva",
-      "nameEn": "Annadanam",
-      "description": "Sponsor free meals served daily to devotees.",
-      "bookingMethod": "Annadanam counter or online",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "description": "The closing service of the day, performed after darshan hours.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "festivals": [
@@ -504,6 +507,39 @@
       "publisherOrAuthority": "Temple chronicle (historical record)",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700",
+      "accessDate": "2026-09-18",
+      "claimScope": "Administration by HR&CE through an Executive Officer and Trustee; the temple's standing as first among the 108 Vaishnava Divya Desams and as Bhooloka Vaikuntam; the reclining, south-facing moolavar; seven prakarams; the 13-tier South Rajagopuram at 236 feet; the published darshan session windows.",
+      "reliabilityNote": "The HR&CE temple page is undated and states that darshan times vary during festivals. Its darshan windows do not match the coarse morning/evening hours previously recorded for this temple, so both are noted.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The four poojas listed by HR&CE with their timings (Viswaroopa, Pongal, Ksheerannam, Aravanai), the suspension of Viswaroopa during festivals and the month of Markazhi, the absence of darshan during the Pongal and Ksheerannam periods, and the advice to arrive at least an hour before darshan closes.",
+      "reliabilityNote": "Undated government page; the temple itself warns that festival schedules alter these timings. Treat as needing recheck before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's official postal address, telephone number and departmental email address, and the fact that the Executive Officer is the point of contact.",
+      "reliabilityNote": "Undated government page; the email is published in an obfuscated form on the page and is reconstructed here in standard form.",
       "adminApproved": true
     }
   ],

@@ -14,7 +14,7 @@
       "Ujjain",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Mahakaleshwar is counted among the twelve Jyotirlingas, and its lingam is held to be swayambhu — self-manifested rather than ritually installed. Uniquely among the twelve, the idol is dakshinamurti, facing south, a feature the tantric tradition treats as distinctive to this shrine. Ujjain was long a reference centre for Indian timekeeping, and Mahakala is revered as the presiding deity of the city and as lord of time.",
     "nameLocal": "महाकाल मंदिर",
     "localLanguage": "Hindi"
   },
@@ -29,72 +29,206 @@
   },
   "governance": {
     "establishedEra": "Ancient origins; multiple reconstructions · Currently standing structure from medieval period",
-    "managingAuthority": "Ujjain Municipality"
+    "managingAuthority": "Ujjain Municipality",
+    "administrationType": "Government department"
   },
   "narrative": {
     "summaryIntro": "Mahakaleshwar Temple in Ujjain is one of the twelve Jyotirlingas and is dedicated to Lord Shiva as Mahakal (Lord of Time). Located on the banks of the Kshipra River, the temple holds immense significance in Shaivite tradition and is one of the most important pilgrimage destinations in central India. The sanctum is unique in that the Shiva Linga is installed facing south, which is rare and symbolically significant.\n\nThe temple is renowned for its spectacular evening Aarti ceremony, which includes the Bhasma Aarti (ash offering), performed by traditional priests. The temple complex features ancient architecture and is situated in the historically significant city of Ujjain, which served as the capital of various dynasties. The temple attracts devotees throughout the year, with special significance during Shivaratri and Ujjain's Kumbh Mela.",
-    "documentedHistory": "",
+    "documentedHistory": "Ujjain's Shaiva shrine has a long recorded history of destruction and rebuilding. The temple was dismantled in 1234-35 during the raid of Iltutmish, and tradition holds that the Jyotirlinga was thrown into the nearby Kotiteerth Kunda. Further attacks are recorded under Jalaluddin and Alauddin Khalji.\n\nThe standing temple is substantially a product of the eighteenth-century Maratha period; Madhya Pradesh Tourism dates the construction to the fourth and fifth decades of the eighteenth century, and Wikipedia attributes the reconstruction to Ramachandra Sukthankar. After Indian independence in 1947 the management of the temple passed from the Mahakaleshwar Dev Sthan Trust to Ujjain's municipal body, and it is now overseen through the district collectorate.\n\nIn the twenty-first century the surroundings were substantially rebuilt as the Shri Mahakal Lok corridor, a development of more than 900 metres carrying 108 pillars, over 200 statues and murals drawn from the Shiva Purana.",
     "associatedSaints": [],
     "architectureStyle": "North Indian"
   },
   "editorial": {
-    "overallVerificationStatus": "partial"
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "Airport distance is given as 53 km by the Ujjain district and divisional portals, 55 km by MP Tourism and 58 km by Wikipedia; 53 km is recorded here as the government figure. Airport distance is given as 53 km by the Ujjain district and divisional portals, 55 km by MP Tourism and 58 km by Wikipedia; 53 km is recorded here as the government figure."
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Ujjain Railway Station, 2 km",
     "railDistanceKm": 2,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Devi Ahilya Bai Holkar Airport, Indore, 55 km",
-    "airportDistanceKm": 55
+    "airportDistanceKm": 55,
+    "officialContactNote": "Darshan and aarti timings recorded here come from the Madhya Pradesh Tourism Board page and are not a live schedule. Bhasma Aarti in particular is capacity-limited and subject to advance registration; confirm current timings, registration rules and any festival-day changes with the temple administration before travelling. The MP Tourism helpline listed on the state tourism page is 1800-233-7777 (Monday to Friday, 10:00-18:00).",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
+      "sessionName": "Darshan",
       "openTime": "04:00",
-      "closeTime": "12:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
       "closeTime": "23:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "MP Tourism states the temple operates continuously through the day with no afternoon closure. Festival days, Mahashivaratri and Shravan Mondays alter access substantially.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Mahakaleshwar sanctum",
+      "deityOrSubject": "Shiva as Mahakaleshwar",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum, housing the swayambhu lingam, which faces south in the dakshinamurti form. Nandi is placed to the south, and images of Ganesh, Parvati and Kartikeya stand at the cardinal points of the sanctuary.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Omkareshwar Mahadev",
+      "deityOrSubject": "Shiva as Omkareshwar",
+      "spaceType": "shrine",
+      "locationDescription": "In the sanctum directly above the Mahakaleshwar shrine.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Nagchandreshwar",
+      "deityOrSubject": "Shiva as Nagchandreshwar",
+      "spaceType": "shrine",
+      "locationDescription": "On the third storey of the temple; opened to visitors only on Nag Panchami.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Shri Mahakal Lok corridor",
+      "deityOrSubject": "Processional corridor and precinct",
+      "spaceType": "other",
+      "locationDescription": "A corridor of more than 900 metres approaching the temple, carrying 108 pillars and over 200 statues and murals drawn from the Shiva Purana.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Bhasma Aarti",
+      "nameLocal": "भस्म आरती",
+      "startTime": "04:00",
+      "endTime": "06:00",
+      "recurrence": "Daily",
+      "description": "The temple's signature pre-dawn ritual, in which ash is offered to the lingam. Madhya Pradesh Tourism states the ash used is prepared from cow dung. Attendance is capacity-limited and requires advance registration; the specific registration procedure is not recorded here because it could not be read from the temple's own site.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Morning Pooja",
+      "startTime": "07:00",
+      "endTime": "07:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Evening Pooja",
+      "startTime": "17:00",
+      "endTime": "17:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "aarti",
+      "nameEn": "Shree Mahakaal Aarti",
+      "startTime": "19:00",
+      "endTime": "19:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
       "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Night of Shiva; grand celebrations and special rituals",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "gregorianRuleOrDate": "Phalguna Krishna Chaturdashi; falls in February or March",
+      "significance": "The principal Shaiva observance of the year at this Jyotirlinga.",
+      "processionOrRituals": "A large fair is held near the temple and worship continues through the night.",
+      "crowdNote": "Among the heaviest crowd days of the year at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
     },
     {
       "festivalId": "FES002",
-      "festivalNameEn": "Kartik Purnima",
-      "tamilOrLocalMonth": "October–November",
-      "duration": "1 day",
-      "significance": "Full moon festival with special worship",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Nag Panchami",
+      "gregorianRuleOrDate": "Shravana Shukla Panchami; falls in July or August",
+      "significance": "The one day in the year on which the Nagchandreshwar idol on the third storey of the temple is opened to visitors.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Mahakal Sawari",
+      "gregorianRuleOrDate": "Held during the months of Shravana and Bhadrapada",
+      "significance": "A processional outing of the deity through the city, a distinctive Ujjain observance.",
+      "processionOrRituals": "The procession includes a ceremonial police salute and worship of the deity at the Shipra ghat.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -129,6 +263,50 @@
       "title": "Ujjain Tourism Official Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Shri Mahakaleshwar Temple | District Ujjain, Government of Madhya Pradesh | India",
+      "publisherOrAuthority": "District Administration Ujjain, Government of Madhya Pradesh (NIC)",
+      "url": "https://ujjain.nic.in/en/tourist-place/shri-mahakaleshwar-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Swayambhu and dakshinamurti (south-facing) character of the lingam; presence of the Omkareshwar shrine above the sanctum and images of Ganesh, Parvati and Kartikeya; Nagchandreshwar idol on the third storey open only on Nag Panchami; Mahashivaratri fair with night-long worship; Ujjain as a historic centre of Indian timekeeping; road and rail/air access distances.",
+      "reliabilityNote": "District portal page carries no publication or revision date; descriptive rather than operational — it states no timings.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Shree Mahakaleshwar Jyotirlinga, Ujjain - One of the Most Sacred Temples in Madhya Pradesh | Madhya Pradesh Tourism",
+      "publisherOrAuthority": "Madhya Pradesh Tourism Board, Government of Madhya Pradesh",
+      "url": "https://www.mptourism.com/mahakaleshwar-jyotirlinga-temple-ujjain-mp.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Darshan hours (04:00-23:00 with no afternoon closure); Bhasma Aarti 04:00-06:00; morning pooja 07:00-07:30; evening pooja 17:00-17:30; Shree Mahakaal Aarti 19:00-19:30; use of ash prepared from cow dung in the Bhasma Aarti; Shri Mahakal Lok corridor scale (900+ m, 108 pillars); Mahakal Sawari procession in Shravan-Bhadrapad; architectural blend of Bhumija, Maratha and Chalukya styles and an eighteenth-century construction date; MP Tourism helpline number.",
+      "reliabilityNote": "State tourism promotional page, undated. Timings are operational and change with season and festival crowds; treat as needing recheck against the temple's own notices.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Shree Mahakaleshwar Temple | Ujjain Division | India",
+      "publisherOrAuthority": "Ujjain Division, Government of Madhya Pradesh (NIC)",
+      "url": "https://ujjaindivisionmp.nic.in/en/tourist-place/shree-mahakaleshwar-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Corroborates the swayambhu and dakshinamurti description, the shrine layout, the Nag Panchami access to Nagchandreshwar, the Mahashivaratri fair, and the access distances.",
+      "reliabilityNote": "Divisional portal text closely mirrors the district portal; the two are not fully independent of each other.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Mahakaleshwar Jyotirlinga — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Mahakaleshwar_Jyotirlinga",
+      "accessDate": "2026-09-18",
+      "claimScope": "Five-level structure including an underground chamber; Nandi positioned to the south; destruction in 1234-35 during Iltutmish's raid and the tradition that the lingam was cast into the Kotiteerth Kunda; later attacks under Jalaluddin and Alauddin Khalji; eighteenth-century Maratha-period reconstruction; post-1947 transfer of management from the Mahakaleshwar Dev Sthan Trust to the Ujjain municipal body and present oversight by the district collectorate; Ujjain Junction 2 km.",
+      "reliabilityNote": "Tertiary source used only for history and administration background, not for timings or poojas.",
       "adminApproved": true
     }
   ],

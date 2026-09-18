@@ -1,0 +1,169 @@
+{
+  "slug": "akshardham-delhi",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Visit — Swaminarayan Akshardham New Delhi",
+      "publisherOrAuthority": "BAPS Swaminarayan Sanstha",
+      "url": "https://akshardham.com/visitor-info/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Open Tuesday to Sunday, closed every Monday; first entry 10:00 am and last entry 6:30 pm; free entry to the mandir complex and darshan; exhibition ticket prices (adults ₹260, seniors ₹210, children ₹160) and ticket window 11:00 am to 6:00 pm; water show tickets (₹110 adults and seniors, ₹80 children) with the show after sunset, currently 7:30 pm; the prohibited-items list; the dress code; the free cloakroom open 10:00 am to gate closing with mandatory switch-off of deposited electronics; address NH 24, Pramukh Swami Maharaj Marg, New Delhi 110092; phone +91-11-4344 2344.",
+      "reliabilityNote": "The temple's own visitor page and the authoritative source for entry rules. Undated; prices, show times and the sunset-linked water show time change. The water show time is explicitly given as 'currently' 7:30 pm.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Akshardham Temple — Visitors Information",
+      "publisherOrAuthority": "Delhi Tourism, Government of NCT of Delhi",
+      "url": "https://delhitourism.gov.in/tourist_place/ak_visitors_info.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Closure on Mondays; free complex, mandir and garden entry; the prohibited-items list; the dress code requiring shoulders and knees covered, with wraps available against a refundable ₹100 deposit; strictly prohibited behaviours (smoking, alcohol and drugs, tobacco products, impolite behaviour and language, pets); the older stated timings and exhibition fees recorded in notes as a conflict.",
+      "reliabilityNote": "Government tourism page but visibly out of date: it gives first entry 9:30 AM and exhibitions 10:00 AM–5:30 PM against the temple's own 10:00 am first entry, and exhibition fees (₹170/₹125/₹100) well below the temple's current ₹260/₹210/₹160. Used only for the dress-code wrap detail and conduct rules; timings and fees are taken from the temple's own page.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Swaminarayan Akshardham (Delhi) — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)",
+      "accessDate": "2026-09-18",
+      "claimScope": "Inauguration on 6 November 2005 by Pramukh Swami Maharaj; the 1968 wish of Yogiji Maharaj for a mandir on the Yamuna; construction from November 2000 to November 2005 by about 7,000 carvers and 3,000 volunteers; mandir dimensions 43 m high, 96 m wide, 109 m long; Rajasthani pink sandstone and Italian Carrara marble, built without ferrous metal; 234 carved pillars, nine domes, 148 life-sized elephants on the Gajendra Pith; the 3.4 m murti of Swaminarayan in abhayamudra; the Yagnapurush Kund stepwell and its 24-minute water show; the December 2007 Guinness World Record as the world's largest comprehensive Hindu temple.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. Used for construction history and architectural description only; not for any timing, fee or entry rule.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "media repository",
+      "title": "File:Akshardham Delhi.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Akshardham_Delhi.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the mandir photograph listed in media.",
+      "reliabilityNote": "Author credited on the Commons File: page as Swaminarayan Sanstha, licence CC BY-SA 3.0; image dated 13 November 2007 and low resolution (655 × 492).",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Swaminarayan Akshardham is a modern BAPS mandir complex on the Yamuna in Delhi, inaugurated on 6 November 2005 — not an ancient temple. Beneath its central dome sits a 3.4 m murti of Swaminarayan in abhayamudra, surrounded by images of the sampradaya's lineage of gurus. Alongside darshan the complex runs ticketed exhibitions and an evening water show, and it is one of Delhi's most visited sites.",
+    "sacredClassifications": ["BAPS Swaminarayan mandir"],
+    "templeType": "Vaishnavite",
+    "nameLocal": "अक्षरधाम मंदिर",
+    "localLanguage": "Hindi"
+  },
+
+  "governance": {
+    "establishedEra": "Modern; built November 2000 to November 2005 and inaugurated 6 November 2005",
+    "founderPatron": "Inspired by Yogiji Maharaj's 1968 wish and inaugurated by Pramukh Swami Maharaj",
+    "managingAuthority": "BAPS Swaminarayan Sanstha",
+    "administrationType": "Trust",
+    "officialWebsite": "https://akshardham.com/",
+    "officialPhone": "+91-11-4344 2344"
+  },
+
+  "narrative": {
+    "documentedHistory": "Swaminarayan Akshardham is a modern complex, not a historic temple. The project traces to a wish expressed by Yogiji Maharaj in 1968 for a grand mandir on the banks of the Yamuna. Construction ran from November 2000 to November 2005, and the mandir was inaugurated on 6 November 2005 by Pramukh Swami Maharaj. Roughly seven thousand carvers and three thousand volunteers worked on it.\n\nThe mandir is 43 m high, 96 m wide and 109 m long, built of Rajasthani pink sandstone and Italian Carrara marble and, following traditional guidelines, without ferrous metal. It carries 234 carved pillars and nine domes, and the Gajendra Pith plinth bears 148 life-sized carved elephants. Under the central dome is a 3.4 m murti of Swaminarayan in abhayamudra, surrounded by images of the sampradaya's gurus.\n\nIn December 2007 Guinness World Records recognised Akshardham as the world's largest comprehensive Hindu temple. The complex also contains the Yagnapurush Kund stepwell, the setting for a 24-minute multimedia water show, and three ticketed exhibitions on Hindu culture and the life of Swaminarayan.",
+    "architectureStyle": "Traditional Hindu mandir architecture in Rajasthani pink sandstone and Italian Carrara marble, built without ferrous metal"
+  },
+
+  "visitingInfo": {
+    "dressCode": "Enforced. Upper wear must cover shoulders, chest, back and upper arms; lower wear must extend below the knees. Delhi Tourism notes that wraps are available against a refundable ₹100 deposit for visitors who arrive unsuitably dressed.",
+    "entryRules": "Open Tuesday to Sunday and closed every Monday. Entry to the mandir complex and mandir darshan is free; the exhibitions and the water show are separately ticketed. Entry rules are unusually strict: all electronic items — mobile phones, cameras, USB drives, music devices — are barred, as are weapons, umbrellas, luggage, toys, pets, food and drink, tobacco, alcohol and drugs, and drones. A free cloakroom operates from 10:00 am to gate closing, and deposited electronic items must be switched off. Smoking, alcohol and drugs, tobacco products, impolite behaviour and language, and pets are prohibited inside. Plan for a security check and allow time to deposit belongings before entering.",
+    "photographyPolicy": "Cameras and mobile phones may not be taken inside; visitors deposit them at the cloakroom. There is no visitor photography within the complex.",
+    "officialContactNote": "Confirm the day's timings, exhibition and water-show tickets and the current show time with the complex on +91-11-4344 2344 or at akshardham.com before travelling. The water show follows sunset and its time moves through the year. Address: NH 24, Pramukh Swami Maharaj Marg, New Delhi 110092.",
+    "sourceIds": ["SRC001", "SRC002"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "conflict"
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "Tuesday to Sunday",
+      "sessionName": "Complex entry",
+      "openTime": "10:00",
+      "closeTime": "18:30",
+      "closedFlag": false,
+      "notes": "The temple's own visitor page gives first entry 10:00 am and last entry 6:30 pm. The Delhi Tourism page still states first entry 9:30 AM and exhibitions 10:00 AM–5:30 PM; the temple's own page is treated as current and the government page as stale. Confirm before travelling.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "Monday",
+      "sessionName": "Closed",
+      "closedFlag": true,
+      "notes": "Closed every Monday. Both the temple and Delhi Tourism state this.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "Tuesday to Sunday",
+      "sessionName": "Exhibition ticket window",
+      "openTime": "11:00",
+      "closeTime": "18:00",
+      "closedFlag": false,
+      "notes": "Exhibition tickets: adults 12+ ₹260, seniors 60+ ₹210, children 4–11 ₹160. Delhi Tourism lists older, lower fees (₹170/₹125/₹100) and a different senior age threshold; the temple's figures are treated as current.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS004",
+      "dayType": "Tuesday to Sunday",
+      "sessionName": "Cloakroom",
+      "openTime": "10:00",
+      "closedFlag": false,
+      "notes": "Free. Open from 10:00 am until gate closing. Electronic items must be switched off when deposited.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Yagnapurush Kund",
+      "deityOrSubject": "Stepwell and setting of the Sahaj Anand water show",
+      "spaceType": "tank",
+      "locationDescription": "A large stepwell within the complex, used in the evening for a 24-minute multimedia water show which is separately ticketed (₹110 adults and seniors, ₹80 children) and staged after sunset.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC001", "SRC003"],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Gajendra Pith",
+      "deityOrSubject": "Carved elephants",
+      "spaceType": "other",
+      "locationDescription": "The plinth running around the base of the mandir, carrying 148 life-sized carved stone elephants.",
+      "linkedMediaIds": [],
+      "sourceIds": ["SRC003"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Akshardham Delhi",
+      "caption": "The central mandir of Swaminarayan Akshardham, New Delhi.",
+      "altText": "The carved sandstone mandir of Swaminarayan Akshardham in Delhi, with its central dome.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Akshardham_Delhi.jpg",
+      "creator": "Swaminarayan Sanstha",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Swaminarayan Sanstha · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akshardham_Delhi.jpg"
+    }
+  ]
+}

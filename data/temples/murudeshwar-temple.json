@@ -1,0 +1,374 @@
+{
+  "templeId": "TPL-IN-KA-MUR-0038",
+  "slug": "murudeshwar-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Murudeshwar Temple",
+    "alternateNames": [
+      "Murdeshwar Temple",
+      "Sri Murudeshwara Temple"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Shaivite",
+    "sacredClassifications": [
+      "Shiva",
+      "Murudeshwara",
+      "Kanduka Giri",
+      "Atma Linga legend"
+    ],
+    "spiritualSignificanceShort": "Murudeshwar Temple, on Kanduka Giri hill at the coastal town of Murudeshwar in Uttara Kannada district, Karnataka, is dedicated to Shiva worshipped here as Murudeshwara. Local tradition ties the site to the Ramayana story of the Atma Linga that the demon king Ravana obtained from Shiva and was tricked by Ganesha into setting down on the ground, after which it could not be moved; the lingam in the sanctum, set about two feet below ground level, is regarded as a remnant of that Atma Linga. The temple is not counted among the twelve Jyotirlingas. Its modern fame rests on two large twentieth/twenty-first-century additions financed by the businessman R. N. Shetty: a statue of Shiva reported at 37 metres (123 feet) and a twenty-storey entrance tower, the Raja Gopura, fitted with a lift to a viewing platform. Entry into the sanctum itself is not open to the general public.",
+    "nameLocal": "ಮುರುಡೇಶ್ವರ",
+    "localLanguage": "Kannada"
+  },
+  "location": {
+    "city": "Murudeshwar",
+    "district": "Uttara Kannada",
+    "stateProvince": "Karnataka",
+    "country": "India",
+    "postalCode": "581350",
+    "latitude": 14.0936,
+    "longitude": 74.4838
+  },
+  "governance": {
+    "establishedEra": "Origin tied to the Ramayana-era Atma Linga legend, of unrecorded date; present monumental complex built c. 1994–2008",
+    "founderPatron": "The Shiva statue and Raja Gopura were financed by businessman and philanthropist R. N. Shetty, who is credited by Wikipedia with the modern development of Murudeshwar as a pilgrimage and tourist destination; the statue, built by sculptor Kashinath of Shivamogga and others, is reported to have cost approximately ₹5 crore (₹50 million)."
+  },
+  "narrative": {
+    "summaryIntro": "Murudeshwar Temple is a Hindu temple dedicated to Shiva, worshipped here as Murudeshwara, on Kanduka Giri hill at Murudeshwar (also spelled Murdeshwar), a coastal town in Bhatkal taluk, Uttara Kannada district, Karnataka, surrounded by the Arabian Sea on three sides. The temple is best known for two large modern structures built at the site: a statue of Shiva reported at 37 metres (123 feet), and a twenty-storey entrance tower, the Raja Gopura, fitted with a lift to an observation floor. Both were financed by the businessman and philanthropist R. N. Shetty. The temple is not one of the twelve Jyotirlingas, though Karnataka Tourism describes it as holding substantial spiritual importance in its own right, and it is one of the state's most visited pilgrimage and tourist destinations.",
+    "documentedHistory": "The temple's origin is connected in local tradition to the Ramayana story of the Atma Linga: the demon king Ravana sought the Atma-Linga from Shiva in order to gain invincibility, but Ganesha, disguised as a Brahmin boy, tricked him into setting it down on the ground at this spot, after which it could no longer be moved. Tradition holds that the cloth covering the linga was flung to \"Mrideshwar\" on Kanduka Giri, which is offered as the origin of the place name, and the lingam housed in the sanctum today, positioned about two feet below ground level, is regarded as a remnant of that original Atma Linga. Entry into the sanctum itself is not open to the general public; devotees performing specific sevas such as Abhisheka, Rudrabhisheka and Rathotsava are able to view the deity.\n\nThe sources consulted for this entry do not document the temple's built history before the modern period. Its present, widely recognised profile dates from a building programme financed by R. N. Shetty, credited with transforming Murudeshwar into a pilgrimage and tourist destination. The Shiva statue, built over about two years by the sculptor Kashinath of Shivamogga and others at a reported cost of approximately ₹5 crore, was completed around 2006. The twenty-storeyed Raja Gopura, fitted with a lift that gives visitors a view of the statue from an upper floor, was constructed in 2008. Two concrete elephants flank the entrance steps, and a museum called Bhukailasa Cave has been built beneath the statue.\n\nPublished claims about the statue's world ranking are inconsistent. Wikipedia's article on the temple describes it, under a flagged accuracy-dispute tag, as the \"third tallest statue of Shiva in the world after Statue of Belief and Kailashnath Mahadev Statue\", while Wikipedia's separate comparative list of Hindu deity statues instead calls it \"the second tallest statue of Shiva in the world\" and ranks it eleventh among all Hindu deity statues; Karnataka Tourism and other tourism sources likewise describe it variously as second or third tallest. This entry records only the height on which sources agree — 37 metres (123 feet) — without asserting a world ranking.",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC002",
+      "SRC003",
+      "SRC004",
+      "SRC001",
+      "SRC007"
+    ],
+    "verificationStatus": "conflict",
+    "dressCode": "Traditional attire; trawell.in states men should wear a dhoti with shawl and women a saree or salwar kameez covering shoulders and legs, and that jeans, shorts and t-shirts are not permitted inside the temple grounds. Not corroborated by an official or government source.",
+    "nearestRailStation": "Murdeshwar railway station (MRDW), Konkan Railway, about 2 km from the temple",
+    "railDistanceKm": 2,
+    "nearestBusStation": "Connected via National Highway 66",
+    "nearestAirport": "Mangalore (Mangaluru) International Airport, about 165 km",
+    "airportDistanceKm": 165,
+    "officialContactNote": "Sources disagree on several operational details and should be reconfirmed locally before visiting. Karnataka Tourism states temple hours as 6:00 AM–8:30 PM with morning darshan to 1:00 PM and evening darshan from 3:00 PM, while trawell.in states 3:00 AM–1:00 PM and 3:00 PM–8:00 PM. The Raja Gopura's height is given as 249 feet by Karnataka Tourism and 237 feet by trawell.in. The Uttara Kannada district government page names Bhatkal Railway Station, 18 km away, as the nearest station, whereas Wikipedia and trawell.in both describe a dedicated Murdeshwar railway station about 2 km from the temple.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "06:00",
+      "closeTime": "13:00",
+      "closedFlag": false,
+      "notes": "As stated by Karnataka Tourism. trawell.in instead gives darshan from 3:00 AM to 1:00 PM.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "15:00",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "As stated by Karnataka Tourism. trawell.in instead gives evening darshan from 3:00 PM to 8:00 PM.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Raja Gopura",
+      "deityOrSubject": "Main entrance tower",
+      "spaceType": "gopuram",
+      "locationDescription": "A twenty-storeyed entrance tower built in 2008, fitted with a lift that carries visitors to an upper floor with a view of the Shiva statue. Its height is reported as 249 feet by Karnataka Tourism and as 237 feet by trawell.in; Wikipedia's temple article gives the storey count and construction year but not a height figure.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002",
+        "SRC004"
+      ],
+      "verificationStatus": "conflict"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Shiva statue",
+      "deityOrSubject": "Shiva (Murudeshwara)",
+      "spaceType": "other",
+      "locationDescription": "A statue of Shiva, 37 metres (123 feet) tall, on Kanduka Giri overlooking the Arabian Sea, financed by R. N. Shetty and built over about two years, completed around 2006. Sources disagree on its ranking among the world's tallest Shiva statues; see narrative for the conflicting claims.",
+      "linkedMediaIds": [
+        "MED001",
+        "MED002"
+      ],
+      "sourceIds": [
+        "SRC001",
+        "SRC002",
+        "SRC004",
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Main sanctum",
+      "deityOrSubject": "Sri Mridesa Linga",
+      "spaceType": "shrine",
+      "locationDescription": "The sanctum sanctorum, housing the main lingam positioned about two feet below ground level. Entry into the sanctum is not open to the general public; devotees performing specific sevas such as Abhisheka and Rudrabhisheka are able to view the deity.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Bhukailasa Cave",
+      "deityOrSubject": "Temple museum",
+      "spaceType": "other",
+      "locationDescription": "A museum beneath the Shiva statue; its contents are not detailed in the sources consulted.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "abhishekam",
+      "nameEn": "Abhisheka",
+      "description": "A special seva during which performing devotees are able to view the deity in the sanctum, which is otherwise closed to general entry.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "abhishekam",
+      "nameEn": "Rudrabhisheka",
+      "description": "A special seva during which performing devotees are able to view the deity in the sanctum, which is otherwise closed to general entry.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Maha Shivaratri",
+      "gregorianRuleOrDate": "February–March",
+      "significance": "The temple's principal annual festival, drawing large numbers of pilgrims from Karnataka and neighbouring states.",
+      "crowdNote": "Largest annual gathering at the temple; trawell.in advises booking accommodation well in advance.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Kartika Pournami",
+      "gregorianRuleOrDate": "October–November",
+      "significance": "Full-moon festival of the Kartika month, celebrated at the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Rathotsava",
+      "significance": "A car festival listed by Wikipedia among the special sevas at which devotees may view the deity; date and periodicity are not given in the source.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Murudeshwar Temple, Karnataka — hero image",
+      "caption": "The Shiva statue at Murudeshwar, on the Arabian Sea coast",
+      "altText": "The large Shiva statue at Murudeshwar temple, Karnataka.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Murudeshwar_Shiva_Statue.jpg",
+      "creator": "Joygopal008",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Joygopal008 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murudeshwar_Shiva_Statue.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Shiva statue at Murudeshwar temple",
+      "caption": "The Shiva statue at Murudeshwar temple on India's Arabian Sea coastline, photographed in 2012.",
+      "altText": "Wide view of the Shiva statue at Murudeshwar temple with the Arabian Sea coastline.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_giant_Shiva_Statue_Murudeshwara_Hindu_Temple_Mangalore_Arabian_Seacoast_India.jpg",
+      "creator": "Sam valadi",
+      "license": "CC BY 2.0",
+      "attributionText": "Sam valadi · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_giant_Shiva_Statue_Murudeshwara_Hindu_Temple_Mangalore_Arabian_Seacoast_India.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Murdeshwar — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Murdeshwar",
+      "accessDate": "2026-09-18",
+      "claimScope": "Ramayana Atma Linga legend and Ganesha's trick of Ravana; place-name tradition; sanctum lingam about two feet below ground and entry into the sanctum being closed to the general public except for devotees performing sevas such as Abhisheka, Rudrabhisheka and Rathotsava; Shiva statue height of 123 feet (37 m), built by sculptor Kashinath of Shivamogga and others over about two years, financed by R. N. Shetty at approximately ₹50 million; the temple's 'third tallest statue of Shiva' claim, carried under a flagged accuracy-dispute tag; the 20-storey Raja Gopura built in 2008 with a lift; the Bhukailasa Cave museum beneath the statue; concrete elephants at the entrance; coordinates 14.0936167°N 74.4838250°E; PIN 581 350.",
+      "reliabilityNote": "Tertiary encyclopedic source. The article itself carries a Wikipedia 'accuracy dispute' tag (dated July 2026) on the statue's world-ranking claim, which this entry treats as unresolved rather than settled fact.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Murudeshwara — Temples, Beach & Diving",
+      "publisherOrAuthority": "Karnataka Tourism, Government of Karnataka",
+      "url": "https://karnatakatourism.org/en/destinations/murudeshwara/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple hours (6:00 AM–8:30 PM, morning darshan to 1:00 PM, evening darshan from 3:00 PM); Raja Gopura described as a 20-storey tower 249 feet tall with a lift; statue height about 123 feet; statement that the temple, while not officially a Jyotirlinga, holds substantial spiritual importance; distance to Mangalore International Airport of about 165 km; best visiting period October–February.",
+      "reliabilityNote": "State tourism destination page; undated. Its Raja Gopura height (249 ft) and airport distance (165 km) differ slightly from other sources consulted.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "MURDESHWARA — Uttara Kannada District, Government of Karnataka",
+      "publisherOrAuthority": "Uttara Kannada District Administration, Government of Karnataka",
+      "url": "https://uttarakannada.nic.in/en/tourist-place/murdeshwara/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Murdeshwara as a coastal town in Bhatkal taluk, Uttara Kannada district; statue described as the world's second-tallest Shiva statue at 123 feet (37 m); Bhatkal Railway Station (18 km) given as the nearest railway station; Mangalore Airport given as the nearest airport; road distance of 464 km from Bengaluru.",
+      "reliabilityNote": "District government tourism page; undated. Its nearest-railway-station claim (Bhatkal, 18 km) conflicts with the dedicated Murdeshwar railway station (about 2 km) described by Wikipedia and trawell.in.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Murudeshwar Temple, Murudeshwar — Timings, Festivals, History, Darshan, Pooja Timings",
+      "publisherOrAuthority": "trawell.in",
+      "url": "https://www.trawell.in/karnataka/murudeshwar/murudeshwar-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple timings (3:00 AM–1:00 PM and 3:00 PM–8:00 PM); free general entry with a ₹200 special darshan option; Maha Shivaratri and Kartika Pournami (November) as celebrated festivals; Raja Gopura height of 237 feet, built 2008, described as second tallest in India; dress code (dhoti/shawl for men, saree/salwar kameez for women; jeans, shorts and t-shirts not permitted); distance of 2 km from the railway station and about 162 km from Mangalore Airport; best visiting period October–February.",
+      "reliabilityNote": "Travel-guide site, undated. Its temple timings and Raja Gopura height figure conflict with Karnataka Tourism's published figures.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "R. N. Shetty — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/R._N._Shetty",
+      "accessDate": "2026-09-18",
+      "claimScope": "R. N. Shetty's financing of the Murudeshwar Raja Gopura and Shiva statue; his role, per Wikipedia, in the modernisation of Murudeshwar into a tourist destination; the R. N. Shetty Trust's schools, engineering college, nursing school and rural polytechnic in Murudeshwar and Bengaluru; his RNS Group of companies.",
+      "reliabilityNote": "Tertiary encyclopedic biographical source, undated revision viewed.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "List of tallest Hindu deity statues — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/List_of_tallest_Hindu_deity_statues",
+      "accessDate": "2026-09-18",
+      "claimScope": "Comparative listing giving the Murudeshwara Shiva statue as 37 m (121 ft), completed 2006, ranked 11th among all Hindu deity statues listed and described in the list's own text as 'the second tallest statue of Shiva in the world' and 'the tallest statue of Shiva in India'; comparison to the Statue of Belief (112 m, Nathdwara, Rajasthan) and the Kailashnath Mahadev Statue (43.5 m, Nepal).",
+      "reliabilityNote": "This list's own 'second tallest' description is inconsistent with the Murdeshwar temple article's 'third tallest' claim (SRC001); used here only to corroborate the 37 m height figure, not any specific ranking.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "other",
+      "title": "Murdeshwar railway station — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Murdeshwar_railway_station",
+      "accessDate": "2026-09-18",
+      "claimScope": "Existence of a dedicated Murdeshwar railway station (code MRDW) on the Konkan Railway line in Uttara Kannada district, between Manki and Chitrapur stations.",
+      "reliabilityNote": "Tertiary encyclopedic source for the railway station itself; does not state the exact distance from the station to the temple.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "other",
+      "title": "ಮುರುಡೇಶ್ವರ — Wikipedia (Kannada)",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%B0%E0%B3%81%E0%B2%A1%E0%B3%87%E0%B2%B6%E0%B3%8D%E0%B2%B5%E0%B2%B0",
+      "accessDate": "2026-09-18",
+      "claimScope": "Kannada-script spelling of the place/temple name, ಮುರುಡೇಶ್ವರ, as the article title.",
+      "reliabilityNote": "Used only to confirm the native-script spelling recorded in identity.nameLocal.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC009",
+      "sourceType": "media repository",
+      "title": "File:Murudeshwar Shiva Statue.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Joygopal008",
+      "url": "https://commons.wikimedia.org/wiki/File:Murudeshwar_Shiva_Statue.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hero image of the Shiva statue; author and licence as declared on the Commons file page.",
+      "reliabilityNote": "Contributor-uploaded image from Wiki Loves Monuments 2019 (dated 30 September 2019); licence and authorship as declared on the Commons file page.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC010",
+      "sourceType": "media repository",
+      "title": "File:A giant Shiva Statue Murudeshwara Hindu Temple Mangalore Arabian Seacoast India.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Sam valadi",
+      "url": "https://commons.wikimedia.org/wiki/File:A_giant_Shiva_Statue_Murudeshwara_Hindu_Temple_Mangalore_Arabian_Seacoast_India.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Wide exterior image of the statue and coastline; author and licence as declared on the Commons file page.",
+      "reliabilityNote": "Contributor-uploaded image dated 28 September 2012; licence and authorship as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Murudeshwar Temple, Kanduka Giri, Murudeshwar, Bhatkal taluk, Uttara Kannada, Karnataka 581350, India",
+    "bestTime": "October to February",
+    "entryFee": "Free general darshan; separate paid access reported for the Raja Gopura lift and for a special darshan option, with amounts varying by source"
+  },
+  "submittedBy": "development@cness.co"
+}

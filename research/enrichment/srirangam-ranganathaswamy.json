@@ -1,0 +1,98 @@
+{
+  "slug": "srirangam-ranganathaswamy",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700",
+      "accessDate": "2026-09-18",
+      "claimScope": "Administration by HR&CE through an Executive Officer and Trustee; the temple's standing as first among the 108 Vaishnava Divya Desams and as Bhooloka Vaikuntam; the reclining, south-facing moolavar; seven prakarams; the 13-tier South Rajagopuram at 236 feet; the published darshan session windows.",
+      "reliabilityNote": "The HR&CE temple page is undated and states that darshan times vary during festivals. Its darshan windows do not match the coarse morning/evening hours previously recorded for this temple, so both are noted.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The four poojas listed by HR&CE with their timings (Viswaroopa, Pongal, Ksheerannam, Aravanai), the suspension of Viswaroopa during festivals and the month of Markazhi, the absence of darshan during the Pongal and Ksheerannam periods, and the advice to arrive at least an hour before darshan closes.",
+      "reliabilityNote": "Undated government page; the temple itself warns that festival schedules alter these timings. Treat as needing recheck before travel.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Aranganatha Swamy Temple, Srirangam [TM025700] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://srirangamranganathar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25700&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's official postal address, telephone number and departmental email address, and the fact that the Executive Officer is the point of contact.",
+      "reliabilityNote": "Undated government page; the email is published in an obfuscated form on the page and is reconstructed here in standard form.",
+      "adminApproved": false
+    }
+  ],
+
+  "governance": {
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu, through an Executive Officer and Trustee",
+    "administrationType": "Government department",
+    "officialWebsite": "https://srirangamranganathar.hrce.tn.gov.in",
+    "officialPhone": "04312432246",
+    "officialEmail": "jceotry_25700.hrce@tn.gov.in"
+  },
+
+  "visitingInfo": {
+    "officialContactNote": "HR&CE publishes the temple's darshan sessions and pooja timings on the temple page at hrce.tn.gov.in (temple id 25700) and advises devotees to be present at least one hour before darshan closes. The department's page states that darshan timings vary during festivals; confirm the day's schedule with the Executive Officer's office on 04312432246 before travelling.",
+    "sourceIds": ["SRC001", "SRC002", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck",
+    "notes": "The postal address given by HR&CE is 1, South Uthra Street, Srirangam, Thiruchirappalli District, Tamil Nadu 620006."
+  },
+
+  "openingHours": [
+    { "hoursId": "HRS101", "dayType": "daily", "sessionName": "Morning (first session)",
+      "openTime": "06:00", "closeTime": "09:00", "closedFlag": false,
+      "notes": "HR&CE lists this as two consecutive blocks, 06:00–07:15 and 07:15–09:00, corresponding to the Viswaroopa and Pongal poojas; there is no darshan during the Pongal pooja. This differs from the coarser 06:00–13:00 morning window previously recorded for this temple.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "conflict" },
+    { "hoursId": "HRS102", "dayType": "daily", "sessionName": "Midday",
+      "openTime": "12:00", "closeTime": "14:15", "closedFlag": false,
+      "notes": "HR&CE lists this as 12:00–12:30 and 12:30–14:15.",
+      "sourceIds": ["SRC001"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "conflict" },
+    { "hoursId": "HRS103", "dayType": "daily", "sessionName": "Evening",
+      "openTime": "17:30", "closeTime": "21:00", "closedFlag": false,
+      "notes": "HR&CE lists this as 17:30–19:00 and 19:00–21:00; there is no darshan during the Ksheerannam pooja, 17:30–19:00. The department also describes the shrine as operating 06:00–21:00 daily with closures for rituals, and warns that festival schedules differ.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "conflict" }
+  ],
+
+  "poojas": [
+    { "poojaId": "PUJ101", "recordType": "pooja", "nameEn": "Viswaroopa Pooja",
+      "startTime": "06:15", "endTime": "07:15", "recurrence": "Daily",
+      "description": "The first service of the day. HR&CE states it is not performed during festivals or during the Tamil month of Markazhi.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ102", "recordType": "pooja", "nameEn": "Pongal Pooja",
+      "startTime": "07:15", "endTime": "09:00", "recurrence": "Daily",
+      "description": "HR&CE states there is no darshan for devotees during this pooja.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ103", "recordType": "pooja", "nameEn": "Ksheerannam",
+      "startTime": "17:30", "endTime": "19:00", "recurrence": "Daily",
+      "description": "HR&CE states there is no darshan for devotees during this pooja.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ104", "recordType": "pooja", "nameEn": "Aravanai",
+      "startTime": "21:30", "endTime": "22:00", "recurrence": "Daily",
+      "description": "The closing service of the day, performed after darshan hours.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" }
+  ],
+
+  "notes": "HR&CE (the temple's own administering department) lists only four poojas for this temple, with names and timings that do not align one-for-one with the five pooja records already in the directory entry (Viswaroopa Seva 06:00, Thiruvaradhanam 07:15, Uchikala Pooja 12:00, Sayaratchai 18:00, Ekanta Seva 21:00). The HR&CE records are supplied here under separate ids (PUJ101–PUJ104) rather than overwriting the existing ones; an editor should reconcile the two sets. The directory's recorded officialWebsite (srirangam.hrce.tn.gov.in) does not match the HR&CE hostname actually serving this temple's pages (srirangamranganathar.hrce.tn.gov.in)."
+}

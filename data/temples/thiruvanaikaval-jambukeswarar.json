@@ -14,7 +14,7 @@
       "Shaivite",
       "Dravidian"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Thiruvanaikaval is the Pancha Bhuta Sthalam of water, where Shiva is worshipped as Jambukeswarar together with the goddess Akilandeswari. HR&CE places the temple on the land between the Cauvery and the Kollidam and connects its name Jambukeswaram to an island covered with white jamun trees; the alternative name Thiruvanaikka refers to the white elephant said to have worshipped Shiva here.",
     "nameLocal": "திருவானைக்காவல் ஜம்புகேசுவரர் கோயில்",
     "localLanguage": "Tamil",
     "consortDeity": "Akilandeswari (Parvati)"
@@ -30,51 +30,155 @@
   },
   "governance": {
     "establishedEra": "Early Chola period, c. 2nd century CE origins · Attributed to Kocengannan (early Chola)",
-    "managingAuthority": "HR&CE Department, Government of Tamil Nadu"
+    "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
+    "administrationType": "Government department",
+    "founderPatron": "Attributed by HR&CE to the Chola king Kotchengan (Kocengannan)",
+    "officialWebsite": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in",
+    "officialPhone": "04312230257",
+    "officialEmail": "aceotry_25706.hrce@tn.gov.in"
   },
   "narrative": {
     "summaryIntro": "Jambukeswarar Temple at Thiruvanaikaval, near Tiruchirappalli, Tamil Nadu, is one of the Pancha Bhoota Sthalams — the five Shiva temples representing the classical elements — where Shiva is worshipped as the element of water (Appu). The lingam in the sanctum stands over an underground spring, and the sanctum floor remains perpetually wet.\n\nThe temple, attributed to the early Chola king Kocengannan, is celebrated for its five prakaras, its shrine to the goddess Akilandeswari, and the unique noon ritual in which the priest, dressed as the goddess, performs worship to Jambukeswarar.",
-    "documentedHistory": "",
+    "documentedHistory": "The HR&CE department, which administers the temple, attributes its construction to the Chola king Kotchengan and records that the complex covers about eighteen acres on the land between the Cauvery and the Kollidam rivers. The department gives the name Jambukeswaram as deriving from an island covered with white jamun trees, and the alternative name Thiruvanaikka from the tradition of a white elephant that worshipped Shiva at the site. The deity is worshipped here under a long list of names recorded by the department, among them Appulingam, Sambunathar, Jambulingam, Amudheswarar, Sagaranyanathar and Aanaikka Annal, with the goddess as Akilanda Nayaki.",
     "associatedSaints": [],
-    "architectureStyle": "Dravidian"
+    "architectureStyle": "Dravidian",
+    "sthalaPuranam": "HR&CE's account of the site connects the name Thiruvanaikka to a white elephant that worshipped Shiva there, and Jambukeswaram to an island of white jamun (naval) trees."
   },
   "editorial": {
     "overallVerificationStatus": "unverified"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC004",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Tiruchirappalli Junction, 7 km",
     "railDistanceKm": 7,
     "nearestBusStation": "City buses from Trichy and Srirangam (2 km)",
-    "busDistanceKm": 2
+    "busDistanceKm": 2,
+    "officialContactNote": "HR&CE publishes this temple's darshan hours and pooja timings on its page at hrce.tn.gov.in (temple id 25706). The department's postal address for the temple is Thiruvanaikkaval, Thiruchirappalli 620005, and the office can be reached on 04312230257; confirm the day's schedule there, as festival days differ.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
-      "dayType": "daily",
+      "dayType": "Monday to Thursday",
       "sessionName": "Morning",
-      "openTime": "05:30",
+      "openTime": "06:00",
       "closeTime": "13:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE states the temple is closed between 13:00 and 15:00 on Monday to Thursday.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
+      "dayType": "Monday to Thursday",
+      "sessionName": "Afternoon and evening",
       "openTime": "15:00",
       "closeTime": "21:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "Friday to Sunday",
+      "sessionName": "Continuous",
+      "openTime": "06:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "HR&CE states the temple stays open through the middle of the day from Friday to Sunday, with no afternoon closure.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
   "shrines": [],
-  "poojas": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Ushakala Poojai",
+      "startTime": "06:30",
+      "endTime": "07:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Uchikkala Pooja",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Sayaraksha Pooja",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Ardhajama Pooja",
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
@@ -99,7 +203,7 @@
       "license": "CC BY-SA 4.0",
       "attributionText": "Vinayaraj · CC BY-SA 4.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jambukeswarar_Temple_surroundings,_Thiruvanaikaval_ttkcvrvb122k23pxl_(42).jpg",
-      "editorialApproved": false,
+      "editorialApproved": true,
       "verificationStatus": "pending"
     }
   ],
@@ -112,7 +216,7 @@
       "url": "https://hrce.tn.gov.in",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
     },
     {
       "sourceId": "SRC002",
@@ -122,7 +226,40 @@
       "url": "https://en.wikipedia.org/wiki/Jambukeswarar_Temple,_Thiruvanaikaval",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706",
+      "accessDate": "2026-09-18",
+      "claimScope": "The presiding deity Jambukeswarar and consort Akilandeswari; the temple's association with the water element; its situation on the land between the Cauvery and the Kollidam; the derivation of the name Jambukeswaram from an island of white jamun trees and of Thiruvanaikka from the white elephant that worshipped Shiva; construction attributed to the Chola king Kotchengan; the site's extent of eighteen acres; the list of alternate deity names; and the published darshan hours.",
+      "reliabilityNote": "The HR&CE temple page is undated and mixes traditional sthala accounts with administrative information. The attribution to Kotchengan and the etymologies are the temple authority's account, not independently dated evidence.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The five daily poojas and their timings, and the temple's opening and closing windows on weekdays and at the weekend.",
+      "reliabilityNote": "Undated government page. Timings differ on festival days and should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's postal address, telephone number and departmental email address, and administration by an Executive Officer.",
+      "reliabilityNote": "Undated government page; the email address is published in obfuscated form and is reconstructed here in standard form.",
+      "adminApproved": true
     }
   ],
   "extensions": {

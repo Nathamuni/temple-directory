@@ -14,9 +14,10 @@
       "Hampi",
       "UNESCO World Heritage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Virupaksha, also called Pampapathi, is the form of Shiva worshipped at Hampi, and the temple's history runs uninterrupted from about the seventh century CE — inscriptions invoking Shiva at the site date from the ninth and tenth centuries. Its importance rests on that continuity: while the other temples of the Vijayanagara capital were destroyed and survive as archaeological monuments, Virupaksha alone has remained in worship and is the only well preserved and maintained temple at Hampi. It continues as an active pilgrimage centre, with daily ritual, an annual chariot festival and marriages performed in its mandapa, and is linked in local tradition with Pampa, the goddess of the Tungabhadra, whose betrothal to Virupaksha is celebrated each December.",
     "nameLocal": "ವಿರುಪಾಕ್ಷ ದೇವಾಲಯ",
-    "localLanguage": "Kannada"
+    "localLanguage": "Kannada",
+    "consortDeity": "Pampa (Pampa Devi)"
   },
   "location": {
     "city": "Hampi",
@@ -29,26 +30,35 @@
   },
   "governance": {
     "establishedEra": "7th century CE origins; current structure 15th-16th century · Developed during Vijayanagara Empire",
-    "managingAuthority": "Virupaksha Temple Board"
+    "managingAuthority": "Virupaksha Temple Board",
+    "founderPatron": "Expanded under Lakkana Dandesha in the reign of Deva Raya II; the central pillared hall and the eastern gopura were commissioned by Krishnadevaraya in the early 16th century"
   },
   "narrative": {
     "summaryIntro": "Virupaksha Temple in Hampi, Karnataka, is the principal temple of the Hampi complex and is dedicated to Lord Shiva as Virupaksha (Lord with eyes on sides of face). One of the most significant temples in South India, it is part of the UNESCO World Heritage Site of Hampi, which contains the ruins of the great medieval Vijayanagara Empire. The temple's main structure was developed during the peak of the Vijayanagara period in the 15th-16th centuries.\n\nThe temple features stunning Dravidian and Vijayanagara architectural styles with elaborate stone carvings, sculptured columns, and ornate gopurams. The surrounding complex includes numerous monuments, pillars, and religious structures that showcase the artistic prowess of the Vijayanagara civilization. The temple remains an active place of worship and is one of the most visited historical and religious sites in India, attracting pilgrims and heritage enthusiasts worldwide.",
-    "documentedHistory": "",
+    "documentedHistory": "Virupaksha began as a modest shrine and its history is continuous from about the seventh century CE. Inscriptions at the site referring to Shiva date from the ninth and tenth centuries, and additions were made in the late Chalukya and Hoysala periods.\n\nThe temple reached its present scale under the Vijayanagara rulers. A major expansion was carried out under Lakkana Dandesha in the reign of Deva Raya II, and Krishnadevaraya commissioned the central pillared hall and the great eastern gopura in the early sixteenth century. The north and east gopura towers were substantially restored in the nineteenth century.\n\nThe temple's position at Hampi is distinctive. The other temples of the Vijayanagara capital were destroyed by the Deccan sultanates and survive as ruins within the protected archaeological landscape; Virupaksha is the only well preserved and maintained temple at Hampi and the one that has remained in continuous worship, so it is at once part of the World Heritage property and a functioning place of worship rather than a monument alone.",
     "associatedSaints": [],
-    "architectureStyle": "Dravidian and Vijayanagara"
+    "architectureStyle": "Dravidian and Vijayanagara",
+    "inscriptionsSummary": "Inscriptions at the site referring to Shiva date from the ninth and tenth centuries CE, evidencing sustained worship well before the Vijayanagara period."
   },
   "editorial": {
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003",
+      "SRC004"
+    ],
+    "verificationStatus": "conflict",
     "dressCode": "Comfortable attire; traditional dress recommended for temple areas",
     "nearestRailStation": "Hospet Railway Station, 13 km",
     "railDistanceKm": 13,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Belgaum Airport, 140 km",
-    "airportDistanceKm": 140
+    "airportDistanceKm": 140,
+    "officialContactNote": "Published opening hours for the temple differ between the national and state tourism portals and the times already held in this entry; the temple is also a protected heritage site where access can be altered by conservation work. Confirm the day's timings locally before visiting.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -58,33 +68,109 @@
       "openTime": "06:00",
       "closeTime": "12:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As stated by Incredible India. The same source gives the evening session as 16:30-21:00, which differs from the 15:00-19:30 held in the existing entry; the existing times are unsourced.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
       "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "19:30",
+      "openTime": "16:30",
+      "closeTime": "21:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As stated by Incredible India; conflicts with the 15:00-19:30 evening session previously held in this entry, which carried no source.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Eastern gopura",
+      "deityOrSubject": "Main entrance tower",
+      "spaceType": "gopuram",
+      "locationDescription": "The principal tower on the east, nine storeys and about 50 m high, with a brick superstructure on a stone base; commissioned in the Vijayanagara period and restored in the nineteenth century.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Ranga Mandapa",
+      "deityOrSubject": "Central pillared hall",
+      "spaceType": "hall",
+      "locationDescription": "The central pillared hall, with 38 pillars arranged in five aisles carved with yalis and warrior figures; commissioned by Krishnadevaraya. Marriages are performed here.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Bhuvaneshwari shrine",
+      "deityOrSubject": "Bhuvaneshwari",
+      "spaceType": "shrine",
+      "locationDescription": "Subsidiary shrine within the Virupaksha temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Vidyaranya shrine",
+      "deityOrSubject": "Vidyaranya",
+      "spaceType": "shrine",
+      "locationDescription": "Subsidiary shrine within the Virupaksha temple complex.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
   "poojas": [],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Celebrated with special rituals and pilgrimages",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Betrothal and marriage of Virupaksha and Pampa",
+      "gregorianRuleOrDate": "December",
+      "significance": "Celebrates the betrothal and marriage of Virupaksha with Pampa, the goddess associated with the Tungabhadra, the union on which the temple's local identity rests.",
+      "crowdNote": "Draws large numbers of pilgrims.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Chariot festival (Rathotsava)",
+      "gregorianRuleOrDate": "February",
+      "significance": "The temple's annual car festival, held in February.",
+      "crowdNote": "Draws large numbers of pilgrims.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
     }
   ],
   "media": [
@@ -102,6 +188,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hampi_-_Hemakuta_Hill,_Virupaksha_Temple.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Virupaksha Temple, Hampi",
+      "caption": "The Virupaksha temple at Hampi, photographed in 2012.",
+      "altText": "The tiered eastern gopura and enclosure of the Virupaksha temple at Hampi.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Virupaksha_Temple%2C_Hampi.jpg",
+      "creator": "Arun Varadarajan (Arunv316)",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Arun Varadarajan · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virupaksha_Temple,_Hampi.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -119,6 +220,51 @@
       "title": "Hampi UNESCO World Heritage Site",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Visit the Virupaksha Temple in Hampi",
+      "publisherOrAuthority": "Incredible India, Ministry of Tourism, Government of India",
+      "url": "https://www.incredibleindia.gov.in/en/karnataka/hampi/virupaksha-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Origin as a modest seventh-century shrine and expansion under the Vijayanagara rulers; the temple's continuing function as an active pilgrimage site with ongoing ceremonies, including weddings in the mandapam; the 50 m entrance tower and the three further gopuras; the Ranga Mandapa with 38 pillars in five aisles and its yali and warrior sculpture; the December betrothal and marriage celebration of Virupaksha and Pampa and the February chariot festival; opening hours 06:00-12:00 and 16:30-21:00; Hospet Junction as nearest railway and Kempegowda International Airport, Bengaluru, as nearest airport.",
+      "reliabilityNote": "National tourism portal; undated. Its opening hours differ from the times carried in the existing directory entry, and its 'nearest airport' is the Bengaluru international airport rather than the closer Vidyanagar airfield named by Karnataka Tourism — treat both as needing same-day confirmation.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Virupaksha Temple",
+      "publisherOrAuthority": "Karnataka Tourism, Government of Karnataka",
+      "url": "https://karnatakatourism.org/en/attractions/virupaksha-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Seventh-century date; Virupaksha also called Pampapathi as the main deity; Hampi's status as a UNESCO World Heritage Site; three gopuras with the eastern main tower of nine storeys and 50 m built in the fifteenth century; shrines to Bhuvaneshwari and Vidyaranya within the complex; Hosapete railway station 15 km and Vidyanagar airport 40 km from Hampi.",
+      "reliabilityNote": "State tourism attraction page; undated. States no timings and does not itself comment on whether worship continues.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Virupaksha Temple, Hampi — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Virupaksha_Temple,_Hampi",
+      "accessDate": "2026-09-18",
+      "claimScope": "Uninterrupted history of the temple from about the 7th century CE; ninth- and tenth-century inscriptions referring to Shiva; late Chalukya and Hoysala additions; expansion under Lakkana Dandesha in the reign of Deva Raya II; Krishnadevaraya's commissioning of the central pillared hall and eastern gopura; nineteenth-century restoration of the north and east gopura towers; the statement that it is the only well preserved and maintained temple at Hampi while the other temples there were destroyed by the Deccan sultanates; the nine-tier eastern gateway of 50 m with brick superstructure on a stone base; the February chariot festival and December betrothal of Virupaksha and Pampa; the temple elephant Lakshmi.",
+      "reliabilityNote": "Tertiary encyclopedic source, used for history, inscriptions and the continuity of worship. Its date for Krishnadevaraya's hall (1510 CE) is given here as the early sixteenth century to avoid false precision.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Virupaksha Temple, Hampi.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Arun Varadarajan (Arunv316)",
+      "url": "https://commons.wikimedia.org/wiki/File:Virupaksha_Temple,_Hampi.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple only; author and licence string. The file page also records the Archaeological Survey of India monument identifier S-KA-100 for the temple.",
+      "reliabilityNote": "Contributor-uploaded image from Wiki Loves Monuments 2012; licence and authorship as declared on the Commons file page. The ASI monument id is contributor-entered metadata, not read here from an ASI page.",
       "adminApproved": true
     }
   ],

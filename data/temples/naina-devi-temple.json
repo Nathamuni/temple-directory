@@ -1,0 +1,109 @@
+{
+  "templeId": "TPL-IN-HP-BIL-0059",
+  "slug": "naina-devi-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Naina Devi Temple",
+    "alternateNames": [
+      "Shri Naina Devi Ji Temple",
+      "Mata Naina Devi"
+    ],
+    "presidingDeity": "Naina Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti Peetha",
+    "sacredClassifications": [
+      "Shakti Peetha"
+    ],
+    "spiritualSignificanceShort": "Naina Devi is revered as one of the Shakti Peethas, where tradition holds that the right eye (\"naina\") of Sati fell. The hilltop shrine above the town of the same name in Bilaspur district is a major pilgrimage site, especially during Navratri.",
+    "nameLocal": "नैणा देवी मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Naina Devi",
+    "district": "Bilaspur",
+    "stateProvince": "Himachal Pradesh",
+    "country": "India",
+    "latitude": 31.3061,
+    "longitude": 76.5364
+  },
+  "governance": {
+    "establishedEra": "Traditional account; exact founding century not documented in sources consulted"
+  },
+  "narrative": {
+    "summaryIntro": "Naina Devi Temple sits atop a hill above the town of Naina Devi in Bilaspur district, Himachal Pradesh. Regarded as one of the Shakti Peethas, it is reached by road partway up the hill and then by steps or cable car to the summit, and draws large crowds of pilgrims, particularly during Navratri.",
+    "documentedHistory": "According to temple tradition, the site is one of the Shakti Peethas, marking the spot where Sati's right eye fell after Vishnu dismembered her body. A separate local legend holds that a Gujjar boy discovered the site after seeing a cow shower milk on a stone, and reported this in a dream to Raja Bir Chand, who then built a temple there. The temple gained wider public attention after a stampede during Navratri on 3 August 2008, in which a large number of pilgrims died.",
+    "sacredTextReferences": "",
+    "associatedSaints": []
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "openingHours": [],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Navratri",
+      "significance": "The temple's main pilgrimage season, drawing very large crowds; a stampede during Navratri on 3 August 2008 is a documented safety incident at the site.",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Shri Naina Devi Ji Temple, Bilaspur",
+      "caption": "The Naina Devi temple on its hilltop site in Bilaspur district, Himachal Pradesh.",
+      "altText": "Naina Devi temple complex on a hilltop in Bilaspur district.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Naina%20Devi%20Ji%20Temple%20situated%20on%20a%20hilltop%20in%20the%20Bilaspur%20Distt.,Jan2013.jpg",
+      "creator": "Invictus27",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Invictus27 · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri_Naina_Devi_Ji_Temple_situated_on_a_hilltop_in_the_Bilaspur_Distt.,Jan2013.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "sourced"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Naina Devi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Naina_Devi",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location, Shakti Peetha legend, founding legend, Navratri festival, 2008 stampede.",
+      "reliabilityNote": "No official temple board or Himachal Pradesh government source could be located during this research pass; timings, contact details and management authority are not independently corroborated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "media repository",
+      "title": "Shri Naina Devi Ji Temple, Bilaspur — Wikimedia Commons file page",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shri_Naina_Devi_Ji_Temple_situated_on_a_hilltop_in_the_Bilaspur_Distt.,Jan2013.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image creator (Invictus27) and license (CC BY-SA 3.0) attribution for the hero image.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": []
+  },
+  "submittedBy": "research-agent",
+  "visitingInfo": {
+    "sourceIds": [],
+    "verificationStatus": "unverified"
+  }
+}

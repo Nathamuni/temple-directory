@@ -14,7 +14,7 @@
       "Konark",
       "UNESCO World Heritage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "The Sun Temple at Konark was built in the thirteenth century as a colossal stone chariot for Surya, drawn by seven horses on twelve pairs of carved wheels. It survives as a ruin: the great sanctum tower fell in 1837 and the sanctum and dance hall are roofless, so the site is today an ASI-protected archaeological monument and UNESCO World Heritage Site rather than a temple in daily worship. Devotional gathering at Konark continues chiefly through the annual Chandrabhaga Mela held nearby.",
     "nameLocal": "କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର",
     "localLanguage": "Odia"
   },
@@ -29,11 +29,13 @@
   },
   "governance": {
     "establishedEra": "13th century CE · Built by King Narasimhadeva I, Eastern Ganga dynasty",
-    "managingAuthority": "Konark Sun Temple Board"
+    "managingAuthority": "Konark Sun Temple Board",
+    "founderPatron": "Narasingha Deva I of the Eastern Ganga dynasty",
+    "administrationType": "Government department"
   },
   "narrative": {
     "summaryIntro": "Konark Sun Temple, located in Odisha, is one of the most remarkable architectural achievements of medieval India and is a UNESCO World Heritage Site. Built in the 13th century by King Narasimhadeva I during the Eastern Ganga dynasty, the temple is dedicated to Surya (the Sun God). The entire temple is designed in the shape of a massive stone chariot with twelve wheels, each representing the twelve months of the solar year.\n\nThe temple is renowned for its intricate stone carvings, astronomical symbolism, and innovative architectural design. The walls are adorned with elaborate sculptures depicting various themes from Hindu mythology, celestial bodies, and daily life scenes. Though partially ruined, the temple remains a testament to the architectural brilliance and artistic sophistication of medieval Indian civilization. The temple's unique design and historical significance make it one of India's most important heritage sites.",
-    "documentedHistory": "",
+    "documentedHistory": "The Sun Temple at Konark was built in the thirteenth century, about 1250 CE, under Narasingha Deva I of the Eastern Ganga dynasty. It was conceived as a gigantic solar chariot for Surya: twelve pairs of elaborately ornamented wheels, twenty-four in all and about 3.7 metres across, carry a structure drawn by seven rearing horses.\n\nThe monument is now substantially ruined. The main sanctum tower, whose original height the ASI reports as over 68 metres and which other accounts estimate at about 70 metres, fell in 1837. The sanctum and the detached nata-mandira have lost their roofs. What dominates the site today is the jagamohana, about 30 metres square and 30 metres high, whose exterior is arranged in horizontal tiers grouped in three stages carrying life-size female musician figures.\n\nThe complex includes subsidiary structures, among them the Mayadevi Temple, dated to the late eleventh century, and a Vaishnava temple of about the eleventh century that was discovered in 1956. The site was inscribed on the UNESCO World Heritage List in 1984 and is maintained by the Archaeological Survey of India.\n\nBecause the sanctum is roofless and the principal image is not in situ, Konark is administered and visited as an archaeological monument rather than as a functioning temple. No daily worship schedule is published for it by the Archaeological Survey of India.",
     "associatedSaints": [],
     "architectureStyle": "Odia"
   },
@@ -41,50 +43,139 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Comfortable attire",
     "nearestRailStation": "Puri Railway Station, 35 km",
     "railDistanceKm": 35,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Bhubaneswar Airport, 60 km",
-    "airportDistanceKm": 60
+    "airportDistanceKm": 60,
+    "entryRules": "Konark is a ticketed, centrally protected monument under the Archaeological Survey of India, not an active place of worship. The ASI states entry is free for children under 15, Rs 40 per head for nationals of BIMSTEC countries and Rs 600 per head for other foreign visitors, with a discount for booking online; the fee for Indian nationals is not stated on the ASI page and is not recorded here. Tickets can be booked through the ASI's online ticketing.",
+    "officialContactNote": "The hours recorded here are ASI monument visiting hours, not worship timings — there is no published daily pooja schedule at Konark. Entry fees are revised periodically; confirm the current fee and any closure on the ASI's own pages or ticketing portal before travelling.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
-      "openTime": "06:00",
-      "closeTime": "12:00",
+      "sessionName": "Monument visiting hours (ASI)",
+      "notes": "The Archaeological Survey of India states the monument is open from sunrise to sunset. No fixed clock times are published on the ASI page, so none are recorded here. These are ticketed visiting hours for an archaeological monument and must not be read as darshan or worship timings.",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "19:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Sanctum (deul)",
+      "deityOrSubject": "Surya",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum, whose sikhara — reported by the ASI at over 68 m — collapsed in 1837. The sanctum now stands roofless.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Jagamohana",
+      "deityOrSubject": "Assembly hall",
+      "spaceType": "hall",
+      "locationDescription": "About 30 m square and 30 m high, the principal surviving structure. Its exterior is arranged in horizontal tiers grouped in three stages carrying life-size female sculptures.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Nata-mandira",
+      "deityOrSubject": "Dance hall",
+      "spaceType": "hall",
+      "locationDescription": "A detached hall east of the main structure; it has lost its roof.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Mayadevi Temple",
+      "deityOrSubject": "Mayadevi",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary temple within the complex, dated by the ASI to the late 11th century.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Vaishnava Temple",
+      "deityOrSubject": "Vaishnava shrine",
+      "spaceType": "shrine",
+      "locationDescription": "A temple of about the 11th century within the complex, discovered in 1956.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Chariot wheels and horses",
+      "deityOrSubject": "Sculptural programme of the plinth",
+      "spaceType": "other",
+      "locationDescription": "Twelve pairs of carved stone wheels, twenty-four in all and about 3.7 m in diameter, set along the plinth, with seven rearing horses drawing the chariot.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
   "poojas": [],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Makar Sankranti",
-      "tamilOrLocalMonth": "January",
-      "duration": "1 day",
-      "significance": "Festival of the Sun; special rituals observed",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Chandrabhaga Mela",
+      "gregorianRuleOrDate": "Around February each year, at Magha Saptami",
+      "significance": "The principal annual religious gathering associated with Konark. It is a mela held at the Chandrabhaga site near the temple rather than a ritual observance inside the ASI-protected monument.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Konark Festival",
+      "gregorianRuleOrDate": "Annually in early December; the 2026 edition is listed as 1-5 December",
+      "duration": "Five days",
+      "significance": "A classical dance festival held since 1986 in an open-air auditorium overlooking the Sun Temple. It is a cultural event at the site, not a religious observance.",
+      "processionOrRituals": "Performances of Odissi, Bharatanatyam, Manipuri, Kathak, Kuchipudi, Mohiniattam and Chhau, with accompanying traditional music.",
+      "visitorAdvice": "Dates and ticketing are published by the tourism ministry each year; confirm before planning a visit around it.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -119,6 +210,39 @@
       "title": "Konark Sun Temple UNESCO World Heritage Site",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Sun Temple, Konarak (1984), Odisha",
+      "publisherOrAuthority": "Archaeological Survey of India, Ministry of Culture, Government of India",
+      "url": "https://asi.nic.in/pages/WorldHeritageKonarak",
+      "accessDate": "2026-09-18",
+      "claimScope": "World Heritage inscription in 1984; thirteenth-century date; the conception of the monument as a solar chariot with twelve pairs of ornamented wheels drawn by seven rearing horses; the sanctum's sikhara reported at over 68 m; the jagamohana of about 30 m square and 30 m high with horizontal tiers in three stages carrying life-size female sculptures; the roofless condition of the sanctum and nata-mandira; the detached nata-mandira and subsidiary shrines; the Mayadevi Temple (late 11th century) and the Vaishnava Temple (c. 11th century, discovered 1956); visiting hours of sunrise to sunset; entry free for children under 15, Rs 40 for BIMSTEC nationals and Rs 600 for other foreign visitors, with online discounts.",
+      "reliabilityNote": "Primary source: the ASI is the protecting authority for this monument. The page is undated and the fee figures in particular are revised periodically; the Indian-national fee is not stated on the page and is therefore not recorded here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Konark Sun Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Attribution to Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE (reign given elsewhere as 1238-1264); 24 carved stone wheels of about 3.7 m diameter and seven horses; the collapse of the main tower, estimated at about 70 m, in 1837; the surviving jagamohana; ASI custodianship and the 1984 UNESCO inscription; the Mayadevi and Vaishnava temples; the annual Chandrabhaga Mela gathering around February.",
+      "reliabilityNote": "Tertiary source. Used for the collapse date and the builder attribution, which the ASI page does not give; the ASI and Wikipedia differ on the sanctum's original height (over 68 m vs about 70 m), both being estimates of a structure that no longer stands.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Konark Festival: A celebration of dance and heritage | Incredible India",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India (Incredible India)",
+      "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/konark-festival",
+      "accessDate": "2026-09-18",
+      "claimScope": "The Konark Festival, held annually in early December at an open-air auditorium overlooking the Sun Temple, running since 1986 and presenting Odissi, Bharatanatyam, Manipuri, Kathak, Kuchipudi, Mohiniattam and Chhau; the 2026 edition dated 1-5 December.",
+      "reliabilityNote": "Tourism ministry event listing. The 2026 dates are as published at the time of access and may change; the festival is a cultural event at the site, not a religious observance of the monument.",
       "adminApproved": true
     }
   ],

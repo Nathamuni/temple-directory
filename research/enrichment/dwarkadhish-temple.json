@@ -1,0 +1,172 @@
+{
+  "slug": "dwarkadhish-temple",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Dwarkadhish Temple | District Devbhumi Dwarka, Government of Gujarat",
+      "publisherOrAuthority": "District Administration, Devbhumi Dwarka (National Informatics Centre)",
+      "url": "https://devbhumidwarka.nic.in/tourist-place/dwarkadhish-temple/",
+      "accessDate": "2026-09-17",
+      "claimScope": "The name Jagat Mandir / trilok sundar; the site on Gomti creek; the tradition that Vajranabh, Krishna's great-grandson, built it more than 2500 years ago; the Department of Archaeology's view that the temple is 1200 years old; plan of sanctum, vestibule and rectangular hall with porches on three sides; soft limestone construction; 43 m shikhar; flag of 52 yards visible from 10 km; the 56 steps to the Gomti river; swarga dwar as pilgrim entrance and moksha dwar as exit; nearest airports Jamnagar and Porbandar; Dwarka railway station about 2 km away; access by NH-947.",
+      "reliabilityNote": "District government page, undated, and it carries no darshan timings or temple telephone number. The archaeological dating is reported as an opinion attributed to the Department of Archaeology rather than a cited excavation report.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Dwarkadhish Temple, Devbhoomi Dwarka",
+      "publisherOrAuthority": "Gujarat Tourism (Tourism Corporation of Gujarat Ltd.)",
+      "url": "https://gujarattourism.com/saurashtra/devbhoomi-dwarka/dwarkadhish-temple.html",
+      "accessDate": "2026-09-17",
+      "claimScope": "Visiting hours 7:00 AM-12:30 PM and 5:00-9:00 PM; destruction by Mahmud Begada in 1472 and rebuilding in the 15th-16th century; Adi Shankaracharya's association with the site; the swarg and moksh doors; Sudama Setu footbridge over the Gomti creek open 7 AM-1 PM and 4-7:30 PM; Dwarka's place among the Char Dham with Badrinath, Puri and Rameshwaram; best season November to February and at Janmashtami; airports Porbandar 95 km and Jamnagar 145 km.",
+      "reliabilityNote": "State tourism page, undated. Hours are operational and should be reconfirmed. Its shikhar height (43 m) agrees with the district site but not with Wikipedia (78 m).",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Dwarkadhish Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Char Dham membership; the description of the temple as the 98th Divya Desam; the five-storeyed structure on 72 pillars; plan dimensions of about 29 m east-west by 23 m north-south; limestone and sandstone construction; the flag changed four times a day; the memorial within the temple to Adi Shankara's visit and the nearby Dvaraka Pitha; the identification of Moksha Dwara as the northern entrance and Swarga Dwara as the southern gate leading to 56 steps down to the Gomati ghats.",
+      "reliabilityNote": "Tertiary source. The article itself flags the Divya Desam claim as uncited, and its spire height of 78 m contradicts both Gujarat government sources; neither figure is asserted here as settled.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "The Dwarkadhish temple, known as the Jagat Mandir, is revered as the shrine of Krishna in his aspect as lord of Dwarka, the city tradition holds he ruled. Gujarat Tourism places Dwarka among the Char Dham alongside Badrinath, Puri and Rameshwaram, and the site also carries a memorial to Adi Shankara's visit. Pilgrims conventionally enter by the Swarga Dwar and leave by the Moksha Dwar.",
+    "sacredClassifications": [
+      "Char Dham — one of the four cardinal pilgrimage sites",
+      "Divya Desam (described as the 98th; the claim is uncited in the source that makes it)"
+    ],
+    "tradition": "Vaishnava",
+    "templeType": "Vaishnava",
+    "localLanguage": "Gujarati"
+  },
+
+  "location": {
+    "district": "Devbhumi Dwarka"
+  },
+
+  "governance": {
+    "establishedEra": "Tradition attributes the original shrine to Vajranabh, Krishna's great-grandson; the Department of Archaeology is quoted by the district administration as holding the temple to be about 1200 years old, and the present structure was rebuilt and enlarged in the 15th-16th century.",
+    "founderPatron": "Traditionally Vajranabh, great-grandson of Krishna"
+  },
+
+  "narrative": {
+    "documentedHistory": "The Devbhumi Dwarka district administration records two accounts of the temple's age side by side: the traditional attribution to Vajranabh, Krishna's great-grandson, more than 2500 years ago, and the opinion of the Department of Archaeology that the structure is about 1200 years old. Gujarat Tourism records that the temple was destroyed by Mahmud Begada in 1472 and rebuilt over the 15th and 16th centuries, which is also when the present enlargement is dated.\n\nThe main shrine sits on Gomti creek and is known as the Jagat Mandir, the universal shrine, or trilok sundar. It is built of soft limestone and comprises a sanctum, a vestibule and a rectangular hall with porches on three sides. Wikipedia describes it as a five-storeyed building carried on 72 pillars, roughly 29 m east to west by 23 m north to south. The shikhar is given as 43 m high by both the district administration and Gujarat Tourism, though Wikipedia states 78 m; the flag above it is made from 52 yards of cloth and is said to be visible from 10 km away, and is changed several times daily.\n\nThe complex has two named gateways. The district administration describes the swarga dwar as the gate by which pilgrims enter and the moksha dwar as the gate by which they leave; Wikipedia places the Moksha Dwara on the north and the Swarga Dwara on the south, with a flight of 56 steps descending from it to the ghats of the Gomati. A memorial within the temple commemorates Adi Shankara's visit, and the Dvaraka Pitha he is said to have founded stands nearby.",
+    "architectureStyle": "Limestone and sandstone temple with a tall carved shikhara; described by the district administration as Chalukya-styled"
+  },
+
+  "visitingInfo": {
+    "entryRules": "Pilgrims enter by the swarga dwar and exit by the moksha dwar. The Sudama Setu footbridge across the Gomti creek is open 7:00 AM-1:00 PM and 4:00-7:30 PM.",
+    "nearestRailStation": "Dwarka railway station",
+    "railDistanceKm": 2,
+    "nearestAirport": "Porbandar Airport",
+    "airportDistanceKm": 95,
+    "officialContactNote": "Neither the district administration nor Gujarat Tourism publishes a temple telephone number; confirm darshan and aarti timings with the temple administration on arrival, or through the Devbhumi Dwarka district office directory.",
+    "sourceIds": ["SRC001", "SRC002"],
+    "lastVerifiedDate": "2026-09-17",
+    "verificationStatus": "needs recheck",
+    "notes": "The previous entry's figures of 3 km to the railway station and 135 km to Rajkot airport are not supported by either government source; the district site gives about 2 km to Dwarka station and names Jamnagar and Porbandar as the nearest airports."
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "07:00",
+      "closeTime": "12:30",
+      "closedFlag": false,
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "17:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Janmashtami",
+      "significance": "Gujarat Tourism notes that Janmashtami, the birth of Krishna, is celebrated grandly at Dwarka and names it as one of the best times to visit.",
+      "visitorAdvice": "Expect heavy crowds; Gujarat Tourism otherwise recommends November to February for a comfortable visit.",
+      "sourceIds": ["SRC002"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Swarga Dwar",
+      "deityOrSubject": "Pilgrim entrance gateway",
+      "spaceType": "gopuram",
+      "locationDescription": "One of the complex's two named gateways. The district administration describes it as the gate by which pilgrims enter; Wikipedia places it on the south side, opening onto 56 steps down to the Gomati ghats.",
+      "sourceIds": ["SRC001", "SRC003"],
+      "verificationStatus": "conflict"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Moksha Dwar",
+      "deityOrSubject": "Pilgrim exit gateway",
+      "spaceType": "gopuram",
+      "locationDescription": "The complex's other named gateway. The district administration describes it as the exit; Wikipedia places it as the northern entrance.",
+      "sourceIds": ["SRC001", "SRC003"],
+      "verificationStatus": "conflict"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Adi Shankara memorial",
+      "deityOrSubject": "Adi Shankaracharya",
+      "spaceType": "shrine",
+      "locationDescription": "A memorial within the temple marking Adi Shankara's visit to the shrine.",
+      "sourceIds": ["SRC003"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "gopuram",
+      "title": "Dwarkadhish Temple tower, close-up",
+      "caption": "Close view of the carved shikhara of the Dwarkadhish temple, Dwarka.",
+      "altText": "Tall tiered stone spire of the Dwarkadhish temple against the sky.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/N-GJ-126_Dwarkadhish_Temple%2C_Dwarka_Temple_Tower_Closeup.jpg",
+      "creator": "MADHURANTHAKAN JAGADEESAN",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "MADHURANTHAKAN JAGADEESAN · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N-GJ-126_Dwarkadhish_Temple,_Dwarka_Temple_Tower_Closeup.jpg"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Flag hoisting at Dwarkadhish Temple",
+      "caption": "The temple flag being hoisted above the Dwarkadhish temple, Dwarka.",
+      "altText": "Temple spire with a large triangular flag being raised at its summit.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/N-GJ-126_Dwarkadhish_Temple%2C_Dwarka_Flag_Hoisting.jpg",
+      "creator": "MADHURANTHAKAN JAGADEESAN",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "MADHURANTHAKAN JAGADEESAN · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:N-GJ-126_Dwarkadhish_Temple,_Dwarka_Flag_Hoisting.jpg"
+    }
+  ]
+}

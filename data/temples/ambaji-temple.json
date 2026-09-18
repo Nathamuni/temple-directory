@@ -1,0 +1,316 @@
+{
+  "templeId": "TPL-IN-GU-AMB-0051",
+  "slug": "ambaji-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Ambaji Temple",
+    "alternateNames": [
+      "Arasuri Amba Temple",
+      "Amba Mata Temple",
+      "Arasuri Ambaji Mata Temple"
+    ],
+    "presidingDeity": "Devi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Shakti Peetha",
+      "Devi",
+      "Ambaji",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Ambaji Temple, on the Arasur hills of Gujarat's Banaskantha district, is counted by tradition among the 51 Shakti Peethas, sites said to mark where parts of the goddess Sati's body fell. The temple's own trust and Gujarat Tourism both describe the sanctum as holding no image of the goddess; devotion is instead directed at a Vishwa Yantra, a sacred geometric diagram, which is kept veiled from view. The nearby Gabbar hill is regarded by tradition as the goddess's original seat."
+  },
+  "location": {
+    "city": "Ambaji",
+    "district": "Banaskantha",
+    "stateProvince": "Gujarat",
+    "country": "India",
+    "postalCode": "385110",
+    "latitude": 24.3333,
+    "longitude": 72.85
+  },
+  "governance": {
+    "establishedEra": "Ancient Shakti Peetha tradition; the present temple has been renovated and expanded across multiple historical periods, but the sources consulted do not give a documented sequence of dates. The administering trust was established in 1960.",
+    "managingAuthority": "Shri Arasuri Ambaji Mata Devasthan Trust",
+    "officialWebsite": "https://ambajitemple.in/",
+    "administrationType": "Public trust",
+    "officialPhone": "02749-262236",
+    "officialEmail": "ambajitempletrust@gmail.com"
+  },
+  "narrative": {
+    "summaryIntro": "Ambaji Temple sits on the Arasur hills of the Aravalli range in Banaskantha district, Gujarat, close to the state's border with Rajasthan. Dedicated to the goddess in her form as Amba, it is counted among the 51 Shakti Peethas of Hindu tradition, sites associated with the dismembered body of Sati. Unlike most Hindu temples, the sanctum holds no anthropomorphic image; the object of worship is a Vishwa Yantra, a geometric diagram, kept veiled from devotees' view. The Shri Arasuri Ambaji Mata Devasthan Trust, a public trust registered with the state's Charity Commissioner and established in 1960, manages the temple under Gujarat government oversight. The temple draws its largest crowds during the Bhadarvi Poornima fair each September, when government sources record several hundred thousand pilgrims arriving, many on foot from across the region.",
+    "documentedHistory": "Accounts of the temple's age vary between sources and are not settled by any archaeological documentation consulted here. Gujarat Tourism describes worship at the site as dating from the pre-Vedic period, while other secondary travel sources attribute the present temple's construction to a Vallabhi-era ruler in around the 14th century CE and say the shrine was originally built by Nagar Brahmins; none of the sources making this specific attribution are primary or academic, so it is recorded as reported tradition rather than a verified date. The temple has been renovated and expanded across multiple subsequent periods, though no source consulted gives a documented sequence of specific renovations with dates.\n\nThe Shri Arasuri Ambaji Mata Devasthan Trust, by its own account a public trust established in 1960 and registered with the Charity Commissioner, administers the temple's religious activities, maintenance and funds under Gujarat state government oversight. In 2020 the Gujarat legislature passed the Ambaji Area Development and Pilgrimage Tourism Governance Act, creating a separate authority for the town's planning and development, distinct from the trust's religious functions.",
+    "associatedSaints": [],
+    "sthalaPuranam": "The temple's own account and Gujarat government sources record several traditions associated with the site: that the goddess's heart or right arm fell here after her self-immolation and Shiva's grief-stricken dance, making it one of the 51 Shakti Peethas; that Rama invoked the goddess here for aid against Ravana; and that Krishna's head-shaving ceremony was performed nearby by his foster parents Nand and Yashoda. Gabbar hill, near the main temple, is regarded by tradition as the goddess's original seat. These are recorded here as devotional tradition, not as settled history."
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "The trust's own website states darshan hours of 8:00-11:30 AM and 12:30-4:30 PM with aarti at 7:30-8:00 AM and 7:00-7:30 PM; Gujarat Tourism instead gives three open sessions covering 7:00-11:30 AM, 12:30-4:30 PM and 6:30-9:00 PM. The two sources agree on the midday session (12:30-4:30 PM) but disagree on whether the temple opens before 8:00 AM or after 4:30 PM; this is recorded as an unresolved conflict. Distances to the nearest railway station also vary: the trust's site and the Gujarat government's own Ambaji page both point to Abu Road (about 20-23 km), while Gujarat Tourism instead names Palanpur (65 km) as the nearest station; the Abu Road figure, corroborated by two independent sources, is used here."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC004"
+    ],
+    "verificationStatus": "conflict",
+    "nearestRailStation": "Abu Road Railway Station, approximately 20 km",
+    "railDistanceKm": 20,
+    "nearestAirport": "Sardar Vallabhbhai Patel International Airport, Ahmedabad, approximately 179 km",
+    "airportDistanceKm": 179,
+    "photographyPolicy": "Photography inside the sanctum is stated as prohibited by Wikipedia's article on the temple; this was not independently corroborated on the trust's own site.",
+    "officialContactNote": "Confirm same-day darshan and aarti timings directly with the Shri Arasuri Ambaji Mata Devasthan Trust on 02749-262236 or ambajitempletrust@gmail.com; the trust's own site and Gujarat Tourism currently publish different session hours.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "08:00",
+      "closeTime": "11:30",
+      "closedFlag": false,
+      "notes": "Stated by the trust's own website. Gujarat Tourism instead gives an opening time of 7:00 AM for the same session.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Afternoon darshan",
+      "openTime": "12:30",
+      "closeTime": "16:30",
+      "closedFlag": false,
+      "notes": "This session's hours agree exactly between the trust's own website and Gujarat Tourism.",
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "18:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "Stated by Gujarat Tourism; not corroborated by the trust's own site, which does not list a session after 4:30 PM.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Garbhagriha (sanctum)",
+      "deityOrSubject": "Vishwa Yantra (aniconic representation of the goddess)",
+      "spaceType": "shrine",
+      "locationDescription": "The inner sanctum, with a gold- and silver-plated interior, houses a Vishwa Yantra rather than an idol; the yantra is kept veiled from public view.",
+      "sourceIds": [
+        "SRC002",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Gabbar hill",
+      "deityOrSubject": "Original seat of the goddess, by tradition",
+      "spaceType": "other",
+      "locationDescription": "A hill near the main temple regarded by tradition as the goddess's original seat, reached by a long flight of steps or by ropeway, and the site of a light-and-sound show.",
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Mansarovar kund",
+      "deityOrSubject": "Sacred water tank",
+      "spaceType": "tank",
+      "locationDescription": "A rectangular, stepped water tank near the temple, listed by Gujarat Tourism among the site's features.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Chachar Chowk",
+      "deityOrSubject": "Ceremonial courtyard with the Akhand Jyot (eternal flame)",
+      "spaceType": "other",
+      "locationDescription": "An open square courtyard within the complex used for ceremonial rites and holding the temple's continuously burning flame.",
+      "sourceIds": [
+        "SRC002",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Morning Aarti",
+      "startTime": "07:30",
+      "endTime": "08:00",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "19:00",
+      "endTime": "19:30",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Bhadarvi Poornima Fair",
+      "significance": "A four-day fair around the September full moon, described by the state government's Ambaji page as drawing 17 to 20 lakh pedestrian pilgrims and tourists annually; Gujarat Tourism and Wikipedia both corroborate it as the temple's largest annual gathering.",
+      "sourceIds": [
+        "SRC003",
+        "SRC002",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Navratri",
+      "significance": "Gujarat Tourism and Wikipedia both describe Navratri at Ambaji as marked by garba dance celebrations and, per Gujarat Tourism, Bhavai folk theatre performances.",
+      "sourceIds": [
+        "SRC002",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Ambaji Temple — hero image",
+      "caption": "The Arasuri Amba temple complex at Ambaji, Banaskantha district, Gujarat, photographed in August 2023.",
+      "altText": "White marble temple complex with a gold-topped spire at Ambaji, Gujarat.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/0081323_Arasuri_Ambaji_mandir%2C_Shakti_Peeth%2C_north_Gujarat_076.jpg",
+      "creator": "Ms Sarah Welch",
+      "license": "CC0 1.0",
+      "attributionText": "Ms Sarah Welch · CC0 1.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:0081323_Arasuri_Ambaji_mandir,_Shakti_Peeth,_north_Gujarat_076.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Ambaji Temple Official | Temple Darshan Timing",
+      "publisherOrAuthority": "Shri Arasuri Ambaji Mata Devasthan Trust",
+      "url": "https://ambajitemple.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Darshan hours 8:00-11:30 AM and 12:30-4:30 PM; aarti 7:30-8:00 AM and 7:00-7:30 PM; contact phone 02749-262236 and email ambajitempletrust@gmail.com; nearest railway station Abu Road (~20 km); nearest airport Ahmedabad (~185 km); description of the sanctum's gold-plated spire (Suvarna Shikhar) and Gabbar hill's roughly 999 steps.",
+      "reliabilityNote": "Undated operational page; timings and step counts may change without notice.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Ambaji Temple Banaskantha",
+      "publisherOrAuthority": "Gujarat Tourism (Tourism Corporation of Gujarat Ltd.)",
+      "url": "https://gujarattourism.com/north-zone/banaskantha/ambaji-temple.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Address (Khodiyar Chowk, Ambaji); temple hours 7:00-11:30 AM, 12:30-4:30 PM and 6:30-9:00 PM daily; status as one of 51 Shakti Peethas; description of the Vishwa Yantra and chachar chowk courtyard; white marble construction with gold cones and silver-plated sanctum doors; nearest railway station Palanpur (65 km) and nearest airport Ahmedabad (179 km); Navratri, Bhadarvi Poornima and Diwali festivals; Gabbar hill light-and-sound show; Mansarovar kund.",
+      "reliabilityNote": "State tourism page, undated; its railway-station distance (Palanpur, 65 km) disagrees with the trust's own site and the state government's Ambaji page, both of which point to the closer Abu Road station.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Ambaji Temple",
+      "publisherOrAuthority": "Government of Gujarat",
+      "url": "https://gujaratindia.gov.in/Home/ambaji-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Elevation of 1,580 feet; Adyashakti/Saraswati river-source associations; monthly astami worship of the Visa Yantra; legends of Mahisasur's defeat, Rama's invocation, and Krishna's head-shaving ceremony; Bhadarvi Poornima fair attendance of 17-20 lakh pilgrims; Shri Arasuri Ambaji Mata Dev Sthan Trust contact numbers (02749-262136/262636); distances to Palanpur (60 km) and Abu Road (23 km); nearest railway Abu Road and nearest airport Ahmedabad.",
+      "reliabilityNote": "State government portal page, undated; gives a different trust phone number from the trust's own current website, which is recorded but not resolved here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Ambaji — Gujarat Pavitra Yatradham Vikas Board",
+      "publisherOrAuthority": "Gujarat Pavitra Yatradham Vikas Board, Government of Gujarat",
+      "url": "https://yatradham.gujarat.gov.in/TempleDetails?templename=FlASES%2F%2FW+68xNx9vFV8xg%3D%3D",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location on the Gujarat-Rajasthan border near the Saraswati river source; Trishulia Ghat pilgrimage route (about 11 km); trust contact numbers (O) +91 2749 262136/262636 and a local civil-hospital emergency number.",
+      "reliabilityNote": "State pilgrimage-board portal page, undated; contact numbers differ slightly from the trust's own current website.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Ambaji Mata Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Ambaji_Mata_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Coordinates 24°20'N 72°51'E; elevation about 480 m on the Arasur hills; status as one of 51 Shakti Peethas; description of the Vishwa Yantra with fifty-one letters and its parallel to Shaktipithas at Ujjain and Nepal; Gabbar hill as the goddess's original seat; Navratri garba celebrations; the 2020 Ambaji Area Development and Pilgrimage Tourism Governance Act; ban on photography in the sanctum; distances to Palanpur (~65 km), Abu Road (~20 km), Mount Abu (~45 km) and Ahmedabad (~185 km).",
+      "reliabilityNote": "Tertiary source; used mainly for structural, legal and legendary detail not covered by the government and trust sources.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:0081323 Arasuri Ambaji mandir, Shakti Peeth, north Gujarat 076.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:0081323_Arasuri_Ambaji_mandir,_Shakti_Peeth,_north_Gujarat_076.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Source and licensing (CC0 1.0, credited to Ms Sarah Welch) for MED001.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001",
+      "FES002"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Shri Arasuri Ambaji Mata Devasthan Trust, Khodiyar Chowk, Ambaji, Banaskantha, Gujarat 385110, India"
+  },
+  "submittedBy": "import"
+}

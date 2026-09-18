@@ -1,0 +1,210 @@
+{
+  "slug": "kanchi-kamakshi",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Sri Kamakshi Ambal Devasthanam, Sri Kanchi Kamakoti Peedam, Sri Madam Samasthanam, Big, Kancheepuram - 631502, Kancheepuram District [TM001865]",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1865",
+      "accessDate": "2026-09-18",
+      "claimScope": "Official temple name and constitution as a Devasthanam of the Sri Kanchi Kamakoti Peedam, postal code, HR&CE listing, daily opening hours.",
+      "reliabilityNote": "Page is undated and its timing block is garbled (an afternoon session is printed as ending at 9:00 AM); timings should be treated as unreliable and rechecked.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Sri Kamakshi Ambal Devasthanam, Kancheepuram — Pooja Information",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1865&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "Names and timings of the five daily poojas.",
+      "reliabilityNote": "Undated page; recurrence is not stated explicitly on the page, though the listing is the standard daily schedule.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Sri Kamakshi Ambal Devasthanam, Kancheepuram — Contact Us",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://hrce.tn.gov.in/hrcehome/index_temple.php?tid=1865&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "Postal address, official telephone number and contact email address.",
+      "reliabilityNote": "Undated page; the listed contact address is a Gmail account rather than a tn.gov.in address.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "sourceTypeNote": "Reference encyclopedia, used for history, iconography and architecture only",
+      "title": "Kamakshi Amman Temple",
+      "publisherOrAuthority": "Wikipedia (with sources cited therein)",
+      "url": "https://en.wikipedia.org/wiki/Kamakshi_Amman_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Shakta Pitha status, the padmasana form and iconography of Kamakshi, the Gayatri Mandapam, the Sri Chakra and the Bila gate, the Adi Shankara shrine and the Kanchi Kamakoti Peetham connection, the Pallava/Chola attribution and later modification, and the Masi Mahotsavam.",
+      "reliabilityNote": "Tertiary source; not used for any timing, pooja or contact claim. Its founding attribution is itself hedged between Pallava and Chola patronage.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:One of the four entrance gopurams of Kamakshi Amman Temple, Kanchipuram.jpg",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "Ms Sarah Welch",
+      "url": "https://commons.wikimedia.org/wiki/File:One_of_the_four_entrance_gopurams_of_Kamakshi_Amman_Temple,_Kanchipuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of one of the four entrance gopurams; author and licence.",
+      "reliabilityNote": "Licence and author read from the Commons File: page; photograph dated 8 September 2018.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Kamakshi Amman Temple is counted among the eighteen principal Shakta Pithas and is the foremost goddess shrine of Kanchipuram. Kamakshi is enshrined seated in padmasana, holding a noose, a goad, a sugarcane bow and a flower arrow. A Sri Chakra placed before the image is traditionally attributed to Adi Shankara, and the temple is the seat of the Sri Kanchi Kamakoti Peetham.",
+    "sacredClassifications": ["Shakta Pitha"],
+    "tradition": "Shakta",
+    "consortDeity": "Shiva",
+    "localLanguage": "Tamil"
+  },
+
+  "governance": {
+    "establishedEra": "Attributed variously to Pallava patronage (c. 5th-8th century) and to the Cholas; substantially modified between the 14th and 17th centuries",
+    "managingAuthority": "Sri Kamakshi Ambal Devasthanam, Sri Kanchi Kamakoti Peedam, Sri Madam Samasthanam; listed by the HR&CE Department, Government of Tamil Nadu",
+    "administrationType": "Government department",
+    "officialPhone": "044-27222609",
+    "officialEmail": "srikanchikamakshitemple@gmail.com"
+  },
+
+  "narrative": {
+    "documentedHistory": "The temple's founding is not settled in the sources consulted: it is attributed to Pallava kings of roughly the fifth to eighth centuries, while some accounts credit the Cholas with its construction. It was substantially modified between the fourteenth and seventeenth centuries.\n\nThe temple is counted among the eighteen main Shakta Pithas and is the seat of the Sri Kanchi Kamakoti Peetham, the monastic institution that is closely bound to its ritual life; the HR&CE listing itself names the temple as the Devasthanam of that Peedam. Adi Shankara is honoured with a shrine in the complex and is credited with consecrating the Sri Chakra yantra placed before the principal image.\n\nThe inner Gayatri Mandapam is described in temple tradition as having four walls standing for the four Vedas and twenty-four pillars for the twenty-four syllables of the Gayatri mantra. The Bila gate marks the point where, by tradition, the goddess emerged to defeat the demon Bhandasura.",
+    "architectureStyle": "Dravidian",
+    "associatedSaints": ["Adi Shankara"]
+  },
+
+  "visitingInfo": {
+    "officialContactNote": "The HR&CE page's published hours for this temple are internally garbled, so timings should be confirmed directly with the Devasthanam on 044-27222609 before travelling.",
+    "sourceIds": ["SRC001", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck"
+  },
+
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning",
+      "openTime": "05:30",
+      "closeTime": "12:30",
+      "closedFlag": false,
+      "notes": "HR&CE lists a morning session of 5:30 AM to 12:30 PM, consistent with the Ko Pooja at 5:30 AM. The same page also mentions early access from 3:45 AM, which is not otherwise explained.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening",
+      "openTime": "15:45",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "The HR&CE page prints the afternoon/evening session as 3:45 PM to 9:00 AM, which is evidently a typographical error; 9:00 PM is recorded here, consistent with the Ardhajama pooja ending at 8:40 PM. Not treated as settled.",
+      "sourceIds": ["SRC001", "SRC002"],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    }
+  ],
+
+  "poojas": [
+    {
+      "poojaId": "PUJ001", "recordType": "pooja", "nameEn": "Ko pooja",
+      "startTime": "05:30", "endTime": "05:40", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002", "recordType": "pooja", "nameEn": "Kalasandhi pooja",
+      "startTime": "05:45", "endTime": "06:45", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003", "recordType": "pooja", "nameEn": "Uchikkala pooja",
+      "startTime": "10:30", "endTime": "11:30", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004", "recordType": "pooja", "nameEn": "Sayaraksha pooja",
+      "startTime": "16:30", "endTime": "17:30", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005", "recordType": "pooja", "nameEn": "Ardhajama pooja",
+      "startTime": "20:30", "endTime": "20:40", "recurrence": "Daily",
+      "description": "The last pooja of the day.",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck"
+    }
+  ],
+
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Masi Mahotsavam",
+      "tamilOrLocalMonth": "Masi (February-March)",
+      "significance": "The temple's principal spring festival.",
+      "processionOrRituals": "Street processions of the deity, including the chariot festival.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"],
+      "verificationStatus": "sourced"
+    }
+  ],
+
+  "shrines": [
+    {
+      "shrineId": "SHR001", "shrineName": "Kamakshi sanctum", "deityOrSubject": "Kamakshi (Parvati)",
+      "spaceType": "shrine",
+      "locationDescription": "The central sanctum, where the goddess is seated in padmasana on a throne, holding a noose, a goad, a sugarcane bow and a flower arrow.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002", "shrineName": "Sri Chakra", "deityOrSubject": "Sri Yantra",
+      "spaceType": "other",
+      "locationDescription": "A Sri Yantra installed before the principal image, traditionally credited to Adi Shankara.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003", "shrineName": "Gayatri Mandapam", "spaceType": "hall",
+      "locationDescription": "The inner hall enclosing the sanctum; its four walls are traditionally identified with the four Vedas and its twenty-four pillars with the twenty-four syllables of the Gayatri mantra.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004", "shrineName": "Adi Shankara shrine", "deityOrSubject": "Adi Shankara",
+      "spaceType": "shrine",
+      "locationDescription": "A shrine in the complex honouring the philosopher, whose Kanchi Kamakoti Peetham is seated at this temple.",
+      "linkedMediaIds": [], "sourceIds": ["SRC004"], "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005", "shrineName": "Entrance gopurams", "spaceType": "gopuram",
+      "locationDescription": "The temple has four entrance gopurams.",
+      "linkedMediaIds": ["MED001"], "sourceIds": ["SRC005"], "verificationStatus": "sourced"
+    }
+  ],
+
+  "media": [
+    {
+      "mediaId": "MED001", "mediaType": "image", "category": "gopuram",
+      "title": "Entrance gopuram, Kamakshi Amman Temple, Kanchipuram",
+      "caption": "One of the four entrance gopurams of the Kamakshi Amman Temple, photographed in September 2018.",
+      "altText": "A tiered temple gateway tower covered in sculpted and painted figures, above a temple entrance.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/One_of_the_four_entrance_gopurams_of_Kamakshi_Amman_Temple%2C_Kanchipuram.jpg",
+      "creator": "Ms Sarah Welch",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ms Sarah Welch · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:One_of_the_four_entrance_gopurams_of_Kamakshi_Amman_Temple,_Kanchipuram.jpg"
+    }
+  ]
+}

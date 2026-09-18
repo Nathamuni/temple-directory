@@ -1,0 +1,336 @@
+{
+  "templeId": "TPL-IN-MA-MUM-0046",
+  "slug": "siddhivinayak-mumbai",
+  "status": "published",
+  "identity": {
+    "nameEn": "Shree Siddhivinayak Temple, Mumbai",
+    "alternateNames": [
+      "Shri Siddhivinayak Ganapati Mandir"
+    ],
+    "presidingDeity": "Ganesha",
+    "tradition": "Ganapatya",
+    "templeType": "Ganapatya",
+    "sacredClassifications": [
+      "Ganesha",
+      "Siddhivinayak",
+      "Prabhadevi",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Shree Siddhivinayak Ganapati Mandir in Prabhadevi is dedicated to Ganesha as Siddhivinayak, \"the Ganesha who grants wishes.\" The sanctum holds a black stone idol about 2.5 feet high, and the wooden doors leading to it are carved with the Ashtavinayaka, the eight established Ganesha shrines of Maharashtra. It is among Mumbai's most visited temples, with especially large crowds on Tuesdays and the monthly Sankashti Chaturthi.",
+    "nameLocal": "श्री सिद्धिविनायक गणपती मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Mumbai",
+    "district": "Mumbai City",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "400028",
+    "latitude": 19.0169,
+    "longitude": 72.8303
+  },
+  "governance": {
+    "establishedEra": "Original shrine consecrated 19 November 1801; present five-storey temple complex completed 1994",
+    "managingAuthority": "Shree Siddhivinayak Ganapati Mandir Trust",
+    "founderPatron": "Laxman Vithu and Deubai Patil (1801 shrine)",
+    "administrationType": "Public trust",
+    "officialWebsite": "https://www.siddhivinayak.org/",
+    "officialPhone": "+91-22-6249-1111"
+  },
+  "narrative": {
+    "summaryIntro": "Shree Siddhivinayak Ganapati Mandir stands on S.K. Bole Marg in the Prabhadevi neighbourhood of Mumbai and is dedicated to Ganesha in his form as Siddhivinayak. The temple is administered by the Shree Siddhivinayak Ganapati Mandir Trust under a dedicated state act, and is among the wealthiest and most visited Hindu temple trusts in the city, drawing particularly large crowds on Tuesdays and during the monthly Sankashti Chaturthi.\n\nThe original shrine was a small structure consecrated in 1801. The temple complex seen today is a later five-storey building whose foundation stone was laid in 1990 and which was completed in 1994. The sanctum's wooden doors are carved with the Ashtavinayaka, the eight traditional Ganesha shrines of Maharashtra, and its inner roof is gold-plated. A peripheral shrine to Hanuman also stands within the complex.",
+    "documentedHistory": "According to Wikipedia, the temple was originally built by Laxman Vithu and Deubai Patil, with the shrine consecrated on 19 November 1801; the original structure was a small brick building of about 3.6 m by 3.6 m with a dome-shaped brick shikhara. The Mumbai City district government's own tourism page independently gives 1801 as the temple's founding period, describing that date as marking the shrine's first documented renovation, which implies an earlier, undocumented origin; this earlier-origin claim is not corroborated elsewhere and is not treated as settled here.\n\nThe temple's administration was placed on a statutory footing by the Shri SiddhiVinayak Ganpati Temple Trust (Prabhadevi) Act, 1980, adopted 11 October 1980, with the trust separately registered under the Bombay Public Trusts Act, 1950. The present temple building replaced the older structure after the Chief Minister of Maharashtra, Sharad Pawar, laid the foundation stone for the new complex on 27 April 1990; the five-storey building, which also houses trust offices, a library and a dialysis centre, was completed in 1994. In 2004, alleged mismanagement of the trust was investigated by a committee constituted by the Bombay High Court.\n\nThe sanctum's wooden doors are carved with the Ashtavinayaka, the eight established Ganesha shrines of Maharashtra, and the inner roof of the sanctum is gold-plated. A peripheral shrine to Hanuman stands within the temple complex.",
+    "associatedSaints": [],
+    "architectureStyle": "Modern Maharashtrian temple architecture (present structure, 1994); original 1801 shrine was a small brick structure with a dome-shaped shikhara"
+  },
+  "editorial": {
+    "overallVerificationStatus": "cross-referenced",
+    "verificationNotes": "Founding year (1801) and the 1980 trust act are corroborated by both Wikipedia and the Mumbai City district government tourism page. Current darshan/aarti timings, contact numbers and visitor rules are taken directly from the temple trust's own website. The district government page's claim that the 1801 date represents a renovation implying an older, undocumented shrine is noted but not treated as settled, since no other source corroborates it. The government page's listed phone number and email differ from the trust's own current site; the trust's own contact details are used here as authoritative for current contact."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC004"
+    ],
+    "verificationStatus": "cross-referenced",
+    "dressCode": "Modest/traditional attire; immodest clothing is not permitted. Mobile phones must be switched off and footwear removed before entering the temple.",
+    "nearestRailStation": "Dadar Railway Station, approx. 2.5 km",
+    "railDistanceKm": 2.5,
+    "nearestAirport": "Chhatrapati Shivaji Maharaj International Airport, approx. 12 km",
+    "airportDistanceKm": 12,
+    "accessibilityNotes": "The trust offers a live online darshan stream and online booking for pooja and seva through its website.",
+    "officialContactNote": "Contact the trust's main office (+91-22-6249-1111) or pooja booking desk; timings and entry are restricted with distant viewing only during extended pujas on Tuesdays, Sankashti Chaturthi, Vinayaki Chaturthi, Maghi Ganesh Jayanti and Bhadrapad Ganesh Chaturthi, so confirm before travelling on those days.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Regular schedule (Wednesday to Monday)",
+      "openTime": "05:30",
+      "closeTime": "21:50",
+      "closedFlag": false,
+      "notes": "Temple opens at 5:30 AM; darshan continues through the day around Naivedhya (12:05-12:30 PM) and aarti breaks, and the temple closes after Shejaarti at 9:50 PM.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "special",
+      "sessionName": "Tuesday schedule",
+      "openTime": "03:15",
+      "closeTime": "23:30",
+      "closedFlag": false,
+      "notes": "Tuesday, considered Ganesha's day, has extended hours from 3:15 AM with the main entrance closing at 11:30 PM; a Night Pooja & Aarti runs 9:00-10:10 PM, during which the sanctum doors close and only distant viewing is available.",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Hanuman Shrine",
+      "deityOrSubject": "Hanuman",
+      "spaceType": "shrine",
+      "locationDescription": "A peripheral shrine within the Siddhivinayak temple complex.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Kakad Aarti",
+      "startTime": "05:30",
+      "endTime": "06:00",
+      "recurrence": "Daily (Wednesday to Monday)",
+      "description": "Early morning aarti that opens the day's schedule.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Dhup Aarti",
+      "startTime": "19:00",
+      "endTime": "19:10",
+      "recurrence": "Daily (Wednesday to Monday)",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "recurrence": "Daily (Wednesday to Monday)",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "aarti",
+      "nameEn": "Shejaarti",
+      "startTime": "21:50",
+      "recurrence": "Daily (Wednesday to Monday)",
+      "description": "Closing aarti of the day, after which the temple shuts.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Tuesday Night Pooja & Aarti",
+      "startTime": "21:00",
+      "endTime": "22:10",
+      "recurrence": "Weekly (Tuesday)",
+      "description": "Extended night pooja on Ganesha's day of the week; the sanctum doors close during the ritual and only distant viewing is available.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Ganesh Chaturthi (Bhadrapad Shree Ganesh Chaturthi)",
+      "tamilOrLocalMonth": "Bhadrapada (August-September)",
+      "duration": "Extended pooja day within the wider citywide festival",
+      "significance": "Ganesha's principal annual festival; the temple holds extended morning poojas with restricted sanctum entry and distant viewing.",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Sankashti Chaturthi",
+      "tamilOrLocalMonth": "Monthly (lunar Chaturthi)",
+      "duration": "1 day",
+      "significance": "Monthly Ganesha observance and one of the temple's highest-footfall days, with an extended morning pooja and restricted sanctum entry.",
+      "verificationStatus": "verified",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Maghi Shree Ganesh Jayanti",
+      "tamilOrLocalMonth": "Magha (January-February)",
+      "duration": "1 day",
+      "significance": "Observance of Ganesha's birthday in the Magha month, marked at the temple with an extended morning pooja.",
+      "verificationStatus": "verified",
+      "sourceIds": [
+        "SRC002"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Shree Siddhivinayak Temple, Mumbai — hero image",
+      "caption": "Shree Siddhivinayak Temple in Prabhadevi, Mumbai",
+      "altText": "Exterior view of the Shree Siddhivinayak temple building in Prabhadevi, Mumbai",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shree_Siddhivinayak_Temple_Mumbai.jpg",
+      "creator": "Darwininan",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Darwininan · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shree_Siddhivinayak_Temple_Mumbai.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Siddhivinayak Temple",
+      "caption": "The Siddhivinayak Temple complex, Prabhadevi, Mumbai.",
+      "altText": "Multi-storey Siddhivinayak temple building in Mumbai",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/Siddhivinayak_Temple.jpg",
+      "creator": "Abhijeet Rane",
+      "license": "CC BY 2.0",
+      "attributionText": "Abhijeet Rane · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Shree Siddhivinayak Ganapati Mandir Trust — Official Website",
+      "publisherOrAuthority": "Shree Siddhivinayak Ganapati Mandir Trust",
+      "url": "https://www.siddhivinayak.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Trust name; temple address (S.K. Bole Marg, Prabhadevi, Mumbai 400028); contact numbers for the main office, PA to Chairman, PA to Executive Officer, pooja booking and medical help; visitor rules (mobile phones off, modest attire, footwear removed at entrance); online pooja/seva booking and live darshan services; charitable activities including a dialysis centre and library.",
+      "reliabilityNote": "The trust's own site; the page carries no visible revision date.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Temple Schedule — Shree Siddhivinayak Ganapati Mandir Trust",
+      "publisherOrAuthority": "Shree Siddhivinayak Ganapati Mandir Trust",
+      "url": "https://www.siddhivinayak.org/temple-schedule/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Daily darshan and aarti schedule for the regular (Wednesday-Monday) days, including Kakad Aarti, Naivedhya, Dhup Aarti, Evening Aarti and Shejaarti timings; the separate Tuesday schedule with extended hours and Night Pooja & Aarti; and extended-pooja special observance days (Vinayaki Chaturthi, Sankashti Chaturthi, Maghi Shree Ganesh Jayanti, Bhadrapad Shree Ganesh Chaturthi).",
+      "reliabilityNote": "Official schedule page, undated. The temple itself notes that entry is restricted with distant viewing only during extended pujas, so schedules should be reconfirmed before travelling on festival days.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Siddhivinayak Temple, Mumbai — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Siddhivinayak_Temple,_Mumbai",
+      "accessDate": "2026-09-18",
+      "claimScope": "Founding by Laxman Vithu and Deubai Patil, shrine consecrated 19 November 1801; original small brick structure with a dome-shaped brick shikhara; coordinates 19°01'01\"N 72°49'49\"E; sanctum doors carved with the Ashtavinayaka; gold-plated inner sanctum roof; peripheral Hanuman shrine; the Shri SiddhiVinayak Ganpati Temple Trust (Prabhadevi) Act, 1980, adopted 11 October 1980; registration under the Bombay Public Trusts Act, 1950; description of the trust as among Mumbai's wealthiest by annual donations; a 2004 Bombay High Court committee investigation into alleged trust mismanagement.",
+      "reliabilityNote": "Tertiary source; used for history, architecture and administrative background, not for current timings or contact details.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Siddhivinayak Temple — Mumbai City District",
+      "publisherOrAuthority": "Mumbai City District Administration, Government of Maharashtra (NIC)",
+      "url": "https://mumbaicity.gov.in/en/tourist-place/siddhivinayak-temple/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Distance from Dadar Railway Station (approx. 2.5 km) and Chhatrapati Shivaji Maharaj International Airport (approx. 12 km); description of the sanctum idol as black stone, about 2.5 feet tall, with a lotus, hatchet, prayer beads and a bowl of sweets; foundation stone for the present temple complex laid by then Chief Minister Sharad Pawar on 27 April 1990; the present five-storey structure completed in 1994; operation under the Shree Siddhivinayak Ganapati Temple (Trust) Act, 1980, with income-tax exemption.",
+      "reliabilityNote": "Official district government tourism page. Its listed phone number and email address appear outdated compared with the trust's own current site and are not used here. Its statement that the 1801 date reflects a 'first renovation' implying an older, undocumented origin is noted in the narrative but not corroborated elsewhere.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Shree Siddhivinayak Temple Mumbai.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Shree_Siddhivinayak_Temple_Mumbai.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hero image file, author attribution (Darwininan) and licence (CC BY-SA 3.0) for the temple photograph listed in media.",
+      "reliabilityNote": "Photograph taken 16 June 2012, uploaded 23 June 2012.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Siddhivinayak Temple.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Siddhivinayak_Temple.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Exterior image file, author attribution (Abhijeet Rane) and licence (CC BY 2.0) for the temple photograph listed in media.",
+      "reliabilityNote": "Uploaded 7 March 2010.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "S.K. Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028, India"
+  },
+  "submittedBy": "import"
+}

@@ -1,0 +1,399 @@
+{
+  "templeId": "TPL-IN-MA-KOL-0048",
+  "slug": "mahalaxmi-kolhapur",
+  "status": "published",
+  "identity": {
+    "nameEn": "Mahalakshmi Temple, Kolhapur",
+    "alternateNames": [
+      "Ambabai Temple",
+      "Shri Karveer Nivasini Mahalakshmi"
+    ],
+    "presidingDeity": "Mahalakshmi",
+    "tradition": "Shakta",
+    "templeType": "Shakti tradition",
+    "sacredClassifications": [
+      "Shakti Peetha",
+      "Devi",
+      "Mahalakshmi",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Mahalakshmi, worshipped locally as Ambabai, is widely venerated as a Shakti Peetha, though sources disagree on whether the Kolhapur shrine belongs to the specific set of 'three and a half' principal peethas of the Shakta tradition. The black stone image of the goddess is the focus of the twice-yearly 'Kirnotsav', when the rays of the setting sun are said to fall directly upon it.",
+    "nameLocal": "श्री अंबाबाई मंदिर",
+    "localLanguage": "Marathi"
+  },
+  "location": {
+    "city": "Kolhapur",
+    "district": "Kolhapur",
+    "stateProvince": "Maharashtra",
+    "country": "India",
+    "postalCode": "416012",
+    "latitude": 16.7,
+    "longitude": 74.2333
+  },
+  "governance": {
+    "establishedEra": "Traditionally dated to 634 CE under Chalukya king Karnadeva; a separate account instead describes the standing structure as built up in phases from the 9th to 18th centuries — sources disagree on the founding date",
+    "managingAuthority": "Devasthan Management Committee, Kolhapur (also referred to as the Paschim Maharashtra Devasthan Samiti)",
+    "founderPatron": "Traditionally attributed to the Chalukya ruler Karnadeva (per Wikipedia); disputed, see documentedHistory",
+    "administrationType": "Government department",
+    "officialWebsite": "https://www.mahalaxmikolhapur.com/",
+    "officialPhone": "+91 231 2541779"
+  },
+  "narrative": {
+    "summaryIntro": "The Mahalakshmi Temple, commonly known as the Ambabai temple, is a Hindu temple in Kolhapur, Maharashtra, dedicated to the goddess Mahalakshmi. It stands on Mahadwar Road facing Bhavani Mandap in the Karveer area of the city and is one of the temples popularly counted among India's Shakti Peethas, sacred sites associated with the goddess in her form as Shakti.\n\nThe temple's black-stone sanctum and image of the goddess sit within a walled complex that also houses subsidiary shrines. It is administered by the state-linked Devasthan Management Committee (Paschim Maharashtra Devasthan Samiti), and is known outside Kolhapur for 'Kirnotsav', an occasion when the setting sun is said to illuminate the goddess's image directly, observed twice a year.",
+    "documentedHistory": "The temple stands in the Karveer area of Kolhapur on Mahadwar Road, facing Bhavani Mandap, at approximately 16.70°N 74.23°E. Wikipedia's article on the temple states it is traditionally dated to 634 CE and attributes its construction to the Chalukya ruler Karnadeva; this date has not been corroborated here from an academic or epigraphic source opened directly. A separate account published by ambabai.com, a site describing itself as run by devotees, instead describes the standing structure as built up in phases across the 9th to 18th centuries under different regimes, without giving a single founding date. The two accounts do not agree, and no government or peer-reviewed source consulted here settles the question.\n\nWikipedia further reports that the historian Paul Dundas has pointed to evidence that the structure may originally have been a Jain temple dedicated to the eighth tirthankara, Chandraprabha, later converted for the worship of the Hindu goddess during a period of medieval religious contestation. This is recorded here as a documented view relayed via a tertiary source rather than as an established fact.\n\nThe temple's architecture is generally described as Hemadpanti in style with Chalukyan influence, built substantially of black stone. ambabai.com describes the complex as organised around a garbhagriha (sanctum) and antaraal (antechamber), flanked by shrines to Mahakali and Mahasaraswati, with a central mandapa and separate Ganesh and Garud mandaps, the whole enclosed within masonry walls with four entrances. Wikipedia separately records a black stone image of the goddess, about three feet high and reported to weigh around 40 kg, crowned and bearing a five-headed snake motif, holding a matulinga fruit, a mace, a shield and a panapatra, with a stone lion (the goddess's vahana) placed behind it and a Sri Yantra carved into a nearby wall. The Government of India's Incredible India tourism portal separately notes shrines to Vishnu, Shiva and Ganesha within the temple premises.\n\nThe temple is associated with 'Kirnotsav', a twice-yearly alignment in which the rays of the setting sun are said to fall directly on the image of the goddess; ambabai.com places this in late January to early February and again in November, and states that the temple's orientation is linked to a structure called Sandhyamath by Rankala lake, roughly 1.5 km away.\n\nThe temple is widely described as a Shakti Peetha, though sources disagree on the precise classification. Wikipedia's dedicated article on the temple calls it one of the 'three and a half' Shaktipeethas of the Shakta tradition and states this is where Sati's three eyes are held to have fallen; the separate Wikipedia article 'Shakta Pithas in Maharashtra', however, assigns the 'three and a half' designation to the Tulja Bhavani, Renuka and Saptashrungi shrines and instead counts Kolhapur among Maharashtra's four principal Shakta pithas. This entry does not adopt either classification as settled. The temple is administered by the Devasthan Management Committee (Paschim Maharashtra Devasthan Samiti), Kolhapur, which the Government of Maharashtra's Law and Judiciary Department lists as an attached office under its charge, giving its address as 87KH, B ward, Mangalwar Peth, Kolhapur and linking to www.mahalaxmikolhapur.com as the committee's website.",
+    "associatedSaints": [],
+    "architectureStyle": "Hemadpanti"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "Two open disputes are carried in the narrative rather than resolved: (1) the temple's founding date and dynasty — 634 CE / Chalukya king Karnadeva per Wikipedia versus a phased 9th-18th century construction per a devotee-run site (ambabai.com) — neither corroborated by an academic or epigraphic source opened directly; (2) whether Kolhapur belongs to the 'three and a half' Shakti Peethas — asserted by Wikipedia's temple article but contradicted by Wikipedia's own 'Shakta Pithas in Maharashtra' article, which assigns that designation to Tulja Bhavani, Renuka and Saptashrungi instead. Darshan hours also differ slightly between two government-linked sources (Incredible India vs. the Utsav portal) — see openingHours notes. The temple's own website (mahalaxmikolhapur.com) is a JavaScript application that could not be read for body content beyond confirming it loads under the name 'Shree Karveer Niwasini Ambabai Mahalaxmi'; no claims are sourced from it beyond its existence and URL. No dedicated pilgrim helpline number or committee-member list could be confirmed; the phone number recorded under governance is the Law and Judiciary Department's listing for the Devasthan Samiti as its attached office, not a verified public darshan helpline."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC003",
+      "SRC004",
+      "SRC005"
+    ],
+    "verificationStatus": "cross-referenced",
+    "nearestRailStation": "Chhatrapati Shahu Maharaj Terminus, Kolhapur, approx. 3 km",
+    "railDistanceKm": 3,
+    "nearestBusStation": "Kolhapur Bus Stand, approx. 3 km",
+    "nearestAirport": "Chhatrapati Rajaram Maharaj Airport (Kolhapur Airport), approx. 13 km",
+    "airportDistanceKm": 13,
+    "officialContactNote": "The Devasthan Management Committee (Paschim Maharashtra Devasthan Samiti) is listed by the Government of Maharashtra's Law and Judiciary Department at 87KH, B ward, Mangalwar Peth, Kolhapur 416012, phone 0231-2541779, with www.mahalaxmikolhapur.com given as its website. Two government-linked sources give slightly different darshan hours (see openingHours) — confirm locally before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan (overall temple hours)",
+      "openTime": "04:00",
+      "closeTime": "22:00",
+      "closedFlag": false,
+      "notes": "India's Ministry of Tourism portal (incredibleindia.gov.in) states overall temple hours as 4:00 AM to 10:00 PM, with morning darshan 4:30 AM-12:30 PM, afternoon/evening darshan 1:00-8:30 PM and an evening aarti 7:30-8:30 PM. The Government of India's Utsav portal instead lists a single darshan window of 5:00 AM-10:00 PM. The two government-linked sources do not fully agree on the opening time and session breakdown; confirm locally before travelling.",
+      "sourceIds": [
+        "SRC003",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening aarti",
+      "openTime": "19:30",
+      "closeTime": "20:30",
+      "closedFlag": false,
+      "notes": "Per the Incredible India tourism portal.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Vishnu shrine",
+      "deityOrSubject": "Vishnu",
+      "spaceType": "shrine",
+      "locationDescription": "Within the Mahalakshmi temple premises.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Shiva shrine",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "Within the Mahalakshmi temple premises.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Ganesh Mandap",
+      "deityOrSubject": "Ganesha",
+      "spaceType": "shrine",
+      "locationDescription": "Within the Mahalakshmi temple premises.",
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Mahakali shrine",
+      "deityOrSubject": "Mahakali, a form of the goddess",
+      "spaceType": "shrine",
+      "locationDescription": "Flanking the sanctum, per ambabai.com.",
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Mahasaraswati shrine",
+      "deityOrSubject": "Mahasaraswati, a form of the goddess",
+      "spaceType": "shrine",
+      "locationDescription": "Flanking the sanctum, per ambabai.com.",
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Garud Mandap",
+      "deityOrSubject": "Garuda pavilion",
+      "spaceType": "hall",
+      "locationDescription": "Part of the temple complex, per ambabai.com.",
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "recurrence": "Daily",
+      "description": "Evening aarti observed daily, per the Incredible India tourism portal.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Kirnotsav",
+      "tamilOrLocalMonth": "Late January-early February and November (twice yearly)",
+      "duration": "Several days, twice a year",
+      "significance": "The rays of the setting sun are said to fall directly on the image of the goddess.",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC001",
+        "SRC006"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Navratri",
+      "tamilOrLocalMonth": "September-October",
+      "duration": "9 days",
+      "significance": "Nine-night festival of the goddess.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Lakshmi Puja (Diwali)",
+      "tamilOrLocalMonth": "October-November",
+      "duration": "1 day",
+      "significance": "Worship of the goddess during Diwali.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES004",
+      "festivalNameEn": "Varalakshmi Vratam",
+      "tamilOrLocalMonth": "July-August",
+      "duration": "1 day",
+      "significance": "Vow-based worship of the goddess for the welfare of the family.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES005",
+      "festivalNameEn": "Lalita Panchami",
+      "tamilOrLocalMonth": "September-October",
+      "duration": "1 day",
+      "significance": "Observed during the Navratri period.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES006",
+      "festivalNameEn": "Margashirsha Guruvar",
+      "tamilOrLocalMonth": "November-December (Thursdays of Margashirsha month)",
+      "duration": "Weekly, through the lunar month",
+      "significance": "Weekly observance on Thursdays during the Margashirsha lunar month.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Mahalakshmi Temple, Kolhapur — hero image",
+      "caption": "Southern view of the Mahalakshmi (Ambabai) temple, Kolhapur.",
+      "altText": "Ancient black stone temple with carved facade, southern view, Kolhapur.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahalaxmi_Temple,_Kolhapur.jpg",
+      "creator": "Lovelitjadhav",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Lovelitjadhav · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahalaxmi_Temple,_Kolhapur.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Entrance of Mahalaxmi temple, Kolhapur",
+      "caption": "Entrance of the Mahalaxmi temple, Kolhapur.",
+      "altText": "Stone entrance gateway of the Mahalaxmi temple, Kolhapur.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Entrance_of_Mahalaxmi_temple,_Kolhapur.JPG",
+      "creator": "Dharmadhyaksha",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "Dharmadhyaksha · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_Mahalaxmi_temple,_Kolhapur.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Mahalakshmi Temple, Kolhapur — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur",
+      "accessDate": "2026-09-18",
+      "claimScope": "Presiding deity and alternate name Ambabai; coordinates 16°42'00\"N 74°14'00\"E; traditional 634 CE construction date under Chalukya king Karnadeva; Paul Dundas's noted evidence of a possible earlier Jain origin dedicated to Chandraprabha; Hemadpanti architecture; description of the goddess's image (black stone, ~3 ft, ~40 kg, crown, five-headed snake motif, matulinga fruit, mace, shield, panapatra), stone lion vahana and Sri Yantra; classification as one of the 'three and a half' Shaktipeethas and the tradition that Sati's three eyes fell here; governing body named as Paschim Maharashtra Devasthan Samiti; list of festivals (Kirnotsav, Rathotsav, Lakshmi Puja, Diwali, Varalakshmi Vratam, Lalita Panchami, Navratri, Margashirsha Guruvar); Kolhasur legend.",
+      "reliabilityNote": "Tertiary source. Its Shakti Peetha classification conflicts with Wikipedia's own 'Shakta Pithas in Maharashtra' article (SRC002); its 634 CE date is not corroborated here from an academic or epigraphic source.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "other",
+      "title": "Shakta Pithas in Maharashtra — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Shakta_Pithas_in_Maharashtra",
+      "accessDate": "2026-09-18",
+      "claimScope": "States the Kolhapur Mahalakshmi temple is one of the 18 Maha Shakta pithas of the Skanda Purana and one of Maharashtra's four principal Shakta pithas, while assigning the 'three and a half' Shaktipeetha designation to Tulja Bhavani, Renuka and Saptashrungi instead.",
+      "reliabilityNote": "Tertiary source; used specifically to document a conflict with SRC001's classification of the temple, not as a standalone authority.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Visit the divine Mahalaxmi Temple in Kolhapur",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India (Incredible India portal)",
+      "url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur/mahalaxmi-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Description as one of Maharashtra's four revered Shakti Peethas; Hemadpanti architectural style; central black stone idol description; subsidiary shrines to Vishnu, Shiva and Ganesha; daily temple hours 4:00 AM-10:00 PM with morning darshan 4:30 AM-12:30 PM, afternoon/evening darshan 1:00-8:30 PM and evening aarti 7:30-8:30 PM; nearest airports (Kolhapur airport, Pune) and railway station (Chhatrapati Shahu Maharaj Terminus); Kolhasur legend for the city's name.",
+      "reliabilityNote": "Official Government of India tourism portal. Undated page; darshan timings should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Shri Mahalaxmi - Ambabai Temple, Kolhapur",
+      "publisherOrAuthority": "Utsav portal, Government of India",
+      "url": "https://utsav.gov.in/view-darshan/shri-mahalaxmi-ambabai-temple-kolhapur-1",
+      "accessDate": "2026-09-18",
+      "claimScope": "Darshan timing 5:00 AM-10:00 PM; distances to nearest airport (13 km), railway station (3 km) and bus stand (3 km); availability of live-streamed darshan.",
+      "reliabilityNote": "Government of India cultural/tourism portal. The page's listed contact person and personal website appear to belong to an individual submitter rather than the temple's official administration, so that contact detail is not used here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Paschim Maharashtra Devasthan Samiti-Kolhapur",
+      "publisherOrAuthority": "Law and Judiciary Department, Government of Maharashtra",
+      "url": "https://lj.maharashtra.gov.in/1267/Paschim-Maharashtra-Devasthan-Samiti-Kolhapur",
+      "accessDate": "2026-09-18",
+      "claimScope": "Confirms the Paschim Maharashtra Devasthan Samiti (Devasthan Management Committee) as an attached office of the Maharashtra Law and Judiciary Department; gives its address as 87KH, B ward, Mangalwar Peth, Kolhapur, phone 02312541779, and links to www.mahalaxmikolhapur.com as its website.",
+      "reliabilityNote": "Official state government directory listing; carries no further descriptive detail about the temple itself, only the administering committee's office record.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Mahalaxmi Ambabai temple architecture",
+      "publisherOrAuthority": "ambabai.com (self-described as run by Ambabai devotees)",
+      "url": "https://ambabai.com/architecture.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Phased construction from the 9th to 18th centuries; complex layout (garbhagriha, antaraal, Mahakali and Mahasaraswati shrines, central mandapa, Ganesh and Garud mandaps, four entrances, masonry walls); Kirnotsav timing (late January-early February and November) and its alignment with Sandhyamath near Rankala lake, ~1.5 km away.",
+      "reliabilityNote": "Non-official, devotee-run website with no named author or institutional affiliation; used only for architectural and Kirnotsav detail not available from an official or government source, and flagged in the narrative as an account that conflicts with Wikipedia's founding-date claim.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "media repository",
+      "title": "File:Mahalaxmi Temple, Kolhapur.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mahalaxmi_Temple,_Kolhapur.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Hero image file, author attribution (Lovelitjadhav) and CC BY-SA 4.0 licence; photographed 17 February 2018 as part of Wiki Loves Monuments 2018.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "media repository",
+      "title": "File:Entrance of Mahalaxmi temple, Kolhapur.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Entrance_of_Mahalaxmi_temple,_Kolhapur.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Exterior/entrance image file, author attribution (Dharmadhyaksha) and CC BY-SA 3.0 licence; photographed 17 August 2014.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Bhavani Mandap, Mahadwar Road, Karveer, Kolhapur, Maharashtra 416012, India",
+    "bestTime": "October to March",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

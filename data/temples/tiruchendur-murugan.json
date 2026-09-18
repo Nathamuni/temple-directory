@@ -1,0 +1,365 @@
+{
+  "templeId": "TPL-IN-TN-TUT-0034",
+  "slug": "tiruchendur-murugan",
+  "status": "published",
+  "identity": {
+    "nameEn": "Arulmigu Subramanya Swamy Temple, Tiruchendur",
+    "alternateNames": [
+      "Tiruchendur Murugan Temple",
+      "Subramaniya Swamy Temple (Tiruchendur)"
+    ],
+    "presidingDeity": "Murugan",
+    "tradition": "Kaumara/Murugan",
+    "templeType": "Arupadaiveedu",
+    "sacredClassifications": [
+      "Arupadaiveedu",
+      "Six Abodes of Murugan",
+      "Vaippu Sthalam",
+      "Coastal temple",
+      "Dravidian"
+    ],
+    "spiritualSignificanceShort": "Tiruchendur is one of the Arupadaiveedu, the six principal abodes of Murugan in Tamil Nadu, and the only one of the six built directly on the coast. The temple is associated with the Soorasamharam, Murugan's mythic defeat of the asura Surapadman, re-enacted at the temple's principal festival. The inner sanctum is a granite cave-shrine that sits below sea level.",
+    "nameLocal": "திருச்செந்தூர் சுப்பிரமணிய சுவாமி கோயில்",
+    "localLanguage": "Tamil"
+  },
+  "location": {
+    "city": "Tiruchendur",
+    "district": "Thoothukudi",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "628215",
+    "latitude": 8.49583,
+    "longitude": 78.12917
+  },
+  "governance": {
+    "establishedEra": "Referenced as a Vaippu Sthalam in the hymns of the Nayanar saint Appar (7th century CE)",
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+    "administrationType": "Government department",
+    "officialWebsite": "https://tiruchendurmurugan.hrce.tn.gov.in",
+    "officialPhone": "+91-4639-242221",
+    "officialEmail": "jceotnv_38271.hrce@tn.gov.in"
+  },
+  "narrative": {
+    "summaryIntro": "The Arulmigu Subramanya Swamy Temple at Tiruchendur, Thoothukudi district, Tamil Nadu, is dedicated to Murugan and is one of the Arupadaiveedu, the six principal abodes of the deity in Tamil Nadu. It is the only one of the six built directly on the coast, standing at the eastern edge of the town on the shores of the Bay of Bengal; the inner sanctum is a granite cave-shrine that sits below sea level.\n\nThe temple is associated with the Soorasamharam legend, in which Murugan defeated the asura Surapadman; the vanquished asura's transformation into a mango tree, which Murugan split with his spear, is said to have produced his peacock mount and rooster emblem, and the temple's principal festival re-enacts this victory. The complex is entered through a nine-tier gopuram about 48 metres (157 ft) high and is referenced as a Vaippu Sthalam in the 7th-century hymns of the Nayanar saint Appar. It is administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department and received ISO certification in 2016.",
+    "documentedHistory": "The temple is referenced as a Vaippu Sthalam in the hymns of the Nayanar saint Appar, placing devotional literature about the site as early as the 7th century CE. Tiruchendur is one of the Arupadaiveedu, the six principal shrines of Murugan in Tamil Nadu, and is unique among them for its location directly on the coast rather than on a hill.\n\nThe temple's mythology centres on the Soorasamharam, Murugan's defeat of the asura Surapadman: after Surapadman transformed into a mango tree, Murugan split it with his vel (spear), and the two halves are said to have become his vahana (the peacock) and the emblem on his flag (the rooster). This episode is enacted annually at the temple's principal festival.\n\nThe complex measures roughly 91 metres north–south by 65 metres east–west, with a nine-tier gopuram about 48 metres (157 ft) high; the sanctum itself is a granite rock-cut shrine that lies below sea level. Despite its exposed coastal position, the temple was undamaged by the 2004 Indian Ocean tsunami. In 2016 it became the fourth Hindu temple in Tamil Nadu to receive ISO certification. The temple continues to be administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.",
+    "associatedSaints": [
+      "Appar"
+    ],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
+    "entryRules": "HR&CE operates separate free and paid darshan queues: the free queue is admitted until 7:30 PM, paid queue lines close at 6:30 PM, and a separate senior-citizen queue runs from 6:00 AM to 7:00 PM.",
+    "officialContactNote": "HR&CE publishes darshan hours and pooja timings on the temple's page at tiruchendurmurugan.hrce.tn.gov.in (temple id 38271). The department's postal address for the temple is Tiruchendur, Thoothukudi District 628215; confirm the day's schedule with the Executive Officer's office on +91-4639-242221, as timings extend during Vaikasi Visakam, Kantha Sashti and Thai Poosam.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Temple hours (opening to closing Thirukkappu)",
+      "openTime": "04:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "HR&CE states the temple operates continuously from the 4:00 AM opening rite (Thirukkappu) to the 9:00–9:05 PM closing rite; the free darshan queue is admitted until 7:30 PM and paid queue lines close at 6:30 PM.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "festival",
+      "sessionName": "Extended festival hours",
+      "openTime": "01:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "HR&CE indicates the temple may open as early as around 1:00 AM on major festival days such as Vaikasi Visakam and Kantha Sashti; exact festival-day timings were not independently quote-verified and should be reconfirmed before travel.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Main Sanctum (cave shrine)",
+      "deityOrSubject": "Murugan — granite rock-cut sanctum below sea level",
+      "spaceType": "shrine",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Nazhikinaru (sacred well)",
+      "deityOrSubject": "Freshwater spring-fed well used for ritual cleansing after sea bathing",
+      "spaceType": "other",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Nine-tier Gopuram",
+      "deityOrSubject": "Gateway tower, approx. 48 m (157 ft)",
+      "spaceType": "gopuram",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": [
+        "MED001"
+      ]
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "other",
+      "nameEn": "Thirukkappu (Opening)",
+      "startTime": "04:00",
+      "recurrence": "Daily",
+      "description": "Includes Santhana Kaappu Alangaram.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Subrabhadham Pooja",
+      "startTime": "05:10",
+      "endTime": "05:25",
+      "recurrence": "Daily",
+      "description": "Includes Santhana Kaappu Alangaram.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Viswaroopa Pooja",
+      "startTime": "05:30",
+      "endTime": "05:35",
+      "recurrence": "Daily",
+      "description": "Includes Santhana Kaappu Alangaram.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "recurrence": "Daily",
+      "description": "Features Thanga Kavasam (golden armour).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Uchikkala Pooja",
+      "startTime": "12:00",
+      "endTime": "12:15",
+      "recurrence": "Daily",
+      "description": "Features Thanga Kavasam (golden armour).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Sayaraksha Pooja (Evening)",
+      "startTime": "17:00",
+      "endTime": "17:15",
+      "recurrence": "Daily",
+      "description": "Features Thanga Kavasam (golden armour).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "pooja",
+      "nameEn": "Palliyarai Pooja",
+      "startTime": "20:45",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "description": "Includes Santhana Kaappu Alangaram.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "other",
+      "nameEn": "Thirukkappu (Closing)",
+      "startTime": "21:00",
+      "endTime": "21:05",
+      "recurrence": "Daily",
+      "description": "Includes Santhana Kaappu Alangaram; the temple's closing rite.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Soorasamharam (Kantha Sashti)",
+      "tamilOrLocalMonth": "October–November (Aippasi)",
+      "significance": "The temple's principal festival, re-enacting Murugan's mythic defeat of the asura Surapadman. HR&CE lists Kantha Sashti among the occasions for extended temple hours.",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Vaikasi Visakam",
+      "tamilOrLocalMonth": "May–June (Vaikasi)",
+      "significance": "Murugan's birth star festival; listed by HR&CE among the occasions for extended temple hours.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Arulmigu Subramaniya Swamy Temple, Tiruchendur — hero image",
+      "caption": "The Arulmigu Subramaniya Swamy Temple, Tiruchendur — the only Murugan temple built directly on the coast.",
+      "altText": "Exterior view of the Arulmigu Subramaniya Swamy Temple, Tiruchendur.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arulmigu_Subramaniya_Swamy_Temple,_Tiruchendur.jpg",
+      "creator": "Gayathri Dakshinamoorthy",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Gayathri Dakshinamoorthy · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arulmigu_Subramaniya_Swamy_Temple,_Tiruchendur.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Subramania Swamy Temple, Tiruchendur [TM038271] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://tiruchendurmurugan.hrce.tn.gov.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple name, address and PIN 628215, managing authority, continuous 4:00 AM–9:00 PM darshan hours with separate free/paid/senior queue cutoffs, and the list of major festivals (Vaikasi Visakam, Kantha Sashti, Thai Poosam) for which hours extend.",
+      "reliabilityNote": "Undated government page; festival-day opening times (e.g. as early as 1:00 AM) were reported via page summarisation rather than a verbatim quote and should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Subramania Swamy Temple, Tiruchendur [TM038271] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://tiruchendurmurugan.hrce.tn.gov.in/hrcehome/index_temple.php?tid=38271&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The eight daily poojas and their timings, from the opening Thirukkappu (4:00 AM) through Subrabhadham, Viswaroopa, Kalasandhi, Uchikkala, Sayaraksha and Palliyarai poojas to the closing Thirukkappu (9:00–9:05 PM).",
+      "reliabilityNote": "Undated government page; timings can vary on festival days.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Subramania Swamy Temple, Tiruchendur [TM038271] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://tiruchendurmurugan.hrce.tn.gov.in/hrcehome/index_temple.php?tid=38271&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's official postal address, telephone number and departmental email address.",
+      "reliabilityNote": "Undated government page; the email is published in obfuscated form and reconstructed here in standard form.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Subramaniya Swamy Temple, Tiruchendur — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Subramaniya_Swamy_Temple,_Tiruchendur",
+      "accessDate": "2026-09-18",
+      "claimScope": "Arupadaiveedu and Vaippu Sthalam status (referenced by Appar), coastal location, the Soorasamharam/mango-tree legend, complex dimensions and nine-tier, 157 ft gopuram, the granite cave sanctum below sea level, the Nazhikinaru sacred well, coordinates, the temple's survival of the 2004 tsunami, and 2016 ISO certification.",
+      "reliabilityNote": "Tertiary source; used for history, legend and architecture context where HR&CE does not provide comparable detail.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Arulmigu Subramaniya Swamy Temple, Tiruchendur.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Arulmigu_Subramaniya_Swamy_Temple,_Tiruchendur.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph used in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Arulmigu Subramaniya Swamy Temple, Tiruchendur, Thoothukudi District, Tamil Nadu 628215, India",
+    "bestTime": "November to February; Kantha Sashti/Soorasamharam (Oct–Nov) and Vaikasi Visakam (May–Jun) draw the largest crowds."
+  },
+  "submittedBy": "development@cness.co"
+}

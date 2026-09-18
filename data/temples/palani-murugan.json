@@ -1,0 +1,294 @@
+{
+  "templeId": "TPL-IN-TN-PAL-0032",
+  "slug": "palani-murugan",
+  "status": "published",
+  "identity": {
+    "nameEn": "Palani Murugan Temple (Arulmigu Dhandayuthapani Swamy Temple)",
+    "alternateNames": [
+      "Arulmigu Dhandayuthapani Swamy Temple",
+      "Palani Andavar Temple"
+    ],
+    "presidingDeity": "Murugan",
+    "tradition": "Kaumara/Murugan",
+    "templeType": "Arupadaiveedu",
+    "sacredClassifications": [
+      "Arupadaiveedu",
+      "Six Abodes of Murugan",
+      "Hill temple",
+      "Dravidian"
+    ],
+    "spiritualSignificanceShort": "Palani is one of the Arupadaiveedu, the six principal abodes of Murugan in Tamil Nadu. The presiding image depicts Murugan as Dhandapani, an ascetic recluse holding a staff, and is traditionally said to have been consecrated by the sage Bogar from navapashanam, a compound of nine medicinal substances. The shrine stands atop Sivagiri hill and is one of the most visited Murugan temples in South India.",
+    "nameLocal": "பழனி தண்டாயுதபாணி சுவாமி கோயில்",
+    "localLanguage": "Tamil"
+  },
+  "location": {
+    "city": "Palani",
+    "district": "Dindigul",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "624601",
+    "latitude": 10.4389,
+    "longitude": 77.5203
+  },
+  "governance": {
+    "establishedEra": "Traditionally attributed to the Chera dynasty (2nd–5th century CE); expanded under the Chola, Pandya and Vijayanagara dynasties",
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+    "founderPatron": "The presiding idol is traditionally attributed to the siddhar Bogar",
+    "administrationType": "Government department",
+    "officialWebsite": "https://palanimurugan.hrce.tn.gov.in",
+    "officialPhone": "+91-4545-241293",
+    "officialEmail": "jceomdu_32203.hrce@tn.gov.in"
+  },
+  "narrative": {
+    "summaryIntro": "The Arulmigu Dhandayuthapani Swamy Temple, popularly the Palani Murugan Temple, stands atop Sivagiri hill in Palani, Dindigul district, Tamil Nadu, and is one of the Arupadaiveedu — the six principal abodes of Murugan in Tamil Nadu. The presiding image depicts Murugan as Dhandapani, an ascetic recluse holding only a staff, and is traditionally said to have been consecrated by the sage Bogar from navapashanam, a compound of nine substances credited with medicinal properties.\n\nTradition attributes the temple's founding to the Chera dynasty (2nd–5th century CE), with later expansion under the Chola, Pandya and Vijayanagara dynasties; the 15th-century Tamil poet-saint Arunagirinathar composed hymns to the deity here. Pilgrims reach the hilltop shrine on foot up stone steps, by a sliding pathway, or by funicular railway or rope car. The temple is administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department and is a major centre for the Thaipusam festival, when devotees carry kavadi and undergo tonsuring as acts of devotion.",
+    "documentedHistory": "Historical and literary references place the site in Sangam-era Tamil literature under the name Thiruaavinankudi. According to temple tradition as recorded by HR&CE, the presiding image of Murugan as Dhandapani — depicted as a renunciate ('Aandi') holding a staff ('Thandu') — was consecrated by the siddhar Bogar from navapashanam, an amalgam of nine minerals credited with medicinal value.\n\nWikipedia's account attributes the temple's establishment to the Chera dynasty (2nd–5th century CE), following a ruler's vision, with subsequent expansion under the Chola, Pandya and Vijayanagara dynasties. The 15th-century Tamil poet-saint Arunagirinathar, a major devotional poet of Murugan, composed hymns associated with the site.\n\nIn the modern period, access to the hilltop shrine has been improved with a funicular railway and rope car, most recently upgraded in 2018 to carry about 1,500 pilgrims an hour. The temple continues to be administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.",
+    "associatedSaints": [
+      "Bogar",
+      "Arunagirinathar"
+    ],
+    "architectureStyle": "Dravidian, with Pandyan-period influences"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
+    "accessibilityNotes": "The hilltop shrine is reachable on foot up stone steps, by a sliding pathway, or by a funicular railway/rope car; the rope car was upgraded in 2018 to carry about 1,500 pilgrims per hour.",
+    "officialContactNote": "HR&CE publishes darshan hours and pooja timings on the temple's page at palanimurugan.hrce.tn.gov.in (temple id 32203). The department's postal address for the temple is 315 Head Office, North Giri Street, Palani, Dindigul 624601; confirm the day's schedule with the Executive Officer's office on +91-4545-241293, as timings extend during Thaipusam, Panguni Uttaram and other major festivals.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan",
+      "openTime": "05:45",
+      "closeTime": "20:00",
+      "closedFlag": false,
+      "notes": "HR&CE lists darshan as two consecutive blocks, 5:45 AM–1:00 PM and 1:00 PM–8:00 PM, effectively continuous through the day.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "festival",
+      "sessionName": "Extended festival hours",
+      "openTime": "04:00",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "notes": "HR&CE states hours extend beyond the usual window during Thaipusam, Panguni Uttaram, Kandhar Shashti, Karthigai, Maha Deepa Karthigai, Thai Pongal, New Year's Day, the Tamil month of Margazhi, and Deepavali.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Vilaa Pooja (Sadhu Sanniyasi Alangaram)",
+      "startTime": "06:40",
+      "endTime": "07:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Sirukala Shanthi Pooja (Vedar Alangaram)",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja (Balasubramaniyar Alangaram)",
+      "startTime": "09:00",
+      "endTime": "09:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Uchikkala Pooja (Vaithekal Alangaram)",
+      "startTime": "12:00",
+      "endTime": "12:45",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Sayaraksha Pooja (Raja Alangaram)",
+      "startTime": "17:30",
+      "endTime": "18:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Rakaala Pooja (Pushpa Alangaram)",
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Thaipusam",
+      "tamilOrLocalMonth": "January–February (Thai)",
+      "significance": "The temple's largest annual festival. Devotees carry kavadi and many undergo tonsuring as acts of devotion to Murugan; Palani is among the principal Thaipusam pilgrimage centres in Tamil Nadu.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Panguni Uthiram",
+      "tamilOrLocalMonth": "March–April (Panguni)",
+      "significance": "Major annual festival observed at the temple, associated elsewhere in the Murugan tradition with the deity's wedding.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Palani Murugan Temple — hero image",
+      "caption": "The Arulmigu Dhandayuthapani Swamy Temple atop Sivagiri hill, Palani.",
+      "altText": "The Palani Murugan temple complex on Sivagiri hill, Palani.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Palani_Temple-WUS05301.jpg",
+      "creator": "Rainer Halama",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Rainer Halama · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palani_Temple-WUS05301.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Dhandayuthapaniswamy Temple, Palani [TM032203] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://palanimurugan.hrce.tn.gov.in/hrcehome/index_temple.php?tid=32203",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple name, deity (Dhandayuthapani), postal address and PIN 624601, the navapashanam idol tradition attributed to Bogar, regular darshan timings (5:45 AM–1:00 PM and 1:00 PM–8:00 PM), and extended festival-day hours.",
+      "reliabilityNote": "Undated government page; darshan timings can change during festivals and should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Dhandayuthapaniswamy Temple, Palani [TM032203] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://palanimurugan.hrce.tn.gov.in/hrcehome/index_temple.php?tid=32203&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The six daily poojas, their alangaram names and timings (Vilaa/Sadhu Sanniyasi, Sirukala Shanthi/Vedar, Kalasandhi/Balasubramaniyar, Uchikkala/Vaithekal, Sayaraksha/Raja, Rakaala/Pushpa).",
+      "reliabilityNote": "Undated government page; timings can vary on festival days.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Dhandayuthapaniswamy Temple, Palani [TM032203] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://palanimurugan.hrce.tn.gov.in/hrcehome/index_temple.php?tid=32203&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's official postal address (315 Head Office, North Giri Street, Palani, Dindigul 624601), telephone number and departmental email address.",
+      "reliabilityNote": "Undated government page; the email is published in obfuscated form and reconstructed here in standard form.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Dhandayuthapani Swamy Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Dhandayuthapani_Swamy_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Arupadaiveedu status, Sangam-era name Thiruaavinankudi, the Bogar/navapashanam idol legend, attribution of the temple's founding to the Chera dynasty and later expansion under the Chola, Pandya and Vijayanagara dynasties, Arunagirinathar's hymns, hilltop location on Sivagiri, funicular/rope-car access, and the Thaipusam, Panguni Uthiram, Vaikhashi Vishakham and Sura Samhaaram festivals.",
+      "reliabilityNote": "Tertiary source; used for history and architecture context where HR&CE does not provide comparable detail.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Palani Temple-WUS05301.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Palani_Temple-WUS05301.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph used in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "315 Head Office, North Giri Street, Palani, Dindigul District, Tamil Nadu 624601, India",
+    "bestTime": "October to March; Thaipusam (Jan–Feb) for the kavadi festival, though crowds are largest then."
+  },
+  "submittedBy": "development@cness.co"
+}

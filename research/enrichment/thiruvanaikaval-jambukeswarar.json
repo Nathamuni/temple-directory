@@ -1,0 +1,110 @@
+{
+  "slug": "thiruvanaikaval-jambukeswarar",
+
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706",
+      "accessDate": "2026-09-18",
+      "claimScope": "The presiding deity Jambukeswarar and consort Akilandeswari; the temple's association with the water element; its situation on the land between the Cauvery and the Kollidam; the derivation of the name Jambukeswaram from an island of white jamun trees and of Thiruvanaikka from the white elephant that worshipped Shiva; construction attributed to the Chola king Kotchengan; the site's extent of eighteen acres; the list of alternate deity names; and the published darshan hours.",
+      "reliabilityNote": "The HR&CE temple page is undated and mixes traditional sthala accounts with administrative information. The attribution to Kotchengan and the etymologies are the temple authority's account, not independently dated evidence.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The five daily poojas and their timings, and the temple's opening and closing windows on weekdays and at the weekend.",
+      "reliabilityNote": "Undated government page. Timings differ on festival days and should be reconfirmed before travel.",
+      "adminApproved": false
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Jambukeswarar Akilandeswari Temple, Thiruvanaikaval [TM025706] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=25706&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's postal address, telephone number and departmental email address, and administration by an Executive Officer.",
+      "reliabilityNote": "Undated government page; the email address is published in obfuscated form and is reconstructed here in standard form.",
+      "adminApproved": false
+    }
+  ],
+
+  "identity": {
+    "spiritualSignificanceShort": "Thiruvanaikaval is the Pancha Bhuta Sthalam of water, where Shiva is worshipped as Jambukeswarar together with the goddess Akilandeswari. HR&CE places the temple on the land between the Cauvery and the Kollidam and connects its name Jambukeswaram to an island covered with white jamun trees; the alternative name Thiruvanaikka refers to the white elephant said to have worshipped Shiva here.",
+    "sacredClassifications": ["Pancha Bhuta Sthalam — Appu (water)"],
+    "tradition": "Shaiva",
+    "consortDeity": "Akilandeswari",
+    "localLanguage": "Tamil"
+  },
+
+  "governance": {
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu, through an Executive Officer",
+    "administrationType": "Government department",
+    "founderPatron": "Attributed by HR&CE to the Chola king Kotchengan (Kocengannan)",
+    "officialWebsite": "https://thiruvanaikavaljambukeswarar.hrce.tn.gov.in",
+    "officialPhone": "04312230257",
+    "officialEmail": "aceotry_25706.hrce@tn.gov.in"
+  },
+
+  "narrative": {
+    "documentedHistory": "The HR&CE department, which administers the temple, attributes its construction to the Chola king Kotchengan and records that the complex covers about eighteen acres on the land between the Cauvery and the Kollidam rivers. The department gives the name Jambukeswaram as deriving from an island covered with white jamun trees, and the alternative name Thiruvanaikka from the tradition of a white elephant that worshipped Shiva at the site. The deity is worshipped here under a long list of names recorded by the department, among them Appulingam, Sambunathar, Jambulingam, Amudheswarar, Sagaranyanathar and Aanaikka Annal, with the goddess as Akilanda Nayaki.",
+    "sthalaPuranam": "HR&CE's account of the site connects the name Thiruvanaikka to a white elephant that worshipped Shiva there, and Jambukeswaram to an island of white jamun (naval) trees."
+  },
+
+  "visitingInfo": {
+    "officialContactNote": "HR&CE publishes this temple's darshan hours and pooja timings on its page at hrce.tn.gov.in (temple id 25706). The department's postal address for the temple is Thiruvanaikkaval, Thiruchirappalli 620005, and the office can be reached on 04312230257; confirm the day's schedule there, as festival days differ.",
+    "sourceIds": ["SRC001", "SRC002", "SRC003"],
+    "lastVerifiedDate": "2026-09-18",
+    "verificationStatus": "needs recheck"
+  },
+
+  "openingHours": [
+    { "hoursId": "HRS101", "dayType": "Monday to Thursday", "sessionName": "Morning",
+      "openTime": "06:00", "closeTime": "13:00", "closedFlag": false,
+      "notes": "HR&CE states the temple is closed between 13:00 and 15:00 on Monday to Thursday.",
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS102", "dayType": "Monday to Thursday", "sessionName": "Afternoon and evening",
+      "openTime": "15:00", "closeTime": "21:00", "closedFlag": false,
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "hoursId": "HRS103", "dayType": "Friday to Sunday", "sessionName": "Continuous",
+      "openTime": "06:00", "closeTime": "21:00", "closedFlag": false,
+      "notes": "HR&CE states the temple stays open through the middle of the day from Friday to Sunday, with no afternoon closure.",
+      "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" }
+  ],
+
+  "poojas": [
+    { "poojaId": "PUJ101", "recordType": "pooja", "nameEn": "Ushakala Poojai",
+      "startTime": "06:30", "endTime": "07:30", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ102", "recordType": "pooja", "nameEn": "Kalasandhi Pooja",
+      "startTime": "08:00", "endTime": "09:00", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ103", "recordType": "pooja", "nameEn": "Uchikkala Pooja",
+      "startTime": "11:00", "endTime": "12:00", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ104", "recordType": "pooja", "nameEn": "Sayaraksha Pooja",
+      "startTime": "17:00", "endTime": "18:00", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" },
+    { "poojaId": "PUJ105", "recordType": "pooja", "nameEn": "Ardhajama Pooja",
+      "startTime": "20:30", "endTime": "21:00", "recurrence": "Daily",
+      "linkedMediaIds": [], "sourceIds": ["SRC002"],
+      "lastVerifiedDate": "2026-09-18", "verificationStatus": "needs recheck" }
+  ],
+
+  "notes": "The existing directory entry records morning hours of 05:30–13:00 and evening hours of 15:00–21:00. HR&CE, the administering department, gives 06:00–13:00 and 15:00–21:00 on Monday to Thursday and continuous 06:00–21:00 opening from Friday to Sunday; the HR&CE figures are supplied here under separate hours ids for an editor to reconcile. No source opened for this temple documented the sacred tree, the temple tank, the number of prakarams or gopurams, the festival calendar, or the noon ritual in which the priest is dressed as the goddess — those remain unsourced and were deliberately left out."
+}

@@ -14,7 +14,7 @@
       "Nayak architecture",
       "Madurai"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Meenakshi Amman Temple is one of the few major South Indian temples where the goddess, not her consort, is the principal deity: Meenakshi's shrine stands at the centre of the innermost courtyard and is worshipped before Sundareswarar's. It is a Paadal Petra Sthalam, one of the 276 Shaiva sites hymned in the Tevaram, and its annual Meenakshi Tirukalyanam re-enacts the marriage of the goddess to Shiva as the ritual centre of the city of Madurai.",
     "nameLocal": "மதுரை மீனாட்சி அம்மன் கோயில்",
     "localLanguage": "Tamil",
     "consortDeity": "Sundareswarar (Shiva)"
@@ -31,26 +31,42 @@
   "governance": {
     "establishedEra": "6th century CE origins; present structure largely 17th century CE (Nayak period) · Rebuilt by Tirumala Nayak and predecessors",
     "managingAuthority": "HR&CE Department, Government of Tamil Nadu",
-    "officialWebsite": "https://maduraimeenakshi.hrce.tn.gov.in"
+    "officialWebsite": "https://maduraimeenakshi.hrce.tn.gov.in",
+    "administrationType": "Government department",
+    "officialPhone": "04522344360",
+    "officialEmail": "jceomdu_31962.hrce@tn.gov.in"
   },
   "narrative": {
     "summaryIntro": "The Meenakshi Amman Temple (Meenakshi Sundareswarar Temple) in Madurai, Tamil Nadu, is a historic temple dedicated to the goddess Meenakshi, a form of Parvati, and her consort Sundareswarar, a form of Shiva. Unusually among major Hindu temples, the goddess is the principal deity and is worshipped first.\n\nThe temple's fourteen gopurams, sculpted Hall of a Thousand Pillars, and the annual Meenakshi Thirukalyanam (celestial wedding) festival during Chithirai make it one of the most visited temples in India and the heart of the ancient city of Madurai.",
-    "documentedHistory": "",
-    "associatedSaints": [],
-    "architectureStyle": "Dravidian"
+    "documentedHistory": "The earliest surviving masonry of the complex is attributed to the Pandya emperor Sadayavarman Kulasekaran I (r. 1190-1216), with later Pandya rulers extending the temple through the thirteenth century. The temple is counted among the Paadal Petra Sthalams, the 276 Shaiva shrines praised in the Tevaram hymns of the Nayanars, which places worship at the site well before the surviving fabric.\n\nAfter the death of Maravarman Kulasekhara I in 1310, Madurai was raided in 1311 by Malik Kafur of the Delhi Sultanate and the temple was heavily damaged and looted. The Vijayanagara Empire recovered Madurai in 1378; Kumara Kampana is credited with rebuilding parts of the complex and reconsecrating images that had been concealed.\n\nThe present layout is largely the work of the Madurai Nayaks. Vishwanatha Nayak (r. 1529-1564) is associated with the gilding of the Meenakshi vimana and with the thousand-pillared hall, and Tirumala Nayaka (r. 1623-1655) added the Vasantha mandapa. Over forty inscriptions in the complex document endowments and building phases.",
+    "associatedSaints": [
+      "Sambandar",
+      "Appar",
+      "Sundarar"
+    ],
+    "architectureStyle": "Dravidian",
+    "sacredTank": "Potramarai Kulam (Golden Lotus tank), approximately 165 ft by 120 ft",
+    "inscriptionsSummary": "More than forty inscriptions are recorded in the complex, documenting its construction phases and endowments."
   },
   "editorial": {
-    "overallVerificationStatus": "unverified"
+    "overallVerificationStatus": "unverified",
+    "verificationNotes": "Duration is reported inconsistently: the HR&CE temple page describes an annual 10-day Meenakshi Tirukalyanam festival, while Wikipedia describes a 15-day celebration in the month of Chithirai. Recorded here without a settled duration."
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC006",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire; strict dress code enforced",
     "nearestRailStation": "Madurai Junction, 1.5 km",
     "railDistanceKm": 1.5,
     "nearestBusStation": "Well connected by NH roads and buses",
     "nearestAirport": "Madurai Airport, 12 km",
-    "airportDistanceKm": 12
+    "airportDistanceKm": 12,
+    "officialContactNote": "Same-day timings, pooja changes and festival closures should be confirmed with the HR&CE temple office on 04522344360 or via maduraimeenakshi.hrce.tn.gov.in, since the department states that pooja timings change during festivals.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -60,43 +76,203 @@
       "openTime": "05:00",
       "closeTime": "12:30",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As published on the HR&CE temple page; the department notes timings may vary during festival periods.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
       "sessionName": "Evening",
       "openTime": "16:00",
-      "closeTime": "21:30",
+      "closeTime": "22:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "HR&CE publishes the evening session as 4:00 PM to 10:00 PM. The temple is closed between 12:30 PM and 4:00 PM.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Meenakshi sanctum",
+      "deityOrSubject": "Meenakshi (Parvati)",
+      "spaceType": "shrine",
+      "locationDescription": "In the innermost courtyard, set more centrally than the Sundareswarar sanctum, reflecting the goddess's primacy at this temple. Its vimana was gilded under Vishwanatha Nayak.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Sundareswarar sanctum",
+      "deityOrSubject": "Sundareswarar (Shiva)",
+      "spaceType": "shrine",
+      "locationDescription": "In the innermost courtyard, parallel to the Meenakshi sanctum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Potramarai Kulam (Golden Lotus tank)",
+      "spaceType": "tank",
+      "locationDescription": "A colonnaded tank of roughly 165 ft by 120 ft within the complex, with a gilded lotus at its centre.",
+      "linkedMediaIds": [
+        "MED001"
+      ],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Ayiram Kaal Mandapam (Thousand Pillar Hall)",
+      "spaceType": "hall",
+      "locationDescription": "A sculpted hall of 985 carved pillars, associated with Vishwanatha Nayak's works; it also houses a temple art museum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Southern gopuram",
+      "spaceType": "gopuram",
+      "locationDescription": "The tallest of the temple's 14 gopurams, built in the late 16th century and rising about 170 ft (52 m), carrying over 1,500 sculpted mythological figures.",
+      "linkedMediaIds": [
+        "MED001"
+      ],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Vasantha Mandapam",
+      "spaceType": "hall",
+      "locationDescription": "Hall added to the complex by Tirumala Nayaka (r. 1623-1655).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Thiruvanandal pooja (mahasodasi)",
+      "startTime": "05:30",
+      "endTime": "05:45",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Vilaa pooja (paalai)",
+      "startTime": "06:30",
+      "endTime": "07:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi pooja (Gowri)",
+      "startTime": "10:30",
+      "endTime": "11:20",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Maalai pooja (panjathasi)",
+      "startTime": "16:30",
+      "endTime": "17:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Ardhajama pooja (madhangi)",
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Palliyarai pooja (sodasi)",
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "recurrence": "Daily",
+      "description": "The closing pooja of the day, after which the temple shuts.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Chithirai Thiruvizha (Meenakshi Thirukalyanam)",
-      "tamilOrLocalMonth": "April–May",
-      "duration": "12 days",
-      "significance": "The celestial wedding of Meenakshi and Sundareswarar, drawing over a million pilgrims.",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
-    },
-    {
-      "festivalId": "FES002",
-      "festivalNameEn": "Navaratri",
-      "tamilOrLocalMonth": "September–October",
-      "duration": "9 days",
-      "significance": "Golu displays and special abhishekams for the goddess.",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Meenakshi Tirukalyanam (Chithirai Thiruvizha)",
+      "tamilOrLocalMonth": "Chithirai",
+      "significance": "The re-enactment of the marriage of Meenakshi and Sundareswarar, the principal annual festival of the temple and of the city of Madurai.",
+      "processionOrRituals": "Includes the Ther Thiruvizha, in which decorated temple cars are drawn by devotees through the concentric streets surrounding the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC002"
+      ],
+      "verificationStatus": "conflict"
     }
   ],
   "media": [
@@ -112,7 +288,22 @@
       "license": "CC BY-SA 3.0",
       "attributionText": "deadrat (Wikimedia Commons) · CC BY-SA 3.0",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madurai_Meenakshi_Amman_Temple_Gopuram.jpg",
-      "editorialApproved": false,
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "tank",
+      "title": "Golden Lily Pond and South Gopuram, Meenakshi Amman Temple, Madurai",
+      "caption": "The Potramarai Kulam (Golden Lotus tank) inside the Meenakshi Amman Temple, with the southern gopuram rising behind the corridor opposite.",
+      "altText": "A stone-stepped temple tank with still water, enclosed by pillared corridors, with a tall tiered gopuram behind it.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Golden_Lily_Pond_and_South_Gopuram_at_Meenakshi_Amman_Temple_%2C_Madurai.jpg",
+      "creator": "N. Vivekananthamoorthy",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "N. Vivekananthamoorthy · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Lily_Pond_and_South_Gopuram_at_Meenakshi_Amman_Temple_,_Madurai.jpg",
+      "editorialApproved": true,
       "verificationStatus": "pending"
     }
   ],
@@ -125,7 +316,7 @@
       "url": "https://maduraimeenakshi.hrce.tn.gov.in",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
     },
     {
       "sourceId": "SRC002",
@@ -135,7 +326,52 @@
       "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
-      "adminApproved": false
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Meenakshi Sundaraswarar Temple, Madurai - 625001, Madurai District [TM031962]",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://maduraimeenakshi.hrce.tn.gov.in/hrcehome/index_temple.php?tid=31962",
+      "accessDate": "2026-09-18",
+      "claimScope": "Official temple name, HR&CE administration, daily opening and closing sessions.",
+      "reliabilityNote": "Page carries no publication or revision date; the department notes timings vary during festivals, so hours may be stale.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Arulmigu Meenakshi Sundaraswarar Temple, Madurai — Pooja Information",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://maduraimeenakshi.hrce.tn.gov.in/hrcehome/index_temple.php?tid=31962&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "Names and timings of the six daily kaala poojas.",
+      "reliabilityNote": "Undated page; the schedule itself states that during festival time the daily pooja timings are changeable.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Arulmigu Meenakshi Sundaraswarar Temple, Madurai — Contact Us",
+      "publisherOrAuthority": "Hindu Religious and Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://maduraimeenakshi.hrce.tn.gov.in/hrcehome/index_temple.php?tid=31962&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "Street address, official telephone number and departmental email address.",
+      "reliabilityNote": "Undated page; contact details should be reconfirmed before a visit.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Golden Lily Pond and South Gopuram at Meenakshi Amman Temple , Madurai.jpg",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "N. Vivekananthamoorthy",
+      "url": "https://commons.wikimedia.org/wiki/File:Golden_Lily_Pond_and_South_Gopuram_at_Meenakshi_Amman_Temple_,_Madurai.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the Potramarai Kulam tank with the southern gopuram behind it; author and licence.",
+      "reliabilityNote": "Licence and author read from the Commons File: page.",
+      "adminApproved": true
     }
   ],
   "extensions": {

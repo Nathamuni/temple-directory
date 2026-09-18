@@ -1,0 +1,188 @@
+{
+  "templeId": "TPL-IN-UT-GAN-0057",
+  "slug": "gangotri-temple",
+  "status": "published",
+  "identity": {
+    "nameEn": "Gangotri Temple",
+    "alternateNames": [],
+    "presidingDeity": "Ganga",
+    "tradition": "Shakta",
+    "templeType": "Shakta",
+    "sacredClassifications": [
+      "Ganga",
+      "Char Dham",
+      "Pilgrimage",
+      "Himalayan"
+    ],
+    "spiritualSignificanceShort": "Gangotri is one of the four Chota Char Dham shrines and is dedicated to the goddess Ganga, worshipped here at the traditional site of the river's mythological descent to earth. The actual glacial source of the river, Gaumukh, lies about 19 km further upstream inside Gangotri National Park; Gangotri itself, on the bank of the Bhagirathi, is the pilgrimage and temple site. Like Kedarnath and Badrinath, it is a seasonal shrine, open only for part of the year.",
+    "nameLocal": "गंगोत्री मंदिर",
+    "localLanguage": "Hindi"
+  },
+  "location": {
+    "city": "Gangotri",
+    "district": "Uttarkashi",
+    "stateProvince": "Uttarakhand",
+    "country": "India",
+    "postalCode": "249135",
+    "latitude": 30.9939,
+    "longitude": 78.9411
+  },
+  "governance": {
+    "establishedEra": "18th century CE · Built by Gorkha General Amar Singh Thapa; restored in the 19th century",
+    "managingAuthority": "Shri Panch Mandir Samiti, the Gangotri temple committee, with ritual duties performed by the hereditary Semwal family of priests from Mukhba village",
+    "administrationType": "Temple committee"
+  },
+  "narrative": {
+    "summaryIntro": "Gangotri Temple stands on the bank of the Bhagirathi river at roughly 3,100–3,200 m in the Uttarkashi district of Uttarakhand. Dedicated to the goddess Ganga, it is one of the four Chota Char Dham shrines and marks the traditional site of the river's descent to earth, though the glacier that is the river's actual physical source, Gaumukh, lies about 19 km further upstream.\n\nThe present temple was built in the 18th century by the Gorkha general Amar Singh Thapa and was later restored in the 19th century. It is a seasonal shrine: like Kedarnath and Badrinath, it opens for pilgrimage roughly from Akshaya Tritiya (April–May) to around Diwali (October–November) and is closed through the winter, when the deity's worship moves to Mukhba village.",
+    "documentedHistory": "Gangotri sits on the left bank of the Bhagirathi, near the sacred rock formation known as Bhagirath Shila, where tradition holds that King Bhagiratha performed penance to bring the Ganga down to earth. The present stone temple structure was built in the 18th century by the Gorkha general Amar Singh Thapa and restored in the 19th century.\n\nRitual duties at the temple are performed by the hereditary Semwal family of priests, who come from Mukhba (Mukhba/Mukhwa) village and serve as the temple's traditional custodians and pujaris; the deity's image is moved to Mukhba for worship during the winter closure.\n\nAdministration of Gangotri, along with Yamunotri, Kedarnath and Badrinath, was briefly brought under a single state body, the Char Dham Devasthanam Management Board, created by the Uttarakhand Char Dham Devasthanam Management Act, 2019. The move was opposed by the shrines' hereditary priests (tirth purohits), and the state government repealed the Act in November 2021, returning management of Gangotri and Yamunotri to their own temple committees and priesthoods rather than the centralized board (BKTC continued to separately administer only Badrinath and Kedarnath). Note: the Shri Badarinath Kedarnath Temple Committee's own \"About Us\" page for Gangotri, as read on 2026-09-18, still states that Gangotri \"is managed by the Shri Badarinath Kedarnath Temple Committee\" — this appears to be outdated content left over from the Devasthanam Board period and conflicts with reporting on the 2021 repeal; it is noted here rather than treated as settled.",
+    "associatedSaints": [],
+    "architectureStyle": "Himalayan"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC005"
+    ],
+    "verificationStatus": "needs recheck",
+    "nearestRailStation": "Rishikesh Railway Station, approximately 229 km",
+    "railDistanceKm": 229,
+    "nearestAirport": "Jolly Grant Airport, Dehradun",
+    "entryRules": "Prior online or offline registration is mandatory for all pilgrims undertaking the Char Dham Yatra, including Gangotri, through the Uttarakhand government's official portal (registrationandtouristcare.uk.gov.in); pilgrims must present registration documentation at designated checkpoints en route.",
+    "officialContactNote": "Gangotri is a seasonal shrine whose opening and closing dates are announced afresh each year (traditionally around Akshaya Tritiya and Diwali) — do not plan on fixed dates. Confirm the current season's dates and yatra status through the Uttarakhand Char Dham registration portal before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "special",
+      "sessionName": "Season (temple open)",
+      "closedFlag": false,
+      "notes": "Gangotri is open only for part of the year, traditionally opening around Akshaya Tritiya (April–May) and closing around Diwali (October–November), after which the deity is moved to Mukhba village for the winter and the temple is closed due to snow. The exact opening and closing dates are announced fresh each year and are not recorded here. No official daily darshan hours were found in a government or temple-authority source, so none are recorded.",
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Bhagirath Shila",
+      "deityOrSubject": "Rock associated with King Bhagiratha's penance to bring the Ganga to earth",
+      "spaceType": "other",
+      "locationDescription": "A rock formation near the temple, on the bank of the Bhagirathi river.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "poojas": [],
+  "festivals": [],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Gangotri Temple, front view",
+      "caption": "Front view of Gangotri Temple on the bank of the Bhagirathi river.",
+      "altText": "Stone and metal-roofed Gangotri temple building seen from the front, with prayer flags and mountain backdrop.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gangotri_temple_front_view_WTK20150915-IMG_0517.jpg/800px-Gangotri_temple_front_view_WTK20150915-IMG_0517.jpg",
+      "creator": "DipankarSen68",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "DipankarSen68 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangotri_temple_front_view_WTK20150915-IMG_0517.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Gangotri Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gangotri_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Construction by Nepalese general Amar Singh Thapa and 19th-century restoration; dedication to goddess Ganga; coordinates 30°59'38\"N 78°56'28\"E and elevation ~3,200 m; seasonal closure at Diwali and reopening at Akshaya Tritiya with the idol moved to Mukhba village; the Semwal family of priests from Mukhba; the Bhagirath Shila legend; the Bhagirathi river as the source stream feeding from Gangotri Glacier.",
+      "reliabilityNote": "Tertiary encyclopedia source, not official. Used for history, classification and seasonality; not used for any specific daily timing.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Gangotri Dham — About Us, Shri Badarinath Kedarnath Temple Committee portal",
+      "publisherOrAuthority": "Shri Badarinath Kedarnath Temple Committee (BKTC), Government of Uttarakhand",
+      "url": "https://badrinath-kedarnath.gov.in/AboutUs/gangotri.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "18th-century construction by Gorkha General Amar Singh Thapa; dedication to Goddess Ganga; location on the left bank of the Bhagirathi near Bhagirath Shila; distances of approximately 452 km from Delhi and 229 km from Rishikesh; seasonal opening from the last week of April to the second week of November.",
+      "reliabilityNote": "This .gov.in page also states Gangotri 'is managed by the Shri Badarinath Kedarnath Temple Committee.' That administration claim conflicts with post-2021 reporting (see SRC003) that Gangotri returned to its own temple committee and hereditary priesthood after the Char Dham Devasthanam Management Act, 2019 was repealed; the page may not have been updated since. Used here only for the uncontested historical/geographic facts, not for the administration claim.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Uttarakhand Chardham Devasthanam Management Act, 2019 — Wikipedia",
+      "publisherOrAuthority": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uttarakhand_Chardham_Devasthanam_Management_Act,_2019",
+      "accessDate": "2026-09-18",
+      "claimScope": "The 2019 Act creating a unified Devasthanam Board over Badrinath, Kedarnath, Gangotri and Yamunotri; opposition from the shrines' hereditary priests; the Uttarakhand government's repeal of the Act, announced by Chief Minister Pushkar Singh Dhami on 30 November 2021, which returned administration of Gangotri and Yamunotri to their own temple committees.",
+      "reliabilityNote": "Tertiary source; corroborated by contemporaneous news reporting found in search results (e.g. ThePrint, Swarajya) but those individual articles were not separately opened and cited.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Uttarakhand Char Dham & Hemkund Sahib Registration and Tourist Care portal",
+      "publisherOrAuthority": "Government of Uttarakhand",
+      "url": "https://registrationandtouristcare.uk.gov.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Mandatory pilgrim and vehicle registration before travelling to the Char Dham (Yamunotri, Gangotri, Kedarnath, Badrinath) and Hemkund Sahib, with checkpoints along the route where registration documentation must be presented.",
+      "reliabilityNote": "Live government registration portal; specific seasonal dates and slot availability change year to year and were not recorded here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Gangotri Temple — Incredible India (Ministry of Tourism, Government of India)",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India",
+      "url": "https://www.incredibleindia.gov.in/en/uttarakhand/gangotri/gangotri-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Dedication to Goddess Ganga; description of Gangotri as the traditional site of the river's descent and Gaumukh (about 19 km upstream inside Gangotri National Park) as the glacier source of the Bhagirathi; nearest airport Jolly Grant (Dehradun) and nearest railway station Rishikesh; motorable road access to the temple.",
+      "reliabilityNote": "Official Government of India tourism portal; did not state specific darshan timings, festival dates, or administration details.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "media repository",
+      "title": "File:Gangotri temple front view WTK20150915-IMG 0517.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Gangotri_temple_front_view_WTK20150915-IMG_0517.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph listed in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File: page. Photograph dated 15 September 2015.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Gangotri, Uttarkashi, Uttarakhand 249135, India",
+    "bestTime": "May to June and September to November; closed in winter due to heavy snow",
+    "entryFee": "Free"
+  },
+  "submittedBy": "import"
+}

@@ -1,0 +1,364 @@
+{
+  "templeId": "TPL-IN-TN-THV-0031",
+  "slug": "arunachaleswarar-thiruvannamalai",
+  "status": "published",
+  "identity": {
+    "nameEn": "Arunachaleswarar Temple, Thiruvannamalai",
+    "alternateNames": [
+      "Annamalaiyar Temple",
+      "Arunachalesvara Temple"
+    ],
+    "presidingDeity": "Shiva",
+    "tradition": "Shaiva",
+    "templeType": "Pancha Bhoota Sthalam",
+    "sacredClassifications": [
+      "Pancha Bhoota Sthalam",
+      "Fire element (Agni)",
+      "Paadal Petra Sthalam",
+      "Shaivite",
+      "Dravidian"
+    ],
+    "spiritualSignificanceShort": "Arunachaleswarar Temple is one of the Pancha Bhoota Sthalams, the five Shiva temples representing the classical elements, and here Shiva is worshipped as the Agni Lingam, representing fire. It is also counted among the Paadal Petra Sthalams glorified in the 7th-century Tevaram hymns. Pilgrims circumambulate the 14-kilometre base of Arunachala hill (Girivalam), a practice held to be spiritually purifying, especially on full moon nights.",
+    "nameLocal": "திருவண்ணாமலை அருணாசலேஸ்வரர் (அண்ணாமலையார்) கோயில்",
+    "localLanguage": "Tamil",
+    "consortDeity": "Unnamulai Amman (Parvati)"
+  },
+  "location": {
+    "city": "Thiruvannamalai",
+    "district": "Tiruvannamalai",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "606601",
+    "latitude": 12.2316,
+    "longitude": 79.0672
+  },
+  "governance": {
+    "establishedEra": "Present masonry structure dates to the 9th century CE (early Chola period); major expansion, including the East Rajagopuram, in the 16th century CE under the Vijayanagara Empire",
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+    "founderPatron": "East Rajagopuram begun under Vijayanagara emperor Krishnadevaraya (r. 1509–1529), completed under Sevappa Nayak (r. 1532–1580)",
+    "administrationType": "Government department",
+    "officialWebsite": "https://annamalaiyar.hrce.tn.gov.in",
+    "officialPhone": "+91-4175-252438",
+    "officialEmail": "jceotvm_20343.hrce@tn.gov.in"
+  },
+  "narrative": {
+    "summaryIntro": "Arunachaleswarar Temple, also called Annamalaiyar Temple, stands at the foot of Arunachala hill in Thiruvannamalai, Tamil Nadu, and is dedicated to Shiva. It is one of the Pancha Bhoota Sthalams — five temples representing the five classical elements — and represents fire (agni); the sanctum houses the Agni Lingam. The temple is also among the Paadal Petra Sthalams, the Shiva shrines glorified in the 7th-century Tevaram hymns of the Nayanar saints.\n\nThe complex covers roughly 10 hectares (25 acres) and is organised around five concentric prakarams, entered through four gopurams, the tallest being the eastern Rajagopuram at about 66 metres. The present stone structure dates to the 9th-century Chola period, with substantial expansion under the Vijayanagara Empire. The temple has been administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department since 1951. Thiruvannamalai is also the site of Girivalam, a 14-kilometre circumambulation of Arunachala hill undertaken by pilgrims, particularly on full moon nights.",
+    "documentedHistory": "The temple is referenced in devotional literature from around the 7th century CE, including the Tevaram hymns attributed to the Nayanar saints Sambandar, Appar and Sundarar, which place it among the Paadal Petra Sthalams. The present stone structure dates to the 9th century, during the early Chola period, with inscriptions recording donations of land and cattle by successive rulers.\n\nThe temple's major architectural expansion took place under the Vijayanagara Empire between the 13th and 16th centuries. The Vijayanagara emperor Krishnadevaraya (r. 1509–1529) began construction of the temple's great eastern gopuram, completed under the Nayak governor Sevappa Nayak (r. 1532–1580). Inscriptions from all three Vijayanagara dynasties attest to substantial royal patronage of the temple in this period.\n\nTiruvannamalai came under French control in 1757 and passed to the British in 1760. Since Indian independence, the temple has been administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu, which took over management in 1951. In the 20th century the hill and temple town became closely associated with the teacher Ramana Maharshi (1879–1950), who lived at the foot of Arunachala and drew wider international attention to the site.",
+    "associatedSaints": [
+      "Sambandar",
+      "Appar",
+      "Sundarar",
+      "Ramana Maharshi"
+    ],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
+    "accessibilityNotes": "Devotees are admitted for darshan through the East Rajagopuram and the North Ammani Amman Gopuram, per the HR&CE temple page.",
+    "officialContactNote": "HR&CE publishes darshan hours and pooja timings on the temple's page at annamalaiyar.hrce.tn.gov.in (temple id 20343). The department's postal address for the temple is Sannathi Street, Tiruvannamalai, Tiruvannamalai District 606601; confirm the day's schedule with the Executive Officer's office on +91-4175-252438, as timings tighten on weekends, full-moon days and during festivals.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Darshan",
+      "openTime": "05:30",
+      "closeTime": "20:00",
+      "closedFlag": false,
+      "notes": "HR&CE states darshan runs from 5:30 AM to 8:00 PM daily, with entry through the East Rajagopuram and North Ammani Amman Gopuram.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "weekend",
+      "sessionName": "Darshan (Saturdays, Sundays, full-moon days, holidays, high-footfall days)",
+      "openTime": "05:30",
+      "closeTime": "19:30",
+      "closedFlag": false,
+      "notes": "HR&CE states devotees are allowed in only until 7:30 PM (rather than the usual 8:00 PM cutoff) on Saturdays, Sundays, Full Moon Day, holidays and days of high devotee turnout.",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "verified"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Unnamulai Amman Shrine",
+      "deityOrSubject": "Unnamulai Amman (Parvati)",
+      "spaceType": "shrine",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Ayiram Kaal Mandapam (Thousand-Pillar Hall)",
+      "deityOrSubject": "Pillared hall",
+      "spaceType": "hall",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Brahma Theertham (Brahma Nanneer Tank)",
+      "deityOrSubject": "Sacred tank",
+      "spaceType": "tank",
+      "verificationStatus": "sourced",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "East Rajagopuram",
+      "deityOrSubject": "Gateway tower",
+      "spaceType": "gopuram",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "linkedMediaIds": [
+        "MED001"
+      ]
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Ko Pooja",
+      "startTime": "05:00",
+      "endTime": "05:15",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Ushakala Poojai",
+      "startTime": "05:30",
+      "endTime": "07:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Kalasandhi Pooja",
+      "startTime": "08:00",
+      "endTime": "09:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Uchikkala Pooja",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Sayaraksha Pooja (Evening)",
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "pooja",
+      "nameEn": "Irandamkala Pooja",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "pooja",
+      "nameEn": "Ardhajama Pooja",
+      "startTime": "21:00",
+      "endTime": "21:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC002"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Karthigai Deepam",
+      "tamilOrLocalMonth": "November–December (Karthigai)",
+      "significance": "The temple's principal annual festival. A massive beacon is lit atop Arunachala hill, visible for miles, commemorating Shiva's manifestation as a column of fire; it draws millions of pilgrims and is one of the largest Tamil festivals of its kind.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Maha Shivaratri",
+      "tamilOrLocalMonth": "February–March",
+      "duration": "1 day",
+      "significance": "Night of Shiva; observed with all-night vigils and worship, as at other major Shiva temples.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "East Gopuram of Arunachaleswarar Temple, Thiruvannamalai",
+      "caption": "The East Rajagopuram of Arunachaleswarar (Annamalaiyar) Temple, Thiruvannamalai, photographed in 2021.",
+      "altText": "The tall East Rajagopuram gateway tower of Arunachaleswarar Temple, Thiruvannamalai.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Thiruvannamalai_Arunachaleswarar_Temple_Rajagopuram.jpg",
+      "creator": "N. Vivekananthamoorthy",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "N. Vivekananthamoorthy · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thiruvannamalai_Arunachaleswarar_Temple_Rajagopuram.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "government",
+      "title": "Arulmigu Arunachaleswarar Temple, Tiruvannamalai [TM020343] — temple page",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://annamalaiyar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=20343",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple name, deity, postal address and PIN, darshan timings (5:30 AM–8:00 PM daily, with a 7:30 PM entry cutoff on Saturdays, Sundays, full-moon days, holidays and high-footfall days), the East Rajagopuram/North Ammani Amman Gopuram entry points, and structural summary (5 prakarams, 9 towers).",
+      "reliabilityNote": "Undated government page; darshan timings can change during festivals and should be reconfirmed before travel.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "government",
+      "title": "Arulmigu Arunachaleswarar Temple, Tiruvannamalai [TM020343] — Pooja information",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://annamalaiyar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=20343&action=pooja_info",
+      "accessDate": "2026-09-18",
+      "claimScope": "The seven daily poojas and their timings (Ko Pooja, Ushakala Poojai, Kalasandhi, Uchikkala, Sayaraksha, Irandamkala, Ardhajama), plus the list of paid special abhishekams offered.",
+      "reliabilityNote": "Undated government page; timings can vary on festival days.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Arulmigu Arunachaleswarar Temple, Tiruvannamalai [TM020343] — Contact us",
+      "publisherOrAuthority": "Hindu Religious & Charitable Endowments Department, Government of Tamil Nadu",
+      "url": "https://annamalaiyar.hrce.tn.gov.in/hrcehome/index_temple.php?tid=20343&action=contact_us",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's official postal address (Sannathi Street, Tiruvannamalai, 606601), telephone number and departmental email address.",
+      "reliabilityNote": "Undated government page; the email is published in obfuscated form and reconstructed here in standard form.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "other",
+      "title": "Arunachalesvara Temple — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Arunachalesvara_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "History (Tevaram-era references, 9th-century Chola masonry, Vijayanagara-era gopuram construction under Krishnadevaraya and Sevappa Nayak, French/British-era control, 1951 HR&CE takeover, Ramana Maharshi association), architecture (five prakarams, four gopurams, Agni Lingam, thousand-pillar hall, Brahma Nanneer tank), Pancha Bhoota Sthalam and Paadal Petra Sthalam status, Girivalam practice, and the Karthigai Deepam festival.",
+      "reliabilityNote": "Tertiary source; used for history and architecture context where HR&CE does not provide comparable detail.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Thiruvannamalai Arunachaleswarar Temple Rajagopuram.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Thiruvannamalai_Arunachaleswarar_Temple_Rajagopuram.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the East Gopuram photograph used in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File page. Uploaded as part of Wiki Loves Monuments 2021.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [
+      "Unnamulai Amman",
+      "Vinayagar"
+    ],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Sannathi Street, Tiruvannamalai, Tiruvannamalai District, Tamil Nadu 606601, India",
+    "bestTime": "November to March; Karthigai Deepam (Nov–Dec) for the beacon festival, though crowds are largest then."
+  },
+  "submittedBy": "development@cness.co"
+}

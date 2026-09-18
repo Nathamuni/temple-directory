@@ -1,0 +1,298 @@
+{
+  "templeId": "TPL-IN-TN-KUM-0033",
+  "slug": "sarangapani-kumbakonam",
+  "status": "published",
+  "identity": {
+    "nameEn": "Sarangapani Temple, Kumbakonam",
+    "alternateNames": [
+      "Arulmigu Sarangapani Swamy Temple",
+      "Aravamudhan Temple"
+    ],
+    "presidingDeity": "Vishnu",
+    "tradition": "Vaishnava",
+    "templeType": "Divya Desam",
+    "sacredClassifications": [
+      "Divya Desam",
+      "Pancharanga Kshetram",
+      "Vaishnavite",
+      "Dravidian"
+    ],
+    "spiritualSignificanceShort": "Sarangapani is one of the 108 Divya Desams glorified in the Naalayira Divya Prabandham and one of the five Pancharanga Kshetrams, the Ranganatha-linked Vishnu temples along the Kaveri. Its sanctum is built in the form of a chariot drawn by horses and elephants, evoking the tradition that Vishnu descended from Vaikuntha in such a chariot to marry Lakshmi at this site.",
+    "nameLocal": "சாரங்கபாணி கோயில்",
+    "localLanguage": "Tamil",
+    "consortDeity": "Komalavalli Thayar (Lakshmi)"
+  },
+  "location": {
+    "city": "Kumbakonam",
+    "district": "Thanjavur",
+    "stateProvince": "Tamil Nadu",
+    "country": "India",
+    "postalCode": "612001",
+    "latitude": 10.95944,
+    "longitude": 79.37472
+  },
+  "governance": {
+    "establishedEra": "Earliest epigraphical evidence from the late Chola period (10th–12th century CE); expanded under the Vijayanagara Empire and the Nayaks of Madurai; re-consecrated (Mahasamprokshanam) on 13 July 2015",
+    "managingAuthority": "Hindu Religious & Charitable Endowments (HR&CE) Department, Government of Tamil Nadu",
+    "founderPatron": "Structure expanded through patronage of the Medieval Cholas, the Vijayanagara Empire and the Nayaks of Madurai, per the temple's own historical account",
+    "administrationType": "Government department",
+    "officialWebsite": "http://www.sarangapanitemple.org",
+    "officialPhone": "+91-435-2430349"
+  },
+  "narrative": {
+    "summaryIntro": "Sarangapani Temple in Kumbakonam, Thanjavur district, Tamil Nadu, is dedicated to Vishnu, worshipped here as Sarangapani (also called Aravamudhan) with his consort Komalavalli Thayar, a form of Lakshmi. It is one of the 108 Divya Desams — the Vishnu temples glorified in the Naalayira Divya Prabandham — and is counted among the Pancharanga Kshetrams, the five Ranganatha-linked Vishnu temples along the Kaveri.\n\nThe temple's earliest epigraphical evidence dates to the late Chola period (10th–12th century CE), with substantial later contributions from the Vijayanagara Empire and the Nayaks of Madurai. Its eleven-tier rajagopuram rises to roughly 173 feet, and its sanctum is built in the unusual form of a chariot drawn by horses and elephants, evoking Vishnu's descent to earth. The temple underwent a Mahasamprokshanam (re-consecration) on 13 July 2015 and is administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department.",
+    "documentedHistory": "Epigraphical evidence for the temple dates from the late Chola period (10th–12th century CE); Wikipedia's account suggests the site may have functioned as a Vaishnava place of worship as early as the 7th–8th century. The temple's own historical account records contributions at different times from the Medieval Cholas, the Vijayanagara Empire and the Nayaks of Madurai, credited with much of the standing structure, including the sanctum and towers.\n\nThe temple follows the Pancharatra Agama and is associated with the Vadakalai tradition of Sri Vaishnavism; it is classed as an Ubaya Pradhana Kshetram, where both the presiding deity (moolavar) and the processional festival deity (utsavar) hold equal ritual importance. A Mahasamprokshanam (ceremonial re-consecration following renovation) was performed on 13 July 2015.\n\nThe temple is administered by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu.",
+    "sthalaPuranam": "According to the temple's traditional account, the sage Hema Rishi performed penance on the banks of the Potramarai tank seeking Lakshmi as his daughter. Vishnu, pleased with his devotion, is said to have descended in a chariot drawn by horses and elephants from Vaikuntha to marry Lakshmi, who emerged from the tank amid lotus flowers and became known as Komalavalli. The temple's chariot-shaped sanctum is said to commemorate this descent.",
+    "associatedSaints": [],
+    "architectureStyle": "Dravidian"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "No dedicated Tamil Nadu HR&CE (hrce.tn.gov.in) subdomain or temple page could be located for this temple during research, despite Wikipedia stating HR&CE administers it. Practical information here relies on the temple's own informational website (sarangapanitemple.org, technically maintained by a third-party vendor per its Contact page) cross-referenced with Wikipedia; it should be treated as needing recheck rather than government-verified."
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
+    "officialContactNote": "No dedicated HR&CE portal page could be located for this temple at the time of research. Confirm same-day darshan and pooja timings with the temple office on +91-435-2430349 before travelling, as timings may change on festival days.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "daily",
+      "sessionName": "Morning darshan",
+      "openTime": "07:00",
+      "closeTime": "12:30",
+      "closedFlag": false,
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "daily",
+      "sessionName": "Evening darshan",
+      "openTime": "16:30",
+      "closeTime": "21:00",
+      "closedFlag": false,
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Potramarai Tank",
+      "deityOrSubject": "Sacred tank",
+      "spaceType": "tank",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Rajagopuram (main tower)",
+      "deityOrSubject": "Gateway tower, eleven tiers, approx. 173 ft",
+      "spaceType": "gopuram",
+      "verificationStatus": "cross-referenced",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "linkedMediaIds": [
+        "MED001"
+      ]
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "pooja",
+      "nameEn": "Thiruvanandal",
+      "startTime": "08:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "pooja",
+      "nameEn": "Kala Santhi",
+      "startTime": "09:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "pooja",
+      "nameEn": "Uchikalam",
+      "startTime": "12:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "pooja",
+      "nameEn": "Nithiya Anusandhanam",
+      "startTime": "18:00",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Second Worship",
+      "startTime": "19:30",
+      "recurrence": "Daily",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Chithirai Brahmotsavam (Chithrai Utsav)",
+      "tamilOrLocalMonth": "March–April (Chithirai)",
+      "significance": "The temple's principal annual festival, featuring twin temple chariots (ther) among the largest in Tamil Nadu.",
+      "verificationStatus": "conflict",
+      "sourceIds": [
+        "SRC002",
+        "SRC003"
+      ],
+      "linkedMediaIds": []
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Vaikunda Ekadesi",
+      "tamilOrLocalMonth": "December–January (Margazhi)",
+      "significance": "Major annual observance associated with Vishnu temples generally; listed by the temple among its principal festivals.",
+      "verificationStatus": "needs recheck",
+      "sourceIds": [
+        "SRC001"
+      ],
+      "linkedMediaIds": []
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sarangapani Temple, Kumbakonam — hero image",
+      "caption": "Sarangapani Temple, Kumbakonam, photographed in February 2025.",
+      "altText": "Exterior view of Sarangapani Temple, Kumbakonam.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Kumbakonam-Sarangapani_Temple-WUS03071.jpg",
+      "creator": "Rainer Halama",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Rainer Halama · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumbakonam-Sarangapani_Temple-WUS03071.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "official temple",
+      "title": "Sri Sarangapani Temple — official informational site (home)",
+      "publisherOrAuthority": "Sri Sarangapani Temple, Kumbakonam",
+      "url": "http://www.sarangapanitemple.org/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple name, deities (Sarangapani/Moolavar and Komalavalli Thayar), address and PIN 612001, phone number, morning and evening darshan windows, the five-point daily pooja schedule, and the list of major festivals (Chithrai Utsav, Vaikasi Vasanth Utsav, Thai Sankaraman Utsav, Masi Float Festival, Vaikunda Ekadesi).",
+      "reliabilityNote": "Not a .gov.in domain; presents itself as the temple's own informational site but its Contact page states it is technically maintained by a third-party vendor (AnnAA Silicon Technology Pvt Ltd). No independent HR&CE portal page for this temple could be located to cross-check. Treat operational details as needing recheck.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Sri Sarangapani Temple — Temple History",
+      "publisherOrAuthority": "Sri Sarangapani Temple, Kumbakonam",
+      "url": "http://sarangapanitemple.org/Temple%20History.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "The Hema Rishi/Komalavalli sthala legend, patronage from the Medieval Cholas, Vijayanagara Empire and Madurai Nayaks, the rajagopuram's eleven tiers and 173 ft height, the chariot-shaped sanctum, Divya Desam and Pancharanga Kshetram status, six daily rituals, twelve annual festivals, and the twin temple chariots (stated here as 300 tons each).",
+      "reliabilityNote": "Same site as SRC001; undated page mixing sthala legend with administrative facts.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "other",
+      "title": "Sarangapani temple, Kumbakonam — Wikipedia",
+      "publisherOrAuthority": "Wikipedia (with sources therein)",
+      "url": "https://en.wikipedia.org/wiki/Sarangapani_temple,_Kumbakonam",
+      "accessDate": "2026-09-18",
+      "claimScope": "Identity (Sharngapani/Aravamudhan, consort Komalavalli Thayar), Divya Desam status, location and coordinates, history (possible 7th–8th century origins, late-Chola epigraphy, Vijayanagara/Nayak-era expansion, Mahasamprokshanam on 13 July 2015), architecture (rajagopuram height, chariot-form sanctum, Potramarai tank), Pancharatra Agama and Vadakalai tradition, Ubaya Pradhana Kshetram classification, the Brahmotsavam festival with twin chariots (stated here as 500 tonnes total, which conflicts with SRC002's figure), and HR&CE administration.",
+      "reliabilityNote": "Tertiary source. Its chariot-weight figure for the Brahmotsavam conflicts with the temple's own site (SRC002); both are recorded and the discrepancy is flagged rather than resolved.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Sri Sarangapani Temple — Contact",
+      "publisherOrAuthority": "Sri Sarangapani Temple, Kumbakonam",
+      "url": "http://sarangapanitemple.org/Contact.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "The temple's postal address and telephone number (0435-2430349), and the statement that the website is technically maintained by AnnAA Silicon Technology Pvt Ltd.",
+      "reliabilityNote": "Confirms the site's third-party technical maintenance, which is why sourceType here is treated cautiously rather than as a government source.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:Kumbakonam-Sarangapani Temple-WUS03071.jpg — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kumbakonam-Sarangapani_Temple-WUS03071.jpg",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image file, author attribution and licence for the temple photograph used in media.",
+      "reliabilityNote": "Author and licence copied from the Commons File page. Photographed February 2025 as part of Wiki Loves Monuments 2025.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Sri Sarangapani Swamy Temple, Kumbakonam, Thanjavur District, Tamil Nadu 612001, India",
+    "bestTime": "November to March; Vaikunda Ekadesi (Dec–Jan) and the Chithirai car festival (Mar–Apr) draw the largest crowds."
+  },
+  "submittedBy": "development@cness.co"
+}

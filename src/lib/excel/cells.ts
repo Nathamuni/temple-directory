@@ -140,8 +140,18 @@ export function readCell(
     case "Decimal":
       return { value: toNumber(value), issues };
     case "Date":
-    case "Date/Text":
       return { value: toIsoDate(value), issues };
+    case "Date/Text": {
+      // A Date/Text column exists so a source can say "2017" or
+      // "c. 12th century". Only normalise what is already a real date —
+      // turning "2017" into "2017-01-01" would invent a precision the
+      // source never claimed.
+      if (value instanceof Date) return { value: toIsoDate(value), issues };
+      const text = cellText(value).trim();
+      if (!text) return { value: undefined, issues };
+      if (/^\d{4}-\d{2}-\d{2}/.test(text)) return { value: text.slice(0, 10), issues };
+      return { value: text, issues };
+    }
     case "Time":
       return { value: toClockTime(value), issues };
     case "Lookup": {

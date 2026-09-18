@@ -1,0 +1,289 @@
+{
+  "templeId": "TPL-IN-KE-PAT-0035",
+  "slug": "sabarimala-ayyappan",
+  "status": "published",
+  "identity": {
+    "nameEn": "Sabarimala Sree Ayyappan Temple",
+    "alternateNames": [
+      "Sabarimala Temple",
+      "Sabarimala Sree Dharma Sastha Temple"
+    ],
+    "presidingDeity": "Ayyappan",
+    "tradition": "Other",
+    "templeType": "Shasta (Ayyappan) tradition",
+    "sacredClassifications": [
+      "Ayyappan",
+      "Kerala",
+      "Hill shrine",
+      "Pilgrimage"
+    ],
+    "spiritualSignificanceShort": "Sabarimala is a forest hill shrine to Ayyappan (Sree Dharma Sastha), reached only on foot and open to pilgrims for defined periods of the year rather than continuously. The Travancore Devaswom Board describes pilgrims as addressing one another as 'Ayyappa' or 'Swamy' regardless of caste, religion or wealth, and the pilgrimage includes Vavar Nada, a shrine honouring a companion of Ayyappan venerated as a Sufi figure. It is among the most heavily attended annual Hindu pilgrimages, with tens of millions of visits recorded during the Mandala–Makaravilakku season.",
+    "nameLocal": "ശബരിമല",
+    "localLanguage": "Malayalam"
+  },
+  "location": {
+    "city": "Sabarimala",
+    "district": "Pathanamthitta",
+    "stateProvince": "Kerala",
+    "country": "India",
+    "postalCode": "689713",
+    "latitude": 9.4346,
+    "longitude": 77.0814
+  },
+  "governance": {
+    "establishedEra": "Legendary ancient origins; earliest documented outside account 1818 · Sanctum rebuilt after fires in 1902 and 1950",
+    "managingAuthority": "Travancore Devaswom Board",
+    "officialWebsite": "http://travancoredevaswomboard.org/administration/eosab/sab/sabarimala-sree-ayyappaswami-temple",
+    "officialPhone": "+91 70258 00100"
+  },
+  "narrative": {
+    "summaryIntro": "Sabarimala Sree Ayyappan Temple is a forest hill shrine dedicated to Ayyappan, set within the Periyar Tiger Reserve in Pathanamthitta district, Kerala, at an elevation Wikipedia gives as about 1,260 m. Unlike most major Kerala temples, it does not remain open year-round: it is accessible chiefly during the Mandala–Makaravilakku season, spanning roughly mid-November to mid-January, and pilgrims reach the sanctum on foot after crossing the Pampa river and trekking through forest. The temple is administered by the Travancore Devaswom Board, a statutory body that manages temples across the territory of the former princely state of Travancore. Pilgrims typically observe a 41-day vratham (austerity period) before the ascent and carry a two-compartment offering bag called the irumudikettu. The complex includes the Pathinettampadi, eighteen sacred steps leading to the sanctum, and the nearby Malikappurathamma shrine. Sabarimala draws among the largest pilgrim gatherings of any Hindu shrine, with Wikipedia citing estimates of ten to fifteen million visits during the annual season.",
+    "sthalaPuranam": "According to the account given in the Bhutanathopakhyanam, as summarised on Wikipedia, Ayyappan was born of the union of Shiva and Mohini (an avatar of Vishnu) in order to defeat the demoness Mahishi, and was later found as an infant on the banks of the Pampa river by Rajashekhara, king of the Pandalam dynasty, who raised him. Tradition associated with the pilgrimage also honours Vavar, a companion of Ayyappan venerated at a nearby shrine, Vavar Nada, which the Travancore Devaswom Board's own page cites as an example of the pilgrimage's communal character.",
+    "documentedHistory": "The earliest documented outside description of the temple dates to 1818, when Lieutenant B. S. Ward recorded an annual festival at Sabarimala attended by an estimated 10,000 to 15,000 devotees. The sanctum was rebuilt in 1902 after a fire, and again after an arson attack in 1950, at which point the original stone idol was replaced with a panchaloha (five-metal alloy) image. The Travancore Devaswom Board, a statutory autonomous body formed in 1950 under the Travancore–Cochin Hindu Religious Institutions Act, has administered the temple since.\n\nEntry by women of menstruating age (broadly 10 to 50) was long restricted in practice and was given legal force by a Kerala High Court ruling in 1991. The Supreme Court of India, in a 4–1 verdict on 28 September 2018, held that the restriction was not an essential religious practice and directed that women of all ages be permitted entry. The ruling produced sustained protests, and the matter was subsequently referred to a larger seven-judge bench for reconsideration. Sources consulted for this record do not show a final resolution of that reconsideration, so the current legal and practical status of women's entry should be treated as unsettled rather than a settled fact.",
+    "associatedSaints": [],
+    "architectureStyle": "Traditional Kerala hill-shrine architecture"
+  },
+  "editorial": {
+    "overallVerificationStatus": "partial"
+  },
+  "visitingInfo": {
+    "sourceIds": [
+      "SRC001",
+      "SRC002",
+      "SRC004"
+    ],
+    "verificationStatus": "needs recheck",
+    "dressCode": "Wikipedia states that pilgrims observing the 41-day vratham wear plain black or blue (or saffron) traditional attire, and that men commonly remove shirts before climbing the Pathinettampadi.",
+    "entryRules": "Historically, women of menstruating age (broadly 10 to 50) were restricted from entry, a restriction given legal force by a 1991 Kerala High Court ruling. The Supreme Court's 2018 verdict directed that this restriction be lifted, but the ruling was contested and referred to a larger bench; the practical and legal position is unsettled as of the sources reviewed for this record.",
+    "nearestRailStation": "Chengannur Railway Station, approx. 85 km",
+    "railDistanceKm": 85,
+    "nearestAirport": "Cochin International Airport, approx. 160 km",
+    "airportDistanceKm": 160,
+    "officialContactNote": "Access, pilgrim quotas and opening dates are set by the Travancore Devaswom Board for each season; confirm current dates, the daily pilgrim cap and any documentation requirements with the Board before travelling.",
+    "lastVerifiedDate": "2026-09-18"
+  },
+  "openingHours": [
+    {
+      "hoursId": "HRS001",
+      "dayType": "special",
+      "sessionName": "Mandala–Makaravilakku pilgrimage season",
+      "closedFlag": false,
+      "notes": "The temple's principal season is the roughly 41-day Mandala period, beginning on the first day of the Malayalam month Vrischikam (mid-November) and continuing through Makaravilakku on Makara Sankranti (around 14 January). Wikipedia and Kerala Tourism both describe this as the temple's main annual opening; exact calendar dates are announced separately each year by the Travancore Devaswom Board and are not fixed, so no specific clock or calendar dates are recorded here.",
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "hoursId": "HRS002",
+      "dayType": "special",
+      "sessionName": "Monthly and other festival openings",
+      "closedFlag": false,
+      "notes": "Kerala Tourism and the Travancore Devaswom Board state that the temple also opens for the first five days of every Malayalam month, and for occasions such as Vishu (mid-April). No fixed daily darshan hours are published for these openings, so none are recorded here.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "worshipSop": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Sreekovil (Main Sanctum)",
+      "deityOrSubject": "Ayyappan",
+      "spaceType": "shrine",
+      "locationDescription": "The sanctum sits on a plateau approached via the Pathinettampadi. Wikipedia describes a gold-plated roof with four golden finials.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Pathinettampadi (Eighteen Holy Steps)",
+      "deityOrSubject": "Ceremonial approach to the sanctum",
+      "spaceType": "other",
+      "locationDescription": "The eighteen steps leading to the sanctum, clad in panchaloha since 1985; pilgrims traditionally climb them carrying the irumudikettu offering bag.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Malikappurathamma Temple",
+      "deityOrSubject": "Malikappurathamma (goddess)",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary shrine near the Sannidhanam.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Kannimoola Ganapathy",
+      "deityOrSubject": "Ganapathy",
+      "spaceType": "shrine",
+      "locationDescription": "A subsidiary shrine to the southwest of the main sanctum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Vavar Nada",
+      "deityOrSubject": "Vavar, a companion of Ayyappan venerated at a mosque-shrine",
+      "spaceType": "other",
+      "locationDescription": "A shrine on the pilgrimage route; the Travancore Devaswom Board cites it as an example of the pilgrimage's communal, cross-community character.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC002"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "POJ001",
+      "recordType": "abhishekam",
+      "nameEn": "Neyyabhishekam",
+      "recurrence": "Performed by individual pilgrims during darshan",
+      "description": "Pilgrims pour ghee carried in the irumudikettu over the deity. Wikipedia describes this act as symbolising the union of the individual soul (jivatma) with the supreme (paramatma).",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "sourced"
+    }
+  ],
+  "festivals": [
+    {
+      "festivalId": "FES001",
+      "festivalNameEn": "Makaravilakku (Makara Sankranti)",
+      "tamilOrLocalMonth": "Makaram (mid-January)",
+      "gregorianRuleOrDate": "On or around 14 January (Makara Sankranti)",
+      "significance": "The culminating observance of the annual pilgrimage season, marking the close of the Mandala period.",
+      "processionOrRituals": "Marked by the Thiruvabharanam procession, which carries Ayyappan's sacred ornaments from Pandalam to the temple; Wikipedia records roughly half a million devotees attending.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Mandala Pooja / Mandala season",
+      "tamilOrLocalMonth": "Vrischikam–Dhanu (mid-November to late December)",
+      "duration": "Approximately 41 days",
+      "significance": "The temple's primary annual pilgrimage season, during which pilgrims who have kept the 41-day vratham travel to the shrine.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC001",
+        "SRC004"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
+  "media": [
+    {
+      "mediaId": "MED001",
+      "mediaType": "image",
+      "category": "hero",
+      "title": "Sabarimala Temple — hero image",
+      "caption": "The Sabarimala Sree Ayyappan Temple complex.",
+      "altText": "View of the Sabarimala Sree Ayyappan Temple complex on the forested hill.",
+      "fileOrUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/SabarimalaTemple.JPG",
+      "creator": "AnjanaMenon (Malayalam Wikipedia)",
+      "license": "CC BY-SA 3.0",
+      "attributionText": "AnjanaMenon · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SabarimalaTemple.JPG",
+      "editorialApproved": true,
+      "verificationStatus": "approved"
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC001",
+      "sourceType": "other",
+      "title": "Sabarimala Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location, elevation and coordinates; origin legend (Bhutanathopakhyanam); 1818 Lt. Ward account; 1902 and 1950 reconstructions; Travancore Devaswom Board administration; 41-day vratham and dress; irumudikettu and Neyyabhishekam; Pathinettampadi, Sreekovil, Malikappurathamma and Kannimoola Ganapathy; women's-entry history including the 1991 High Court ruling and the 2018 Supreme Court verdict and its aftermath; Mandala–Makaravilakku season and Thiruvabharanam procession; pilgrim numbers; nearest airports and rail station.",
+      "reliabilityNote": "Tertiary encyclopedic source; used for history, legend and shrine detail rather than current operational information, which changes season to season.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC002",
+      "sourceType": "official temple",
+      "title": "Sabarimala Sree Dharma Sastha Temple — Executive Officer's page",
+      "publisherOrAuthority": "Travancore Devaswom Board",
+      "url": "http://travancoredevaswomboard.org/administration/eosab/sab/sabarimala-sree-ayyappaswami-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Location description ('deep, dense forest on the virgin hill of Sabari'), access by foot only, pilgrims addressing each other as Ayyappa/Swamy regardless of caste or religion, Vavar Nada, and the Board's Thiruvananthapuram office address and phone numbers.",
+      "reliabilityNote": "The Board's own administrative page; undated and does not publish daily timings or current-season dates.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Sabarimala — contact page",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/sabarimala/contact",
+      "accessDate": "2026-09-18",
+      "claimScope": "General enquiry and departmental contact numbers for Sabarimala/Pamba operations under the Travancore Devaswom Board.",
+      "reliabilityNote": "State tourism contact listing; undated, and operational phone lines can change between seasons.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Sabarimala — pilgrimage guide",
+      "publisherOrAuthority": "Kerala Tourism (Department of Tourism, Government of Kerala)",
+      "url": "https://www.keralatourism.org/sabarimala",
+      "accessDate": "2026-09-18",
+      "claimScope": "Elevation, location within the Periyar Tiger Reserve, pilgrim numbers, Mandala kaalam (41-day season) beginning in Vrischikam, Makaravilakku, the three trekking routes, and nearest airports/rail station.",
+      "reliabilityNote": "State tourism pilgrimage guide; undated. Confirm current-year season dates directly with the Travancore Devaswom Board.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "media repository",
+      "title": "File:SabarimalaTemple.JPG — Wikimedia Commons",
+      "publisherOrAuthority": "Wikimedia Commons",
+      "author": "AnjanaMenon (Malayalam Wikipedia)",
+      "url": "https://commons.wikimedia.org/wiki/File:SabarimalaTemple.JPG",
+      "accessDate": "2026-09-18",
+      "claimScope": "Image of the temple only; author and licence string.",
+      "reliabilityNote": "Contributor-uploaded image; licence and authorship as declared on the Commons file page.",
+      "adminApproved": true
+    }
+  ],
+  "extensions": {
+    "otherDeities": [],
+    "majorFestivalIds": [
+      "FES001"
+    ],
+    "nearbyTemples": [],
+    "reviews": [],
+    "spiritualOutcomes": [],
+    "facilities": [],
+    "address": "Sabarimala Sree Ayyappan Temple, Sannidhanam, Sabarimala, Pathanamthitta, Kerala 689713, India",
+    "bestTime": "Mandala–Makaravilakku season, mid-November to mid-January",
+    "entryFee": "Free"
+  },
+  "submittedBy": "development@cness.co"
+}

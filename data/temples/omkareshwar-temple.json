@@ -14,7 +14,7 @@
       "Omkareshwar",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Omkareshwar is the fourth of the twelve Jyotirlingas and the only one on the banks of the Narmada. It stands on Mandhata, also called Shivpuri, an island about four kilometres by two formed where the river divides, whose outline is held to resemble the syllable Om. The site counts 68 tirthas and 108 shivalingas, and the shayan aarti is its most attended ritual, on the tradition that Shiva and Parvati rest here at night.",
     "nameLocal": "ओंकारेश्वर मंदिर",
     "localLanguage": "Hindi"
   },
@@ -29,62 +29,302 @@
   },
   "governance": {
     "establishedEra": "Ancient origins; multiple reconstructions · Current structure medieval period",
-    "managingAuthority": "Omkareshwar Temple Committee"
+    "managingAuthority": "Omkareshwar Temple Committee",
+    "administrationType": "Trust",
+    "officialWebsite": "https://shriomkareshwar.org/",
+    "officialPhone": "+91 8989998686",
+    "officialEmail": "shriomkareshwar@gmail.com"
   },
   "narrative": {
     "summaryIntro": "Omkareshwar Temple is one of the twelve Jyotirlingas dedicated to Lord Shiva and is located on an island in the sacred Narmada River in the Khandwa district of Madhya Pradesh. The temple's name derives from the Om (ॐ) symbol, which is said to be naturally formed by the shape of the island. The site is of great significance in Hindu pilgrimage traditions and represents the meeting point of sacred geography and spiritual symbolism.\n\nThe temple complex features traditional North Indian architecture and is surrounded by the flowing Narmada River, creating a serene and spiritually charged atmosphere. The island location makes it a unique pilgrimage destination, accessible by bridge. The temple attracts devotees year-round and holds special significance during Maha Shivaratri and other important festivals.",
-    "documentedHistory": "",
-    "associatedSaints": [],
+    "documentedHistory": "Omkareshwar stands on the northern bank of the Narmada, about 77 km from Indore, where the river divides to form the island of Mandhata, also called Shivpuri. The island is roughly 4 km long and 2 km wide and its outline is traditionally read as the shape of the syllable Om, from which the place takes its name. The Kaveri joins the Narmada here.\n\nThe main temple is built in North Indian style with a high shikhara raised in stacked stone courses. It rises through five storeys, each with its own dedication — Shri Omkareshwar, Shri Mahakaleshwar, Shri Siddhnath, Shri Gupteshwar and the flag-bearing deity. The assembly hall is nearly 14 feet high and is carried on sixty massive pillars.\n\nAcross the river on the left bank stands the Mamleshwar temple, which the Khandwa district administration describes as equal in standing to Omkareshwar. It carries inscriptions dated to 1063 CE and later received the patronage of Maharani Ahilyabai Holkar. Other structures around the site include the Siddhnath, Gauri Somnath and Rinmukteshwar temples, the Jain site of Siddhavarkut with imagery indicating occupation from 1488 CE, and the Govind ji cave associated with the guru of Adi Shankaracharya, who is himself traditionally linked with this place.\n\nThe temple was declared a public trust under the Madhya Pradesh Public Trusts Act, 1951, in 1959. It is administered by seven trustees: the Rao of Mandhata as Managing Trustee, one of his nominees, two nominees of the Registrar of Public Trusts, and one representative each from the District Panchayat Khandwa, the Block Panchayat Punasa and the Nagar Panchayat Omkareshwar.",
+    "associatedSaints": [
+      "Adi Shankaracharya"
+    ],
     "architectureStyle": "North Indian"
   },
   "editorial": {
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC003",
+      "SRC004",
+      "SRC005"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Omkareshwar Railway Station, 10 km",
     "railDistanceKm": 10,
     "nearestBusStation": "Accessible by road from Khandwa",
     "nearestAirport": "Indore Airport, 200 km",
-    "airportDistanceKm": 200
+    "airportDistanceKm": 200,
+    "officialContactNote": "Darshan and aarti times published by the trust are seasonal and change substantially during Shravana and on Mahashivaratri, when crowds on the island are very heavy. Confirm same-day timings and puja bookings with Shri Omkareshwar Mandir Trust on +91 8989998686 or shriomkareshwar@gmail.com. The trust gives its postal code as 450554; the code previously recorded in this directory entry (450549) is not corroborated by any source opened.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
-      "openTime": "06:00",
-      "closeTime": "12:00",
+      "sessionName": "Mangal Darshan",
+      "openTime": "05:00",
+      "closeTime": "12:20",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Preceded by Mangal Arti and Bhog from 04:30 to 05:00, during which darshan is closed.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     },
     {
       "hoursId": "HRS002",
       "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "21:00",
+      "sessionName": "Madhyanha Darshan",
+      "openTime": "13:15",
+      "closeTime": "16:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "hoursId": "HRS003",
+      "dayType": "daily",
+      "sessionName": "Shringar Darshan",
+      "openTime": "16:30",
+      "closeTime": "21:30",
+      "closedFlag": false,
+      "notes": "Followed by Shayan Arti from 21:30 to 22:00. The trust states darshan is closed before 05:00, after 22:30 and during ritual periods.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Shri Omkareshwar sanctum",
+      "deityOrSubject": "Shiva as Omkareshwar",
+      "spaceType": "shrine",
+      "locationDescription": "The ground-level sanctum of the five-storeyed main temple on Mandhata island.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Shri Mahakaleshwar",
+      "deityOrSubject": "Shiva as Mahakaleshwar",
+      "spaceType": "shrine",
+      "locationDescription": "One of the five storeys of the main temple, above the Omkareshwar sanctum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Shri Siddhnath",
+      "deityOrSubject": "Shiva as Siddhnath",
+      "spaceType": "shrine",
+      "locationDescription": "One of the five storeys of the main temple. A separate Siddhnath temple also stands among the older structures at the site.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Shri Gupteshwar",
+      "deityOrSubject": "Shiva as Gupteshwar",
+      "spaceType": "shrine",
+      "locationDescription": "One of the five storeys of the main temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Five-faced Ganesha shrine",
+      "deityOrSubject": "Panchamukhi Ganesha",
+      "spaceType": "shrine",
+      "locationDescription": "Within the main temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Sabha mandap",
+      "deityOrSubject": "Assembly hall",
+      "spaceType": "hall",
+      "locationDescription": "An assembly hall nearly 14 feet high, carried on 60 massive pillars.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR007",
+      "shrineName": "Mamleshwar Temple",
+      "deityOrSubject": "Shiva as Mamleshwar",
+      "spaceType": "shrine",
+      "locationDescription": "On the left bank of the Narmada, across from the island. The Khandwa district administration treats it as equal in standing to Omkareshwar; it carries inscriptions dated to 1063 CE and received the patronage of Maharani Ahilyabai Holkar.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC006"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR008",
+      "shrineName": "Gauri Somnath Temple",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "Among the older temple structures at the Omkareshwar site.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR009",
+      "shrineName": "Rinmukteshwar Temple",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "Among the older temple structures at the Omkareshwar site.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR010",
+      "shrineName": "Govind ji cave",
+      "deityOrSubject": "Cave associated with the guru of Adi Shankaracharya",
+      "spaceType": "other",
+      "locationDescription": "At the Omkareshwar site; associated in tradition with Govindapada, the teacher of Adi Shankaracharya.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR011",
+      "shrineName": "Siddhavarkut (Jain site)",
+      "deityOrSubject": "Jain tirtha, with temples dedicated to Tirthankara Shantinath",
+      "spaceType": "other",
+      "locationDescription": "A Jain pilgrimage site at Omkareshwar; the district administration notes Jain imagery indicating the place has existed since 1488 CE.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Mangal Arti and Bhog",
+      "startTime": "04:30",
+      "endTime": "05:00",
+      "recurrence": "Daily",
+      "description": "The opening ritual of the day; darshan is not available during it.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Shayan Arti",
+      "startTime": "21:30",
+      "endTime": "22:00",
+      "recurrence": "Daily",
+      "description": "The closing ritual of the day and the most attended at Omkareshwar, on the tradition that Shiva and Parvati rest here at night. Madhya Pradesh Tourism gives the start as 21:00 while the temple trust's own schedule gives 21:30.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC006"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "conflict"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "seva",
+      "nameEn": "Sponsored pujas (Abhishek, Partheshwar, Navgrah Shanti, Kalsarp Dosh, Maha Mrityunjaya)",
+      "recurrence": "On booking",
+      "description": "The trust lists Abhishek, Partheshwar puja, Navgrah Shanti, Kalsarp Dosh nivaran and Maha Mrityunjaya among the pujas performed for devotees. Rates and booking procedure were not stated on the page read and are therefore not recorded here.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "ritual",
+      "nameEn": "Monday palanquin procession",
+      "recurrence": "Weekly, on Mondays",
+      "description": "A procession of the deity in a golden palanquin is taken out every Monday, observed most elaborately through the month of Shravana.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Grand celebrations with special rituals and processions",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Ganesh Chaturthi",
+      "gregorianRuleOrDate": "Bhadrapada Shukla Chaturthi; falls in August or September",
+      "significance": "The main temple houses a five-faced Ganesha shrine, which draws particular crowds at Ganesh Chaturthi.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "festivalId": "FES002",
+      "festivalNameEn": "Shravana observances",
+      "gregorianRuleOrDate": "Through the lunar month of Shravana; falls in July or August",
+      "significance": "The weekly Monday palanquin procession is taken out with particular elaboration through Shravana, the principal Shaiva month.",
+      "processionOrRituals": "Procession of the deity in a golden palanquin.",
+      "crowdNote": "Shravana Mondays bring heavy crowds to the island.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -119,6 +359,50 @@
       "title": "Madhya Pradesh Tourism Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Main Temple - Shri Omkareshwar jyotirlinga 'Official Website'",
+      "publisherOrAuthority": "Shri Omkareshwar Mandir Trust, Omkareshwar",
+      "url": "https://shriomkareshwar.org/MainTemple.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "Position as the fourth of the twelve Jyotirlingas and location on the northern bank of the Narmada about 77 km from Indore; the island of Mandhata (Shivpuri), about 4 km by 2 km, shaped like the syllable Om; the five storeys of the main structure dedicated to Shri Omkareshwar, Shri Mahakaleshwar, Shri Siddhnath, Shri Gupteshwar and the flag-bearing deity; the assembly hall of nearly 14 feet supported by 60 pillars; the darshan and aarti schedule; the list of paid pujas offered; the Monday golden palanquin procession; the temple's phone number and email.",
+      "reliabilityNote": "Official trust site, undated. Timings and the puja list are operational and change seasonally and during Shravana; treat as needing recheck.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "About Trust - Shri Omkareshwar jyotirlinga 'Official Website'",
+      "publisherOrAuthority": "Shri Omkareshwar Mandir Trust, Omkareshwar",
+      "url": "https://shriomkareshwar.org/AboutTrust.aspx",
+      "accessDate": "2026-09-18",
+      "claimScope": "Declaration of the temple as a public trust under the Madhya Pradesh Public Trusts Act, 1951, in 1959; the seven-trustee composition, with the Rao of Mandhata as Managing Trustee, one of his nominees, two nominees of the Registrar of Public Trusts and representatives of the District Panchayat Khandwa, Block Panchayat Punasa and Nagar Panchayat Omkareshwar; the trust's postal address and contact details.",
+      "reliabilityNote": "Official trust page, undated. The named Managing Trustee is an office-holder and may change; the office (Rao of Mandhata) is recorded here rather than the individual.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Omkareshwar Mandhata | District Khandwa, Government of Madhya Pradesh | India",
+      "publisherOrAuthority": "District Administration Khandwa, Government of Madhya Pradesh (NIC)",
+      "url": "https://khandwa.nic.in/en/tourist-place/omkareshwar/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The pranava-shaped island in the Narmada about 75 km from Khandwa on the Indore-Khandwa highway; the equal standing of the Omkareshwar and Mamleshwar temples; the presence of the Siddhnath, Gauri Somnath and Rinmukteshwar temples; the Jain Siddhavarkut site and Jain imagery indicating occupation from 1488 CE; the Govind ji cave associated with Adi Shankaracharya's guru; Indore airport at 84 km and road access 70 km from Khandwa toward Indore; Bhakt Niwas and MPT Sailani Island Resort as accommodation.",
+      "reliabilityNote": "District portal page, undated. Road distances quoted on the page are approximate and internally inconsistent (75 km and 70 km from Khandwa in the same text).",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "government",
+      "title": "Omkareshwar Jyotirlinga - Shiva's Sojourn by the Narmada | Madhya Pradesh Tourism",
+      "publisherOrAuthority": "Madhya Pradesh Tourism Board, Government of Madhya Pradesh",
+      "url": "https://www.mptourism.com/omkareshwar-jyotirlinga.html",
+      "accessDate": "2026-09-18",
+      "claimScope": "Omkareshwar as the only Jyotirlinga on the banks of the Narmada; the 68 tirthas and 108 shivalingas of the site; the popularity of the shayan aarti from 21:00 and the tradition that Shiva and Parvati rest there; the five-faced Ganesha shrine in the main temple and the crowds at Ganesh Chaturthi; the Mamleshwar temple on the left bank, its inscriptions dated to 1063 CE and the patronage of Maharani Ahilyabai Holkar; Adi Shankaracharya's association with the site; the confluence of the Kaveri with the Narmada here.",
+      "reliabilityNote": "State tourism page, undated and promotional in tone. The 21:00 shayan aarti time differs slightly from the trust's own 21:30 listing; see notes.",
       "adminApproved": true
     }
   ],

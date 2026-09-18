@@ -14,7 +14,7 @@
       "Bhubaneswar",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Lingaraja is the presiding shrine of the old temple city of Bhubaneswar and enshrines a swayambhu lingam described as about eight feet across and eight inches high. Worship here is distinctively syncretic: the deity is honoured as Harihara, joining Shiva and Vishnu, and the temple carries Vaishnava iconography introduced under the Ganga dynasty alongside its Shaiva core. The temple is regarded as the culmination of the Kalinga school of temple architecture.",
     "nameLocal": "ଲିଙ୍ଗରାଜ ମନ୍ଦିର",
     "localLanguage": "Odia"
   },
@@ -29,72 +29,171 @@
   },
   "governance": {
     "establishedEra": "11th century CE · Built during the rule of Jai Rai, Somavamshi dynasty",
-    "managingAuthority": "Bhubaneswar Temple Board"
+    "managingAuthority": "Bhubaneswar Temple Board",
+    "founderPatron": "Attributed to the Somavamshi king Yayati I (Jajati Keshari), or to his successors",
+    "administrationType": "Trust"
   },
   "narrative": {
     "summaryIntro": "Lingaraj Temple in Bhubaneswar, Odisha, is one of the most important temples dedicated to Lord Shiva and is a masterpiece of Odia architecture. Built in the 11th century by Jai Rai of the Somavamshi dynasty, the temple's main sanctum features a towering spire standing at 180 feet. The temple's name 'Lingaraj' literally means 'Lord of the Linga,' and it houses one of the most sacred Shiva lingas in India.\n\nThe temple complex spans over two acres and features intricate stone carvings, sculptures, and multiple smaller shrines. The distinctive Odia architectural style with its curved spire is evident in the main tower. The temple is the presiding deity of Bhubaneswar city and holds immense spiritual significance for Hindus. It attracts thousands of pilgrims and devotees annually, particularly during Maha Shivaratri and other important festivals.",
-    "documentedHistory": "",
+    "documentedHistory": "The temple is dated to the late eleventh century and is attributed to the Somavamshi king Yayati I, known also as Jajati Keshari, or to his immediate successors; tradition holds that the site was in worship considerably earlier. It is built in sandstone and laterite and represents the mature phase of the Kalinga school of temple architecture in Bhubaneswar.\n\nAlthough the presiding deity is Shiva as Lingaraja, the temple carries a marked Vaishnava overlay introduced during the Ganga dynasty period, including Vaishnava doorkeepers, reflecting the rising prominence of the Jagannath cult in Odisha. The deity is accordingly worshipped as Harihara, the union of Hari and Hara.\n\nThe temple compound is closed to non-Hindus. A raised viewing platform stands beside the boundary wall, originally built so that Viceroy Curzon could see the temple; it remains the point from which visitors who may not enter view the complex.",
     "associatedSaints": [],
-    "architectureStyle": "Odia"
+    "architectureStyle": "Odia",
+    "sacredTank": "Bindusagar, the tank north of the temple; an underground stream originating at the temple is said to feed it, and its water is held to be healing"
   },
   "editorial": {
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC003",
+      "SRC005"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Bhubaneswar Railway Station, 3 km",
     "railDistanceKm": 3,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Biju Patnaik International Airport, 7 km",
-    "airportDistanceKm": 7
+    "airportDistanceKm": 7,
+    "entryRules": "Entry to the temple compound is restricted to Hindus. Visitors who may not enter can see the complex from an elevated viewing platform beside the boundary wall, built originally for Viceroy Curzon and still in use for this purpose.",
+    "officialContactNote": "The single 07:00-19:00 window published by the Ministry of Tourism is an approximation; the temple observes its own ritual closures during the day and extends hours on festival days. Confirm current darshan hours locally, and note that Shivaratri and Ashokashtami substantially change access.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
-      "openTime": "06:00",
-      "closeTime": "12:00",
+      "sessionName": "Darshan",
+      "openTime": "07:00",
+      "closeTime": "19:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "21:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "As published by the Ministry of Tourism. This is a simplified single window and does not reflect intra-day ritual closures or festival-day extensions; the directory's previously recorded split morning and evening sessions were not confirmed by any source opened.",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Vimana (sanctum tower)",
+      "deityOrSubject": "Shiva as Lingaraja, in the form of a swayambhu lingam about 8 feet across and 8 inches high",
+      "spaceType": "shrine",
+      "locationDescription": "The main sanctum, rising about 180 feet and the tallest of the four components.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC004",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Jagamohana",
+      "deityOrSubject": "Assembly hall",
+      "spaceType": "hall",
+      "locationDescription": "Immediately east of the vimana, the second of the four components in descending height.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Natamandira",
+      "deityOrSubject": "Festival hall",
+      "spaceType": "hall",
+      "locationDescription": "The third component along the east-west axis.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Bhoga-mandapa",
+      "deityOrSubject": "Hall of offerings",
+      "spaceType": "hall",
+      "locationDescription": "The easternmost and lowest of the four components.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Bindusagar tank",
+      "deityOrSubject": "Sacred tank",
+      "spaceType": "tank",
+      "locationDescription": "The large tank associated with the temple; an underground stream originating at the temple is said to feed it.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced"
+    },
+    {
+      "shrineId": "SHR006",
+      "shrineName": "Viewing platform",
+      "deityOrSubject": "External viewing platform",
+      "spaceType": "other",
+      "locationDescription": "A raised platform beside the boundary wall, built originally for Viceroy Curzon, from which visitors who may not enter the compound can see the temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    }
+  ],
   "poojas": [],
   "festivals": [
     {
       "festivalId": "FES001",
       "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Grand celebrations with special rituals and processions",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "gregorianRuleOrDate": "Phalguna Krishna Chaturdashi; falls in February or March",
+      "significance": "The largest observance of the year at the temple.",
+      "crowdNote": "Reported to draw more than 200,000 visitors.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
     },
     {
       "festivalId": "FES002",
-      "festivalNameEn": "Kartik Purnima",
-      "tamilOrLocalMonth": "October–November",
-      "duration": "1 day",
-      "significance": "Full moon festival with special worship",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Ashokashtami (Rukuna Rath Yatra)",
+      "gregorianRuleOrDate": "Chaitra Shukla Ashtami; falls in March or April",
+      "significance": "The temple's chariot festival, in which the deity is taken out in the Rukuna Rath.",
+      "processionOrRituals": "Chariot procession of the deity through the city.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "verificationStatus": "cross-referenced"
+    },
+    {
+      "festivalId": "FES003",
+      "festivalNameEn": "Chandan Yatra",
+      "gregorianRuleOrDate": "Begins on Akshaya Tritiya, Vaishakha Shukla Tritiya; falls in April or May",
+      "significance": "Listed by the Ministry of Tourism among the temple's principal annual observances.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC003"
+      ],
+      "verificationStatus": "sourced"
     }
   ],
   "media": [
@@ -129,6 +228,39 @@
       "title": "Bhubaneswar Tourism Information",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "government",
+      "title": "Visit the Lingaraj Temple in Bhubaneswar | Incredible India",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India (Incredible India)",
+      "url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/lingaraj-temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Eleventh-century commissioning by King Jajati Keshari of the Somavamshi dynasty and the tradition of worship on the site from the seventh century; height of 180 feet and complex of over 40 acres; the four sections vimana, jagamohana, nata mandira and bhoga mandapa; sandstone and laterite construction; joint Shaiva-Vaishnava dedication; Swayambhu lingam of 8 feet diameter and 8 inches height; the restriction of entry to Hindus and the elevated viewing platform for other visitors; stated opening hours of 07:00 to 19:00; Mahashivaratri, Ashokashtami and Chandan Yatra as the major festivals.",
+      "reliabilityNote": "National tourism ministry page, undated. The single 07:00-19:00 window is a simplification of a temple that in practice opens earlier and observes ritual closures; treat as needing recheck.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "government",
+      "title": "Must-visit Temples in Bhubaneswar | Incredible India",
+      "publisherOrAuthority": "Ministry of Tourism, Government of India (Incredible India)",
+      "url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar/must-visit-temples-in-bhubaneswar",
+      "accessDate": "2026-09-18",
+      "claimScope": "Corroborates the eleventh-century date, the 180-foot height, the Swayambhu lingam and the boundary wall enclosing about 150 smaller shrines.",
+      "reliabilityNote": "Same publisher as SRC001, so not fully independent of it.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "other",
+      "title": "Lingaraja Temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Lingaraja_Temple",
+      "accessDate": "2026-09-18",
+      "claimScope": "Attribution of the late eleventh-century construction to Somavamshi king Yayati I (1025-1040) or his successors; the descending-height arrangement of the four Deula-style components; approximately 150 smaller shrines; Vaishnava elements introduced in the Ganga period, including Vaishnava doorkeepers; the underground stream said to feed the Bindusagar tank; the viewing platform beside the wall, originally built for Viceroy Curzon; joint maintenance by the Archaeological Survey of India and the Temple Trust Board; Shivaratri attendance of over 200,000 and the Rukuna Rath procession at Ashokashtami.",
+      "reliabilityNote": "Tertiary source, used for history, administration and festival background rather than for timings.",
       "adminApproved": true
     }
   ],

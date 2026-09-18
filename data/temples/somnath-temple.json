@@ -14,7 +14,7 @@
       "Somnath",
       "Pilgrimage"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Shree Somnath is described by its own trust as the first among the twelve Aadi Jyotirlingas of Shiva. Devotees associate the site with Soma, the moon deity, who is said in tradition to have worshipped Shiva at Prabhas to recover his lustre. The shore temple's repeated destruction and rebuilding has made it, for many pilgrims, as much a site of continuity as of worship.",
     "nameLocal": "સોમનાથ મંદિર",
     "localLanguage": "Gujarati"
   },
@@ -30,71 +30,169 @@
   "governance": {
     "establishedEra": "Ancient origins; multiple reconstructions through history · Current structure completed in 1951",
     "managingAuthority": "Somnath Trust",
-    "officialWebsite": "http://www.somnath.org"
+    "officialWebsite": "http://www.somnath.org",
+    "founderPatron": "Reconstruction initiated by Sardar Vallabhbhai Patel, who laid the foundation stone on 12 November 1947",
+    "administrationType": "Trust",
+    "officialPhone": "+91-9428214914",
+    "officialEmail": "gmsomnathtrust@gmail.com"
   },
   "narrative": {
     "summaryIntro": "Somnath Temple, located at Prabhas in Gujarat, is the first among the twelve Jyotirlingas—the holiest shrines dedicated to Lord Shiva. Positioned at the confluence of the Veraval River and the Arabian Sea, the temple holds immense spiritual significance in Hinduism. According to legend, Chandra (the Moon God) worshipped Shiva here, earning the site its sacred status.\n\nThe temple has been destroyed and rebuilt multiple times throughout history. The current structure was rebuilt in 1951 after independence, featuring exquisite stone carvings and Chalukya architectural style. It stands as a symbol of Hindu resilience and spiritual devotion, attracting millions of pilgrims and tourists annually.",
-    "documentedHistory": "",
+    "documentedHistory": "The temple at Prabhas Patan has one of the most heavily documented destruction-and-rebuilding sequences of any Indian shrine. Wikipedia's survey of the record lists Mahmud of Ghazni's raid of 1026, Alauddin Khalji's invasion of 1299, and further damage in 1395 and 1451, followed by Aurangzeb's order of 1706; Gujarat Tourism gives the same broad sequence with the dates 1025-26, 1297, 1394 and 1706. Between these episodes the shrine was rebuilt, notably by Kumarapala in 1169 and by Ahilyabai Holkar of Indore in the 1780s. Archaeologically the picture is more cautious: Prabhas is an anciently settled site, but the existence of a temple there in antiquity is not confirmed by excavation.\n\nThe present building is a post-Independence reconstruction. Sardar Vallabhbhai Patel, then Deputy Prime Minister, visited the ruins and ordered the rebuilding, laying the foundation stone on 12 November 1947. The Shree Somnath Trust records that President Rajendra Prasad performed the Pran-Pratishtha of the new temple on 11 May 1951. The structure was built in the Māru-Gurjara idiom of Hindu temple architecture on the original coastal site.",
     "associatedSaints": [],
-    "architectureStyle": "Chalukya"
+    "architectureStyle": "Chalukya",
+    "sthalaPuranam": "The Shree Somnath Trust's own account holds that Shiva, though present everywhere, manifests specially in twelve places as Jyotirlingas, of which Somnath is the first. Gujarat Tourism records the associated tradition that the shrine was first built in gold by Somraj, the moon god, then rebuilt in silver by Ravana, in wood by Krishna and in stone by Bhimdev."
   },
   "editorial": {
-    "overallVerificationStatus": "partial"
+    "overallVerificationStatus": "partial",
+    "verificationNotes": "The Shree Somnath Trust gives darshan hours of 6:00 AM to 10:00 PM and the light-and-sound show at 8:00-9:00 PM; Gujarat Tourism gives 6:30 AM to 9:00 PM and a 7:45 PM show. Rail and airport distances in the previous entry (Veraval 6 km, Keshod 85 km) could not be confirmed from either source and have not been restated. The Shree Somnath Trust gives darshan hours of 6:00 AM to 10:00 PM and the light-and-sound show at 8:00-9:00 PM; Gujarat Tourism gives 6:30 AM to 9:00 PM and a 7:45 PM show. Rail and airport distances in the previous entry (Veraval 6 km, Keshod 85 km) could not be confirmed from either source and have not been restated. The Shree Somnath Trust gives darshan hours of 6:00 AM to 10:00 PM and the light-and-sound show at 8:00-9:00 PM; Gujarat Tourism gives 6:30 AM to 9:00 PM and a 7:45 PM show. Rail and airport distances in the previous entry (Veraval 6 km, Keshod 85 km) could not be confirmed from either source and have not been restated."
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC003"
+    ],
+    "verificationStatus": "conflict",
     "dressCode": "Traditional attire recommended",
     "nearestRailStation": "Veraval Railway Station, 6 km",
     "railDistanceKm": 6,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Keshod Airport, 85 km",
-    "airportDistanceKm": 85
+    "airportDistanceKm": 85,
+    "entryRules": "No entry fee. Footwear must be removed before entering; complimentary shoe storage is provided. Mobile phones, cameras and smartwatches may not be carried in and can be left in free lockers.",
+    "photographyPolicy": "Photography is strictly prohibited inside the temple; electronic devices including cameras must be deposited in the free lockers.",
+    "prasadInfo": "The trust operates an online prasad service via somnathprasad.com.",
+    "officialContactNote": "Confirm same-day darshan, aarti and light-and-sound timings with the Shree Somnath Trust on +91-9428214914 (listed as a 24x7 line) or gmsomnathtrust@gmail.com; the trust's site and Gujarat Tourism currently publish different hours.",
+    "lastVerifiedDate": "2026-09-17"
   },
   "openingHours": [
     {
       "hoursId": "HRS001",
       "dayType": "daily",
-      "sessionName": "Morning",
+      "sessionName": "Darshan",
       "openTime": "06:00",
-      "closeTime": "12:00",
+      "closeTime": "22:00",
       "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
-    },
-    {
-      "hoursId": "HRS002",
-      "dayType": "daily",
-      "sessionName": "Evening",
-      "openTime": "15:00",
-      "closeTime": "21:00",
-      "closedFlag": false,
-      "verificationStatus": "needs recheck",
-      "sourceIds": []
+      "notes": "Stated by the Shree Somnath Trust on both its FAQ and Pilgrim Facilities pages. Gujarat Tourism publishes 6:30 AM to 9:00 PM for the same temple; treat as unsettled and confirm with the trust.",
+      "sourceIds": [
+        "SRC003",
+        "SRC005"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "conflict"
     }
   ],
   "worshipSop": [],
-  "shrines": [],
-  "poojas": [],
+  "shrines": [
+    {
+      "shrineId": "SHR001",
+      "shrineName": "Shri Kapardi Vinayak Temple",
+      "deityOrSubject": "Ganesha (Kapardi Vinayak)",
+      "spaceType": "shrine",
+      "locationDescription": "Within the Somnath temple complex, listed by the Shree Somnath Trust among the shrines at the site.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR002",
+      "shrineName": "Shri Hanuman Temple",
+      "deityOrSubject": "Hanuman",
+      "spaceType": "shrine",
+      "locationDescription": "Within the Somnath temple complex, listed by the Shree Somnath Trust among the shrines at the site.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Ahalyabai Temple",
+      "deityOrSubject": "Shiva",
+      "spaceType": "shrine",
+      "locationDescription": "Near the main temple; the Shree Somnath Trust records that it was built by Ahilyabai Holkar in 1782 and that worship continued there through the period when the older shrine lay ruined.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Vallabhghat",
+      "deityOrSubject": "Ghat and sunset point on the sea front",
+      "spaceType": "other",
+      "locationDescription": "On the seaward side of the complex; described by the trust as a sunset point.",
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "sourced",
+      "linkedMediaIds": []
+    }
+  ],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "aarti",
+      "nameEn": "Morning Aarti",
+      "startTime": "07:00",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Midday Aarti",
+      "startTime": "12:00",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "aarti",
+      "nameEn": "Evening Aarti",
+      "startTime": "19:00",
+      "recurrence": "Daily",
+      "sourceIds": [
+        "SRC003"
+      ],
+      "lastVerifiedDate": "2026-09-17",
+      "verificationStatus": "needs recheck",
+      "linkedMediaIds": []
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Maha Shivaratri",
-      "tamilOrLocalMonth": "February–March",
-      "duration": "1 day",
-      "significance": "Grand celebrations with special pujas and aarti",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
+      "festivalNameEn": "Mahashivratri",
+      "significance": "Gujarat Tourism names Shivratri as one of the two occasions celebrated with particular enthusiasm at Somnath.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced",
       "linkedMediaIds": []
     },
     {
       "festivalId": "FES002",
       "festivalNameEn": "Kartik Purnima",
-      "tamilOrLocalMonth": "October–November",
-      "duration": "1 day",
-      "significance": "Full moon festival with processions and rituals",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
+      "significance": "Named by Gujarat Tourism alongside Shivratri as a festival celebrated enthusiastically at Somnath.",
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "sourced",
       "linkedMediaIds": []
     }
   ],
@@ -113,6 +211,36 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dev_Somnath_Temple,_Dungarpur._by_Hritik_Sharma.jpg",
       "editorialApproved": true,
       "verificationStatus": "approved"
+    },
+    {
+      "mediaId": "MED002",
+      "mediaType": "image",
+      "category": "exterior",
+      "title": "Somnath Jyotirlinga temple, Prabhas Patan (2015)",
+      "caption": "The reconstructed Somnath temple at Prabhas Patan, photographed in 2015.",
+      "altText": "Cream-coloured stone temple with a tall carved spire, seen from the front.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2015_Somnath_Jyotirlinga_temple_Prabhas_Patan.jpg",
+      "creator": "Ms Sarah Welch",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "Ms Sarah Welch · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2015_Somnath_Jyotirlinga_temple_Prabhas_Patan.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
+    },
+    {
+      "mediaId": "MED003",
+      "mediaType": "image",
+      "category": "shrine",
+      "title": "Somnath temple built by Ahilyabai Holkar",
+      "caption": "The older Shiva temple at Somnath attributed to Ahilyabai Holkar, in Veraval, Gujarat.",
+      "altText": "Small older stone Shiva temple in the Somnath complex.",
+      "fileOrUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Guj21_Somnath_Temple_built_by_Ahilya_Bai_Holkar.jpg",
+      "creator": "VasuVR",
+      "license": "CC BY-SA 4.0",
+      "attributionText": "VasuVR · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guj21_Somnath_Temple_built_by_Ahilya_Bai_Holkar.jpg",
+      "editorialApproved": true,
+      "verificationStatus": "pending"
     }
   ],
   "sources": [
@@ -131,6 +259,50 @@
       "url": "http://www.somnath.org",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "FAQs — Shree Somnath Trust",
+      "publisherOrAuthority": "Shree Somnath Trust",
+      "url": "https://somnath.org/faq/",
+      "accessDate": "2026-09-17",
+      "claimScope": "Darshan hours (6:00 AM to 10:00 PM); aarti at 07:00, 12:00 and 19:00; light-and-sound show 20:00-21:00 except in the monsoon; dress code; ban on photography and electronic devices with free lockers; footwear removal and shoe storage; no entry fee; trust phone +91-9428214914 and email gmsomnathtrust@gmail.com; postal address Somnath, Prabhas Patan, Dist. Gir Somnath 362268.",
+      "reliabilityNote": "Page is undated. Aarti and show timings are operational details the trust can change without notice; the same site's Pilgrim Facilities page repeats the same darshan window, but Gujarat Tourism publishes different hours (see SRC003).",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Somnath Darshan — Shree Somnath Trust",
+      "publisherOrAuthority": "Shree Somnath Trust",
+      "url": "https://somnath.org/somnath-darshan/",
+      "accessDate": "2026-09-17",
+      "claimScope": "The trust's own statement that Somnath is first among the twelve Aadi Jyotirlingas; the traditional account of repeated desecration and rebuilding; Sardar Patel's 1947 visit; the Pran-Pratishtha performed by President Rajendra Prasad on 11 May 1951; the presence of Shri Kapardi Vinayak and Shri Hanuman temples, Vallabhghat, and the Ahalyabai temple built in 1782 by Ahilyabai Holkar.",
+      "reliabilityNote": "Devotional in register; the mythological chronology it gives (a first consecration millions of years ago) is a traditional claim, not a historical one, and is recorded here only as sthala-purana.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "government",
+      "title": "Shree Somnath Jyotirlinga Temple",
+      "publisherOrAuthority": "Gujarat Tourism (Tourism Corporation of Gujarat Ltd.)",
+      "url": "https://gujarattourism.com/saurashtra/gir-somnath/somnath-temple.html",
+      "accessDate": "2026-09-17",
+      "claimScope": "Jyotirlinga status; the traditional gold/silver/wood/stone rebuilding legend; destructions in 1025-26, 1297, 1394 and 1706; foundation stone laid by Sardar Vallabhbhai Patel on 12 November 1947; road distances (Junagadh 82 km, Porbandar 120 km, Bhavnagar 270 km, Ahmedabad 410 km); nearest airports Porbandar 120 km and Rajkot 200 km; Somnath railway station; best season October to February; sound-and-light show narrated by Amitabh Bachchan.",
+      "reliabilityNote": "State tourism page, undated. Its stated temple hours (6:30 AM - 9 PM) and show time (7:45 PM) disagree with the trust's own site; both are recorded rather than reconciled.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "other",
+      "title": "Somnath temple — Wikipedia",
+      "publisherOrAuthority": "Wikimedia Foundation",
+      "url": "https://en.wikipedia.org/wiki/Somnath_temple",
+      "accessDate": "2026-09-17",
+      "claimScope": "Māru-Gurjara architectural style of the present temple; coordinates 20°53'16.9\"N 70°24'5.0\"E; administration by the Shree Somnath Trust; the documented sequence of raids and rebuildings (Mahmud of Ghazni 1026, Alauddin Khalji 1299, 1395, 1451, Aurangzeb 1706; rebuildings by Kumarapala in 1169 and Ahilyabai Holkar c. 1783-1786); the archaeological observation that Prabhas was an ancient settlement site but that no ancient temple is archaeologically attested there.",
+      "reliabilityNote": "Tertiary source. Used for historical framing and the architectural label only, never as the basis for an operational detail.",
       "adminApproved": true
     }
   ],

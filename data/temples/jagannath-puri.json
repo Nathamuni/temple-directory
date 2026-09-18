@@ -15,7 +15,7 @@
       "Pilgrimage",
       "Rath Yatra"
     ],
-    "spiritualSignificanceShort": "",
+    "spiritualSignificanceShort": "Shree Jagannatha Temple at Puri is the seat of Jagannatha worshipped with Balabhadra, Subhadra and Sudarshana. The temple administration describes Jagannatha as representing, directly or indirectly, all the gods and goddesses known to the Hindu world, an integrative character that is distinctive to this shrine. The temple is the source of the Ratha Jatra, in which the deities leave the sanctum each year and are drawn in chariots to the Gundicha Temple.",
     "nameLocal": "ଜଗନ୍ନାଥ ମନ୍ଦିର",
     "localLanguage": "Odia",
     "consortDeity": "Subhadra"
@@ -32,11 +32,13 @@
   "governance": {
     "establishedEra": "Ancient origins; current structure 12th century CE · Built under Somavamshi and Ganga kings",
     "managingAuthority": "Shri Jagannath Temple Administration",
-    "officialWebsite": "https://www.jagannathtemple.org"
+    "officialWebsite": "https://www.jagannathtemple.org",
+    "administrationType": "Government department",
+    "officialPhone": "+91-6752-222002"
   },
   "narrative": {
     "summaryIntro": "Jagannath Temple in Puri, Odisha, is one of the four cardinal pilgrimage sites (Char Dham) and ranks among the most important temples in Hinduism. The temple is dedicated to Jagannath (a form of Krishna) along with his siblings Balabhadra (Balarama) and Subhadra. The main spire stands at a height of approximately 65.76 meters and dominates the Puri skyline.\n\nThe temple is renowned for its annual Rath Yatra (Chariot Festival), one of the most spectacular religious processions in the world, where millions of devotees gather to witness the deities being pulled through the streets in massive wooden chariots. The temple's rich traditions and architectural magnificence make it a UNESCO World Heritage Site and a major spiritual center.",
-    "documentedHistory": "",
+    "documentedHistory": "The present temple was built in the twelfth century CE and stands on a raised stone platform of about ten acres. At roughly 214 feet the temple administration describes it as one of the tallest monuments in the subcontinent.\n\nThe complex is enclosed by two concentric compound walls, the outer Meghanada Prachira and the inner Kurma Prachira, within which stand some thirty subsidiary shrines in addition to the main temple. The temple maintains a very large kitchen that cooks the deities' food offerings and the Mahaprasad distributed to devotees.",
     "associatedSaints": [],
     "architectureStyle": "Odia"
   },
@@ -44,14 +46,22 @@
     "overallVerificationStatus": "partial"
   },
   "visitingInfo": {
-    "sourceIds": [],
-    "verificationStatus": "unverified",
+    "sourceIds": [
+      "SRC005",
+      "SRC007",
+      "SRC006",
+      "SRC003"
+    ],
+    "verificationStatus": "needs recheck",
     "dressCode": "Traditional attire; strict dress code for temple entry",
     "nearestRailStation": "Puri Railway Station, 2 km",
     "railDistanceKm": 2,
     "nearestBusStation": "Well connected by highways",
     "nearestAirport": "Bhubaneswar Airport, 60 km",
-    "airportDistanceKm": 60
+    "airportDistanceKm": 60,
+    "entryRules": "The temple administration states that only Hindus are allowed inside the temple. Visitors who are not Hindus cannot enter the enclosure; the administration notes that parts of the temple can be seen from the Emar Matha building near the eastern gate, which is the usual external viewing point. Darshan is also suspended for fifteen days each year after the Snana Yatra held on the full moon day of Jyestha, when the deities are held to be unwell and are kept out of public view (the Anasara period).",
+    "officialContactNote": "Ritual times shift with the temple's own observances and darshan is closed outright for the fifteen days after Snana Yatra and altered through Ratha Jatra. Confirm current darshan arrangements with the Shree Jagannath Temple Administration on +91-6752-222002 or through shreejagannatha.in before travelling. The administration warns that it never accepts donations or offerings from devotees for online puja and that other sites claiming to take such payments are not authorised.",
+    "lastVerifiedDate": "2026-09-18"
   },
   "openingHours": [
     {
@@ -79,44 +89,294 @@
   "shrines": [
     {
       "shrineId": "SHR001",
-      "shrineName": "Jagannath (Krishna)",
-      "deityOrSubject": "Jagannath (Krishna)",
+      "shrineName": "Main sanctum",
+      "deityOrSubject": "Jagannatha, Balabhadra, Subhadra, Chakra Sudarshana, Bhudevi, Sridevi and Madhaba",
       "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "locationDescription": "The sanctum of the main deula, within the inner Kurma Prachira wall.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "verified"
     },
     {
       "shrineId": "SHR002",
-      "shrineName": "Balabhadra (Balarama)",
-      "deityOrSubject": "Balabhadra (Balarama)",
-      "spaceType": "shrine",
-      "verificationStatus": "unverified",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "shrineName": "Meghanada Prachira",
+      "deityOrSubject": "Outer compound wall",
+      "spaceType": "prakaram",
+      "locationDescription": "The outer of the two concentric compound walls enclosing the ten-acre raised platform.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR003",
+      "shrineName": "Kurma Prachira",
+      "deityOrSubject": "Inner compound wall",
+      "spaceType": "prakaram",
+      "locationDescription": "The inner of the two concentric compound walls, immediately around the main temple.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC006"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR004",
+      "shrineName": "Singhadwar (Lion Gate)",
+      "deityOrSubject": "Eastern gateway",
+      "spaceType": "gopuram",
+      "locationDescription": "The eastern and principal gate of the temple; the chariots are stationed near it during Ratha Jatra.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC007"
+      ],
+      "verificationStatus": "verified"
+    },
+    {
+      "shrineId": "SHR005",
+      "shrineName": "Bhoga Mandapa",
+      "deityOrSubject": "Offering hall",
+      "spaceType": "hall",
+      "locationDescription": "The hall in which the Bhoga Mandap offering is made each day at about 11:30.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "verificationStatus": "verified"
     }
   ],
-  "poojas": [],
+  "poojas": [
+    {
+      "poojaId": "PUJ001",
+      "recordType": "ritual",
+      "nameEn": "Dwaraphita",
+      "startTime": "04:30",
+      "recurrence": "Daily",
+      "description": "Opening of the doors of the sanctum.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ002",
+      "recordType": "aarti",
+      "nameEn": "Mangala Alati",
+      "startTime": "05:30",
+      "recurrence": "Daily",
+      "description": "The first lamp offering of the day.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ003",
+      "recordType": "ritual",
+      "nameEn": "Mailam",
+      "startTime": "06:00",
+      "recurrence": "Daily",
+      "description": "Removal of the previous night's dress and floral decoration.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ004",
+      "recordType": "ritual",
+      "nameEn": "Abakasha",
+      "startTime": "06:30",
+      "recurrence": "Daily",
+      "description": "The deities' morning ablutions.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ005",
+      "recordType": "pooja",
+      "nameEn": "Surya Puja",
+      "startTime": "07:45",
+      "recurrence": "Daily",
+      "description": "Worship of the sun, followed by Dwarapala Puja, worship of the gate guardians.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ006",
+      "recordType": "offering",
+      "nameEn": "Gopal Ballav Bhoga",
+      "startTime": "08:30",
+      "recurrence": "Daily",
+      "description": "The breakfast offering.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ007",
+      "recordType": "offering",
+      "nameEn": "Sakala Dhupa",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "recurrence": "Daily",
+      "description": "The morning food offering, the principal dhupa of the day.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ008",
+      "recordType": "offering",
+      "nameEn": "Bhoga Mandap",
+      "startTime": "11:30",
+      "recurrence": "Daily",
+      "description": "The offering made in the Bhoga Mandapa, from which Mahaprasad is sold to the public.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ009",
+      "recordType": "offering",
+      "nameEn": "Madhyahna Dhupa",
+      "recurrence": "Daily",
+      "description": "The midday food offering. The official schedule lists it without a stated clock time.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ010",
+      "recordType": "aarti",
+      "nameEn": "Sandhya Alati",
+      "startTime": "18:00",
+      "recurrence": "Daily",
+      "description": "The evening lamp offering.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ011",
+      "recordType": "offering",
+      "nameEn": "Sandhya Dhupa",
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "recurrence": "Daily",
+      "description": "The evening food offering.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ012",
+      "recordType": "ritual",
+      "nameEn": "Badasinghara Besha",
+      "startTime": "21:00",
+      "endTime": "22:00",
+      "recurrence": "Daily",
+      "description": "The deities are dressed in the night attire, preceded by Mailam and Chandanalagi, the anointing with sandal paste.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ013",
+      "recordType": "offering",
+      "nameEn": "Badasinghara Dhupa",
+      "startTime": "22:30",
+      "endTime": "23:00",
+      "recurrence": "Daily",
+      "description": "The last food offering of the day.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    },
+    {
+      "poojaId": "PUJ014",
+      "recordType": "ritual",
+      "nameEn": "Khataseja Lagi and Pahuda",
+      "startTime": "23:30",
+      "recurrence": "Daily",
+      "description": "The bed is laid and the deities retire; the temple closes for the night.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC004"
+      ],
+      "lastVerifiedDate": "2026-09-18",
+      "verificationStatus": "needs recheck"
+    }
+  ],
   "festivals": [
     {
       "festivalId": "FES001",
-      "festivalNameEn": "Rath Yatra",
-      "tamilOrLocalMonth": "June–July",
-      "duration": "9–10 days",
-      "significance": "Grand chariot festival where deities are pulled through the streets; draws millions of devotees",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Ratha Jatra (Car Festival)",
+      "festivalNameLocal": "ରଥଯାତ୍ରା",
+      "gregorianRuleOrDate": "Ashadha Shukla Dwitiya, the second day of the bright fortnight of Ashadha; falls in June or July",
+      "duration": "About twelve days, ending with the deities' return to the temple",
+      "significance": "The defining festival of the temple, in which the deities leave the sanctum and are drawn in chariots to the Gundicha Temple, where they stay nine days.",
+      "processionOrRituals": "The deities are brought out in the Pahandi procession to the chariots stationed near the Singhadwar, in the order Sudarshan, Balabhadra, Subhadra and Jagannatha. Hera Panchami falls on the fifth day, when Lakshmi visits the Gundicha Ghar; Hari Sayan Ekadasi on the tenth day; and the Adharapana Bhoga offering on the twelfth. The festival is also known as Gundicha Jatra and Ghosha Jatra.",
+      "crowdNote": "Draws very large crowds to Puri; access and traffic in the town are heavily controlled through the festival.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005",
+        "SRC007"
+      ],
+      "verificationStatus": "verified"
     },
     {
       "festivalId": "FES002",
-      "festivalNameEn": "Odana Navami",
-      "tamilOrLocalMonth": "September–October",
-      "duration": "1 day",
-      "significance": "Culinary offering festival",
-      "verificationStatus": "needs recheck",
-      "sourceIds": [],
-      "linkedMediaIds": []
+      "festivalNameEn": "Snana Yatra and the Anasara period",
+      "gregorianRuleOrDate": "Snana Yatra falls on the full moon day of Jyestha; falls in May or June",
+      "duration": "Followed by fifteen days during which darshan is not possible",
+      "significance": "After the ceremonial bathing of the deities on the Jyestha full moon, the deities are held to fall ill and are withdrawn from public view for fifteen days. This is the one long annual closure of darshan and it materially affects visit planning.",
+      "linkedMediaIds": [],
+      "sourceIds": [
+        "SRC005"
+      ],
+      "verificationStatus": "verified"
     }
   ],
   "media": [
@@ -152,6 +412,61 @@
       "url": "https://www.jagannathtemple.org",
       "accessDate": "2026-09-17",
       "claimScope": "Imported with the pre-2026 entry; scope not yet narrowed to specific claims.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC003",
+      "sourceType": "official temple",
+      "title": "Shree Jagannatha Temple (official portal home page)",
+      "publisherOrAuthority": "Shree Jagannath Temple Administration, Puri",
+      "url": "https://www.shreejagannatha.in/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Identity of the managing authority; official telephone number and email address; the administration's public warning that it accepts no donations or offerings for online puja.",
+      "reliabilityNote": "Official site of the temple administration. The home page is undated; contact details should still be confirmed before relying on them.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC004",
+      "sourceType": "official temple",
+      "title": "Daily Rituals – Shree Jagannatha Temple",
+      "publisherOrAuthority": "Shree Jagannath Temple Administration, Puri",
+      "url": "https://www.shreejagannatha.in/daily-rituals/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The sequence and stated times of the daily nitis, from Dwaraphita at 04:30 to Khataseja Lagi and Pahuda at 23:30.",
+      "reliabilityNote": "Page is undated. Niti times at this temple are customary rather than clock-fixed and routinely run late; they are not darshan queue timings.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC005",
+      "sourceType": "official temple",
+      "title": "FAQ's – Shree Jagannatha Temple",
+      "publisherOrAuthority": "Shree Jagannath Temple Administration, Puri",
+      "url": "https://www.shreejagannatha.in/faqs/",
+      "accessDate": "2026-09-18",
+      "claimScope": "The entry rule that only Hindus are allowed inside the temple; the suspension of darshan for fifteen days following Snana Yatra on the Jyestha full moon; the deities worshipped in the sanctum; the nine-day stay of the deities at the Gundicha Temple during Ratha Yatra.",
+      "reliabilityNote": "Official FAQ, undated.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC006",
+      "sourceType": "official temple",
+      "title": "Puri At a Glance – Shree Jagannatha Temple",
+      "publisherOrAuthority": "Shree Jagannath Temple Administration, Puri",
+      "url": "https://www.shreejagannatha.in/puri-at-a-glance/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Temple height of about 214 feet and raised stone platform of about ten acres; twelfth-century construction; Kalinga architectural style; the Meghanada Prachira and Kurma Prachira compound walls; roughly thirty subsidiary shrines; the temple kitchen; the viewing arrangement for non-Hindus from the Emar Matha building near the eastern gate; distance of 60 km from Bhubaneswar.",
+      "reliabilityNote": "Official overview page, undated. The stated coordinates on this page (19°48'0\"N, 85°50'60\"E) differ from the longitude currently recorded in this directory entry; not reconciled here.",
+      "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "official temple",
+      "title": "About Ratha Jatra – Shree Jagannatha Temple",
+      "publisherOrAuthority": "Shree Jagannath Temple Administration, Puri",
+      "url": "https://www.shreejagannatha.in/about-ratha-jatra/",
+      "accessDate": "2026-09-18",
+      "claimScope": "Ratha Jatra falling on Ashadha Shukla Dwitiya; its duration of about twelve days; the Pahandi procession of Sudarshan, Balabhadra, Subhadra and Jagannatha to the chariots near the Singhadwar; Hera Panchami on the fifth day, Hari Sayan Ekadasi on the tenth and Adharapana Bhoga on the twelfth; the alternative names Gundicha Jatra and Ghosha Jatra.",
+      "reliabilityNote": "Official festival page, undated.",
       "adminApproved": true
     }
   ],
