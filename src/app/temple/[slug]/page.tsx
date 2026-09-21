@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPublishedTemples, getTemple } from "@/lib/temples";
 import { getSession } from "@/lib/session";
+import { IS_STATIC } from "@/lib/staticMode";
 import { templeJsonLd, breadcrumbJsonLd } from "@/lib/jsonld";
 import { heroImage, subtitle } from "@/lib/temple-view";
 
@@ -62,8 +63,11 @@ export default async function TemplePage({ params }: { params: Promise<{ slug: s
   const temple = getTemple(slug);
   if (!temple) notFound();
 
-  // Unpublished entries are a preview for the owner and admins only.
+  // Unpublished entries are a preview for the owner and admins only. A static
+  // export has no session to check and builds only published slugs, so an
+  // unpublished entry is simply absent there.
   if (temple.status !== "published") {
+    if (IS_STATIC) notFound();
     const session = await getSession();
     const mayPreview =
       session && (session.role === "admin" || session.username === temple.submittedBy);

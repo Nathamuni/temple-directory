@@ -1,9 +1,22 @@
 import type { NextConfig } from "next";
 
+// Static export and the login/contribute routes (cookies, dynamic API routes)
+// are mutually exclusive under Next.js. `npm run build:static` sets this flag
+// and moves those routes aside for the duration of the build, producing the
+// read-only public site in out/. A normal `npm run build` is unaffected.
+const isStatic = process.env.STATIC_EXPORT === "1";
+
 const nextConfig: NextConfig = {
-  // Static export is off while login/contribute (cookies, dynamic API routes)
-  // are active — the two are mutually exclusive under Next.js static export.
-  // Re-enable `output: "export"` only for a build that excludes those routes.
+  ...(isStatic
+    ? {
+        output: "export" as const,
+        // No image optimizer on a static host.
+        images: { unoptimized: true },
+        // Emit out/temple/<slug>/index.html rather than out/temple/<slug>.html,
+        // which every static host resolves without per-host redirect rules.
+        trailingSlash: true,
+      }
+    : {}),
 
   // The contribute/status/contributor-request routes write JSON files into
   // data/temples/ and data/contributor-requests.json at request time;

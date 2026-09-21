@@ -52,3 +52,58 @@ public/images/ATTRIBUTIONS.md  image licensing record
 - Minimum 2 citations per entry; SOP content must be priest/source-verified before `verified`.
 - The SOP documents what **is practised** at the temple — it never prescribes belief.
 - Donation UI is subtle and service-like; payments are **not** wired in this prototype.
+
+## Running it
+
+```bash
+cp .env.example .env.local     # then set SESSION_SECRET
+npm install
+npm run dev                    # http://localhost:3000
+```
+
+Built-in accounts are in `src/lib/users.ts`. Their passwords come from
+`ADMIN_PASSWORD` / `CONTRIBUTOR_PASSWORD`; in development the documented
+defaults apply, and in production the app refuses to start without them.
+
+## Deploying
+
+The directory has two halves, and only one of them can be a static site.
+
+**Public half** — homepage, browse, temple pages. Fully static.
+
+```bash
+npm run build:static           # → out/ and temple-directory-static.zip
+```
+
+Drop the zip on any static host (Netlify, Cloudflare Pages). Login, contribute,
+`/status` and the admin screens are excluded from this build: they read a
+session cookie and write JSON at request time, which a static host cannot do.
+
+**Full site** — needs a Node server *and* a writable disk, because a
+contributor submitting a draft or an admin approving a request writes a JSON
+file. `render.yaml` describes exactly that:
+
+1. Push this repo to GitHub.
+2. Render → New → Blueprint → select the repo. It reads `render.yaml`.
+3. Set `ADMIN_PASSWORD` and `CONTRIBUTOR_PASSWORD` in the dashboard.
+   `SESSION_SECRET` is generated automatically.
+
+The disk mounts at `/var/data` and `DATA_DIR` points there, so live data sits
+outside the deployed code and survives every redeploy. On first boot the app
+seeds that disk from the committed `data/` directory; after that the disk is
+the source of truth and the committed copy is only a seed.
+
+A free instance has **no persistent disk** — writes would vanish on restart.
+The blueprint therefore specifies a paid instance.
+
+### Known limits of the current auth
+
+Not production-grade, and deliberately so until real auth lands:
+
+- Contributor passwords are stored **in plaintext** in
+  `contributor-requests.json`. Fine for a closed pilot, not for public signup.
+- There is no password reset, no email verification, no rate limiting on login.
+- `/status` is public by design — it exposes draft and rejected entries,
+  including rejection reasons.
+
+Google Sign-In / Phone OTP is the intended replacement.

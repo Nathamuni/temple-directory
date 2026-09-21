@@ -1,11 +1,14 @@
 import Link from "next/link";
 import { getSession } from "@/lib/session";
 import { pendingRequestCount } from "@/lib/users";
+import { IS_STATIC } from "@/lib/staticMode";
 import EvidenceToggle from "./EvidenceToggle";
 import TranslateButton from "./TranslateButton";
 
 export default async function SiteHeader() {
-  const session = await getSession();
+  // On a static export there is no request to read a cookie from, and the
+  // editorial routes this nav points at are not built at all.
+  const session = IS_STATIC ? null : await getSession();
   const isAdmin = session?.role === "admin";
   const pending = isAdmin ? pendingRequestCount() : 0;
 
@@ -29,8 +32,8 @@ export default async function SiteHeader() {
 
         <nav className="flex flex-wrap items-center gap-4 text-sm">
           <Link href="/">Home</Link>
-          <Link href="/status">Status</Link>
-          {!isAdmin && <Link href="/contribute">Contribute</Link>}
+          {!IS_STATIC && <Link href="/status">Status</Link>}
+          {!IS_STATIC && !isAdmin && <Link href="/contribute">Contribute</Link>}
           {session && <Link href="/my-submissions">My Submissions</Link>}
           {isAdmin && (
             <Link href="/admin/contributor-requests">
@@ -38,7 +41,11 @@ export default async function SiteHeader() {
             </Link>
           )}
           {isAdmin && <Link href="/admin/bulk-import">Bulk Import</Link>}
-          {session ? (
+          {IS_STATIC ? (
+            <span className="text-[11px] tracking-[0.12em] text-[#e4c9a0] uppercase">
+              Read-only preview
+            </span>
+          ) : session ? (
             <span className="flex items-baseline gap-2">
               <span className="text-[#d9cec6]">
                 {session.username} ({session.role})

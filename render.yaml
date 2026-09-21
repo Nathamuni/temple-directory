@@ -1,0 +1,36 @@
+# Render blueprint — deploys the full directory, editorial half included.
+#
+# The app writes JSON files at request time (a contributor submitting a draft,
+# an admin approving a request or publishing an entry). Render replaces the
+# application directory on every deploy, so those writes must land on the
+# mounted disk below rather than inside the repo. DATA_DIR points there and the
+# app seeds it from the committed data the first time it boots.
+#
+# Deploy: push this repo to GitHub, then Render → New → Blueprint → pick the repo.
+services:
+  - type: web
+    name: temple-directory
+    runtime: node
+    plan: starter # A disk requires a paid instance; free instances have no persistent storage.
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /
+    disk:
+      name: temple-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /var/data
+      - key: NODE_VERSION
+        value: "22"
+      # Generated once by Render and kept; rotating it logs everyone out.
+      - key: SESSION_SECRET
+        generateValue: true
+      # Set these in the Render dashboard. The app refuses to start in
+      # production without them, so the repo's development defaults can
+      # never be live credentials.
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: CONTRIBUTOR_PASSWORD
+        sync: false

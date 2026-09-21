@@ -16,3 +16,8 @@ data/.backup-pre-migration/
 # Workbooks downloaded from /admin/bulk-import — generated output, not source
 /temple-directory-export.xlsx
 /temple-directory-import-template.xlsx
+
+# Static export build artefacts
+/out/
+/temple-directory-static.zip
+/.static-build-stash/

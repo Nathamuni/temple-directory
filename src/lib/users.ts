@@ -1,15 +1,44 @@
 import fs from "fs";
-import path from "path";
 import type { Role } from "./session";
+import { REQUESTS_FILE, ensureDataDir } from "./dataDir";
 
 /**
- * Prototype-only example accounts — plaintext by design, not a leaked hash.
- * There is no user database; replace this with real auth (Google Sign-In /
- * Phone OTP, per the platform roadmap) before any public deployment.
+ * The two built-in accounts.
+ *
+ * Passwords come from the environment so the repository never carries a
+ * working credential. Local development falls back to the documented
+ * prototype values (see README); a deploy that sets NODE_ENV=production
+ * without ADMIN_PASSWORD refuses to start rather than exposing a known one.
+ *
+ * This is still not real auth — there is no hashing and no user database.
+ * Google Sign-In / Phone OTP remains the intended production path.
  */
-const USERS: { username: string; password: string; role: Role }[] = [
-  { username: "admin", password: "TempleAdmin#2026", role: "admin" },
-  { username: "contributor", password: "TempleVolunteer#2026", role: "contributor" },
+const DEV_ADMIN_PASSWORD = "TempleAdmin#2026";
+const DEV_CONTRIBUTOR_PASSWORD = "TempleVolunteer#2026";
+
+function builtInPassword(envVar: string, devFallback: string): string {
+  const fromEnv = process.env[envVar];
+  if (fromEnv) return fromEnv;
+  if (process.env.NODE_ENV === "production") {
+    throw new Error(
+      `${envVar} is not set. A production deploy must set its own passwords — ` +
+        `the development defaults are published in this repository.`
+    );
+  }
+  return devFallback;
+}
+
+const USERS: { username: string; password: () => string; role: Role }[] = [
+  {
+    username: process.env.ADMIN_USERNAME || "admin",
+    password: () => builtInPassword("ADMIN_PASSWORD", DEV_ADMIN_PASSWORD),
+    role: "admin",
+  },
+  {
+    username: "contributor",
+    password: () => builtInPassword("CONTRIBUTOR_PASSWORD", DEV_CONTRIBUTOR_PASSWORD),
+    role: "contributor",
+  },
 ];
 
 export type RequestStatus = "pending" | "approved" | "denied";
@@ -29,9 +58,8 @@ export interface ContributorRequest {
   denyReason?: string;
 }
 
-const REQUESTS_FILE = path.join(process.cwd(), "data", "contributor-requests.json");
-
 function loadRequests(): ContributorRequest[] {
+  ensureDataDir();
   try {
     return JSON.parse(fs.readFileSync(REQUESTS_FILE, "utf8")) as ContributorRequest[];
   } catch {
@@ -40,6 +68,7 @@ function loadRequests(): ContributorRequest[] {
 }
 
 function saveRequests(requests: ContributorRequest[]): void {
+  ensureDataDir();
   fs.writeFileSync(REQUESTS_FILE, JSON.stringify(requests, null, 2) + "\n", "utf8");
 }
 
@@ -101,13 +130,13 @@ export type LoginResult =
   | { ok: false; reason: "denied"; denyReason?: string };
 
 /**
- * Checks the hardcoded prototype accounts first, then approved contributor
+ * Checks the built-in accounts first, then approved contributor
  * requests. Distinguishes "wrong credentials" from "right credentials, but
  * your request isn't approved yet" so /login can show the right message.
  */
 export function checkLogin(username: string, password: string): LoginResult {
-  const hardcoded = USERS.find((u) => u.username === username && u.password === password);
-  if (hardcoded) return { ok: true, role: hardcoded.role };
+  const builtIn = USERS.find((u) => u.username === username && u.password() === password);
+  if (builtIn) return { ok: true, role: builtIn.role };
 
   const request = loadRequests().find((r) => r.username === username && r.password === password);
   if (!request) return { ok: false, reason: "invalid" };

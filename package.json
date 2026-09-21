@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit",
     "check": "tsx scripts/check-data.mts",
     "import": "tsx scripts/import-workbook.mts",
-    "apply:enrichment": "tsx scripts/apply-enrichment.mts"
+    "apply:enrichment": "tsx scripts/apply-enrichment.mts",
+    "build:static": "bash scripts/build-static.sh"
   },
   "dependencies": {
     "exceljs": "^4.4.0",

@@ -186,7 +186,7 @@ Note: those hashes are 64 hex characters each — if the command above ever need
 - [ ] **Step 3: Write `.env.local`**
 
 ```
-SESSION_SECRET=temple-directory-prototype-secret-2026
+SESSION_SECRET=<generate your own; see .env.example>
 CONTRIBUTOR_PASSWORD_HASH=95183e80a6c6127dd7cdbd54c5b8c3502021325e617b375d97aaec54d62ce11a
 ADMIN_PASSWORD_HASH=c3b47fdacd9dd9a1ae72beb22e7fb5e23e2fc2fecfcf7d7be0d8ef717c5235e8
 ```

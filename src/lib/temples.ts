@@ -3,8 +3,16 @@ import path from "path";
 import type { Temple, TempleStatus } from "./types";
 import { blankTemple } from "./blankTemple";
 import { canPublish, validateTemple, type ValidationIssue } from "./validate";
+import { TEMPLES_DIR, ensureDataDir } from "./dataDir";
 
-const DATA_DIR = path.join(process.cwd(), "data", "temples");
+/**
+ * Resolved at call time rather than module load: on a hosted deploy the
+ * directory lives on a mounted disk that is seeded on first use.
+ */
+function dataDir(): string {
+  ensureDataDir();
+  return TEMPLES_DIR;
+}
 
 export class TempleDataError extends Error {
   constructor(slug: string, message: string) {
@@ -44,13 +52,13 @@ function load(): Cache {
   const temples: Temple[] = [];
   const failures: LoadFailure[] = [];
 
-  const files = fs.existsSync(DATA_DIR)
-    ? fs.readdirSync(DATA_DIR).filter((f) => f.endsWith(".json")).sort()
+  const files = fs.existsSync(dataDir())
+    ? fs.readdirSync(dataDir()).filter((f) => f.endsWith(".json")).sort()
     : [];
 
   for (const file of files) {
     try {
-      const parsed = JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), "utf8")) as Temple;
+      const parsed = JSON.parse(fs.readFileSync(path.join(dataDir(), file), "utf8")) as Temple;
       if (!parsed.slug) throw new Error('missing "slug"');
       if (!parsed.identity) throw new Error('missing "identity" — file predates the 9-sheet schema');
       const STATUSES: TempleStatus[] = ["draft", "pending", "verified", "published", "rejected"];
@@ -121,7 +129,7 @@ export type { ValidationIssue, Completeness } from "./validate";
 
 function writeTempleFile(temple: Temple): void {
   fs.writeFileSync(
-    path.join(DATA_DIR, `${temple.slug}.json`),
+    path.join(dataDir(), `${temple.slug}.json`),
     JSON.stringify(temple, null, 2) + "\n",
     "utf8"
   );
@@ -138,8 +146,8 @@ export function slugify(value: string): string {
 
 export function uniqueSlug(base: string): string {
   const existing = new Set(
-    fs.existsSync(DATA_DIR)
-      ? fs.readdirSync(DATA_DIR).filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, ""))
+    fs.existsSync(dataDir())
+      ? fs.readdirSync(dataDir()).filter((f) => f.endsWith(".json")).map((f) => f.replace(/\.json$/, ""))
       : []
   );
   let slug = base || "temple";
