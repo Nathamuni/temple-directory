@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPublishedTemples, getTemple } from "@/lib/temples";
-import { getSession } from "@/lib/session";
+import { getViewer } from "@/lib/authz";
 import { IS_STATIC } from "@/lib/staticMode";
 import { templeJsonLd, breadcrumbJsonLd } from "@/lib/jsonld";
 import { heroImage, subtitle } from "@/lib/temple-view";
@@ -68,9 +68,8 @@ export default async function TemplePage({ params }: { params: Promise<{ slug: s
   // unpublished entry is simply absent there.
   if (temple.status !== "published") {
     if (IS_STATIC) notFound();
-    const session = await getSession();
-    const mayPreview =
-      session && (session.role === "admin" || session.username === temple.submittedBy);
+    const viewer = await getViewer();
+    const mayPreview = viewer && (viewer.isAdmin || viewer.username === temple.submittedBy);
     if (!mayPreview) notFound();
   }
 

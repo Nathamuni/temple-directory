@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { redirect } from "next/navigation";
-import { getSession } from "@/lib/session";
+import { requireViewer } from "@/lib/authz";
 import { getTemplesBySubmitter, completeness } from "@/lib/temples";
 import type { TempleStatus } from "@/lib/types";
 
@@ -17,16 +16,15 @@ const STATUS_STYLE: Record<TempleStatus, { label: string; cls: string }> = {
 const EDITABLE: TempleStatus[] = ["draft", "rejected"];
 
 export default async function MySubmissionsPage() {
-  const session = await getSession();
-  if (!session) redirect("/login?next=/my-submissions");
+  const viewer = await requireViewer("/my-submissions");
 
-  const temples = getTemplesBySubmitter(session.username);
+  const temples = getTemplesBySubmitter(viewer.username);
 
   return (
     <div className="mx-auto max-w-[1000px] px-4 py-8">
       <h1 className="text-2xl">My Submissions</h1>
       <p className="ui mt-1 text-sm text-[var(--ink-soft)]">
-        Temples you&apos;ve submitted, logged in as <strong>{session.username}</strong>. Editing a
+        Temples you&apos;ve submitted, logged in as <strong>{viewer.username}</strong>. Editing a
         draft or rejected entry sends it back for admin review.
       </p>
 

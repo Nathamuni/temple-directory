@@ -6,6 +6,7 @@ import { specsForSheet } from "@/lib/schema";
 import { blankTemple } from "@/lib/blankTemple";
 import { completeness, validateTemple } from "@/lib/validate";
 import { getPath, setPath } from "@/lib/paths";
+import { AREA_LABEL, type Area } from "@/lib/fieldAuthority";
 import FieldRow from "./FieldRow";
 import RecordTable from "./RecordTable";
 
@@ -20,9 +21,10 @@ import RecordTable from "./RecordTable";
  * divergent required-field lists this replaced.
  */
 
-const MASTER_GROUPS: { title: string; columns: string[] }[] = [
+const MASTER_GROUPS: { title: string; area: Area; columns: string[] }[] = [
   {
     title: "1. Temple identity",
+    area: "identity",
     columns: [
       "temple_name_en",
       "temple_name_local",
@@ -39,10 +41,12 @@ const MASTER_GROUPS: { title: string; columns: string[] }[] = [
   },
   {
     title: "2. Location",
+    area: "location",
     columns: ["city", "district", "state_province", "country", "postal_code", "latitude", "longitude", "map_url"],
   },
   {
     title: "3. Sacred identity & history",
+    area: "narrative",
     columns: [
       "spiritual_significance_short",
       "summary_intro",
@@ -58,6 +62,7 @@ const MASTER_GROUPS: { title: string; columns: string[] }[] = [
   },
   {
     title: "4. Governance & contact",
+    area: "governance",
     columns: [
       "established_era",
       "founder_patron",
@@ -74,16 +79,35 @@ function pad(n: number): string {
   return String(n).padStart(3, "0");
 }
 
+/** The one master-sheet column that belongs to a different area than its group. */
+function columnArea(column: string, groupArea: Area): Area {
+  return column === "sampradaya_agama" ? "identity.sampradayaAgama" : groupArea;
+}
+
 export default function TempleForm({
   initial,
   action,
   submitLabel,
+  editableAreas,
+  confirmableAreas = [],
+  revision = false,
+  doneHref = "/my-submissions",
 }: {
   initial?: Temple;
   action: string;
   submitLabel: string;
+  /** When set, only these areas are shown — the server enforces the same list. */
+  editableAreas?: Area[];
+  /** Areas the user may confirm as current without editing (temple authorities). */
+  confirmableAreas?: Area[];
+  /** Post `{ proposed, confirmedAreas, note }` instead of a bare draft. */
+  revision?: boolean;
+  doneHref?: string;
 }) {
   const [draft, setDraft] = useState<Temple>(() => initial ?? blankTemple());
+  const [confirmed, setConfirmed] = useState<Area[]>([]);
+  const [note, setNote] = useState("");
+  const show = (area: Area) => !editableAreas || editableAreas.includes(area);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -119,14 +143,14 @@ export default function TempleForm({
       const response = await fetch(action, {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify(draft),
+        body: JSON.stringify(revision ? { proposed: draft, confirmedAreas: confirmed, note } : draft),
       });
       const result = (await response.json()) as { ok: boolean; slug?: string; error?: string };
       if (!response.ok || !result.ok) {
         setError(result.error ?? `Save failed (${response.status}).`);
         return;
       }
-      window.location.href = "/my-submissions";
+      window.location.href = doneHref;
     } catch (cause) {
       setError((cause as Error).message);
     } finally {
@@ -168,12 +192,12 @@ export default function TempleForm({
           </div>
         )}
 
-        {MASTER_GROUPS.map((group) => (
+        {MASTER_GROUPS.filter((group) => group.columns.some((c) => show(columnArea(c, group.area)))).map((group) => (
           <div key={group.title} className="formgroup">
             <h3 className="display">{group.title}</h3>
             {group.columns.map((column) => {
               const spec = masterSpecs.find((s) => s.column === column);
-              if (!spec?.path) return null;
+              if (!spec?.path || !show(columnArea(column, group.area))) return null;
               return (
                 <FieldRow
                   key={column}
@@ -186,6 +210,7 @@ export default function TempleForm({
           </div>
         ))}
 
+        {show("visitingInfo") && (
         <div className="formgroup">
           <h3 className="display">5. Visiting information</h3>
           {visitingSpecs.map((spec) => (
@@ -197,7 +222,9 @@ export default function TempleForm({
             />
           ))}
         </div>
+        )}
 
+        {show("sources") && (
         <RecordTable
           sheet="09_Sources"
           title="Sources"
@@ -212,7 +239,9 @@ export default function TempleForm({
             adminApproved: false,
           })}
         />
+        )}
 
+        {show("media") && (
         <RecordTable
           sheet="08_Media"
           title="Media"
@@ -232,7 +261,9 @@ export default function TempleForm({
             verificationStatus: "pending",
           })}
         />
+        )}
 
+        {show("openingHours") && (
         <RecordTable
           sheet="03_Opening_Hours"
           title="Opening hours"
@@ -248,7 +279,9 @@ export default function TempleForm({
             verificationStatus: "needs recheck",
           })}
         />
+        )}
 
+        {show("worshipSop") && (
         <RecordTable
           sheet="04_Worship_SOP"
           title="Worship SOP step"
@@ -266,7 +299,9 @@ export default function TempleForm({
             verificationStatus: "draft",
           })}
         />
+        )}
 
+        {show("shrines") && (
         <RecordTable
           sheet="05_Shrines_Route"
           title="Shrine / sacred space"
@@ -282,7 +317,9 @@ export default function TempleForm({
             verificationStatus: "unverified",
           })}
         />
+        )}
 
+        {show("poojas") && (
         <RecordTable
           sheet="06_Pooja_Seva"
           title="Pooja / seva"
@@ -298,7 +335,9 @@ export default function TempleForm({
             verificationStatus: "needs recheck",
           })}
         />
+        )}
 
+        {show("festivals") && (
         <RecordTable
           sheet="07_Festivals"
           title="Festival"
@@ -314,6 +353,47 @@ export default function TempleForm({
             verificationStatus: "needs recheck",
           })}
         />
+        )}
+
+        {revision && confirmableAreas.length > 0 && (
+          <div className="formgroup">
+            <h3 className="display">Confirm as current</h3>
+            <p className="text-sm text-muted">
+              Tick a section to confirm, as the temple&apos;s authority, that everything in it is correct
+              today — even if you changed nothing. Once an admin approves, its records show as
+              authority-verified.
+            </p>
+            {confirmableAreas.map((area) => (
+              <label key={area} className="mr-4 inline-flex items-center gap-1.5 text-sm">
+                <input
+                  type="checkbox"
+                  checked={confirmed.includes(area)}
+                  onChange={(e) =>
+                    setConfirmed((current) =>
+                      e.target.checked ? [...current, area] : current.filter((a) => a !== area)
+                    )
+                  }
+                />
+                {AREA_LABEL[area]}
+              </label>
+            ))}
+          </div>
+        )}
+
+        {revision && (
+          <div className="formgroup">
+            <h3 className="display">Note for the reviewer</h3>
+            <textarea
+              value={note}
+              onChange={(e) => setNote(e.target.value)}
+              rows={3}
+              maxLength={1000}
+              aria-label="Note for the reviewer"
+              className="w-full rounded-lg border border-line px-3 py-2 text-sm"
+              placeholder="What changed and where it comes from — e.g. the notice board, the temple office."
+            />
+          </div>
+        )}
 
         <button
           type="button"

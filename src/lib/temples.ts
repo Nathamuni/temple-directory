@@ -4,6 +4,7 @@ import type { Temple, TempleStatus } from "./types";
 import { blankTemple } from "./blankTemple";
 import { canPublish, validateTemple, type ValidationIssue } from "./validate";
 import { TEMPLES_DIR, ensureDataDir } from "./dataDir";
+import { audit } from "./store/audit";
 
 /**
  * Resolved at call time rather than module load: on a hosted deploy the
@@ -34,6 +35,8 @@ export interface LoadFailure {
 interface Cache {
   temples: Temple[];
   failures: LoadFailure[];
+  /** Directory mtime when this cache was built — see load(). */
+  stamp: number;
 }
 
 let cache: Cache | null = null;
@@ -46,8 +49,18 @@ let cache: Cache | null = null;
  * page — one bad file used to take all of them down. Hard failure now lives
  * only in the publish gate, where it belongs.
  */
+function dirStamp(): number {
+  return fs.existsSync(dataDir()) ? fs.statSync(dataDir()).mtimeMs : 0;
+}
+
 function load(): Cache {
-  if (cache) return cache;
+  // Next bundles pages and route handlers separately, so each has its own copy
+  // of this module and its own cache: an admin action clearing the route's
+  // cache leaves every page serving the old data. Every write goes through a
+  // rename (writeTempleFile), which bumps the directory mtime, so comparing it
+  // is a one-stat check that keeps all copies honest.
+  const stamp = dirStamp();
+  if (cache && cache.stamp === stamp) return cache;
 
   const temples: Temple[] = [];
   const failures: LoadFailure[] = [];
@@ -71,7 +84,7 @@ function load(): Cache {
     }
   }
 
-  cache = { temples, failures };
+  cache = { temples, failures, stamp };
   return cache;
 }
 
@@ -128,11 +141,12 @@ export type { ValidationIssue, Completeness } from "./validate";
  * ------------------------------------------------------------------ */
 
 function writeTempleFile(temple: Temple): void {
-  fs.writeFileSync(
-    path.join(dataDir(), `${temple.slug}.json`),
-    JSON.stringify(temple, null, 2) + "\n",
-    "utf8"
-  );
+  const target = path.join(dataDir(), `${temple.slug}.json`);
+  // Write-then-rename: atomic, and the rename bumps the directory mtime that
+  // load() uses to notice changes made from another bundle.
+  const tmp = `${target}.${process.pid}.tmp`;
+  fs.writeFileSync(tmp, JSON.stringify(temple, null, 2) + "\n", "utf8");
+  fs.renameSync(tmp, target);
   cache = null; // next load() re-reads from disk
 }
 
@@ -220,6 +234,28 @@ export function updateDraftTemple(slug: string, submittedBy: string, draft: Temp
   delete temple.rejectionReason;
   writeTempleFile(temple);
   return temple;
+}
+
+/**
+ * Writes an admin-approved revision over a live entry. The caller (the
+ * revision store) has already checked the entry is unchanged since the
+ * revision was proposed; this only guarantees it stays published under the
+ * same slug and id.
+ */
+export function replacePublishedTemple(temple: Temple): Temple {
+  const existing = getTemple(temple.slug);
+  if (!existing) fail(temple.slug, "temple not found");
+  if (existing.status !== "published") fail(temple.slug, `expected a published entry, found "${existing.status}"`);
+  const next: Temple = {
+    ...temple,
+    slug: existing.slug,
+    templeId: existing.templeId,
+    submittedBy: existing.submittedBy,
+    status: "published",
+  };
+  delete next.rejectionReason;
+  writeTempleFile(next);
+  return next;
 }
 
 export interface ImportOutcome {
@@ -358,7 +394,8 @@ export interface StatusChangeResult {
 export function updateTempleStatus(
   slug: string,
   next: TempleStatus,
-  reason?: string
+  reason?: string,
+  actor = "system"
 ): StatusChangeResult {
   if (!STATUS_ORDER.includes(next)) return { ok: false, error: `invalid status "${next}"` };
   if (next === "rejected" && !reason?.trim()) {
@@ -377,6 +414,7 @@ export function updateTempleStatus(
   else delete temple.rejectionReason;
 
   writeTempleFile(temple);
+  audit({ actor, action: `temple.${next}`, target: slug, detail: reason });
   return { ok: true, temple };
 }
 

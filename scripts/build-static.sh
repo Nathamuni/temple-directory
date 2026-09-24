@@ -15,14 +15,15 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 STASH=".static-build-stash"
-ROUTES=(api admin contribute login my-submissions request-access status)
+ROUTES=(api admin contribute login my-submissions request-access status signup apply account "temple/[slug]/propose" "temple/[slug]/suggest")
 
 restore() {
   if [ -d "$STASH" ]; then
     for route in "${ROUTES[@]}"; do
       [ -e "$STASH/$route" ] && mv "$STASH/$route" "src/app/$route"
     done
-    rmdir "$STASH" 2>/dev/null || echo "note: $STASH is not empty — check it before rebuilding"
+    find "$STASH" -depth -type d -empty -delete 2>/dev/null
+    [ ! -d "$STASH" ] || echo "note: $STASH is not empty — check it before rebuilding"
   fi
 }
 trap restore EXIT INT TERM
@@ -35,7 +36,10 @@ fi
 
 mkdir "$STASH"
 for route in "${ROUTES[@]}"; do
-  [ -e "src/app/$route" ] && mv "src/app/$route" "$STASH/$route"
+  if [ -e "src/app/$route" ]; then
+    mkdir -p "$(dirname "$STASH/$route")"
+    mv "src/app/$route" "$STASH/$route"
+  fi
 done
 
 echo "Building static export (editorial routes excluded)..."

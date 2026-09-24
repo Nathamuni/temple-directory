@@ -1,4 +1,4 @@
-import type { SourceRecord, Temple, VerificationStatus } from "@/lib/types";
+import type { Provenance, SourceRecord, Temple, VerificationStatus } from "@/lib/types";
 import { isVerified, resolveSources } from "@/lib/temple-view";
 
 /**
@@ -23,6 +23,12 @@ const VERIFIED_LABEL: Partial<Record<VerificationStatus, string>> = {
   draft: "Draft",
   pending: "Pending review",
   rejected: "Rejected",
+};
+
+/** Who stood behind an authority-verified record — never the individual's name. */
+const CONFIRMED_BY: Record<string, string> = {
+  temple_management: "temple management",
+  priest: "the temple's priest",
 };
 
 export function VerificationBadge({ status }: { status: VerificationStatus }) {
@@ -56,12 +62,14 @@ export function EvidenceBlock({
   status,
   note,
   lastVerified,
+  verifiedBy,
 }: {
   temple: Temple;
   sourceIds?: string[];
   status?: VerificationStatus;
   note?: string;
   lastVerified?: string;
+  verifiedBy?: Provenance["verifiedBy"];
 }) {
   const sources = resolveSources(temple, sourceIds);
   if (sources.length === 0 && !note && !status) return null;
@@ -81,6 +89,7 @@ export function EvidenceBlock({
       {(status || lastVerified) && (
         <p className="mt-1.5 mb-0">
           {status && <>Status: {VERIFIED_LABEL[status] ?? status}. </>}
+          {verifiedBy && status === "authority-verified" && <>Confirmed by {CONFIRMED_BY[verifiedBy.role] ?? "the temple"}. </>}
           {lastVerified && <>Last verified {lastVerified}.</>}
         </p>
       )}

@@ -20,6 +20,31 @@ npm run build      # static build; also validates every temple data file
 - `/temple/srirangam-ranganathaswamy` — the full standard template (the reference sample)
 - `/browse/<facet>/<value>` — e.g. `/browse/deity/vishnu`
 - `/status` — onboarding dashboard: totals, pending counts, per-entry completeness, lamp value
+- `/signup`, `/login`, `/account` — one account per person; roles are applied for from `/account`
+- `/admin` — approval console: role applications, temple submissions, proposed changes, corrections, users, audit log
+
+## Accounts, roles and approvals
+
+One person, one login, any number of approved roles. Every account is a **Devotee** (follow
+temples, suggest corrections). The other roles are applied for at `/apply/<role>` and take effect
+only when an admin approves them:
+
+| Role | Scope | Can change (always via admin review) |
+|---|---|---|
+| Contributor | all temples | new temple drafts; proposed edits to any researched section |
+| Temple Management | one temple | governance/contact, visiting info, opening hours, pooja & seva, festivals, media, sources |
+| Priest | one temple | worship SOP, shrines & route, sampradaya/agama, sources |
+| Seva Coordinator | one temple | approval only for now — seva tools are the next release |
+| Admin | built-in | approves everything; holds no other role |
+
+Nothing a role holder does is public until an admin approves it. An approved change from temple
+management or a priest marks the sections they changed or confirmed as **authority-verified**. The
+field-to-role map lives in `src/lib/fieldAuthority.ts`; permissions are checked per request in
+`src/lib/authz.ts`, so a revoked role or suspended account stops working immediately.
+
+Account data (`users.json`, `role-grants.json`, `revisions.json`, `corrections.json`,
+`follows.json`, `audit.jsonl`) lives in `<DATA_DIR>/app/` and is gitignored. Passwords are
+scrypt-hashed.
 
 ## How to add a temple (no code changes needed)
 
@@ -59,9 +84,10 @@ public/images/ATTRIBUTIONS.md  image licensing record
 cp .env.example .env.local     # then set SESSION_SECRET
 npm install
 npm run dev                    # http://localhost:3000
+npm test                       # account, permission and approval tests (vitest)
 ```
 
-Built-in accounts are in `src/lib/users.ts`. Their passwords come from
+Built-in accounts are in `src/lib/store/accounts.ts`. Their passwords come from
 `ADMIN_PASSWORD` / `CONTRIBUTOR_PASSWORD`; in development the documented
 defaults apply, and in production the app refuses to start without them.
 
@@ -100,9 +126,15 @@ The blueprint therefore specifies a paid instance.
 
 Not production-grade, and deliberately so until real auth lands:
 
-- Contributor passwords are stored **in plaintext** in
-  `contributor-requests.json`. Fine for a closed pilot, not for public signup.
-- There is no password reset, no email verification, no rate limiting on login.
+- Username + password only. There is no password reset, no email or phone
+  verification, and no rate limiting on login or signup.
+- Account data is JSON files written by one Node process. Correct on a single
+  instance; running two instances against one disk would lose writes. Moving
+  `src/lib/store/` to a database (e.g. Supabase) is the path past that.
+- Temple affiliation for management/priest roles is checked by the admin by
+  hand; no identity documents are collected, by design.
+- Legacy `contributor-requests.json` rows are migrated into hashed accounts on
+  first use (or `npm run migrate:accounts`); the plaintext passwords are removed.
 - `/status` is public by design — it exposes draft and rejected entries,
   including rejection reasons.
 

@@ -24,7 +24,13 @@ export const DATA_ROOT = process.env.DATA_DIR
   : SEED_DIR;
 
 export const TEMPLES_DIR = path.join(DATA_ROOT, "temples");
+/** Legacy contributor-request list; migrated into the account store on first use. */
 export const REQUESTS_FILE = path.join(DATA_ROOT, "contributor-requests.json");
+/**
+ * Accounts, role grants, revisions, corrections, follows and the audit log.
+ * Holds password hashes and contact details, so it is gitignored and never seeded.
+ */
+export const APP_DIR = path.join(DATA_ROOT, "app");
 
 let seeded = false;
 

@@ -1,13 +1,13 @@
 import { NextResponse } from "next/server";
-import { getSession } from "@/lib/session";
+import { getViewer } from "@/lib/authz";
 import { upsertTempleFromImport } from "@/lib/temples";
 import { parseTempleWorkbook } from "@/lib/excel/parse";
 import { validateTemple } from "@/lib/validate";
 import { saveImportReport } from "@/lib/importReports";
 
 export async function POST(request: Request) {
-  const session = await getSession();
-  if (!session || session.role !== "admin") {
+  const viewer = await getViewer();
+  if (!viewer?.isAdmin) {
     return NextResponse.json({ error: "Admin login required." }, { status: 403 });
   }
 
@@ -49,7 +49,7 @@ export async function POST(request: Request) {
       continue;
     }
     try {
-      const outcome = upsertTempleFromImport(temple, session.username);
+      const outcome = upsertTempleFromImport(temple, viewer.username);
       if (outcome.action === "unchanged") {
         unchanged += 1;
       } else if (outcome.action === "created") {

@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { redirect } from "next/navigation";
-import { getSession } from "@/lib/session";
+import { requireAdmin } from "@/lib/authz";
 import { getImportReport } from "@/lib/importReports";
 
 export const metadata: Metadata = { title: "Bulk Import" };
@@ -15,9 +14,7 @@ export default async function BulkImportPage({
 }: {
   searchParams: Promise<{ error?: string; report?: string }>;
 }) {
-  const session = await getSession();
-  if (!session) redirect("/login?next=/admin/bulk-import");
-  if (session.role !== "admin") redirect("/status");
+  await requireAdmin("/admin/bulk-import");
 
   const { error, report: reportId } = await searchParams;
   const report = getImportReport(reportId);

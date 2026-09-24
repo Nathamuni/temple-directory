@@ -102,6 +102,7 @@ export default function WorshipSop({ temple }: { temple: Temple }) {
                     temple={temple}
                     sourceIds={step.sourceIds}
                     status={step.verificationStatus}
+                    verifiedBy={step.verifiedBy}
                     note={
                       step.authorityReviewer
                         ? `Reviewed by ${step.authorityReviewer}${step.authorityReviewDate ? ` on ${step.authorityReviewDate}` : ""}.`

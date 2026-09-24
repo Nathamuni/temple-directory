@@ -1,17 +1,15 @@
 /**
- * Prototype session handling — a signed, tamper-proof cookie. No database.
+ * Session handling — a signed, tamper-proof cookie naming the account.
  * The signature (HMAC-SHA256, keyed by SESSION_SECRET) stops a visitor from
- * hand-editing their own cookie to claim a role they don't have; it does not
- * replace real auth (Google Sign-In / Phone OTP is the intended production path).
+ * hand-editing their cookie to become someone else. Roles are deliberately NOT
+ * in the cookie: src/lib/authz.ts loads them per request, so an approval,
+ * revocation or suspension takes effect on the very next page load.
  */
 import { createHmac, timingSafeEqual } from "crypto";
 import { cookies } from "next/headers";
 
-export type Role = "contributor" | "admin";
-
 export interface SessionPayload {
-  username: string;
-  role: Role;
+  uid: string;
   exp: number; // epoch ms
 }
 
@@ -28,8 +26,8 @@ function sign(payload: string): string {
   return createHmac("sha256", secret()).update(payload).digest("hex");
 }
 
-export function createSessionCookie(username: string, role: Role): string {
-  const payload: SessionPayload = { username, role, exp: Date.now() + SESSION_TTL_MS };
+export function createSessionCookie(uid: string): string {
+  const payload: SessionPayload = { uid, exp: Date.now() + SESSION_TTL_MS };
   const encoded = Buffer.from(JSON.stringify(payload)).toString("base64url");
   return `${encoded}.${sign(encoded)}`;
 }
@@ -47,6 +45,8 @@ export function verifySessionCookie(value: string | undefined): SessionPayload |
   try {
     const payload = JSON.parse(Buffer.from(encoded, "base64url").toString("utf8")) as SessionPayload;
     if (typeof payload.exp !== "number" || payload.exp < Date.now()) return null;
+    // Cookies from before per-request roles carried a username instead.
+    if (typeof payload.uid !== "string") return null;
     return payload;
   } catch {
     return null;

@@ -1,36 +1,37 @@
 import type { Metadata } from "next";
+import { safeNext } from "@/lib/authz";
 
 export const metadata: Metadata = { title: "Log in — Temple Directory" };
 
 const ERROR_MESSAGES: Record<string, string> = {
   invalid: "Incorrect username or password.",
-  pending: "Your contributor access request is still awaiting admin approval.",
-  denied: "Your contributor access request was denied.",
+  suspended: "This account has been suspended.",
 };
 
 export default async function LoginPage({
   searchParams,
 }: {
-  searchParams: Promise<{ error?: string; next?: string; denyReason?: string }>;
+  searchParams: Promise<{ error?: string; next?: string; detail?: string }>;
 }) {
-  const { error, next, denyReason } = await searchParams;
+  const { error, next, detail } = await searchParams;
 
   return (
     <div className="mx-auto max-w-[420px] px-4 py-14">
-      <h1 className="text-2xl">Contributor / Admin Log In</h1>
+      <h1 className="text-2xl">Log in</h1>
       <p className="ui mt-1 text-sm text-[var(--ink-soft)]">
-        Prototype-stage accounts only — not the eventual Google Sign-In / Phone OTP flow.
+        One login for devotees, contributors, temple management, priests, seva coordinators and
+        admins — what you can do depends on the roles approved on your account.
       </p>
 
       {error && (
         <p className="ui mt-4 border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-800">
           {ERROR_MESSAGES[error] ?? ERROR_MESSAGES.invalid}
-          {error === "denied" && denyReason && <> Reason: {denyReason}</>}
+          {error === "suspended" && detail && <> Reason: {detail}</>}
         </p>
       )}
 
       <form method="POST" action="/api/auth/login" className="mt-6 space-y-4">
-        <input type="hidden" name="next" value={next ?? "/contribute"} />
+        <input type="hidden" name="next" value={safeNext(next)} />
         <div>
           <label className="ui block text-sm font-semibold" htmlFor="username">
             Username
@@ -64,18 +65,20 @@ export default async function LoginPage({
         </button>
       </form>
 
+      {process.env.NODE_ENV !== "production" && (
       <div className="ui mt-6 border border-[var(--line-soft)] bg-[var(--paper-soft)] px-3 py-2 text-xs text-[var(--ink-soft)]">
-        Example accounts for testing:
+        Development accounts (hidden in production):
         <br />
         Contributor — <code>contributor</code> / <code>TempleVolunteer#2026</code>
         <br />
         Admin — <code>admin</code> / <code>TempleAdmin#2026</code>
       </div>
+      )}
 
       <p className="ui mt-6 text-center text-sm">
         Don&apos;t have an account?{" "}
-        <a href="/request-access" className="underline">
-          Request contributor access
+        <a href={`/signup?next=${encodeURIComponent(safeNext(next))}`} className="underline">
+          Create one
         </a>
       </p>
     </div>

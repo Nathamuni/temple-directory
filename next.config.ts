@@ -18,8 +18,8 @@ const nextConfig: NextConfig = {
       }
     : {}),
 
-  // The contribute/status/contributor-request routes write JSON files into
-  // data/temples/ and data/contributor-requests.json at request time;
+  // The contribute/status/account routes write JSON files under data/
+  // (temples, accounts, revisions) at request time;
   // without this, the dev server's own watcher treats that write as a
   // source change and recompiles mid-request.
   webpack: (config) => {
@@ -28,8 +28,7 @@ const nextConfig: NextConfig = {
       ignored: [
         "**/node_modules/**",
         "**/.git/**",
-        "**/data/temples/**",
-        "**/data/contributor-requests.json",
+        "**/data/**",
       ],
     };
     return config;

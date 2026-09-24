@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
-import { getSession } from "@/lib/session";
+import { hasRole, requireViewer } from "@/lib/authz";
 import { getTemple } from "@/lib/temples";
 import TempleForm from "@/components/contribute/TempleForm";
 
@@ -15,12 +15,12 @@ export default async function EditSubmissionPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const session = await getSession();
-  if (!session) redirect(`/login?next=/my-submissions/${slug}/edit`);
+  const viewer = await requireViewer(`/my-submissions/${slug}/edit`);
+  if (!hasRole(viewer, "contributor")) redirect("/apply/contributor");
 
   const temple = getTemple(slug);
   if (!temple) notFound();
-  if (temple.submittedBy !== session.username) notFound();
+  if (temple.submittedBy !== viewer.username) notFound();
   if (!EDITABLE.includes(temple.status)) redirect("/my-submissions");
 
   return (

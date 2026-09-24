@@ -72,6 +72,8 @@ export interface Provenance {
   verificationStatus: VerificationStatus;
   /** ISO yyyy-mm-dd. */
   lastVerifiedDate?: string;
+  /** Set when an admin-approved change from temple management or a priest confirmed this record. */
+  verifiedBy?: { role: "temple_management" | "priest" | "contributor" | "seva_coordinator"; username: string };
 }
 
 /* ------------------------------------------------------------------ *

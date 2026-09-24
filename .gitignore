@@ -21,3 +21,6 @@ data/.backup-pre-migration/
 /out/
 /temple-directory-static.zip
 /.static-build-stash/
+
+# Accounts, role grants, revisions, corrections, audit log — password hashes and PII
+/data/app/

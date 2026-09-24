@@ -30,7 +30,8 @@ export default function Festivals({ temple }: { temple: Temple }) {
                 {[festival.crowdNote, festival.visitorAdvice].filter(Boolean).join(" · ")}
               </p>
             )}
-            <EvidenceBlock temple={temple} sourceIds={festival.sourceIds} status={festival.verificationStatus} />
+            <EvidenceBlock temple={temple} sourceIds={festival.sourceIds} status={festival.verificationStatus}
+                  verifiedBy={festival.verifiedBy} />
           </div>
         ))}
       </div>

@@ -46,6 +46,7 @@ export default function PoojaSchedule({ temple }: { temple: Temple }) {
                   temple={temple}
                   sourceIds={row.sourceIds}
                   status={row.verificationStatus}
+                  verifiedBy={row.verifiedBy}
                   lastVerified={row.lastVerifiedDate}
                 />
               </div>
@@ -83,6 +84,7 @@ export default function PoojaSchedule({ temple }: { temple: Temple }) {
                   temple={temple}
                   sourceIds={pooja.sourceIds}
                   status={pooja.verificationStatus}
+                  verifiedBy={pooja.verifiedBy}
                   lastVerified={pooja.lastVerifiedDate}
                 />
               </div>

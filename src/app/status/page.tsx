@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllTemples, completeness, getDataErrors } from "@/lib/temples";
-import { getSession } from "@/lib/session";
+import { getViewer } from "@/lib/authz";
 import type { TempleStatus } from "@/lib/types";
 
 export const metadata: Metadata = {
@@ -62,8 +62,8 @@ export default async function StatusPage({
   searchParams: Promise<{ error?: string }>;
 }) {
   const temples = getAllTemples();
-  const session = await getSession();
-  const isAdmin = session?.role === "admin";
+  const viewer = await getViewer();
+  const isAdmin = Boolean(viewer?.isAdmin);
   const { error } = await searchParams;
   const byStatus = (s: TempleStatus) => temples.filter((t) => t.status === s);
   const dataErrors = getDataErrors();

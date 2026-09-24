@@ -1,10 +1,10 @@
 import { NextResponse } from "next/server";
-import { getSession } from "@/lib/session";
+import { getViewer } from "@/lib/authz";
 import { buildTempleWorkbook } from "@/lib/excel/build";
 
 export async function GET() {
-  const session = await getSession();
-  if (!session || session.role !== "admin") {
+  const viewer = await getViewer();
+  if (!viewer?.isAdmin) {
     return NextResponse.json({ error: "Admin login required." }, { status: 403 });
   }
 

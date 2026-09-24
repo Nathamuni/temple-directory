@@ -76,6 +76,7 @@ export default function PlanYourVisit({ temple }: { temple: Temple }) {
         temple={temple}
         sourceIds={v.sourceIds}
         status={v.verificationStatus}
+                  verifiedBy={v.verifiedBy}
         lastVerified={v.lastVerifiedDate}
       />
 

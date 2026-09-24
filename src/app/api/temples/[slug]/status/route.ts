@@ -1,13 +1,13 @@
 import { NextResponse } from "next/server";
-import { getSession } from "@/lib/session";
+import { getViewer } from "@/lib/authz";
 import { updateTempleStatus } from "@/lib/temples";
 import type { TempleStatus } from "@/lib/types";
 
 const VALID: TempleStatus[] = ["draft", "pending", "verified", "published", "rejected"];
 
 export async function POST(request: Request, { params }: { params: Promise<{ slug: string }> }) {
-  const session = await getSession();
-  if (!session || session.role !== "admin") {
+  const viewer = await getViewer();
+  if (!viewer?.isAdmin) {
     return NextResponse.json({ error: "Admin login required." }, { status: 403 });
   }
 
@@ -20,7 +20,7 @@ export async function POST(request: Request, { params }: { params: Promise<{ slu
   }
 
   const url = new URL("/status", request.url);
-  const result = updateTempleStatus(slug, next as TempleStatus, reason || undefined);
+  const result = updateTempleStatus(slug, next as TempleStatus, reason || undefined, viewer.username);
   if (!result.ok) {
     // The publish gate returns its blockers rather than throwing, so the admin
     // sees which fields are missing instead of a 500.
