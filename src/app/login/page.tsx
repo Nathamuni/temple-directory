@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { safeNext } from "@/lib/authz";
+import { GRANT_ROLES, ROLE_LABEL, ROLE_PURPOSE, isTempleScoped } from "@/lib/roles";
 
 export const metadata: Metadata = { title: "Log in — Temple Directory" };
 
@@ -75,12 +76,38 @@ export default async function LoginPage({
       </div>
       )}
 
-      <p className="ui mt-6 text-center text-sm">
-        Don&apos;t have an account?{" "}
-        <a href={`/signup?next=${encodeURIComponent(safeNext(next))}`} className="underline">
-          Create one
-        </a>
-      </p>
+      <section className="mt-8 border-t border-[var(--line-soft)] pt-6" aria-labelledby="signup-as">
+        <h2 id="signup-as" className="text-lg">New here? Sign up as…</h2>
+        <p className="ui mt-1 text-xs text-[var(--ink-soft)]">
+          Every account can follow temples and suggest corrections. The other roles are applied for
+          right after signup and start working once an admin approves them.
+        </p>
+        <ul className="m-0 mt-3 grid list-none gap-2 p-0">
+          <li>
+            <a
+              href={`/signup?next=${encodeURIComponent(safeNext(next))}`}
+              className="ui block rounded-lg border border-[var(--line-soft)] bg-[var(--paper-soft)] px-3 py-2.5 text-sm hover:no-underline"
+            >
+              <strong>{ROLE_LABEL.devotee}</strong>
+              <span className="block text-xs text-[var(--ink-soft)]">Follow temples, suggest corrections. No approval needed.</span>
+            </a>
+          </li>
+          {GRANT_ROLES.map((role) => (
+            <li key={role}>
+              <a
+                href={`/signup?next=${encodeURIComponent(`/apply/${role}`)}`}
+                className="ui block rounded-lg border border-[var(--line-soft)] bg-[var(--paper-soft)] px-3 py-2.5 text-sm hover:no-underline"
+              >
+                <strong>{ROLE_LABEL[role]}</strong>
+                <span className="block text-xs text-[var(--ink-soft)]">
+                  {ROLE_PURPOSE[role]} Needs admin approval
+                  {isTempleScoped(role) ? " · for one temple" : ""}.
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
     </div>
   );
 }

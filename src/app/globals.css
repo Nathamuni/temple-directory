@@ -30,7 +30,7 @@
 
   /*
    * Aliases for the un-prefixed names (--paper, --line, --line-soft,
-   * --paper-soft, --ink-soft) the original static prototype used and that
+   * --paper-soft, --ink-soft, --accent) the original static prototype used and that
    * many components still reference via arbitrary-value classes like
    * `bg-[var(--paper)]`. Only --color-* exists from @theme above, so those
    * references were silently resolving to nothing — invisible borders,
@@ -42,6 +42,8 @@
   --line-soft: var(--color-line);
   --paper-soft: var(--color-soft);
   --ink-soft: var(--color-muted);
+  /* Primary buttons (log in, sign up, apply, send) — was unset, so they rendered invisible. */
+  --accent: var(--color-maroon);
 }
 
 /**

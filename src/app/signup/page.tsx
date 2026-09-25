@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Field, Notice, inputCls } from "@/components/account/ui";
 import { safeNext } from "@/lib/authz";
+import { ROLE_LABEL, isGrantRole } from "@/lib/roles";
 
 export const metadata: Metadata = { title: "Create an account — Temple Directory" };
 
@@ -11,6 +12,9 @@ export default async function SignupPage({
   searchParams: Promise<{ error?: string; next?: string }>;
 }) {
   const { error, next } = await searchParams;
+  // Arriving from "Sign up as…" on /login: next is /apply/<role>.
+  const chosen = safeNext(next).match(/^\/apply\/([a-z_]+)/)?.[1];
+  const role = chosen && isGrantRole(chosen) ? chosen : undefined;
 
   return (
     <div className="mx-auto max-w-[480px] px-4 py-14">
@@ -21,6 +25,12 @@ export default async function SignupPage({
         account page and approved by an admin.
       </p>
 
+      {role && (
+        <Notice tone="info">
+          Signing up as <strong>{ROLE_LABEL[role]}</strong> — step 1 of 2. After creating your
+          account you&apos;ll fill in the {ROLE_LABEL[role]} application for admin approval.
+        </Notice>
+      )}
       {error && <Notice tone="error">{error}</Notice>}
 
       <form method="POST" action="/api/auth/signup" className="mt-6 space-y-5">
