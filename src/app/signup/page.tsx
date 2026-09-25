@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Field, Notice, inputCls } from "@/components/account/ui";
 import { safeNext } from "@/lib/authz";
-import { ROLE_LABEL, isGrantRole } from "@/lib/roles";
+import { GRANT_ROLES, ROLE_LABEL, isGrantRole, isTempleScoped } from "@/lib/roles";
 
 export const metadata: Metadata = { title: "Create an account — Temple Directory" };
 
@@ -35,6 +35,21 @@ export default async function SignupPage({
 
       <form method="POST" action="/api/auth/signup" className="mt-6 space-y-5">
         <input type="hidden" name="next" value={safeNext(next)} />
+        <Field
+          label="I'm signing up as *"
+          hint="Every account is a devotee. Any other role opens its application next and needs admin approval."
+          htmlFor="role"
+        >
+          <select id="role" name="role" defaultValue={role ?? "devotee"} className={inputCls}>
+            <option value="devotee">{ROLE_LABEL.devotee} — no approval needed</option>
+            {GRANT_ROLES.map((r) => (
+              <option key={r} value={r}>
+                {ROLE_LABEL[r]}
+                {isTempleScoped(r) ? " (one temple)" : ""} — needs approval
+              </option>
+            ))}
+          </select>
+        </Field>
         <Field label="Full name *" htmlFor="name">
           <input id="name" name="name" required minLength={2} className={inputCls} autoComplete="name" />
         </Field>
