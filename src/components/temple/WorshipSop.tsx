@@ -3,6 +3,7 @@ import { isVerified, resolveMedia, resolveShrines, sopInOrder } from "@/lib/temp
 import Section from "./Section";
 import MediaFigure from "./MediaFigure";
 import { EvidenceBlock, NotVerified } from "@/components/evidence/Evidence";
+import { langForScript, publicTempleMantras } from "@/lib/mantras";
 
 /**
  * The signature section. Each step's instruction becomes public text only when
@@ -14,6 +15,7 @@ import { EvidenceBlock, NotVerified } from "@/components/evidence/Evidence";
  */
 export default function WorshipSop({ temple }: { temple: Temple }) {
   const steps = sopInOrder(temple);
+  const stepMantras = publicTempleMantras(temple).filter((m) => m.linkedSopStepId && !m.textHidden);
 
   return (
     <Section id="worship" kicker="Signature experience" title="How to worship here" badge="Temple-specific SOP">
@@ -61,11 +63,20 @@ export default function WorshipSop({ temple }: { temple: Temple }) {
                     <>
                       <p className="mt-0 whitespace-pre-line">{step.instruction}</p>
                       {step.explanation && <p className="whitespace-pre-line">{step.explanation}</p>}
-                      {step.mantraOrSloka && (
+                      {/* A mantra needs the temple's authority, not just a source (matches validate.ts). */}
+                      {step.mantraOrSloka && step.verificationStatus === "authority-verified" && (
                         <p className="display rounded-xl bg-[#f6ecd8] px-3 py-2 text-[15px]">
                           {step.mantraOrSloka}
                         </p>
                       )}
+                      {stepMantras
+                        .filter((m) => m.linkedSopStepId === step.sopStepId && m.textOriginal)
+                        .map((m) => (
+                          <p key={m.mantraId} lang={langForScript(m.script)} className="display rounded-xl bg-[#f6ecd8] px-3 py-2 text-[15px] whitespace-pre-line">
+                            {m.textOriginal}
+                            <span className="mt-1 block font-sans text-xs text-[#77634f] not-italic">{m.title} — see Prayers &amp; slokas</span>
+                          </p>
+                        ))}
                     </>
                   ) : (
                     <>

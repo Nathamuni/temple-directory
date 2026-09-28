@@ -447,6 +447,37 @@
       "claimScope": "The categories of darshan offered (Sarvadarshan, Special Entry Darshan / Seeghra Darshan, Divya Darshan for pedestrians, and arrangements for aged and physically disabled pilgrims) and the existence of arjitha, daily, weekly and periodical seva categories.",
       "reliabilityNote": "Navigation-level information only; the site does not publish a single consolidated darshan timetable, and darshan quotas are managed through the separate TTD booking portal.",
       "adminApproved": true
+    },
+    {
+      "sourceId": "SRC008",
+      "sourceType": "scripture",
+      "title": "Śrī Veṅkaṭeśa Suprabhātam (Prativādi Bhayaṅkaram Aṇṇan, 15th c.), verse 1 — itself Vālmīki Rāmāyaṇa, Bāla-kāṇḍa 23.2 (Viśvāmitra waking Rāma) — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_vishhnu/venkatsp.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Sri Venkatesa Suprabhatam (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://vignanam.org/english/sri-venkateswara-suprabhatam.html",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Sri Venkatesa Suprabhatam (verse 1)",
+      "group": "Suprabhatam",
+      "textOriginal": "कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते ।\nउत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥",
+      "script": "Devanagari",
+      "transliteration": "kausalyā suprajā rāma pūrvā sandhyā pravartate |\nuttiṣṭha naraśārdūla kartavyaṃ daivamāhnikam ||",
+      "meaning": "\"Kausalyā's noble son Rāma, the eastern dawn is breaking. Arise, tiger among men; the day's sacred duties are to be done.\"",
+      "sourceText": "Śrī Veṅkaṭeśa Suprabhātam (Prativādi Bhayaṅkaram Aṇṇan, 15th c.), verse 1 — itself Vālmīki Rāmāyaṇa, Bāla-kāṇḍa 23.2 (Viśvāmitra waking Rāma)",
+      "whenChanted": "Dawn",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRC008"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. vignanam matches word for word (\"kausalyā suprajā rāma pūrvāsandhyā pravartatē | uttiṣṭha naraśārdūla kartavyaṃ daivamāhnikam\"); it joins \"पूर्वासन्ध्या\" as one word. 15th-century composition — public domain. The Rāmāyaṇa verse number (1.23.2) is the commonly cited locus and was not verified on a fetched Rāmāyaṇa page."
     }
   ],
   "extensions": {

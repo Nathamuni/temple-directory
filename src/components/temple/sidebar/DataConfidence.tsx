@@ -1,6 +1,7 @@
 import type { Temple } from "@/lib/types";
 import { completeness } from "@/lib/validate";
 import { isVerified } from "@/lib/temple-view";
+import { publicTempleMantras } from "@/lib/mantras";
 
 /** How far each area of this entry can be trusted, and where it is still thin. */
 export default function DataConfidence({ temple }: { temple: Temple }) {
@@ -16,6 +17,11 @@ export default function DataConfidence({ temple }: { temple: Temple }) {
       label: "Worship sequence",
       ok: temple.worshipSop.length > 0 && temple.worshipSop.every((s) => isVerified(s.verificationStatus)),
       note: temple.worshipSop.length === 0 ? "none recorded" : "needs authority",
+    },
+    {
+      label: "Prayers & slokas",
+      ok: publicTempleMantras(temple).length > 0,
+      note: temple.mantras.length === 0 ? "general only" : "awaiting priest",
     },
     {
       label: "Operational timings",

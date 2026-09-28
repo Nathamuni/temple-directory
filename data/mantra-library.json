@@ -1,0 +1,358 @@
+[
+  {
+    "mantraId": "ganesha-vakratunda",
+    "title": "Vakratunda Mahakaya — Ganesha invocation",
+    "appliesTo": {
+      "all": true
+    },
+    "group": "Stotram",
+    "textOriginal": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+    "script": "Devanagari",
+    "transliteration": "vakratuṇḍa mahākāya sūryakoṭi samaprabha |\nnirvighnaṃ kuru me deva sarvakāryeṣu sarvadā ||",
+    "meaning": "O Lord with the curved trunk and mighty body, radiant as ten million suns: make all my undertakings free of obstacles, always.",
+    "sourceText": "Traditional Ganesha invocation",
+    "sourceUrl": "https://sanskritdocuments.org/doc_z_misc_general/shloka3.html",
+    "checkUrl": "https://shlokam.org/shloka/vakrathunda-mahakaya.htm ; https://sanskritdocuments.org/doc_z_misc_general/shloka1.html",
+    "whenChanted": "Entry",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Traditional Gaṇeśa invocation verse (popular prayer; no single canonical scriptural locus identified in the sources). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. shlokam.org matches word for word (writes \"sūryakoṭi samaprabha\"). Variant: sanskritdocuments shloka1.html reads \"कोटिसूर्यसमप्रभ\" (same meaning, word order swapped)."
+  },
+  {
+    "mantraId": "shiva-panchakshara",
+    "title": "Om Namah Shivaya — Panchakshara mantra",
+    "appliesTo": {
+      "deities": [
+        "shiva"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "ॐ नमः शिवाय",
+    "script": "Devanagari",
+    "transliteration": "oṃ namaḥ śivāya",
+    "meaning": "\"Om, salutation to Śiva\" — the five-syllable (na-maḥ-śi-vā-ya) mantra of Śiva, with the sacred syllable Om.",
+    "sourceText": "Panchakshara mantra; root in Sri Rudram (Taittiriya Samhita 4.5.8)",
+    "sourceUrl": "https://sanskritdocuments.org/doc_shiva/rudrapanchakam.html",
+    "checkUrl": "https://sanskritdocuments.org/doc_shiva/rudram.html ; https://sanskritdocuments.org/doc_veda/rudra.html",
+    "whenChanted": "Any time",
+    "repetitions": 108,
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Pañcākṣara mantra; Vedic root in Śrī Rudram (Taittirīya Saṃhitā 4.5.8, Rudram anuvāka 8): \"namaḥ śivāya ca śivatarāya ca\". \"ॐ नमः शिवाय\" copied from the mantra line in sanskritdocuments Rudra Panchakam. Vedic locus confirmed on sanskritdocuments Rudram (vinā-svara) at anuvāka 8.1: \"नमः शिवाय च शिवतराय च\" and in the svara-sahita Rudram (anuvāka 8). The Rudram line itself has no \"ॐ\"; the Om-prefixed five-syllable form is the traditional japa form. The Rudram nyāsa on the same page also says \"नमः शिवायेति बीजम्\". IAST generated mechanically from the Devanagari."
+  },
+  {
+    "mantraId": "shiva-karpuragauram",
+    "title": "Karpura Gauram — Shiva dhyana",
+    "appliesTo": {
+      "deities": [
+        "shiva"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "कर्पूरगौरं करुणावतारं\nसंसारसारं भुजगेन्द्रहारम् ।\nसदा वसन्तं हृदयारविन्दे\nभवं भवानीसहितं नमामि ॥",
+    "script": "Devanagari",
+    "transliteration": "karpūragauraṃ karuṇāvatāraṃ\nsaṃsārasāraṃ bhujagendrahāram |\nsadā vasantaṃ hṛdayāravinde\nbhavaṃ bhavānīsahitaṃ namāmi ||",
+    "meaning": "I bow to Bhava (Śiva), white as camphor, compassion incarnate, the essence of worldly existence, garlanded with the king of serpents, ever dwelling in the lotus of the heart, together with Bhavānī.",
+    "sourceText": "Traditional Shiva dhyana verse",
+    "sourceUrl": "https://sanskritdocuments.org/doc_z_misc_general/shloka2.html",
+    "checkUrl": "https://shlokam.org/karpuragauram/ ; https://sanskritdocuments.org/doc_shiva/rudrapanchakam.html",
+    "whenChanted": "Aarti",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Traditional Śiva dhyāna/ārati verse (commonly said to be from the Yajurveda tradition; no canonical locus confirmed in the fetched sources). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. shlokam.org agrees (writes \"संसारसारम्\" and \"सदावसन्तं\" joined; same reading). Variant: sanskritdocuments Rudra Panchakam reads \"सदा रमन्तं\" (\"always delighting\") instead of \"सदा वसन्तं\" (\"always dwelling\"); the vasantaṃ reading is the one in both other sources. The source verse has a danda only after lines 2 and 4, reproduced as-is."
+  },
+  {
+    "mantraId": "vishnu-shantakaram",
+    "title": "Shantakaram — Vishnu dhyana",
+    "appliesTo": {
+      "deities": [
+        "vishnu",
+        "krishna",
+        "rama"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं\nविश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ।\nलक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यं\nवन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम् ॥",
+    "script": "Devanagari",
+    "transliteration": "śāntākāraṃ bhujagaśayanaṃ padmanābhaṃ sureśaṃ\nviśvādhāraṃ gaganasadṛśaṃ meghavarṇaṃ śubhāṅgam |\nlakṣmīkāntaṃ kamalanayanaṃ yogibhirdhyānagamyaṃ\nvande viṣṇuṃ bhavabhayaharaṃ sarvalokaikanātham ||",
+    "meaning": "I worship Viṣṇu, the peaceful one who reclines on the serpent, lotus-navelled lord of the gods, support of the universe, vast as the sky, cloud-dark and beautiful of form; Lakṣmī's beloved, lotus-eyed, reached by yogis in meditation, remover of the fear of worldly existence, sole lord of all worlds.",
+    "sourceText": "Vishnu dhyana verse (Gita dhyana preliminaries)",
+    "sourceUrl": "https://sanskritdocuments.org/doc_giitaa/bgmahat.html",
+    "checkUrl": "https://sanskritdocuments.org/doc_z_misc_general/shloka3.html ; https://www.drikpanchang.com/vedic-mantra/gods/lord-vishnu/mantra/vishnu-shantakaram-mantra.html",
+    "whenChanted": "Dhyana",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Viṣṇu dhyāna verse (recited as part of the Gītā-dhyāna / Gītā-māhātmya preliminaries). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Both check sources agree word for word; only orthographic differences (shloka3 writes \"शुभांगम्\" with anusvara; drikpanchang writes final \"-म्\" instead of anusvara, e.g. \"शान्ताकारम् भुजगशयनम्\"). No substantive variants."
+  },
+  {
+    "mantraId": "krishna-mahamantra",
+    "title": "Hare Rama Hare Krishna — Maha-mantra",
+    "appliesTo": {
+      "deities": [
+        "krishna"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "हरे राम हरे राम राम राम हरे हरे ।\nहरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे ॥",
+    "script": "Devanagari",
+    "transliteration": "hare rāma hare rāma rāma rāma hare hare |\nhare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare ||",
+    "meaning": "An invocation of the divine names Hari, Rāma and Kṛṣṇa, sixteen names in all; the Upaniṣad teaches that chanting them removes the defects of the Kali age.",
+    "sourceText": "Kali-Santarana Upanishad",
+    "sourceUrl": "https://sanskritdocuments.org/doc_upanishhat/kalisantarana_upan.html",
+    "checkUrl": "https://en.wikipedia.org/wiki/Kali-Santara%E1%B9%87a_Upani%E1%B9%A3ad",
+    "whenChanted": "Any time",
+    "repetitions": 108,
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Kali-Santaraṇa Upaniṣad (Kṛṣṇa Yajurveda), section 2. Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. The Upaniṣad gives the \"Hare Rāma\" half FIRST. Wikipedia confirms this order and notes that the popular order (Hare Kṛṣṇa first, as sung by ISKCON/Gauḍīya tradition following Caitanya) reverses the two lines. If the temple uses the popular order, swap the two lines; do not alter the words."
+  },
+  {
+    "mantraId": "rama-rameti",
+    "title": "Sri Rama Rama Rameti — Rama nama",
+    "appliesTo": {
+      "deities": [
+        "rama"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "श्रीरामरामरामेति रमे रामे मनोरमे ।\nसहस्रनामतत्तुल्यं रामनाम वरानने ॥",
+    "script": "Devanagari",
+    "transliteration": "śrīrāmarāmarāmeti rame rāme manorame |\nsahasranāmatattulyaṃ rāmanāma varānane ||",
+    "meaning": "Śiva tells Pārvatī: \"O fair-faced one, I delight in Rāma, the delightful, by repeating Rāma, Rāma; the one name of Rāma is equal to the thousand names (of Viṣṇu).\"",
+    "sourceText": "Vishnu Sahasranama, phala-shruti",
+    "sourceUrl": "https://sanskritdocuments.org/doc_vishhnu/vsahasranew.html",
+    "checkUrl": "https://stotranidhi.com/en/sri-vishnu-sahasranama-stotram-uttarapeetika-in-english/",
+    "whenChanted": "Any time",
+    "repetitions": 3,
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Viṣṇu Sahasranāma (Mahābhārata, Anuśāsana Parva), uttara-pīṭhikā / phala-śruti, verse 27 (Īśvara uvāca). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. stotranidhi (IAST) matches: \"śrīrāma rāma rāmēti ramē rāmē manōramē | sahasranāma tattulyaṁ rāma nāma varānanē || 27 ||\". Source prints an alternative reading \"(रामरामेति रामेति)\" for the first pāda, removed from the text and recorded here. Popular recitation often spaces it \"श्रीराम राम रामेति\"."
+  },
+  {
+    "mantraId": "narasimha-ugram",
+    "title": "Ugram Viram — Narasimha mantra",
+    "appliesTo": {
+      "deities": [
+        "narasimha"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "उग्रं वीरं महाविष्णुं\nज्वलन्तं सर्वतोमुखम् ।\nनृसिंहं भीषणं भद्रं\nमृत्युमृत्युं नमाम्यहम् ॥",
+    "script": "Devanagari",
+    "transliteration": "ugraṃ vīraṃ mahāviṣṇuṃ\njvalantaṃ sarvatomukham |\nnṛsiṃhaṃ bhīṣaṇaṃ bhadraṃ\nmṛtyumṛtyuṃ namāmyaham ||",
+    "meaning": "I bow to Nṛsiṃha, the fierce and heroic Great Viṣṇu, blazing and facing every direction; terrifying yet auspicious, the death of Death itself.",
+    "sourceText": "Nrisimha Purva-tapaniya Upanishad (Mantraraja)",
+    "sourceUrl": "https://www.bhaktibharat.com/mantra/narasimha-mantra",
+    "checkUrl": "https://sanskritdocuments.org/doc_upanishhat/nrisinha.html ; https://shlokam.org/shloka/ugram-veeram-maha-vishnum.htm",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Nṛsiṃha Mantrarāja (anuṣṭubh), expounded pada by pada in the Nṛsiṃha Pūrva-tāpanīya Upaniṣad (Atharvaveda). Devanagari copied from bhaktibharat (sanskritdocuments has no clean contiguous copy of the verse). Cross-checked word by word against the Nṛsiṃha-tāpanīya Upaniṣad on sanskritdocuments, which lists the eleven padas: उग्रं, वीरं, महाविष्णुं, ज्वलन्तं, सर्वतोमुखं, नृसिंहं, भीषणं, भद्रं, मृत्युमृत्युं, नमामि, अहम् — all match. Removed the leading \"ॐ\" printed on the source (a customary prefix, not part of the 32-syllable anuṣṭubh); add it back if the temple chants it. Variant: shlokam.org reads \"मृत्योर् मृत्युं\" (mṛtyor mṛtyuṃ, \"death of death\" as two words); the Upaniṣad has the compound \"मृत्युमृत्युं\", used here. IAST generated mechanically from the Devanagari."
+  },
+  {
+    "mantraId": "devi-sarvamangala",
+    "title": "Sarva Mangala Mangalye — Devi stuti",
+    "appliesTo": {
+      "deities": [
+        "devi"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके ।\nशरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥",
+    "script": "Devanagari",
+    "transliteration": "sarvamaṅgalamāṅgalye śive sarvārthasādhike |\nśaraṇye tryambake gauri nārāyaṇi namo'stu te ||",
+    "meaning": "O auspiciousness of all that is auspicious, O gracious Śivā who fulfils every aim, O refuge, three-eyed Gaurī — Nārāyaṇī, salutations to you.",
+    "sourceText": "Devi Mahatmyam 11.10",
+    "sourceUrl": "https://sanskritdocuments.org/doc_devii/durga700.html",
+    "checkUrl": "https://vignanam.org/english/devi-mahatmyam-durga-saptasati-chapter-11.html",
+    "whenChanted": "Aarti",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Devī Māhātmyam (Durgā Saptaśatī, Mārkaṇḍeya Purāṇa) 11.10. Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Source numbers it ॥ ११.१०॥. vignanam (verse 10) matches in substance: \"sarva maṅgaḻa māṅgaḻyē śivē sarvārtha sādhikē। śaraṇyē trayambakē gaurī nārāyaṇi namō'stutē\" — its \"trayambakē\"/\"gaurī\" are orthographic slips for tryambake/gauri; sanskritdocuments reading kept."
+  },
+  {
+    "mantraId": "devi-yadevi",
+    "title": "Ya Devi Sarvabhuteshu — Devi stuti",
+    "appliesTo": {
+      "deities": [
+        "devi"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+    "script": "Devanagari",
+    "transliteration": "yā devī sarvabhūteṣu śaktirūpeṇa saṃsthitā |\nnamastasyai namastasyai namastasyai namo namaḥ ||",
+    "meaning": "To the Goddess who dwells in all beings in the form of power (śakti): salutations to her, salutations to her, salutations to her, again and again.",
+    "sourceText": "Devi Mahatmyam, chapter 5",
+    "sourceUrl": "https://sanskritdocuments.org/doc_devii/durga700.html",
+    "checkUrl": "https://vignanam.org/english/devi-mahatmyam-durga-saptasati-chapter-5.html",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Devī Māhātmyam (Durgā Saptaśatī) 5.32–34 (the śakti-rūpeṇa verse of the Aparājitā-stuti). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Source numbers it ॥ ५.३२-३४॥ (the refrain counts as three ślokas in the 700-verse count); vignanam numbers it 18 in its own count. Wording identical apart from a vignanam orthographic slip \"sarvabhūtēṣū\" (long ū). Do NOT use sanskritdocuments shloka1.html for this verse — it has typos (\"शक्तिरुपेण संस्थितः\")."
+  },
+  {
+    "mantraId": "lakshmi-namastestu",
+    "title": "Namastestu Mahamaye — Mahalakshmi Ashtakam",
+    "appliesTo": {
+      "deities": [
+        "lakshmi"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥",
+    "script": "Devanagari",
+    "transliteration": "namaste'stu mahāmāye śrīpīṭhe surapūjite |\nśaṅkhacakragadāhaste mahālakṣmi namo'stu te ||",
+    "meaning": "Salutations to you, O Great Māyā, seated on the throne of prosperity, worshipped by the gods; O Mahālakṣmī, holding conch, discus and mace, salutations to you.",
+    "sourceText": "Mahalakshmi Ashtakam, verse 1",
+    "sourceUrl": "https://sanskritdocuments.org/doc_devii/mahaalakshmyashhTakaM.html",
+    "checkUrl": "https://stotranidhi.com/en/mahalakshmi-ashtakam-in-english/",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Mahālakṣmyaṣṭakam (spoken by Indra; traditionally assigned to the Padma Purāṇa), verse 1. Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Source prefixes \"इन्द्र उवाच ।\" (Indra said), omitted from the verse. stotranidhi matches: \"namastē:'stu mahāmāyē śrīpīṭhē surapūjitē | śaṅkhacakragadāhastē mahālakṣmi namō:'stu tē\". The Padma Purāṇa attribution is traditional and was not confirmed in the fetched sources."
+  },
+  {
+    "mantraId": "murugan-saravanabhava",
+    "title": "Om Saravanabhava — Murugan shadakshara",
+    "appliesTo": {
+      "deities": [
+        "murugan"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "ॐ शरवणभव",
+    "script": "Devanagari",
+    "transliteration": "oṃ śaravaṇabhava",
+    "meaning": "\"Om, (salutation to) the one born in the Śaravaṇa reed-pond\" — the six-syllable (śa-ra-va-ṇa-bha-va) mantra of Murugan/Skanda.",
+    "sourceText": "Subrahmanya shadakshara mantra",
+    "sourceUrl": "https://sanskritdocuments.org/sanskrit/subrahmanya/",
+    "checkUrl": "https://sanskritdocuments.org/doc_subrahmanya/sharavanabhavamantrAkSharaShaTkam.html ; https://tamil.webdunia.com/special-astro-predictions/of-lord-murugan-the-meaning-of-saravanabava-mantra-119072500046_1.html",
+    "whenChanted": "Any time",
+    "repetitions": 108,
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Subrahmaṇya ṣaḍakṣara mantra (six-syllable mantra of Skanda/Murugan). \"ॐ शरवणभव\" copied from the sanskritdocuments Subrahmanya index entry \"सुब्रह्मण्यषडशाक्षरमन्त्रः २ (ॐ शरवणभव)\"; the linked document page itself returned 404 when fetched, so only the index title was verified. The Śaravaṇabhava Mantrākṣara Ṣaṭkam on sanskritdocuments devotes one verse to each syllable (श, र, व, न, भ, व) — note it spells the 4th syllable with dental न in its title and verse; the ṇ spelling (शरवणभव) is the one in the mantra entry and in Tamil \"சரவணபவ\". Tamil source (webdunia) calls \"சரவணபவ\" Murugan's ṣaḍakṣara (six-letter) mantra. Tamil-script form for display: \"ஓம் சரவணபவ\" (Om + the Tamil spelling from webdunia; the combined string was not found verbatim on a fetched page). IAST generated mechanically from the Devanagari."
+  },
+  {
+    "mantraId": "ayyappan-saranam",
+    "title": "Swamiye Saranam Ayyappa — pilgrim chant",
+    "appliesTo": {
+      "deities": [
+        "ayyappan"
+      ]
+    },
+    "group": "Pilgrim chant",
+    "textOriginal": "സ്വാമിയേ ശരണമയ്യപ്പാ",
+    "script": "Malayalam",
+    "transliteration": "svāmiye śaraṇamayyappā",
+    "meaning": "\"O Lord Ayyappa, you are my refuge\" — the surrender-call chanted by Sabarimala pilgrims.",
+    "sourceText": "Sabarimala pilgrim chant",
+    "sourceUrl": "https://janmabhumi.in/2021/01/25/2983748/news/kerala/sabarimala-ayyappa-seva-samajam-congratulated-by-the-central-governmentummy/",
+    "checkUrl": "http://bhakthimargamofficial.blogspot.com/2017/12/blog-post_17.html ; https://www.hinduismtoday.com/magazine/may-1996/1996-05-swamiye-saranam-ayyappa-exult-sixty-million-pilgrims/",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Śaraṇam-vili (pilgrim chant) of Sabarimala Ayyappa devotees; not a scriptural text. Malayalam copied from Janmabhumi (body text: \"സ്വാമിയേ ശരണമയ്യപ്പാ\", described as the navākṣarī — nine-syllable — mantra among the śaraṇam calls); the article headline spells it without the final long ā (\"ശരണമയ്യപ്പ\"). Bhakthi Margam blog uses the same \"ശരണമയ്യപ്പാ\" spelling. Hinduism Today (1996) describes the chant in English as \"Swamiye, Saranam Ayyappa\". IAST generated mechanically (Malayalam->IAST); note Malayalam േ is long ē, rendered \"e\" by IAST convention. Chant, not scripture; no authorship/copyright issue."
+  },
+  {
+    "mantraId": "surya-japakusuma",
+    "title": "Japa Kusuma — Surya (Navagraha Stotram)",
+    "appliesTo": {
+      "deities": [
+        "surya"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "जपाकुसुमसंकाशं काश्यपेयं महाद्युतिम् ।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+    "script": "Devanagari",
+    "transliteration": "japākusumasaṃkāśaṃ kāśyapeyaṃ mahādyutim |\ntamo'riṃ sarvapāpaghnaṃ praṇato'smi divākaram ||",
+    "meaning": "I bow to the Sun, the maker of day, red as the hibiscus flower, son of Kaśyapa, of great brilliance, the enemy of darkness and destroyer of all sins.",
+    "sourceText": "Navagraha Stotram (Vyasa), verse 1",
+    "sourceUrl": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html",
+    "checkUrl": "https://stotranidhi.com/en/navagraha-stotram-in-english/ ; https://shlokam.org/shloka/nava-graha-stotram.htm",
+    "whenChanted": "Dawn",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Navagraha Stotram (attributed to Vyāsa), verse 1 (Sūrya). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Both check sources match word for word (stotranidhi: \"japākusumasaṅkāśaṁ kāśyapēyaṁ mahādyutim | tamō:'riṁ sarvapāpaghnaṁ praṇatō:'smi divākaram\"). Source writes संकाशं with anusvara; saṅkāśaṃ is the same word."
+  },
+  {
+    "mantraId": "ganga-gangecha",
+    "title": "Gange cha Yamune — sacred rivers",
+    "appliesTo": {
+      "deities": [
+        "river"
+      ]
+    },
+    "group": "Stotram",
+    "textOriginal": "गङ्गे च यमुने चैव गोदावरि सरस्वति ।\nनर्मदे सिन्धु कावेरि जलेऽस्मिन् संनिधिं कुरु ॥",
+    "script": "Devanagari",
+    "transliteration": "gaṅge ca yamune caiva godāvari sarasvati |\nnarmade sindhu kāveri jale'smin saṃnidhiṃ kuru ||",
+    "meaning": "O Gaṅgā, Yamunā, Godāvarī, Sarasvatī, Narmadā, Sindhu and Kāverī — be present in this water.",
+    "sourceText": "Traditional water-sanctifying verse",
+    "sourceUrl": "https://shlokam.org/gangeca/",
+    "checkUrl": "https://groups.google.com/g/bvparishat/c/RIwtN-O18Uk ; http://joyfulslokas.blogspot.com/2013/11/sloka-before-bath.html",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Traditional water-sanctifying (snana) verse. Devanagari copied from shlokam.org; the source prints no dandas, so \"।\" and \"॥\" were added at the half-verse and verse end (punctuation only). The bvparishat thread quotes the identical text \"गङ्गे च यमुने चैव गोदावरि सरस्वति। नर्मदे सिन्धु कावेरि जलेऽस्मिन्सन्निधिं कुरु।\" (read via summarising fetch, so treat as a secondary check). Common corrupt variant (joyfulslokas blog, many posters): \"गोदावरी सरस्वती / नर्मदा ... कावेरी ... सन्निधम्\" — these lose the vocative endings and should not be used. sanskritdocuments has no copy. IAST generated mechanically from the Devanagari."
+  },
+  {
+    "mantraId": "sai-omsairam",
+    "title": "Om Sai Ram — devotional chant",
+    "appliesTo": {
+      "deities": [
+        "sai"
+      ]
+    },
+    "group": "Pilgrim chant",
+    "textOriginal": "Om Sai Ram",
+    "script": "Latin",
+    "transliteration": "Om Sai Ram",
+    "meaning": "A devotional name-chant: \"Om\" joined with the name of Sai Baba and of Rāma, used by devotees as japa and as a greeting.",
+    "sourceText": "Devotional chant of Sai devotees",
+    "sourceUrl": "http://www.babasaiofshirdi.org/2009/03/whats-meaning-of-om-sai-ram.html",
+    "checkUrl": "https://auraofshirdisai.org/chant-aum-sai-ram/ ; https://www.sathyasai.org/organisation/the-sairam-greeting",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Devotional chant / greeting of Sai Baba devotees (not scripture). Chant, not scripture. Sources describe \"Om Sai Ram\" / \"Aum Sai Ram\" as a chant and greeting among Shirdi Sai Baba devotees; the Sathya Sai organisation page describes the related \"Sai Ram\" greeting. No Devanagari string was found on a fetched page, so script is Latin; a Devanagari form (e.g. for Hindi display) needs a source before adding. A three-word devotional phrase carries no authorship/copyright risk, but note the association differs between Shirdi Sai (d. 1918) and Sathya Sai (modern) devotees — confirm which the temple means."
+  },
+  {
+    "mantraId": "jyotirlinga-smaranam",
+    "title": "Dvadasha Jyotirlinga Smaranam",
+    "appliesTo": {
+      "classifications": [
+        "jyotirlinga"
+      ]
+    },
+    "group": "Jyotirlinga",
+    "textOriginal": "सौराष्ट्रे सोमनाथं च श्रीशैले मल्लिकार्जुनम् ।\nउज्जयिन्यां महाकालमोङ्कारममलेश्वरम् ॥\nपरल्यां वैद्यनाथं च डाकिन्यां भीमशङ्करम् ।\nसेतुबन्धे तु रामेशं नागेशं दारुकावने ॥\nवाराणस्यां तु विश्वेशं त्र्यम्बकं गौतमीतटे ।\nहिमालये तु केदारं घुश्मेशं च शिवालये ॥\nएतानि ज्योतिर्लिङ्गानि सायं प्रातः पठेन्नरः ।\nसप्तजन्मकृतं पापं स्मरणेन विनश्यति ॥",
+    "script": "Devanagari",
+    "transliteration": "saurāṣṭre somanāthaṃ ca śrīśaile mallikārjunam |\nujjayinyāṃ mahākālamoṅkāramamaleśvaram ||\nparalyāṃ vaidyanāthaṃ ca ḍākinyāṃ bhīmaśaṅkaram |\nsetubandhe tu rāmeśaṃ nāgeśaṃ dārukāvane ||\nvārāṇasyāṃ tu viśveśaṃ tryambakaṃ gautamītaṭe |\nhimālaye tu kedāraṃ ghuśmeśaṃ ca śivālaye ||\netāni jyotirliṅgāni sāyaṃ prātaḥ paṭhennaraḥ |\nsaptajanmakṛtaṃ pāpaṃ smaraṇena vinaśyati ||",
+    "meaning": "A remembrance of the twelve Jyotirliṅgas: Somanātha in Saurāṣṭra, Mallikārjuna at Śrīśaila, Mahākāla at Ujjayinī, Amaleśvara at Oṃkāra, Vaidyanātha at Paralī, Bhīmaśaṅkara in Ḍākinī, Rāmeśa at Setubandha, Nāgeśa in Dārukāvana, Viśveśa at Vārāṇasī, Tryambaka on the Gautamī, Kedāra in the Himālaya, and Ghuśmeśa at Śivālaya. Whoever recites these names morning and evening is freed of the sins of seven births.",
+    "sourceText": "Dvadasha Jyotirlinga Smaranam (traditional)",
+    "sourceUrl": "https://sanskritdocuments.org/doc_shiva/jyotirling.html",
+    "checkUrl": "https://vignanam.org/english/dwadasa-jyotirlinga-stotram.html",
+    "whenChanted": "Any time",
+    "restriction": "public",
+    "checkedBy": "Fetched from source and cross-checked against a second source (automated extraction, 2026-09-28); awaiting CNESS editor review",
+    "checkedDate": "2026-09-28",
+    "notes": "Source detail: Dvādaśa Jyotirliṅga Smaraṇam (traditional; no scriptural locus stated on the source page). Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Includes the three name-verses plus the phala verse \"एतानि ज्योतिर्लिङ्गानि…\". The source has one more phala verse (\"एतेशां दर्शनादेव पातकं नैव तिष्ठति । कर्मक्षयो भवेत्तस्य यस्य तुष्टो महेश्वराः ॥\") which contains apparent typos (एतेशां for एतेषां; महेश्वराः for महेश्वरः) and is absent from vignanam — omitted pending a clean source. Source prints alternative readings \"(घृष्णेशं, घृसृणेशं)\" after घुश्मेशं — removed from the text. DISAGREEMENTS with vignanam: line 2 vignanam \"ōṅkārētvamāmalēśvaram\" (= ओङ्कारे त्वममलेश्वरम्) vs source \"मोङ्कारममलेश्वरम्\"; line 6 vignanam \"ghṛṣṇēśantu viśālakē\" vs source \"घुश्मेशं च शिवालये\"; vignanam also has orthographic differences (\"sōmanādha\", \"parlyāṃ\", \"trayambakaṃ\", \"vāraṇāśyāntu\", \"ḍhākinyāṃ\"). The source (sanskritdocuments) readings were kept."
+  }
+]

@@ -1,7 +1,10 @@
 /**
  * Merges researched enrichment files into data/temples/.
  *
- *   npx tsx scripts/apply-enrichment.mts [--dry-run] [--only <slug>]
+ *   npx tsx scripts/apply-enrichment.mts [--dry-run] [--only <slug>] [--dir <patch dir>]
+ *
+ * --dir defaults to research/enrichment; research/mantras holds the
+ * temple-specific hymn patches (sources + mantras only).
  *
  * Research agents write one patch per temple into research/enrichment/<slug>.json
  * and never touch data/temples/ themselves — concurrent writers would corrupt the
@@ -44,6 +47,7 @@ const SHEET_FOR: Record<string, SheetId> = {
   festivals: "07_Festivals",
   media: "08_Media",
   sources: "09_Sources",
+  mantras: "13_Mantras",
 };
 
 /** Array fields every record of a sheet must carry, so records normalise identically. */
@@ -53,6 +57,7 @@ const ARRAY_DEFAULTS: Partial<Record<SheetId, string[]>> = {
   "05_Shrines_Route": ["sourceIds", "linkedMediaIds"],
   "06_Pooja_Seva": ["sourceIds", "linkedMediaIds"],
   "07_Festivals": ["sourceIds", "linkedMediaIds"],
+  "13_Mantras": ["sourceIds", "linkedShrineIds"],
 };
 
 function pruneToSchema(
@@ -89,7 +94,8 @@ const DRY = process.argv.includes("--dry-run");
 const onlyIndex = process.argv.indexOf("--only");
 const ONLY = onlyIndex >= 0 ? process.argv[onlyIndex + 1] : undefined;
 
-const PATCH_DIR = path.join(process.cwd(), "research", "enrichment");
+const dirIndex = process.argv.indexOf("--dir");
+const PATCH_DIR = path.resolve(dirIndex >= 0 ? process.argv[dirIndex + 1] : path.join("research", "enrichment"));
 const DATA_DIR = path.join(process.cwd(), "data", "temples");
 
 type Patch = Partial<Temple> & { slug?: string };
@@ -250,6 +256,7 @@ function apply(slug: string): { ok: boolean; message: string; dropped?: string[]
     ["shrines", "shrineId", (_i, i) => `SHR${pad(i + 1)}`],
     ["poojas", "poojaId", (_i, i) => `PUJ${pad(i + 1)}`],
     ["festivals", "festivalId", (_i, i) => `FES${pad(i + 1)}`],
+    ["mantras", "mantraId", (_i, i) => `MAN${pad(i + 1)}`],
   ];
   for (const [key, idField, mint] of collections) {
     const existing = temple[key] as unknown as Bag[];

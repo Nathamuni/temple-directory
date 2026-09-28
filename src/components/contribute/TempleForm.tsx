@@ -354,6 +354,23 @@ export default function TempleForm({
           })}
         />
         )}
+        {show("mantras") && (
+        <RecordTable
+          sheet="13_Mantras"
+          title="Temple-specific mantra / hymn"
+          rows={draft.mantras as unknown as Record<string, unknown>[]}
+          onChange={(rows) => setCollection("mantras", rows)}
+          sourceOptions={sourceOptions}
+          newRow={(i) => ({
+            mantraId: `MAN${pad(i + 1)}`,
+            title: "",
+            restriction: "public",
+            linkedShrineIds: [],
+            sourceIds: [],
+            verificationStatus: "sourced",
+          })}
+        />
+        )}
 
         {revision && confirmableAreas.length > 0 && (
           <div className="formgroup">

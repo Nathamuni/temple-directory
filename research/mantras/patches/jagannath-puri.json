@@ -1,0 +1,36 @@
+{
+  "slug": "jagannath-puri",
+  "sources": [
+    {
+      "sourceId": "SRCM1",
+      "sourceType": "scripture",
+      "title": "Jagannāthāṣṭakam (attributed to Ādi Śaṅkarācārya), verse 1 — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_vishhnu/jagannAthAShTaka.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Jagannathashtakam (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://vignanam.org/english/jagannatha-ashtakam.html",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Jagannathashtakam (verse 1)",
+      "group": "Stotram",
+      "textOriginal": "कदाचित्कालिन्दीतटविपिनसङ्गीतकरवो\nमुदा गोपीनारीवदनकमलास्वादमधुपः ।\nरमाशम्भुब्रह्मामरपतिगणेशार्चितपदो\nजगन्नाथः स्वामी नयनपथगामी भवतु मे ॥",
+      "script": "Devanagari",
+      "transliteration": "kadācitkālindītaṭavipinasaṅgītakaravo\nmudā gopīnārīvadanakamalāsvādamadhupaḥ |\nramāśambhubrahmāmarapatigaṇeśārcitapado\njagannāthaḥ svāmī nayanapathagāmī bhavatu me ||",
+      "meaning": "May Lord Jagannātha become visible to my eyes — he who at times makes music in the groves on the Yamunā's bank, who like a bee joyfully tastes the lotus faces of the cowherd women, and whose feet are worshipped by Lakṣmī, Śiva, Brahmā, Indra and Gaṇeśa.",
+      "sourceText": "Jagannāthāṣṭakam (attributed to Ādi Śaṅkarācārya), verse 1",
+      "whenChanted": "Any time",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRCM1"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Source prints variant readings inline: \"var कवरो\" (for करवो, line 1) and \"var भीरी\" (line 2) — removed from the text. DISAGREEMENT: vignanam line 2 reads \"mudābhīrī nārīvadana…\" (मुदाभीरीनारी-, \"the Ābhīra (cowherd) women\") where the source reads \"मुदा गोपीनारी-\" — this is exactly the source's own \"var भीरी\" variant. Same meaning; the source reading was kept. Rest matches."
+    }
+  ]
+}

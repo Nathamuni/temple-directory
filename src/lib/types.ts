@@ -289,6 +289,38 @@ export interface SourceRecord {
 }
 
 /* ------------------------------------------------------------------ *
+ * 13_Mantras — temple-specific hymns
+ *
+ * General deity slokas are NOT stored here; they live once in
+ * data/mantra-library.json and are matched to a temple by its deity.
+ * A row here is temple-specific and is shown publicly only once the
+ * temple's priest has verified it (authority-verified).
+ * ------------------------------------------------------------------ */
+
+export type MantraRestriction = "public" | "name_only";
+
+export interface MantraRecord extends Provenance {
+  mantraId: string;
+  title: string;
+  group?: string;
+  textOriginal?: string;
+  script?: string;
+  transliteration?: string;
+  meaning?: string;
+  sourceText?: string;
+  whenChanted?: string;
+  repetitions?: number;
+  linkedSopStepId?: string;
+  linkedShrineIds: string[];
+  linkedFestivalId?: string;
+  /** name_only: chanting needs initiation, so the text is never shown. */
+  restriction?: MantraRestriction;
+  audioUrl?: string;
+  audioLicense?: string;
+  editorNotes?: string;
+}
+
+/* ------------------------------------------------------------------ *
  * Product features with no column in the workbook
  * ------------------------------------------------------------------ */
 
@@ -408,6 +440,7 @@ export interface Temple {
   festivals: FestivalRecord[];
   media: MediaItem[];
   sources: SourceRecord[];
+  mantras: MantraRecord[];
 
   extensions: TempleExtensions;
 }

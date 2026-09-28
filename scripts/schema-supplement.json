@@ -1,0 +1,32 @@
+{
+  "_comment": "Sheets and lookups not yet in Temple_Directory_Input_Schema.xlsx. gen-schema.mts merges these after the workbook's own 10_Column_Dictionary and 11_Lookups, so the registry can grow without hand-editing the .xlsx (exceljs cannot round-trip its comments and tables). Every column here is Optional so a temple with no temple-specific mantras is not scored incomplete; row-level rules live in validate.ts. Columns: sheet, column, data_type, requirement, repeatable, description, source_required, public_section.",
+  "dictionary": [
+    ["13_Mantras", "temple_id", "Text", "Optional", "Yes", "Join key to 01_Temple_Master", "No", "Prayers & slokas"],
+    ["13_Mantras", "mantra_id", "Text", "Optional", "Yes", "MAN001, MAN002… unique within the temple", "No", "Prayers & slokas"],
+    ["13_Mantras", "title", "Text", "Optional", "Yes", "Name of the hymn or mantra, e.g. Sri Venkatesa Suprabhatam (verse 1)", "No", "Prayers & slokas"],
+    ["13_Mantras", "mantra_group", "Lookup", "Optional", "Yes", "Stotram / Suprabhatam / Jyotirlinga / Thevaram / Divya Prabandham / Pilgrim chant / Other", "No", "Prayers & slokas"],
+    ["13_Mantras", "text_original", "Long text", "Optional", "Yes", "Exact text in its original script, copied from the cited source. Never shown until a temple priest verifies it.", "Yes", "Prayers & slokas"],
+    ["13_Mantras", "script", "Lookup", "Optional", "Yes", "Script of text_original", "No", "Prayers & slokas"],
+    ["13_Mantras", "transliteration", "Long text", "Optional", "Yes", "Roman-script reading (IAST preferred)", "Yes", "Prayers & slokas"],
+    ["13_Mantras", "meaning", "Long text", "Optional", "Yes", "Plain-language meaning written by the team, not copied from a modern translation", "No", "Prayers & slokas"],
+    ["13_Mantras", "source_text", "Text", "Optional", "Yes", "Scripture or work it comes from, e.g. Narayaneeyam 1.1", "Yes", "Prayers & slokas"],
+    ["13_Mantras", "when_chanted", "Lookup", "Optional", "Yes", "Moment in worship when it is chanted", "No", "Prayers & slokas"],
+    ["13_Mantras", "repetitions", "Integer", "Optional", "Yes", "Customary count, e.g. 3, 11, 108", "No", "Prayers & slokas"],
+    ["13_Mantras", "linked_sop_step_id", "Text", "Optional", "Yes", "SOP step this is chanted at", "No", "Prayers & slokas"],
+    ["13_Mantras", "linked_shrine_ids", "Text", "Optional", "Yes", "Semicolon-separated shrine IDs", "No", "Prayers & slokas"],
+    ["13_Mantras", "linked_festival_id", "Text", "Optional", "Yes", "Festival this belongs to", "No", "Prayers & slokas"],
+    ["13_Mantras", "restriction", "Lookup", "Optional", "Yes", "public, or name_only when chanting needs initiation (text is then never shown)", "No", "Prayers & slokas"],
+    ["13_Mantras", "audio_url", "URL", "Optional", "Yes", "Recording of correct pronunciation (temple-made or licensed)", "No", "Prayers & slokas"],
+    ["13_Mantras", "audio_license", "Text", "Optional", "Yes", "Licence / permission for the recording", "No", "Prayers & slokas"],
+    ["13_Mantras", "source_ids", "Text", "Optional", "Yes", "Semicolon-separated source IDs", "Yes", "Prayers & slokas"],
+    ["13_Mantras", "verification_status", "Lookup", "Optional", "Yes", "sourced / authority-verified — public only when authority-verified", "Yes", "Prayers & slokas"],
+    ["13_Mantras", "last_verified_date", "Date", "Optional", "Yes", "Last verification date", "No", "Prayers & slokas"],
+    ["13_Mantras", "editor_notes", "Long text", "Optional", "Yes", "Internal notes", "No", "Prayers & slokas"]
+  ],
+  "lookups": {
+    "Mantra Group": ["Stotram", "Suprabhatam", "Jyotirlinga", "Thevaram", "Divya Prabandham", "Pilgrim chant", "Other"],
+    "Script": ["Devanagari", "Tamil", "Telugu", "Kannada", "Malayalam", "Bengali", "Gujarati", "Odia", "Latin"],
+    "When Chanted": ["Entry", "Dhyana", "Pradakshina", "Archana", "Aarti", "Dawn", "Closing", "Festival", "Any time"],
+    "Restriction": ["public", "name_only"]
+  }
+}

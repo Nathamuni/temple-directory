@@ -38,7 +38,8 @@ function recordsFor(temple: Temple, sheet: SheetId): { record: unknown; prefix: 
   if (sheet === "01_Temple_Master") return [{ record: temple, prefix: "" }];
   if (!collection) return [];
   if (sheet === "02_Visiting_Info") return [{ record: temple.visitingInfo, prefix: "visitingInfo." }];
-  const array = temple[collection] as unknown[];
+  // Files written before a collection existed (e.g. mantras) simply lack it.
+  const array = (temple[collection] as unknown[] | undefined) ?? [];
   return array.map((record, index) => ({ record, prefix: `${collection}[${index}].` }));
 }
 
@@ -137,6 +138,27 @@ function crossFieldIssues(temple: Temple): ValidationIssue[] {
         "Temple layout / worship route",
         `"${shrine.shrineName}" has a worship order or pradakshina count but is "${shrine.verificationStatus}" — the order will not be shown publicly`
       );
+    }
+  });
+
+  // Temple-specific hymns: every column is Optional in the schema (so a temple
+  // with none is not scored incomplete), so row-level rules live here.
+  const seenMantraIds = new Set<string>();
+  (temple.mantras ?? []).forEach((mantra, index) => {
+    const at = `mantras[${index}]`;
+    if (!mantra.title?.trim()) add("error", `${at}.title`, "Prayers & slokas", `mantra ${mantra.mantraId || index + 1} has no title`);
+    if (!mantra.mantraId?.trim()) add("error", `${at}.mantraId`, "Prayers & slokas", `mantra "${mantra.title}" has no mantra_id`);
+    else if (seenMantraIds.has(mantra.mantraId)) add("error", `${at}.mantraId`, "Prayers & slokas", `mantra_id ${mantra.mantraId} is used twice`);
+    seenMantraIds.add(mantra.mantraId);
+    if (mantra.restriction === "name_only") {
+      if (mantra.textOriginal || mantra.transliteration) {
+        add("warning", `${at}.textOriginal`, "Prayers & slokas", `"${mantra.title}" is name_only — its text is stored but will never be shown`);
+      }
+    } else if (mantra.textOriginal && !mantra.sourceIds?.length) {
+      add("warning", `${at}.sourceIds`, "Prayers & slokas", `"${mantra.title}" has text but no source`);
+    }
+    if (mantra.textOriginal && mantra.verificationStatus !== "authority-verified") {
+      add("warning", at, "Prayers & slokas", `"${mantra.title}" is "${mantra.verificationStatus}" — it stays hidden until the temple's priest verifies it`);
     }
   });
 

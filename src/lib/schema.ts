@@ -18,7 +18,8 @@ export type SheetId =
   | "06_Pooja_Seva"
   | "07_Festivals"
   | "08_Media"
-  | "09_Sources";
+  | "09_Sources"
+  | "13_Mantras";
 
 export type DataType =
   | "Text"
@@ -165,6 +166,41 @@ export const LOOKUPS: Record<string, string[]> = {
     "Malayalam",
     "Sanskrit",
     "Other"
+  ],
+  "Mantra Group": [
+    "Stotram",
+    "Suprabhatam",
+    "Jyotirlinga",
+    "Thevaram",
+    "Divya Prabandham",
+    "Pilgrim chant",
+    "Other"
+  ],
+  "Script": [
+    "Devanagari",
+    "Tamil",
+    "Telugu",
+    "Kannada",
+    "Malayalam",
+    "Bengali",
+    "Gujarati",
+    "Odia",
+    "Latin"
+  ],
+  "When Chanted": [
+    "Entry",
+    "Dhyana",
+    "Pradakshina",
+    "Archana",
+    "Aarti",
+    "Dawn",
+    "Closing",
+    "Festival",
+    "Any time"
+  ],
+  "Restriction": [
+    "public",
+    "name_only"
   ]
 };
 
@@ -179,6 +215,7 @@ export const SHEET_COLLECTION: Record<SheetId, keyof import("./types").Temple | 
   "07_Festivals": "festivals",
   "08_Media": "media",
   "09_Sources": "sources",
+  "13_Mantras": "mantras",
 };
 
 export const FIELD_SPECS: FieldSpec[] = [
@@ -351,6 +388,27 @@ export const FIELD_SPECS: FieldSpec[] = [
   { sheet: "09_Sources", column: "reliability_note", path: "reliabilityNote", dataType: "Long text", requirement: "Optional", repeatable: true, publicSection: "References", sourceRequired: "N/A", description: "Limitations/conflicts" },
   { sheet: "09_Sources", column: "archived_url", path: "archivedUrl", dataType: "URL", requirement: "Optional", repeatable: true, publicSection: "References", sourceRequired: "N/A", description: "Archive link" },
   { sheet: "09_Sources", column: "admin_approved", path: "adminApproved", dataType: "Boolean", requirement: "Required", repeatable: true, publicSection: "References", sourceRequired: "N/A", description: "Source accepted by editor?" },
+  { sheet: "13_Mantras", column: "temple_id", path: null, dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Join key to 01_Temple_Master" },
+  { sheet: "13_Mantras", column: "mantra_id", path: "mantraId", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "MAN001, MAN002… unique within the temple" },
+  { sheet: "13_Mantras", column: "title", path: "title", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Name of the hymn or mantra, e.g. Sri Venkatesa Suprabhatam (verse 1)" },
+  { sheet: "13_Mantras", column: "mantra_group", path: "group", dataType: "Lookup", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", lookup: "Mantra Group", description: "Stotram / Suprabhatam / Jyotirlinga / Thevaram / Divya Prabandham / Pilgrim chant / Other" },
+  { sheet: "13_Mantras", column: "text_original", path: "textOriginal", dataType: "Long text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "Yes", description: "Exact text in its original script, copied from the cited source. Never shown until a temple priest verifies it." },
+  { sheet: "13_Mantras", column: "script", path: "script", dataType: "Lookup", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", lookup: "Script", description: "Script of text_original" },
+  { sheet: "13_Mantras", column: "transliteration", path: "transliteration", dataType: "Long text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "Yes", description: "Roman-script reading (IAST preferred)" },
+  { sheet: "13_Mantras", column: "meaning", path: "meaning", dataType: "Long text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Plain-language meaning written by the team, not copied from a modern translation" },
+  { sheet: "13_Mantras", column: "source_text", path: "sourceText", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "Yes", description: "Scripture or work it comes from, e.g. Narayaneeyam 1.1" },
+  { sheet: "13_Mantras", column: "when_chanted", path: "whenChanted", dataType: "Lookup", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", lookup: "When Chanted", description: "Moment in worship when it is chanted" },
+  { sheet: "13_Mantras", column: "repetitions", path: "repetitions", dataType: "Integer", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Customary count, e.g. 3, 11, 108" },
+  { sheet: "13_Mantras", column: "linked_sop_step_id", path: "linkedSopStepId", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "SOP step this is chanted at" },
+  { sheet: "13_Mantras", column: "linked_shrine_ids", path: "linkedShrineIds", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", list: true, description: "Semicolon-separated shrine IDs" },
+  { sheet: "13_Mantras", column: "linked_festival_id", path: "linkedFestivalId", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Festival this belongs to" },
+  { sheet: "13_Mantras", column: "restriction", path: "restriction", dataType: "Lookup", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", lookup: "Restriction", description: "public, or name_only when chanting needs initiation (text is then never shown)" },
+  { sheet: "13_Mantras", column: "audio_url", path: "audioUrl", dataType: "URL", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Recording of correct pronunciation (temple-made or licensed)" },
+  { sheet: "13_Mantras", column: "audio_license", path: "audioLicense", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Licence / permission for the recording" },
+  { sheet: "13_Mantras", column: "source_ids", path: "sourceIds", dataType: "Text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "Yes", list: true, description: "Semicolon-separated source IDs" },
+  { sheet: "13_Mantras", column: "verification_status", path: "verificationStatus", dataType: "Lookup", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "Yes", lookup: "Verification Status", description: "sourced / authority-verified — public only when authority-verified" },
+  { sheet: "13_Mantras", column: "last_verified_date", path: "lastVerifiedDate", dataType: "Date", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Last verification date" },
+  { sheet: "13_Mantras", column: "editor_notes", path: "editorNotes", dataType: "Long text", requirement: "Optional", repeatable: true, publicSection: "Prayers & slokas", sourceRequired: "No", description: "Internal notes" },
 ];
 
 export function specsForSheet(sheet: SheetId): FieldSpec[] {
@@ -362,4 +420,4 @@ export function requiredSpecs(sheet: SheetId): FieldSpec[] {
 }
 
 /** Distinct public sections, in workbook order — the page's section list. */
-export const PUBLIC_SECTIONS: string[] = ["Identity / History","Plan your visit","How to worship","Temple layout / worship route","Daily worship / sevas","Festivals","Hero / gallery / inline","References"];
+export const PUBLIC_SECTIONS: string[] = ["Identity / History","Plan your visit","How to worship","Temple layout / worship route","Daily worship / sevas","Festivals","Hero / gallery / inline","References","Prayers & slokas"];

@@ -22,6 +22,8 @@ import NearbyTemples from "@/components/temple/NearbyTemples";
 import Section from "@/components/temple/Section";
 import DataConfidence from "@/components/temple/sidebar/DataConfidence";
 import QuickCorrection from "@/components/temple/sidebar/QuickCorrection";
+import Prayers from "@/components/temple/Prayers";
+import { librarySlokasFor, publicTempleMantras } from "@/lib/mantras";
 
 export function generateStaticParams() {
   return getPublishedTemples().map((t) => ({ slug: t.slug }));
@@ -78,12 +80,14 @@ export default async function TemplePage({ params }: { params: Promise<{ slug: s
     Boolean(temple.narrative.architectureStyle) ||
     temple.media.some((m) => m.editorialApproved && m.category !== "hero" && m.category !== "map");
   const hasSchedule = temple.poojas.length > 0 || temple.openingHours.length > 0;
+  const hasPrayers = publicTempleMantras(temple).length > 0 || librarySlokasFor(temple).length > 0;
 
   const nav = [
     { id: "glance", title: "At a glance" },
     { id: "significance", title: "Sacred significance" },
     { id: "history", title: "History & tradition" },
     { id: "worship", title: "How to worship" },
+    ...(hasPrayers ? [{ id: "prayers", title: "Prayers & slokas" }] : []),
     ...(hasSchedule ? [{ id: "schedule", title: "Daily worship" }] : []),
     ...(hasLayout ? [{ id: "layout", title: "Temple layout" }] : []),
     ...(hasArchitecture ? [{ id: "architecture", title: "Architecture" }] : []),
@@ -127,6 +131,7 @@ export default async function TemplePage({ params }: { params: Promise<{ slug: s
           <SacredSignificance temple={temple} />
           <HistoryTradition temple={temple} />
           <WorshipSop temple={temple} />
+          {hasPrayers && <Prayers temple={temple} />}
           {hasSchedule && <PoojaSchedule temple={temple} />}
           {hasLayout && <TempleLayout temple={temple} />}
           {hasArchitecture && <ArchitectureGallery temple={temple} />}

@@ -6,7 +6,7 @@
  * every enum. Generating rather than hand-writing the registry is what keeps
  * the contributor form, the importer and the publish gate from drifting apart.
  *
- * Run: node scripts/gen-schema.mjs
+ * Run: npm run gen:schema
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -16,6 +16,8 @@ import { readWorkbook } from "../src/lib/excel/workbook";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "Temple_Directory_Input_Schema.xlsx");
 const OUT = path.join(ROOT, "src", "lib", "schema.ts");
+/** Sheets and lookups added after the workbook was supplied — see the file's own comment. */
+const SUPPLEMENT = JSON.parse(fs.readFileSync(path.join(ROOT, "scripts", "schema-supplement.json"), "utf8"));
 
 /**
  * snake_case workbook column -> dotted path in the Temple object.
@@ -210,6 +212,29 @@ const PATHS = {
     archived_url: "archivedUrl",
     admin_approved: "adminApproved",
   },
+  "13_Mantras": {
+    temple_id: null,
+    mantra_id: "mantraId",
+    title: "title",
+    mantra_group: "group",
+    text_original: "textOriginal",
+    script: "script",
+    transliteration: "transliteration",
+    meaning: "meaning",
+    source_text: "sourceText",
+    when_chanted: "whenChanted",
+    repetitions: "repetitions",
+    linked_sop_step_id: "linkedSopStepId",
+    linked_shrine_ids: "linkedShrineIds",
+    linked_festival_id: "linkedFestivalId",
+    restriction: "restriction",
+    audio_url: "audioUrl",
+    audio_license: "audioLicense",
+    source_ids: "sourceIds",
+    verification_status: "verificationStatus",
+    last_verified_date: "lastVerifiedDate",
+    editor_notes: "editorNotes",
+  },
 };
 
 /** Columns that hold a semicolon-separated list rather than one value. */
@@ -237,6 +262,10 @@ const LOOKUP_FOR = {
   day_type: "Day Type",
   local_language: "Language",
   primary_language: "Language",
+  mantra_group: "Mantra Group",
+  script: "Script",
+  when_chanted: "When Chanted",
+  restriction: "Restriction",
 };
 
 const wb = await readWorkbook(fs.readFileSync(SRC));
@@ -258,15 +287,30 @@ for (let col = 1; col < lookupHeaders.length; col += 1) {
   }
   LOOKUPS[name] = values;
 }
+for (const [name, values] of Object.entries(SUPPLEMENT.lookups)) {
+  if (!LOOKUPS[name]) LOOKUPS[name] = values;
+}
 
 /* ---- column dictionary ---- */
 const dict = wb.getWorksheet("10_Column_Dictionary");
 const specs = [];
 const unmapped = [];
+// Workbook rows first, then supplement rows for sheets the workbook does not have yet,
+// both read through the same cell accessor.
+const dictRows = [];
 for (let row = 2; row <= dict.rowCount; row += 1) {
   const r = dict.getRow(row);
-  const sheet = String(r.getCell(1).text ?? "").trim();
-  const column = String(r.getCell(2).text ?? "").trim();
+  dictRows.push((col) => String(r.getCell(col).text ?? "").trim());
+}
+const workbookSheets = new Set(dictRows.map((cell) => cell(1)));
+for (const values of SUPPLEMENT.dictionary) {
+  if (workbookSheets.has(values[0])) continue;
+  dictRows.push((col) => String(values[col - 1] ?? "").trim());
+}
+for (const cell of dictRows) {
+  const r = { getCell: (col) => ({ text: cell(col) }) };
+  const sheet = cell(1);
+  const column = cell(2);
   if (!sheet || !column) continue;
   const map = PATHS[sheet];
   if (!map) {
@@ -383,6 +427,7 @@ export const SHEET_COLLECTION: Record<SheetId, keyof import("./types").Temple | 
   "07_Festivals": "festivals",
   "08_Media": "media",
   "09_Sources": "sources",
+  "13_Mantras": "mantras",
 };
 
 export const FIELD_SPECS: FieldSpec[] = [

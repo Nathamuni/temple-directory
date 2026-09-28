@@ -1,0 +1,36 @@
+{
+  "slug": "guruvayur-temple",
+  "sources": [
+    {
+      "sourceId": "SRCM1",
+      "sourceType": "scripture",
+      "title": "Nārāyaṇīyam (Melpathur Nārāyaṇa Bhaṭṭatiri, 1586), Daśaka 1, verse 1 — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_vishhnu/nArAyaNIyam.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Narayaneeyam, Dashaka 1 (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://stotranidhi.com/en/narayaneeyam-dasakam-1-in-english/",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Narayaneeyam, Dashaka 1 (verse 1)",
+      "group": "Stotram",
+      "textOriginal": "सान्द्रानन्दावबोधात्मकमनुपमितं कालदेशावधिभ्यां\nनिर्मुक्तं नित्यमुक्तं निगमशतसहस्रेण निर्भास्यमानम् ।\nअस्पष्टं दृष्टमात्रे पुनरुरुपुरुषार्थात्मकं ब्रह्मतत्त्वं\nतत्तावद्भाति साक्षाद्गुरुपवनपुरे हन्त भाग्यं जनानाम् ॥",
+      "script": "Devanagari",
+      "transliteration": "sāndrānandāvabodhātmakamanupamitaṃ kāladeśāvadhibhyāṃ\nnirmuktaṃ nityamuktaṃ nigamaśatasahasreṇa nirbhāsyamānam |\naspaṣṭaṃ dṛṣṭamātre punarurupuruṣārthātmakaṃ brahmatattvaṃ\ntattāvadbhāti sākṣādgurupavanapure hanta bhāgyaṃ janānām ||",
+      "meaning": "The Absolute — dense bliss and pure awareness, beyond compare, unbounded by time and space, ever free, revealed by countless Vedic texts, yet not plainly seen — that very Brahman, the fulfilment of every human aim, shines here before us in Guruvāyūr. How fortunate are the people!",
+      "sourceText": "Nārāyaṇīyam (Melpathur Nārāyaṇa Bhaṭṭatiri, 1586), Daśaka 1, verse 1",
+      "whenChanted": "Any time",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRCM1"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. stotranidhi matches (it spaces \"punaruru puruṣārthātmakaṁ\"; same text)."
+    }
+  ]
+}

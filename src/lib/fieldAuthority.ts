@@ -29,6 +29,7 @@ export type Area =
   | "festivals"
   | "media"
   | "sources"
+  | "mantras"
   | "extensions";
 
 export const AREA_LABEL: Record<Area, string> = {
@@ -46,6 +47,7 @@ export const AREA_LABEL: Record<Area, string> = {
   festivals: "Festivals",
   media: "Media",
   sources: "Sources",
+  mantras: "Mantras & slokas",
   extensions: "Extensions",
 };
 
@@ -65,16 +67,17 @@ export const EDITABLE_AREAS: Record<GrantRole, Area[]> = {
     "festivals",
     "media",
     "sources",
+    "mantras",
   ],
   temple_management: ["governance", "visitingInfo", "openingHours", "poojas", "festivals", "media", "sources"],
-  priest: ["identity.sampradayaAgama", "worshipSop", "shrines", "sources"],
+  priest: ["identity.sampradayaAgama", "worshipSop", "shrines", "mantras", "sources"],
   seva_coordinator: [],
 };
 
 /** Areas whose records an approved change from this role marks authority-verified. */
 export const VOUCHED_AREAS: Partial<Record<GrantRole, Area[]>> = {
   temple_management: ["visitingInfo", "openingHours", "poojas", "festivals"],
-  priest: ["worshipSop", "shrines"],
+  priest: ["worshipSop", "shrines", "mantras"],
 };
 
 /** Roles that can propose a change to a published temple, most authoritative first. */
@@ -112,6 +115,7 @@ const TOP_LEVEL: Exclude<Area, "identity" | "identity.sampradayaAgama">[] = [
   "festivals",
   "media",
   "sources",
+  "mantras",
   "extensions",
 ];
 
@@ -161,6 +165,7 @@ export function stampAuthority(proposed: Temple, role: GrantRole, by: string, da
     else if (area === "festivals") next.festivals = next.festivals.map(stamp);
     else if (area === "worshipSop") next.worshipSop = next.worshipSop.map(stamp);
     else if (area === "shrines") next.shrines = next.shrines.map(stamp);
+    else if (area === "mantras") next.mantras = next.mantras.map(stamp);
   }
   return next;
 }

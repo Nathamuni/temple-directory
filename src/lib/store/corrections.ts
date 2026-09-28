@@ -32,6 +32,7 @@ export const CORRECTION_SECTIONS = [
   "Pooja & seva",
   "Festivals",
   "How to worship",
+  "Mantra / sloka",
   "History & significance",
   "Location / contact",
   "Photos",

@@ -1,0 +1,36 @@
+{
+  "slug": "kanchi-kamakshi",
+  "sources": [
+    {
+      "sourceId": "SRCM1",
+      "sourceType": "scripture",
+      "title": "Mūka Pañcaśatī (Mūka Kavi), Āryā Śatakam, verse 1 — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_devii/shrImUka500.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Mooka Panchashati — Arya Shatakam (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://stotranidhi.com/en/mooka-panchasati-arya-satakam-1-in-english/ ; https://vignanam.org/english/mooka-pancha-sathi-1-arya-satakam.html",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Mooka Panchashati — Arya Shatakam (verse 1)",
+      "group": "Stotram",
+      "textOriginal": "कारणपरचिद्रूपा काञ्चीपुरसीम्नि कामपीठगता ।\nकाचन विहरति करुणा काश्मीरस्तबककोमलाङ्गलता ॥",
+      "script": "Devanagari",
+      "transliteration": "kāraṇaparacidrūpā kāñcīpurasīmni kāmapīṭhagatā |\nkācana viharati karuṇā kāśmīrastabakakomalāṅgalatā ||",
+      "meaning": "A certain compassion — the supreme consciousness that is the cause of all — sports within the bounds of Kāñcīpura, seated on the Kāma-pīṭha: a tender vine whose limbs are soft as clusters of saffron flowers.",
+      "sourceText": "Mūka Pañcaśatī (Mūka Kavi), Āryā Śatakam, verse 1",
+      "whenChanted": "Any time",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRCM1"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Both check sources match word for word (\"kāraṇaparacidrūpā kāñcīpurasīmni kāmapīṭhagatā | kācana viharati karuṇā kāśmīrastabakakomalāṅgalatā\"). The source page opens with an invocation \"माता मरकतश्यामा…\" and a mandasmita verse before the Āryā Śatakam; those were skipped — this is verse 1 under \"॥ १. आर्याशतकम् ॥\". Mūka Kavi is traditionally a pre-modern Kāñcī ācārya — public domain."
+    }
+  ]
+}

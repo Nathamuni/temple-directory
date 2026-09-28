@@ -1,0 +1,36 @@
+{
+  "slug": "srirangam-ranganathaswamy",
+  "sources": [
+    {
+      "sourceId": "SRCM1",
+      "sourceType": "scripture",
+      "title": "Raṅganāthāṣṭakam (attributed to Ādi Śaṅkarācārya), verse 1 — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_vishhnu/ranganAthAShTakam.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Sri Ranganathashtakam (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://stotranidhi.com/en/ranganathashtakam-in-english/ ; https://vignanam.org/english/ranganatha-ashtakam.html",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Sri Ranganathashtakam (verse 1)",
+      "group": "Stotram",
+      "textOriginal": "आनन्दरूपे निजबोधरूपे ब्रह्मस्वरूपे श्रुतिमूर्तिरूपे ।\nशशाङ्करूपे रमणीयरूपे श्रीरङ्गरूपे रमतां मनो मे ॥",
+      "script": "Devanagari",
+      "transliteration": "ānandarūpe nijabodharūpe brahmasvarūpe śrutimūrtirūpe |\nśaśāṅkarūpe ramaṇīyarūpe śrīraṅgarūpe ramatāṃ mano me ||",
+      "meaning": "May my mind delight in Śrī Raṅga's form — the form of bliss, of self-knowledge, of Brahman itself, the embodiment of the Vedas, moon-like and lovely.",
+      "sourceText": "Raṅganāthāṣṭakam (attributed to Ādi Śaṅkarācārya), verse 1",
+      "whenChanted": "Any time",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRCM1"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. Both check sources match word for word. CAUTION: sanskritdocuments also hosts a different, MODERN \"रङ्गनाथाष्टकम्\" (ranganAthAShTakam2.html, composed by Pushpa Srivatsan in 2020) — do not use that one; this entry is the traditional one whose colophon reads \"इति श्रीमच्छङ्कराचार्यविरचितं श्रीरङ्गनाथाष्टकं सम्पूर्णम्\"."
+    }
+  ]
+}

@@ -107,6 +107,7 @@ function normalize(temple: Temple): Temple {
     festivals: temple.festivals ?? [],
     media: temple.media ?? [],
     sources: temple.sources ?? [],
+    mantras: temple.mantras ?? [],
     extensions: { ...base.extensions, ...temple.extensions },
   };
 }

@@ -22,6 +22,7 @@ const SHEET_ORDER: SheetId[] = [
   "07_Festivals",
   "08_Media",
   "09_Sources",
+  "13_Mantras",
 ];
 
 const HEADER_FILL = "FF3D0F13";
@@ -55,7 +56,8 @@ function rowsFor(temple: Temple, sheet: SheetId): unknown[] {
   if (sheet === "02_Visiting_Info") return [temple.visitingInfo];
   const collection = SHEET_COLLECTION[sheet];
   if (!collection) return [];
-  return temple[collection] as unknown[];
+  // A file written before a collection existed simply lacks it.
+  return (temple[collection] as unknown[] | undefined) ?? [];
 }
 
 function addDataSheet(workbook: ExcelJS.Workbook, sheetId: SheetId, temples: Temple[]): void {
@@ -104,10 +106,10 @@ function addReadme(workbook: ExcelJS.Workbook, templeCount: number): void {
   const rows: [string, string][] = [
     ["TEMPLE DIRECTORY", "Input schema & contributor feed template"],
     ["", ""],
-    ["Contents", `${templeCount} temple${templeCount === 1 ? "" : "s"} across 9 linked sheets.`],
+    ["Contents", `${templeCount} temple${templeCount === 1 ? "" : "s"} across 10 linked sheets.`],
     [
       "Design principle",
-      "One row per temple for core identity. Everything repeatable — hours, SOP steps, shrines, poojas, festivals, media, sources — is its own sheet, linked by temple_id.",
+      "One row per temple for core identity. Everything repeatable — hours, SOP steps, shrines, poojas, festivals, media, sources, temple-specific mantras — is its own sheet, linked by temple_id.",
     ],
     [
       "Why not one wide sheet",
@@ -115,10 +117,10 @@ function addReadme(workbook: ExcelJS.Workbook, templeCount: number): void {
     ],
     [
       "Publication rule",
-      "A spiritual instruction does not become public merely because a contributor typed it. Every record carries source_ids and verification_status; unverified shrine order, pradakshina counts and mantras stay in editorial review.",
+      "A spiritual instruction does not become public merely because a contributor typed it. Every record carries source_ids and verification_status; unverified shrine order, pradakshina counts and mantras stay in editorial review. 13_Mantras holds only temple-specific hymns and is shown only once the temple's priest verifies each row; general deity slokas come from the shared library, not this sheet.",
     ],
     ["", ""],
-    ["Import order", "1. Sources  2. Temple Master  3. Visiting Info  4. Opening Hours  5. Media  6. Worship SOP  7. Shrines / Route  8. Poojas / Sevas  9. Festivals"],
+    ["Import order", "1. Sources  2. Temple Master  3. Visiting Info  4. Opening Hours  5. Media  6. Worship SOP  7. Shrines / Route  8. Poojas / Sevas  9. Festivals  10. Mantras"],
     ["", ""],
     ["Editing notes", "Do not rename sheets or header rows — the importer matches on them."],
     ["", "Multi-value cells (source_ids, linked_media_ids, alternate_names) are separated with a semicolon."],

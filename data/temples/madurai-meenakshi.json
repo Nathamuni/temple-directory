@@ -372,6 +372,37 @@
       "claimScope": "Image of the Potramarai Kulam tank with the southern gopuram behind it; author and licence.",
       "reliabilityNote": "Licence and author read from the Commons File: page.",
       "adminApproved": true
+    },
+    {
+      "sourceId": "SRC007",
+      "sourceType": "scripture",
+      "title": "Mīnākṣī Pañcaratnam (attributed to Ādi Śaṅkarācārya), verse 1 — text",
+      "publisherOrAuthority": "sanskritdocuments.org",
+      "url": "https://sanskritdocuments.org/doc_devii/miinaakshii5.html",
+      "accessDate": "2026-09-28",
+      "claimScope": "Text of \"Meenakshi Pancharatnam (verse 1)\" only. Whether and when this temple recites it is not established by this source.",
+      "reliabilityNote": "Cross-checked against https://stotranidhi.com/en/meenakshi-pancharatnam-in-english/",
+      "adminApproved": false
+    }
+  ],
+  "mantras": [
+    {
+      "mantraId": "MAN001",
+      "title": "Meenakshi Pancharatnam (verse 1)",
+      "group": "Stotram",
+      "textOriginal": "उद्यद्भानु सहस्रकोटिसदृशां केयूरहारोज्ज्वलां\nबिम्बोष्ठीं स्मितदन्तपंक्तिरुचिरां पीताम्बरालंकृताम् ।\nविष्णुब्रह्मसुरेन्द्रसेवितपदां तत्त्वस्वरूपां शिवां\nमीनाक्षीं प्रणतोऽस्मि संततमहं कारुण्यवारांनिधिम् ॥",
+      "script": "Devanagari",
+      "transliteration": "udyadbhānu sahasrakoṭisadṛśāṃ keyūrahārojjvalāṃ\nbimboṣṭhīṃ smitadantapaṃktirucirāṃ pītāmbarālaṃkṛtām |\nviṣṇubrahmasurendrasevitapadāṃ tattvasvarūpāṃ śivāṃ\nmīnākṣīṃ praṇato'smi saṃtatamahaṃ kāruṇyavārāṃnidhim ||",
+      "meaning": "I ever bow to Mīnākṣī, ocean of compassion — radiant like a thousand million rising suns, shining with armlets and necklaces, with lips red as bimba fruit and a lovely smile, clad in yellow silk, whose feet are served by Viṣṇu, Brahmā and Indra, the auspicious one who is the essence of truth.",
+      "sourceText": "Mīnākṣī Pañcaratnam (attributed to Ādi Śaṅkarācārya), verse 1",
+      "whenChanted": "Any time",
+      "restriction": "public",
+      "linkedShrineIds": [],
+      "sourceIds": [
+        "SRC007"
+      ],
+      "verificationStatus": "sourced",
+      "editorNotes": "Pre-populated 2026-09-28 from a published text; hidden until the temple priest confirms it is recited here. Source notes: Devanagari copied verbatim from sourceUrl (zero-width joiners and trailing verse numbers removed). IAST generated mechanically from that Devanagari with the indic_transliteration library (Devanagari->IAST), not typed by hand; compared against checkUrl. stotranidhi matches word for word (writes \"udyadbhānusahasrakōṭisadr̥śāṁ\" as one compound; source separates \"उद्यद्भानु सहस्रकोटिसदृशां\" — spacing only). Source uses anusvara in पंक्ति / अलंकृताम् / संततमहं / वारांनिधिम्."
     }
   ],
   "extensions": {

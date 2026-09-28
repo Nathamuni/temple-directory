@@ -19,6 +19,12 @@ export interface SheetIssue {
 export interface ParseResult {
   temples: Temple[];
   issues: SheetIssue[];
+  /**
+   * Child sheets the workbook did not contain at all (e.g. an export made
+   * before 13_Mantras existed). An importer must keep what those collections
+   * already hold rather than read the absence as "delete every row".
+   */
+  absentSheets?: SheetId[];
 }
 
 /**
@@ -34,6 +40,7 @@ const CHILD_SHEETS: SheetId[] = [
   "04_Worship_SOP",
   "06_Pooja_Seva",
   "07_Festivals",
+  "13_Mantras",
 ];
 
 function headerMap(sheet: ExcelJS.Worksheet): Map<string, number> {
@@ -156,9 +163,13 @@ export async function parseTempleWorkbook(buffer: WorkbookInput): Promise<ParseR
   }
 
   /* ---- child sheets ---- */
+  const absentSheets: SheetId[] = [];
   for (const sheetId of CHILD_SHEETS) {
     const sheet = workbook.getWorksheet(sheetId);
-    if (!sheet) continue;
+    if (!sheet) {
+      absentSheets.push(sheetId);
+      continue;
+    }
     const specs = specsForSheet(sheetId);
     const headers = headerMap(sheet);
     const columns = [...headers.values()];
@@ -204,7 +215,7 @@ export async function parseTempleWorkbook(buffer: WorkbookInput): Promise<ParseR
     issues.push(...checkCrossLinks(temple));
   }
 
-  return { temples, issues };
+  return { temples, issues, absentSheets };
 }
 
 /**
@@ -253,9 +264,10 @@ function withRecordDefaults(sheetId: SheetId, record: Record<string, unknown>): 
     base.sourceIds = Array.isArray(base.sourceIds) ? base.sourceIds : [];
     base.verificationStatus = base.verificationStatus ?? "unverified";
   }
-  if (sheetId === "04_Worship_SOP") {
+  if (sheetId === "04_Worship_SOP" || sheetId === "13_Mantras") {
     base.linkedShrineIds = Array.isArray(base.linkedShrineIds) ? base.linkedShrineIds : [];
   }
+  if (sheetId === "13_Mantras") base.restriction = base.restriction ?? "public";
   if (["04_Worship_SOP", "05_Shrines_Route", "06_Pooja_Seva", "07_Festivals"].includes(sheetId)) {
     base.linkedMediaIds = Array.isArray(base.linkedMediaIds) ? base.linkedMediaIds : [];
   }
@@ -307,6 +319,7 @@ function checkCrossLinks(temple: Temple): SheetIssue[] {
     ["05_Shrines_Route", temple.shrines],
     ["06_Pooja_Seva", temple.poojas],
     ["07_Festivals", temple.festivals],
+    ["13_Mantras", temple.mantras],
   ];
   for (const [sheet, records] of withProvenance) {
     for (const record of records) {
@@ -333,6 +346,17 @@ function checkCrossLinks(temple: Temple): SheetIssue[] {
   }
   for (const festival of temple.festivals) {
     festival.linkedMediaIds = scrub("07_Festivals", "linked_media_ids", festival.linkedMediaIds, mediaIds, "linked_media_ids");
+  }
+  const stepIds = new Set(temple.worshipSop.map((s) => s.sopStepId));
+  const festivalIds = new Set(temple.festivals.map((f) => f.festivalId));
+  for (const mantra of temple.mantras) {
+    mantra.linkedShrineIds = scrub("13_Mantras", "linked_shrine_ids", mantra.linkedShrineIds, shrineIds, "linked_shrine_ids");
+    if (mantra.linkedSopStepId && !scrub("13_Mantras", "linked_sop_step_id", [mantra.linkedSopStepId], stepIds, "linked_sop_step_id").length) {
+      delete mantra.linkedSopStepId;
+    }
+    if (mantra.linkedFestivalId && !scrub("13_Mantras", "linked_festival_id", [mantra.linkedFestivalId], festivalIds, "linked_festival_id").length) {
+      delete mantra.linkedFestivalId;
+    }
   }
 
   const heroes = temple.media.filter((m) => m.category === "hero");

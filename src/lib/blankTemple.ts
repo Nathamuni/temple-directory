@@ -31,6 +31,7 @@ export function blankTemple(): Temple {
     festivals: [],
     media: [],
     sources: [],
+    mantras: [],
     extensions: {
       otherDeities: [],
       majorFestivalIds: [],

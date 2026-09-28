@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { getViewer } from "@/lib/authz";
-import { upsertTempleFromImport } from "@/lib/temples";
+import { getAllTemples, upsertTempleFromImport } from "@/lib/temples";
+import { SHEET_COLLECTION } from "@/lib/schema";
+import type { Temple } from "@/lib/types";
 import { parseTempleWorkbook } from "@/lib/excel/parse";
 import { validateTemple } from "@/lib/validate";
 import { saveImportReport } from "@/lib/importReports";
@@ -19,7 +21,19 @@ export async function POST(request: Request) {
     return NextResponse.redirect(resultUrl, { status: 303 });
   }
 
-  const { temples, issues } = await parseTempleWorkbook(await file.arrayBuffer());
+  const { temples, issues, absentSheets = [] } = await parseTempleWorkbook(await file.arrayBuffer());
+
+  // A workbook exported before a sheet existed has no rows for it; keep what
+  // the live entry already holds instead of treating that as a deletion.
+  const byId = new Map(getAllTemples().map((t) => [t.templeId, t]));
+  for (const temple of temples) {
+    const existing = byId.get(temple.templeId);
+    if (!existing) continue;
+    for (const sheet of absentSheets) {
+      const key = SHEET_COLLECTION[sheet];
+      if (key && key !== "visitingInfo") (temple as unknown as Record<string, unknown>)[key] = existing[key as keyof Temple];
+    }
+  }
 
   if (temples.length === 0) {
     const id = saveImportReport({ fileName: file.name, created: [], updated: [], unchanged: 0, skipped: [], issues });
