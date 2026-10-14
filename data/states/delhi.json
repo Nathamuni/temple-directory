@@ -1,6 +1,6 @@
 {
  "state": "Delhi",
- "count": 716,
+ "count": 720,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -41877,6 +41877,280 @@
      "district",
      "locality",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12414975,
+   "lat": 28.49438,
+   "lon": 77.18415,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chhatarpur Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12414975",
+    "wikipedia": "en:Chhatarpur Temple"
+   },
+   "state": "Delhi",
+   "state_basis": "boundary",
+   "district": "South Delhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sarojini Nagar",
+     "dist_m": 9728
+    },
+    "nearest_bus": {
+     "name": "Mehrauli Bus Terminal",
+     "dist_m": 3132
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 29076,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "Manchanda Hospital",
+     "dist_m": 44
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12414975",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1970-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Delhi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chattarpur%20Temple.jpg",
+    "website": "https://www.chhattarpurmandir.org/",
+    "summary": {
+     "text": "Shri Aadya Katyayani Shakti Peeth is a Hindu temple dedicated to the Hindu deity Katyayani. The entire complex of the temple is spread over a wide area of 28 hectares. It is located in Chhatarpur, on the southwestern outskirts of the New Delhi. It is the 2nd largest temple in Delhi, after the Akshardham Temple. The temple is constructed from marble.",
+     "url": "https://en.wikipedia.org/wiki/Chhatarpur_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7006850,
+   "lat": 28.630331,
+   "lon": 77.197245,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "New Delhi Kali Bari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7006850",
+    "wikipedia": "en:New Delhi Kali Bari"
+   },
+   "state": "Delhi",
+   "state_basis": "boundary",
+   "district": "New Delhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "New Delhi",
+     "dist_m": 2717
+    },
+    "nearest_bus": {
+     "name": "Paharganj bus stand (Himachal Tourist)",
+     "dist_m": 1749
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 18029,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "CGHS Wellness Centre Kali Bari",
+     "dist_m": 327
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7006850",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "New Delhi Kali Bari is a Hindu temple dedicated to Goddess Kali and the center for Bengali culture in New Delhi, India. Established in 1930s, it is situated on Mandir Marg, close to Laxminarayan Temple in Delhi.",
+     "url": "https://en.wikipedia.org/wiki/New_Delhi_Kali_Bari",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7488626,
+   "lat": 28.4904,
+   "lon": 77.18655,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shani Dham Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7488626",
+    "wikipedia": "en:Shani Dham Temple"
+   },
+   "state": "Delhi",
+   "state_basis": "boundary",
+   "district": "South Delhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sarojini Nagar",
+     "dist_m": 10143
+    },
+    "nearest_bus": {
+     "name": "Mehrauli Bus Terminal",
+     "dist_m": 3594
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 29295,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "Manchanda Hospital",
+     "dist_m": 522
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 204
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7488626",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shanidham-1.jpg",
+    "website": "https://www.shanidham.org/",
+    "deity": {
+     "values": [
+      "Shani"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shani Dham Temple is a temple dedicated to the Hindu deity Shani. It is located in Asola, a suburb of the Union Territory of Delhi.",
+     "url": "https://en.wikipedia.org/wiki/Shani_Dham_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 6,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 8054419,
+   "lat": 28.525,
+   "lon": 77.1825,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Yogmaya Neupane",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q8054419",
+    "wikipedia": "en:Yogmaya Temple, Delhi"
+   },
+   "state": "Delhi",
+   "state_basis": "boundary",
+   "district": "South Delhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Delhi Safdarjang",
+     "dist_m": 6371
+    },
+    "nearest_bus": {
+     "name": "Mehrauli Bus Terminal",
+     "dist_m": 278
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 26524,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "Bhagwati Hospital",
+     "dist_m": 367
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q8054419",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Yogmaya%20in%20Sanctum.JPG",
+    "summary": {
+     "text": "Yogmaya Temple, also Jogmaya temple, is a Hindu temple dedicated to the goddess Yogmaya, also considered to be a sister of Krishna as she took avatar as Vindhyavasini, and situated in Mehrauli, Delhi, India, close to the Qutb complex. According to local priests and native records, this is one of those 27 temples destroyed by Mamluks and it is the only surviving temple belonging to pre-sultanate period which is still in use. Hindu king Samrat Vikramaditya Hemu reconstructed the temple and brought back the temple from ruins. During Aurangzeb's reign a rectangular Islamic Style hall was added to the temple. Though its original architecture could never be restored after its destruction by Islamic rulers, but its reconstruction had been carried out repetitively by the locals.",
+     "url": "https://en.wikipedia.org/wiki/Yogmaya_Temple%2C_Delhi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

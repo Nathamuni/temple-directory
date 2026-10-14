@@ -1,6 +1,6 @@
 {
  "state": "Bihar",
- "count": 537,
+ "count": 563,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -29364,6 +29364,1733 @@
      "district",
      "locality",
      "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12415167,
+   "lat": 25.5678967,
+   "lon": 84.6729917,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Aranya Devi Temple, Arrah",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12415167",
+    "wikipedia": "en:Aranya Devi Temple, Arrah"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Bhojpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ara Junction",
+     "dist_m": 2443
+    },
+    "nearest_bus": {
+     "name": "Chapra Bus Stand",
+     "dist_m": 24736
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 41670,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Sadar Hospital,Arrah",
+     "dist_m": 1067
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12415167",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bihar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Aranya%20Devi%20Temple%2C%20Arrah.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Aranya Devi Temple is a Hindu temple located in Arrah of Bihar, India. Ara, the headquarters of Bhojpur district is named after the goddess of this temple. The Hindu goddess worshipped here is considered to be the presiding deity of the city and the deity of the people there.",
+     "url": "https://en.wikipedia.org/wiki/Aranya_Devi_Temple%2C_Arrah",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15644573,
+   "lat": 26.312496445,
+   "lon": 85.814461412,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ahalya Sthan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15644573",
+    "wikipedia": "en:Ahalya Sthan"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Darbhanga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamtaul Station",
+     "dist_m": 1696
+    },
+    "nearest_bus": {
+     "name": "Matihani Bus Station",
+     "dist_m": 33538
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 16636,
+     "iata": "DBR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Kamtaul",
+     "dist_m": 2868
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15644573",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Ahalya Sthan is a Hindu temple located in Ward 11 of Kamtaul City in the Darbhanga District, State of Bihar, India. The temple is dedicated to Ahalya.",
+     "url": "https://en.wikipedia.org/wiki/Ahalya_Sthan",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104845865,
+   "lat": 27.445316666,
+   "lon": 83.953475,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Valmiki Ashram",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104845865",
+    "wikipedia": "en:Valmiki Ashram"
+   },
+   "state": "Bihar",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_rail": {
+     "name": "Valmikinagar Road",
+     "dist_m": 28889
+    },
+    "nearest_bus": {
+     "name": "Nichlaul Bus Station",
+     "dist_m": 27481
+    },
+    "nearest_airport": {
+     "name": "Kushinagar International Airport",
+     "dist_m": 74662,
+     "iata": "KBK"
+    },
+    "nearest_medical": {
+     "name": "Bavasir Clinic",
+     "dist_m": 4945
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104845865",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kanpur Nagar District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Valmiki Ashram is a Hindu Balmiki temple situated in Chitwan district of Nepal, inside Chitwan National Park. It is close to the Triveni Dham where Tamasa, Sona and Sapta Gandaki rivers meet. Deities worshipped here include Rama, Sita, and Valmiki. The festival of Rama Navami is also celebrated here.",
+     "url": "https://en.wikipedia.org/wiki/Valmiki_Ashram",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107394950,
+   "lat": 26.148960675,
+   "lon": 85.910352687,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Baba Mukteshwarnath Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107394950",
+    "wikipedia": "en:Baba Mukteshwar Dham"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Darbhanga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darbhanga Junction",
+     "dist_m": 674
+    },
+    "nearest_bus": {
+     "name": "Samastipur Bus Stand",
+     "dist_m": 34360
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 5164,
+     "iata": "DBR"
+    },
+    "nearest_medical": {
+     "name": "I B Smriti Arogya Sadan",
+     "dist_m": 713
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107394950",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Baba Mukteshwarnath Dham is a Hindu temple dedicated to Shiva in the village of Deohar in the Indian state of Bihar. Baba Mukteshwarnath Dham is considered as one of the best temples in Deohar, Bihar.",
+     "url": "https://en.wikipedia.org/wiki/Baba_Mukteshwar_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 122380446,
+   "lat": 26.544347191,
+   "lon": 85.618609249,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Swami Bodhayan Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q122380446",
+    "wikipedia": "en:Swami Bodhayan Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Sitamarhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bajpatti",
+     "dist_m": 792
+    },
+    "nearest_bus": {
+     "name": "Matihani Bus Station",
+     "dist_m": 23774
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 48959,
+     "iata": "DBR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q122380446",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Swami Bodhayan Mandir is a Hindu temple in Bongaon village, Bajpatti block, Sitamarhi district, Bihar, India, which is said to be the birthplace of the Vedic sage, Bodhayan, who created the Baudhayana sutras.",
+     "url": "https://en.wikipedia.org/wiki/Swami_Bodhayan_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123143789,
+   "lat": 26.587032026,
+   "lon": 85.830354799,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Basuki Nath Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123143789",
+    "wikipedia": "en:Basuki Nath Mahadev Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Madhubani",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janakpur Road",
+     "dist_m": 18412
+    },
+    "nearest_bus": {
+     "name": "Matihani Bus Station",
+     "dist_m": 3223
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 44457,
+     "iata": "DBR"
+    },
+    "nearest_medical": {
+     "name": "Parsapatailli Sawastha Chauki",
+     "dist_m": 2652
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123143789",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Basuki Nath Mahadev Mandir is a Hindu temple of Shiva located in Basuki Bihari North, a part of Basuki Bihari village in the Madhubani district of Bihar, India. It is one of the oldest temples in the area and was built by the Chaudhary family, who were Maithil Brahmins and very devoted to Shiva. The exact date of foundation of the temple is unknown, but it is believed to be more than 150 years old. The temple is also known as Baba Basuki Nath Mahadev Mandir and has a Pipal tree north to it that is also very old.",
+     "url": "https://en.wikipedia.org/wiki/Basuki_Nath_Mahadev_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 125732812,
+   "lat": 26.574887,
+   "lon": 85.89768222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Manokamna Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q125732812",
+    "wikipedia": "en:Manokamna Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Madhubani",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janakpur Road",
+     "dist_m": 22866
+    },
+    "nearest_bus": {
+     "name": "Matihani Bus Station",
+     "dist_m": 6723
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 42295,
+     "iata": "DBR"
+    },
+    "nearest_medical": {
+     "name": "Mukhiyapatti Samudayik Swasthe Kendra",
+     "dist_m": 2212
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q125732812",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Manokamna Mandir is an ancient Hindu temple located at Kamtaul village of Harlakhi block in Madhubani district of Mithila region in Bihar, India. According to legend, it is said that the temple existed from Treta Yuga. It is associated with Ramayana.",
+     "url": "https://en.wikipedia.org/wiki/Manokamna_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 138775891,
+   "lat": 26.293886,
+   "lon": 86.909465,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tintoliya temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q138775891",
+    "wikipedia": "en:Tintoliya Durga Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Supaul",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pratapganj Railway Station",
+     "dist_m": 5130
+    },
+    "nearest_airport": {
+     "name": "Purnea Airport",
+     "dist_m": 77185,
+     "iata": "PXN"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q138775891",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pratapganj block",
+      "Supaul district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoliya%20Temple%20mandir.png",
+    "summary": {
+     "text": "Tintoliya Durga Mandir also known as Badi Durga Mandir is an ancient Hindu temple dedicated to goddess Durga located in Chilauni Uttar village of Pratapganj block in Supaul district, Bihar. This temple is revered and serves as a major center of faith and Shakti worship in the Kosi subregion of Mithila.",
+     "url": "https://en.wikipedia.org/wiki/Tintoliya_Durga_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19284921,
+   "lat": 24.93,
+   "lon": 84.77,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Koncheswar Mahadev temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19284921",
+    "wikipedia": "en:Koncheswar Mahadev"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Gaya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guraru",
+     "dist_m": 13408
+    },
+    "nearest_bus": {
+     "name": "Rafiganj",
+     "dist_m": 19008
+    },
+    "nearest_airport": {
+     "name": "Gaya International Airport",
+     "dist_m": 27564,
+     "iata": "GAY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19284921",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gaya district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Koncheswar Mahadev is a Shiva temple in Konch, Gaya district, Bihar, India.",
+     "url": "https://en.wikipedia.org/wiki/Koncheswar_Mahadev",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19343069,
+   "lat": 26.3705,
+   "lon": 87.953026,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kanhaiya ji ka mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19343069"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Kishanganj",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pawakhali",
+     "dist_m": 3817
+    },
+    "nearest_bus": {
+     "name": "Islampur New Bus Terminal",
+     "dist_m": 26170
+    },
+    "nearest_airport": {
+     "name": "Bagdogra Airport",
+     "dist_m": 51177,
+     "iata": "IXB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19343069",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kishanganj district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19882194,
+   "lat": 26.12444444,
+   "lon": 85.39027778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Baba Garib Sthan Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19882194",
+    "wikipedia": "en:Garibnath Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Muzaffarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Muzaffarpur Junction",
+     "dist_m": 1208
+    },
+    "nearest_bus": {
+     "name": "Bairia Bus Stand ,Muzaffarpur",
+     "dist_m": 3948
+    },
+    "nearest_airport": {
+     "name": "Muzzafarpur Airport",
+     "dist_m": 7683,
+     "iata": "MZU"
+    },
+    "nearest_medical": {
+     "name": "Muzaffarpur Heart Hospital and Research Centre Pvt. Ltd.",
+     "dist_m": 647
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19882194",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Muzaffarpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.garibnathdham.in/",
+    "summary": {
+     "text": "Garibnath Temple Muzaffarpur is a Hindu holy place in Muzaffarpur in the Indian state of Bihar. The temple is one of the oldest temples dedicated to Lord Shiva and known as the \"Deoghar of Bihar\" Devotees from all across the district and state come here to pray and wish for their better life ahead. It is believed that prayer during the month of Sawan has special significance, which helps to fulfill all wishes. The temple is very crowded during these days. The presiding deity is known by the names Garibnath and Garibeshwara, meaning Lord of the poors.",
+     "url": "https://en.wikipedia.org/wiki/Garibnath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19882253,
+   "lat": 25.6667,
+   "lon": 85.2167,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bari Sangat Bihar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19882253",
+    "wikipedia": "en:Bari Sangat Bihar"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Vaishali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hajipur Junction",
+     "dist_m": 3920
+    },
+    "nearest_bus": {
+     "name": "Hajipur Bus Stop",
+     "dist_m": 4277
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 15384,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Shivangi Nursing Home",
+     "dist_m": 2463
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19882253",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vaishali district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "The Bari Sangat - Helabazar is a Hindu Sangat in the city of Hajipur, Bihar, India. It is said to have been built during the reign of the Ancient Indian civilization.",
+     "url": "https://en.wikipedia.org/wiki/Bari_Sangat_Bihar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 23808412,
+   "lat": 25.812,
+   "lon": 85.692,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khudneshwar Asthan Morwa",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q23808412",
+    "wikipedia": "en:Khudneshwar Asthan Morwa"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Samastipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karpurigram",
+     "dist_m": 7218
+    },
+    "nearest_bus": {
+     "name": "Samastipur Bus Stand",
+     "dist_m": 10485
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 48184,
+     "iata": "DBR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q23808412",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Samastipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Khudneshwar Asthan is a Hindu temple devoted to Lord Shiva located 17 kilometers southwest of the Samastipur district headquarters of Bihar, India.",
+     "url": "https://en.wikipedia.org/wiki/Khudneshwar_Asthan_Morwa",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24927781,
+   "lat": 25.7,
+   "lon": 85.2,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lal Keshwar Shiv Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24927781",
+    "wikipedia": "en:Lal Keshwar Shiv Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Vaishali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hajipur Junction",
+     "dist_m": 1512
+    },
+    "nearest_bus": {
+     "name": "Hajipur Bus Stop",
+     "dist_m": 2017
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 16474,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Harsh Anand Hospital",
+     "dist_m": 980
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24927781",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vaishali district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Lal Keshwar Shiv Mandir is a Hindu Temple in the city of Hajipur in Bihar, India. Dedicated to Lord Shiva, it is located at Bagmusa (Hajipur), Vaishali. As per local folklore, it is said to have been in existence since ancient times and Lord Shiva is believed to be in the form of Lingam. Apart from anthropomorphic images of Shiva, the worship of Shiva in the form of a lingam, or linga, is also important. The worship of the Shiva-Linga originated from the famous hymn in the Atharva-Veda Samhitâ sung in praise of the Yupa-Stambha, the sacrificial post.",
+     "url": "https://en.wikipedia.org/wiki/Lal_Keshwar_Shiv_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 27032022,
+   "lat": 24.95,
+   "lon": 84.03,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Tara Chandi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q27032022",
+    "wikipedia": "en:Maa Tara Chandi Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Rohtas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sasaram Junction",
+     "dist_m": 1332
+    },
+    "nearest_bus": {
+     "name": "Sasaram Bus Stand",
+     "dist_m": 1579
+    },
+    "nearest_airport": {
+     "name": "Gaya International Airport",
+     "dist_m": 95605,
+     "iata": "GAY"
+    },
+    "nearest_medical": {
+     "name": "Surya Clinic, Rohtas",
+     "dist_m": 728
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q27032022",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rohtas district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Maa Tara Chandi Temple is a Hindu temple dedicated to Maa Shakti or Maa Durga, located in Sasaram, Bihar, India. It is one of the 51 Shakta pithas.",
+     "url": "https://en.wikipedia.org/wiki/Maa_Tara_Chandi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 27963308,
+   "lat": 26.3810182,
+   "lon": 87.3934761,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sundernath",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q27963308",
+    "wikipedia": "en:Sundernath"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Araria District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogbani",
+     "dist_m": 13149
+    },
+    "nearest_bus": {
+     "name": "ARARIA BUS DEPOT",
+     "dist_m": 30470
+    },
+    "nearest_airport": {
+     "name": "Purnea Airport",
+     "dist_m": 68537,
+     "iata": "PXN"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q27963308",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bihar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Sundarnath is a temple in Kursakanta Araria of the Indian state of Bihar near the India–Nepal border, at Sundari Math where Hindus from South Nepal and North Bihar worship the Hindu god Shiva. It is a major historical temple to Shiva in the Mithila region of Bihar.",
+     "url": "https://en.wikipedia.org/wiki/Sundernath",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28172714,
+   "lat": 25.19325,
+   "lon": 86.073305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ashokdham Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28172714",
+    "wikipedia": "en:Ashokdham Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Lakhisarai",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mankatha",
+     "dist_m": 2233
+    },
+    "nearest_bus": {
+     "name": "begusarai bus station",
+     "dist_m": 26291
+    },
+    "nearest_airport": {
+     "name": "Deoghar International Airport",
+     "dist_m": 104467,
+     "iata": "DGH"
+    },
+    "nearest_medical": {
+     "name": "Muskan Nursing Home, Lakhisarai",
+     "dist_m": 2560
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28172714",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Lakhisarai district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashokdham%20Temple.jpg",
+    "summary": {
+     "text": "Ashokdham Mandir, also known as Indradamneshwar Mahadev Mandir, is located at Ashok Dham Rajauna Chouki in Lakhisarai district, Bihar. It is a temple complex: Indradamneshwar Mahadev Mandir is located in the center, surrounded by three more temples. On 11 February 1993, the Shankaracharya of Jagannathpuri inaugurated the reconstruction of the temple complex.",
+     "url": "https://en.wikipedia.org/wiki/Ashokdham_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4998763,
+   "lat": 25.25475,
+   "lon": 86.974861111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Burhanath temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4998763",
+    "wikipedia": "en:Budhanath Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Bhagalpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhagalpur Junction",
+     "dist_m": 1503
+    },
+    "nearest_bus": {
+     "name": "Bhagalpur Bus Station",
+     "dist_m": 1342
+    },
+    "nearest_airport": {
+     "name": "Purnea Airport",
+     "dist_m": 71553,
+     "iata": "PXN"
+    },
+    "nearest_medical": {
+     "name": "Garib Nawaz Clinic",
+     "dist_m": 543
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4998763",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Baba%20Budhanath%20Temple.png",
+    "summary": {
+     "text": "Budhanath Temple, also known as Vriddheshwarnath or Baba Bal Vridheshwarnath Temple, is a revered Hindu Temple dedicated to Lord Shiva perched on the banks of the Uttarvahini Ganga in Jogsar (Adampur), Bhagalpur. Widely believed to date back to Treta Yuga, it is counted among the 108 Nath temples of India mentioned in the Shiva Purana.",
+     "url": "https://en.wikipedia.org/wiki/Budhanath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5071079,
+   "lat": 25.38333333,
+   "lon": 86.5,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandika Sthan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5071079",
+    "wikipedia": "en:Chandika Sthan"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Munger",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Munger",
+     "dist_m": 1994
+    },
+    "nearest_bus": {
+     "name": "begusarai bus station",
+     "dist_m": 37139
+    },
+    "nearest_airport": {
+     "name": "Purnea Airport",
+     "dist_m": 100608,
+     "iata": "PXN"
+    },
+    "nearest_medical": {
+     "name": "Samarpan Hospital And Research Centre, Munger",
+     "dist_m": 1476
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5071079",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Munger district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://munger.nic.in/religious.html",
+    "summary": {
+     "text": "Chandika Sthan is a Hindu temple situated in Munger, in the India state of Bihar. It is one of the fifty-one Shakta pithas, places of worship consecrated to the goddess Shakti. On the Northeast corner of Munger, Chandika Sthan is just two kilometers away from the Munger town. Being a Siddhi-Peetha, Chandika Sthan is considered to be one of the most sacred and sanctified temples, as important as the Kamakshya temple near Guwahati. Sati's left eye fell here and it is believed that those who worship here get rid of eye pain. It is one of the major Hindu pilgrimage centre in Ang Pradesh region of Bihar.",
+     "url": "https://en.wikipedia.org/wiki/Chandika_Sthan",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6749050,
+   "lat": 24.775138888,
+   "lon": 85.002305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mangla Gauri Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6749050",
+    "wikipedia": "en:Mangla Gauri Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Gaya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gaya Junction",
+     "dist_m": 3169
+    },
+    "nearest_bus": {
+     "name": "Sikaria Mod Bus Stand",
+     "dist_m": 2623
+    },
+    "nearest_airport": {
+     "name": "Gaya International Airport",
+     "dist_m": 6381,
+     "iata": "GAY"
+    },
+    "nearest_medical": {
+     "name": "Al-Zahir Navjeevan Hospital and Reasearch Center",
+     "dist_m": 1382
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6749050",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gaya district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Mangla Gauri Temple is a Hindu temple and Shakta pitha, in Gaya, Bihar, India was mentioned in Padma Purana, Vayu Purana and Agni Purana and Devi Bhagvata Purana and Markandeya Purana in other scriptures and tantric works. This temple is among the eighteen maha Shakta pithas. The present temple dates back to the 15th century. The shrine is dedicated to Sati or the Hindu Mother Goddess in the predominantly Vaishnavite pilgrimage center of Gaya.",
+     "url": "https://en.wikipedia.org/wiki/Mangla_Gauri_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6935790,
+   "lat": 24.9833958,
+   "lon": 83.5646939,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mundeshwari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6935790",
+    "wikipedia": "en:Mundeshwari Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Kaimur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Muthani",
+     "dist_m": 20165
+    },
+    "nearest_bus": {
+     "name": "Kudra Bus Stand",
+     "dist_m": 23857
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 87701,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6935790",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kaimur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Maa%20Mundeshwari%20Devi.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Mundeshwari Devi Temple is a Hindu temple, located at Ramgarh Village, 608 feet (185 m) on the Mundeshwari Hills of Kaimur plateau near Son River, in the Bhojpuri region of Indian state of Bihar. It is an Archaeological Survey of India (ASI) protected monument since 1915.",
+     "url": "https://en.wikipedia.org/wiki/Mundeshwari_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7144206,
+   "lat": 25.66666667,
+   "lon": 85.21666667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pataleshwar Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7144206",
+    "wikipedia": "en:Pataleshwar Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Vaishali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hajipur Junction",
+     "dist_m": 3923
+    },
+    "nearest_bus": {
+     "name": "Hajipur Bus Stop",
+     "dist_m": 4281
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 15379,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Shivangi Nursing Home",
+     "dist_m": 2466
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7144206",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vaishali district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Pataleshwar Mandir is a Hindu Temple in the city of Hajipur, Bihar, India. Dedicated to Shiva, it is located at Jadhua Road, Hajipur. As per local folklore, it is said to have been in existence since ancient period and Lord Shiva is believed to be in the form of Lingam here. Apart from anthropomorphic images of Shiva, the worship of Shiva in the form of a lingam, or linga, is also important. The worship of the Shiva-Linga originated from the famous hymn in the Atharva-Veda Samhitâ sung in praise of the Yupa-Stambha, the sacrificial post.",
+     "url": "https://en.wikipedia.org/wiki/Pataleshwar_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7144229,
+   "lat": 25.60531,
+   "lon": 85.20629,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Patan Devi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7144229",
+    "wikipedia": "en:Patan Devi"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Patna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gulzarbagh Railway Station",
+     "dist_m": 868
+    },
+    "nearest_bus": {
+     "name": "Patliputra Inter State Bus Terminal",
+     "dist_m": 3791
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 11994,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Polo Hospital, Patna",
+     "dist_m": 445
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 297
+    },
+    "water": {
+     "count": 1,
+     "nearest_m": 292
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7144229",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bihar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Patan Devi, also called Maa Patneshwari, is the oldest and one of the most sacred temples of Patna, Bihar. It is regarded as one of the 51 Siddha Shakta pithas in India. According to Puranic legends, the 'right thigh' of the corpse of Devi Sati had fallen here when it was chopped off by Lord Vishnu with his 'Sudarshan Chakra'. The ancient temple, originally called Maa Sarvanand Kari Patneshwari, is believed to be the abode of the goddess Durga.",
+     "url": "https://en.wikipedia.org/wiki/Patan_Devi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7289299,
+   "lat": 25.66666667,
+   "lon": 85.21666667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ramchaura Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7289299",
+    "wikipedia": "en:Ramchaura Mandir"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Vaishali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hajipur Junction",
+     "dist_m": 3923
+    },
+    "nearest_bus": {
+     "name": "Hajipur Bus Stop",
+     "dist_m": 4281
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 15379,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Shivangi Nursing Home",
+     "dist_m": 2466
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7289299",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vaishali district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Charan.jpg",
+    "summary": {
+     "text": "The Ramchaura Mandir is a Hindu temple in the city of Hajipur, Bihar, India. Dedicated to the god Rama, it is located at Rambhadra near Helabazar.",
+     "url": "https://en.wikipedia.org/wiki/Ramchaura_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7499156,
+   "lat": 25.622222222,
+   "lon": 85.133333333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shitla Mata Temple, Patna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7499156",
+    "wikipedia": "en:Shitala Mata Temple, Patna"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Patna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Patna Junction",
+     "dist_m": 2159
+    },
+    "nearest_bus": {
+     "name": "Patliputra Inter State Bus Terminal",
+     "dist_m": 7458
+    },
+    "nearest_airport": {
+     "name": "Jayprakash Narayan International Airport",
+     "dist_m": 5691,
+     "iata": "PAT"
+    },
+    "nearest_medical": {
+     "name": "Dr. Sachidanand Sinha Ent",
+     "dist_m": 786
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7499156",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shitala Mata Mandir or Shitala Devi Mandir is a temple of Shitala Mata situated at Patna City, Patna in Bihar state of India. This is place for worship of Mata Durga also known as Shakta pitha of Maa Durga.",
+     "url": "https://en.wikipedia.org/wiki/Shitala_Mata_Temple%2C_Patna",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 96405601,
+   "lat": 26.160455321,
+   "lon": 85.899920269,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shyama Mai Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q96405601",
+    "wikipedia": "en:Shyama Mai Temple"
+   },
+   "state": "Bihar",
+   "state_basis": "boundary",
+   "district": "Darbhanga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darbhanga Junction",
+     "dist_m": 1018
+    },
+    "nearest_bus": {
+     "name": "Samastipur Bus Stand",
+     "dist_m": 35178
+    },
+    "nearest_airport": {
+     "name": "Darbhanga Airport",
+     "dist_m": 4223,
+     "iata": "DBR"
+    },
+    "nearest_medical": {
+     "name": "Shyama Surgical Sansthan",
+     "dist_m": 354
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q96405601",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shyama%20Mai%20Temple.jpg",
+    "summary": {
+     "text": "Mother Kali's Dham Shyama Kali temple is a Hindu temple, built on the pyre in Darbhanga, Bihar. A large number of devotees visit here and all Manglik works are also done. This temple is known as Shyama Mai's temple. Shyama Mai's temple is built on the pyre of Maharaja Rameshwar Singh at the crematorium Ghat and is an unusual occurrence in itself. Maharaja Rameshwar Singh was one of the seeker kings of the Darbhanga royal family. Due to the name of the king, this temple is known as Rameshwari Shyama Mai. The temple was founded by Maharaj Kameshwar Singh of Darbhanga in 1933.",
+     "url": "https://en.wikipedia.org/wiki/Shyama_Mai_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
      "history"
     ]
    }

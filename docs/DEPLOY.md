@@ -6,7 +6,7 @@ The app is one Docker image (Node 22 serving the site and the API) plus **any Po
 ```bash
 docker compose up --build     # http://localhost:8080
 ```
-This starts Postgres and the app, applies the migrations, loads the 41,369 temples on first start, and enables the dummy admin button (`DEV_LINKS=1`, local only). Without Docker: `npm install`, start any Postgres, set `DATABASE_URL`, then `npm run migrate && npm run import && npm start`.
+This starts Postgres and the app, applies the migrations, loads the 43,055 temples on first start, and enables the dummy admin button (`DEV_LINKS=1`, local only). Without Docker: `npm install`, start any Postgres, set `DATABASE_URL`, then `npm run migrate && npm run import && npm start`.
 
 ## Deploy on Render
 1. Push this folder to a Git repository.

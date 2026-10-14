@@ -1,6 +1,6 @@
 {
  "state": "Sikkim",
- "count": 21,
+ "count": 23,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -1372,6 +1372,148 @@
     "of": 8,
     "has": [
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28404210,
+   "lat": 27.17,
+   "lon": 88.64,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Viswa Vinayaka Mandir Rhenock",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28404210",
+    "wikipedia": "en:Shri Viswa Vinayaka Mandir Rhenock"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Pakyong",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Oodlabari",
+     "dist_m": 33734
+    },
+    "nearest_bus": {
+     "name": "Southwest jeep stand",
+     "dist_m": 17975
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 8636,
+     "iata": "PYG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28404210",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "East Sikkim district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Main%20entrance%20of%20ganesh%20mandir.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Viswa Vinayaka Mandir, also called Ganesh Mandir, is a Hindu temple of Ganesha. It is located in Rhenock, Pakyong district, Sikkim, India. Sri Viswa Vinayaka Mandir was inaugurated by Shri Dinesh Chandra, general secretary of Vishva Hindu Parishad accompanied by the former chief minister, Shri Pawan Chamling, at a beautiful landscape of Rundung Village in Rhenock on 3 October 2016.\nThis massive religious infrastructure of Hindu accords 51 faces of Lord Ganesha, with 12 feet each 16 of them placed at corridor towards temple's main entrance.\nAdding excitement is another attraction is the massive mythological Daemon vs Gods ‘Samudra Manthan’ statues. Shivling and statue of Hanuman is also present in Viswa Vinayak Temple.\n",
+     "url": "https://en.wikipedia.org/wiki/Shri_Viswa_Vinayaka_Mandir_Rhenock",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6414865,
+   "lat": 27.45,
+   "lon": 88.45,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kirateshwar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6414865",
+    "wikipedia": "en:Kirateshwar Mahadev Temple"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Mangan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 49388
+    },
+    "nearest_bus": {
+     "name": "Vajra stand",
+     "dist_m": 20037
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 27765,
+     "iata": "PYG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6414865",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sikkim"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Legship%20shiva%20temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kirateshwar Mahadev Temple is a Hindu temple, identified to be a Hindu pilgrimage site which is located at Legship, Gyalshing district, India along the banks of River Rangeet, which has many episodes of the Mahabharata attached to it. The temple is also known as Kirateshwar Mahadev Thaan by the Kirati people or simply known as Shiv Mandir.",
+     "url": "https://en.wikipedia.org/wiki/Kirateshwar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
     ]
    }
   }

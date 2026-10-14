@@ -1,6 +1,6 @@
 {
  "state": "Goa",
- "count": 671,
+ "count": 676,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -36181,6 +36181,338 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6727255,
+   "lat": 15.388504895,
+   "lon": 73.964540364,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Madhav Govind Rameshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6727255",
+    "wikipedia": "en:Madhav Govind Rameshwar Temple"
+   },
+   "state": "Goa",
+   "state_basis": "boundary",
+   "district": "South Goa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Verna",
+     "dist_m": 6781
+    },
+    "nearest_bus": {
+     "name": "Ponda Bus Station",
+     "dist_m": 4050
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 14167,
+     "iata": "GOI"
+    },
+    "nearest_medical": {
+     "name": "Dr. Dhanyata's Skin Clinic",
+     "dist_m": 1966
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6727255",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva",
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Madhav, Govind, Rameshwar Temple is located at Agapur (Agasthipur) village, in Ponda taluk, Goa State, India. It is Trikutachala shrine, and the Temple is devoted to the Vaishnavite deities Madhav (Krishna), Rameshwar and Shaiv deity Rameshwar.",
+     "url": "https://en.wikipedia.org/wiki/Madhav_Govind_Rameshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6748130,
+   "lat": 15.506,
+   "lon": 73.99,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mandodari Temple, Betki",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6748130",
+    "wikipedia": "en:Mandodari Temple, Betki"
+   },
+   "state": "Goa",
+   "state_basis": "boundary",
+   "district": "South Goa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karmali",
+     "dist_m": 7223
+    },
+    "nearest_bus": {
+     "name": "Marcela Bus Stand",
+     "dist_m": 3256
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 21883,
+     "iata": "GOI"
+    },
+    "nearest_medical": {
+     "name": "Dr. Jasmine Pratap Naik's Clinic",
+     "dist_m": 2179
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6748130",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Shri Mandodari temple is a Hindu temple in the village of Betki, about 5 km from Marcel, Ponda in Goa, India. The temple is located at an elevation of 81 ft. Temple is known for the miracles of Water Goddess Mandodari and sacrifice made by the villagers. Water Goddess, Mandodari is the chief deity of the temple.",
+     "url": "https://en.wikipedia.org/wiki/Mandodari_Temple%2C_Betki",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7489027,
+   "lat": 15.634444444,
+   "lon": 73.925,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shantadurga Kalangutkarin Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7489027",
+    "wikipedia": "en:Shantadurga Kalangutkarin Temple"
+   },
+   "state": "Goa",
+   "state_basis": "boundary",
+   "district": "North Goa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Thivim",
+     "dist_m": 5160
+    },
+    "nearest_bus": {
+     "name": "Assonora Bus Stand",
+     "dist_m": 3076
+    },
+    "nearest_airport": {
+     "name": "Manohar International Airport",
+     "dist_m": 13195,
+     "iata": "GOX"
+    },
+    "nearest_medical": {
+     "name": "Mahatme Nursing Home - Bicholim",
+     "dist_m": 3090
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7489027",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Goa"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shantadurga%20Kalangutkarin%20Idol.JPG",
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Shantadurga (Kalangutkarin) Devasthan Nanora is a Hindu temple in Nanoda village, Bicholim taluka in Goa. The goddess Shantadurga is worshiped in the form of Vishweshwari.",
+     "url": "https://en.wikipedia.org/wiki/Shantadurga_Kalangutkarin_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7490502,
+   "lat": 15.63833333,
+   "lon": 73.9025,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sharvani Devasthan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7490502",
+    "wikipedia": "en:Sharvani Devasthan"
+   },
+   "state": "Goa",
+   "state_basis": "boundary",
+   "district": "North Goa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Thivim",
+     "dist_m": 2883
+    },
+    "nearest_bus": {
+     "name": "Assonora Bus Stand",
+     "dist_m": 2171
+    },
+    "nearest_airport": {
+     "name": "Manohar International Airport",
+     "dist_m": 11749,
+     "iata": "GOX"
+    },
+    "nearest_medical": {
+     "name": "PHC Pirna",
+     "dist_m": 3263
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7490502",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "North Goa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Sharvani Devasthan is the temple of Shri Devi Sharvani (Sharavani) and Vetoba (Vetal). It is located near the town of Bicholim in North Goa district in the Indian state of Goa.\nVetoba is worshipped in the form of Shiva (Siva).",
+     "url": "https://en.wikipedia.org/wiki/Sharvani_Devasthan",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503473,
+   "lat": 15.53333333,
+   "lon": 73.98333333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Betal temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503473",
+    "wikipedia": "en:Shree Betal temple"
+   },
+   "state": "Goa",
+   "state_basis": "boundary",
+   "district": "North Goa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karmali",
+     "dist_m": 7899
+    },
+    "nearest_bus": {
+     "name": "Marcela Bus Stand",
+     "dist_m": 3047
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 23436,
+     "iata": "GOI"
+    },
+    "nearest_medical": {
+     "name": "Prajaas Arogya Clinic",
+     "dist_m": 2553
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503473",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Goa"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Purvas%20Vetal.JPG",
+    "summary": {
+     "text": "Shri Betal temple (बेताळ) is a Hindu temple in Amona village in the Bicholim taluk of Goa, India. The presiding deity is Betal who is worshiped as a Bhairava form of Shiva in the form of a warrior; normally the idol of Shree Betal is standing in the temple, but during festivals his idol is displayed on a horse back in the village. He is the Gram devata of Amona.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Betal_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

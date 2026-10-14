@@ -1,6 +1,6 @@
 {
  "state": "Andhra Pradesh",
- "count": 3121,
+ "count": 3162,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -166522,6 +166522,2688 @@
     "has": [
      "name",
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12977479,
+   "lat": 16.304976,
+   "lon": 80.355901,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kailashagiri Hill",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12977479"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Guntur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Perecherla",
+     "dist_m": 2333
+    },
+    "nearest_bus": {
+     "name": "Government Hospital Bus Stop",
+     "dist_m": 9241
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 178697,
+     "iata": "RJA"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12977479",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vellore district",
+      "Andhra Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16966334,
+   "lat": 15.805277777,
+   "lon": 80.2575,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ramalingeswara swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16966334",
+    "wikipedia": "en:Ramalingeswara Swamy Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Bapatla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vetapalem",
+     "dist_m": 5234
+    },
+    "nearest_bus": {
+     "name": "Vetapalem Bus Stop",
+     "dist_m": 5909
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 214702,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16966334",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Prakasam district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "\n\nRamalingeswara Swamy Temple, located in Santharavuru, Chinnaganjam Mandal Bapatla district, Andhra Pradesh is dedicated to the deity Ramalingeswara. The temple dates back to the Chola period. According to The Hindu the temple administrators claim that the temple has a bell that reverberates 108 times when struck once, and that there are only two such bells the other being at Kashi.",
+     "url": "https://en.wikipedia.org/wiki/Ramalingeswara_Swamy_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17069954,
+   "lat": 14.545555555,
+   "lon": 79.881666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Kodandarama Swami Devastanam",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17069954",
+    "wikipedia": "en:Kodandarama Temple, Buchireddipalem"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Sri Potti Sriramulu Nellore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kodavaluru",
+     "dist_m": 12338
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Buchireddypalem",
+     "dist_m": 1455
+    },
+    "nearest_airport": {
+     "name": "Tirupati Airport",
+     "dist_m": 107939,
+     "iata": "TIR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 599
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17069954",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1784-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Buchireddypalem",
+      "Sri Potti Sri Ramulu Nellore district",
+      "Andhra Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Buchireddypalem%20Kodandaramaswamy%20Temple.jpg",
+    "summary": {
+     "text": "Sri Kodandarama Swami Devastanam is a Hindu temple dedicated to the god Rama located in the town of Buchireddypalem in SPSR Nellore District, in Andhra Pradesh, India. The temple covers an area of 2 acres. The temple has two entries, of which one is prominent and has a larger gateway tower called as Gopuram. Another entry has a small door on the right side of the temple. The Gopuram is 100 feet in height and the second-tallest Gopuram in Andhra Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Kodandarama_Temple%2C_Buchireddipalem",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17080837,
+   "lat": 13.596944444,
+   "lon": 79.996944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Oneness Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17080837",
+    "wikipedia": "en:Ekam - The Oneness Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Tirupati",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tada",
+     "dist_m": 4332
+    },
+    "nearest_bus": {
+     "name": "Pulivallem Bus Stop",
+     "dist_m": 2997
+    },
+    "nearest_airport": {
+     "name": "Tirupati Airport",
+     "dist_m": 49378,
+     "iata": "TIR"
+    },
+    "nearest_medical": {
+     "name": "Sri Pottipati Obul Reddy Government Hospital",
+     "dist_m": 3172
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17080837",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Oneness%20Temple.JPG",
+    "summary": {
+     "text": "The Ekam - The Oneness Temple is located at Varadaiahpalem in Tirupati district of Andhra Pradesh, India. It was constructed by the Oneness organization founded by Kalki Bhagavan.The temple was inaugurated in April 2008, and built at an estimated cost of $75 million.",
+     "url": "https://en.wikipedia.org/wiki/Ekam_-_The_Oneness_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17277239,
+   "lat": 14.351552,
+   "lon": 77.23315,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kambaduru Mallikarjuna temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17277239"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Anantapuram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kadiridevarapalli",
+     "dist_m": 8168
+    },
+    "nearest_bus": {
+     "name": "Andepalli Bus Stop",
+     "dist_m": 2024
+    },
+    "nearest_airport": {
+     "name": "Sri Sathya Sai Airport",
+     "dist_m": 64236,
+     "iata": "PUT"
+    },
+    "nearest_medical": {
+     "name": "Government primary hospital,Kambadur",
+     "dist_m": 1111
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17277239",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kambadur mandal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17284852,
+   "lat": 13.827094286,
+   "lon": 78.789595482,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Palliswara Mudaiya Madeya temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17284852"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Annamayya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalikiri",
+     "dist_m": 20407
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Kalakada",
+     "dist_m": 106
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 76593,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17284852",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kalakada mandal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17284858,
+   "lat": 14.595922723,
+   "lon": 78.756780881,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhimeshwara swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17284858"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangayapalle",
+     "dist_m": 6375
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Mydukuru",
+     "dist_m": 14492
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 9021,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17284858",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamakshi%20Vaidyanatha%20Temple%2C%20Pushpagiri%2C%20Andhra%20Pradesh%20India%20-%2002.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350533,
+   "lat": 14.601545756,
+   "lon": 78.756276104,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Indranadheshwara swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350533"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangayapalle",
+     "dist_m": 6821
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Mydukuru",
+     "dist_m": 13868
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 9647,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350533",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Indranatha%20Swamy%20Temple%2C%20Pushpagiri.gif",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350596,
+   "lat": 14.595531866,
+   "lon": 78.756518258,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Raghaveswara swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350596"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangayapalle",
+     "dist_m": 6324
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Mydukuru",
+     "dist_m": 14530
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 8982,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350596",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350664,
+   "lat": 14.595883244,
+   "lon": 78.756476572,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trikoteswara swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350664"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangayapalle",
+     "dist_m": 6350
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Mydukuru",
+     "dist_m": 14490
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 9021,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350664",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350708,
+   "lat": 14.595719843,
+   "lon": 78.756716433,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vaidhyanadha swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350708"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangayapalle",
+     "dist_m": 6354
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Mydukuru",
+     "dist_m": 14513
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 8999,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350708",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaidhyanadha%20swamy%20temple1.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350888,
+   "lat": 15.012659355,
+   "lon": 78.451836302,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kondarama temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350888"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nossam",
+     "dist_m": 6996
+    },
+    "nearest_bus": {
+     "name": "Uyyalavada Bus Stop",
+     "dist_m": 11396
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 64923,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350888",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350928,
+   "lat": 15.014243398,
+   "lon": 78.449645835,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mukundesvara temple with inscriptions",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350928"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nossam",
+     "dist_m": 6894
+    },
+    "nearest_bus": {
+     "name": "Uyyalavada Bus Stop",
+     "dist_m": 11123
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 65196,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350928",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17350979,
+   "lat": 15.012697458,
+   "lon": 78.448587571,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narasimha temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17350979"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nossam",
+     "dist_m": 6704
+    },
+    "nearest_bus": {
+     "name": "Uyyalavada Bus Stop",
+     "dist_m": 11212
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 65110,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17350979",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Narasimha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17351070,
+   "lat": 14.2679392,
+   "lon": 79.1182029,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Saumyanatha temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17351070"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nandalur",
+     "dist_m": 1522
+    },
+    "nearest_bus": {
+     "name": "Mantapampalle Bus Stop",
+     "dist_m": 6938
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 46648,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17351070",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Soumyanathaswamy%20Temple%2C%20Nandalur.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17351079,
+   "lat": 14.244064433,
+   "lon": 79.163694036,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Athirala parasurama temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17351079"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hastavaramu",
+     "dist_m": 5291
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Rajampeta",
+     "dist_m": 4983
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 52177,
+     "iata": "CDP"
+    },
+    "nearest_medical": {
+     "name": "Raju Health Care Centre",
+     "dist_m": 3892
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17351079",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Parasurameshwara%20Temple%20-%20Attirala.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17351094,
+   "lat": 15.014360572,
+   "lon": 78.449654856,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "old Vishnu temples at Peddanudiyam",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17351094"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "YSR Kadapa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nossam",
+     "dist_m": 6903
+    },
+    "nearest_bus": {
+     "name": "Uyyalavada Bus Stop",
+     "dist_m": 11112
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 65207,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17351094",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "YSR  Kadapa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17351135,
+   "lat": 16.638634137,
+   "lon": 79.653245653,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "ancient Siva temple at Ayyangaripalam",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17351135"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Palnadu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pondugula",
+     "dist_m": 2687
+    },
+    "nearest_bus": {
+     "name": "Sankarpuram Bus Stop",
+     "dist_m": 8339
+    },
+    "nearest_airport": {
+     "name": "Warangal Airport",
+     "dist_m": 141918,
+     "iata": "WGC"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17351135",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Guntur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17351161,
+   "lat": 16.3166282,
+   "lon": 79.84939308,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kapoteswara temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17351161"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Palnadu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kungalagunta",
+     "dist_m": 6471
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Epuru",
+     "dist_m": 12362
+    },
+    "nearest_airport": {
+     "name": "Warangal Airport",
+     "dist_m": 179536,
+     "iata": "WGC"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17351161",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Guntur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Amvar%20Chejerla%20Kapoteswara%20temple%20in%20guntur%20district.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17783173,
+   "lat": 16.959583333,
+   "lon": 82.048805555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Golingeswara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17783173"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "East Godavari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bikkavolu",
+     "dist_m": 2088
+    },
+    "nearest_bus": {
+     "name": "Nallamilli Bus Stop",
+     "dist_m": 6562
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 30018,
+     "iata": "RJA"
+    },
+    "nearest_medical": {
+     "name": "mediplus",
+     "dist_m": 222
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17783173",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "East Godavari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Golingeswara%20temple%20Biccavole%20east%20godavari.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18170731,
+   "lat": 14.872334838,
+   "lon": 79.305590367,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Udayagiri Krishna Temple, Kalyanamandapam and Tank",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18170731"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Sri Potti Sriramulu Nellore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ontimitta",
+     "dist_m": 61686
+    },
+    "nearest_bus": {
+     "name": "Udayagiri Old Bus Stand",
+     "dist_m": 711
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 70063,
+     "iata": "CDP"
+    },
+    "nearest_medical": {
+     "name": "Venu Nursing Home",
+     "dist_m": 822
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18170731",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udayagiri"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18171029,
+   "lat": 15.721175728,
+   "lon": 80.292980144,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Motupalle Chola temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18171029"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Bapatla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kadavakuduru",
+     "dist_m": 3766
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station ,  Kadavakuduru",
+     "dist_m": 4216
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 211529,
+     "iata": "CDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18171029",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Prakasam district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/MOTUPALLI%20TEMPLE%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18171038,
+   "lat": 18.591583333,
+   "lon": 83.964777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Somesvara temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18171038"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Srikakulam",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ganguvada",
+     "dist_m": 17148
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Srimukhalingam",
+     "dist_m": 409
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 83793,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital,L.N.Peta",
+     "dist_m": 2725
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18171038",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Srikakulam district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Somesvara%20temple.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18171067,
+   "lat": 18.1343779,
+   "lon": 83.4672203,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dibbesvarasvamipur Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18171067",
+    "wikipedia": "en:Dibbesvara Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Vizianagaram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nellimarla",
+     "dist_m": 6053
+    },
+    "nearest_bus": {
+     "name": "Nellimarla X Roads Bus Stop",
+     "dist_m": 3212
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 18062,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "Clinic",
+     "dist_m": 1642
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18171067",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vizianagaram district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dibbalingeswara%20Temple%20at%20Saripalli%2001.JPG",
+    "summary": {
+     "text": "Dibbesvara Temple is a medieval Hindu temple dedicated to Lord Shiva, located in the village of Saripalli in Vizianagaram district, Andhra Pradesh, India. The temple is recognised as a centrally protected monument and is maintained by the Archaeological Survey of India under its Amaravati Circle.",
+     "url": "https://en.wikipedia.org/wiki/Dibbesvara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18392586,
+   "lat": 18.306944444,
+   "lon": 83.848055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Ranganathaswamy Temple, Vavilavalasa,Rajam,Srikakulam dist",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18392586"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Srikakulam",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dusi",
+     "dist_m": 7122
+    },
+    "nearest_bus": {
+     "name": "Seepanaidupeta Bus Stop",
+     "dist_m": 2545
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 51516,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "Life Ray Hospital",
+     "dist_m": 2927
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18392586",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104867029,
+   "lat": 16.938222222,
+   "lon": 82.073777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kodandarama Temple, Gollala Mamidada",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104867029",
+    "wikipedia": "en:Kodandarama Temple, Gollala Mamidada"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Kakinada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bikkavolu",
+     "dist_m": 5624
+    },
+    "nearest_bus": {
+     "name": "Nallamilli Bus Stop",
+     "dist_m": 10009
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 33540,
+     "iata": "RJA"
+    },
+    "nearest_medical": {
+     "name": "mediplus",
+     "dist_m": 3733
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104867029",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Kodandarama Temple is a Hindu temple located in Gollala Mamidada in Kakinada district of Andhra Pradesh, India. The temple is dedicated to Rama, the seventh incarnation of Vishnu. It was built on the banks of Tulyabhaga (Antharvahini), a tributary of Godavari.",
+     "url": "https://en.wikipedia.org/wiki/Kodandarama_Temple%2C_Gollala_Mamidada",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 134420834,
+   "lat": 15.373055555,
+   "lon": 77.377777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Navanepattayya Swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q134420834"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Kurnool",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Molagavalli",
+     "dist_m": 1830
+    },
+    "nearest_bus": {
+     "name": "Burujula Bus Stop",
+     "dist_m": 8454
+    },
+    "nearest_airport": {
+     "name": "Bellary Airport",
+     "dist_m": 58123,
+     "iata": "BEP"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 4882
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q134420834",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Alur mandal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temple-sideview.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19288965,
+   "lat": 13.837086329,
+   "lon": 78.298168549,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chennakeswaraswami Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19288965"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Annamayya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mulakala Cheruvu",
+     "dist_m": 5325
+    },
+    "nearest_bus": {
+     "name": "Kalicherla Bus Stop",
+     "dist_m": 26908
+    },
+    "nearest_airport": {
+     "name": "Sri Sathya Sai Airport",
+     "dist_m": 64773,
+     "iata": "PUT"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19288965",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mulakalacheruvu mandal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temple%20Main%20Gateway.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 23793239,
+   "lat": 16.971,
+   "lon": 81.773,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kotasattemma Temple, Nidadavolu",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q23793239",
+    "wikipedia": "en:Kotasattemma Temple, Nidadavolu"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "East Godavari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajahmundry",
+     "dist_m": 1861
+    },
+    "nearest_bus": {
+     "name": "Kotipalli Bus Stand",
+     "dist_m": 2539
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 15454,
+     "iata": "RJA"
+    },
+    "nearest_medical": {
+     "name": "Aditya Multi Specialty Ayurvedic Hospital",
+     "dist_m": 1300
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q23793239",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "West Godavari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Kotasattemma Temple is a Hindu pilgrimage center in Nidadavolu of East Godavari district in the Indian state of Andhra Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Kotasattemma_Temple%2C_Nidadavolu",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 23808627,
+   "lat": 15.133180555,
+   "lon": 77.626188888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Sunama Jakini Matha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q23808627",
+    "wikipedia": "en:Sri Sunama Jakini Matha"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Anantapuram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gooty Junction",
+     "dist_m": 1823
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Gooty",
+     "dist_m": 2474
+    },
+    "nearest_airport": {
+     "name": "Bellary Airport",
+     "dist_m": 79942,
+     "iata": "BEP"
+    },
+    "nearest_medical": {
+     "name": "Government Community Hospital,Gooty",
+     "dist_m": 1405
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q23808627",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Anantapuramu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Sunam%20Jakini%20Matha.jpg",
+    "summary": {
+     "text": "Sri Sunama Jakini Maata is a temple built to honor a legendary Indian woman who was deified.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Sunama_Jakini_Matha",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24283708,
+   "lat": 18.3,
+   "lon": 83.9,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Arasavalli Sun Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24283708",
+    "wikipedia": "en:Arasavalli Sun Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Srikakulam",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dusi",
+     "dist_m": 8963
+    },
+    "nearest_bus": {
+     "name": "Ramalaxmana Junction",
+     "dist_m": 510
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 54991,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "K C Eye Hospital",
+     "dist_m": 179
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24283708",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Srikakulam district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Arasavilli%20Sri%20Suryanarayanamurty%20Temple%20of%20Srikakulam%2C%20Andhra%20Pradesh%20%283%29.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Arasavalli Sri Surya Narayana Swamy Devalayam is a temple for Lord Surya, the solar deity, at Arasavalli in the Indian state of Andhra Pradesh. It is located in Arasavalli Village 1 km east of Srikakulam. It is believed that the temple was built in 7th century CE by King Devendra Varma, a great ruler of Eastern Ganga Dynasty of Kalinga. The present structure is largely a result of 18th-century renovations. The temple was built in Rekha deula style of Kalinga Architecture like Puri Jagannath temple of Odisha. This temple is considered one of the oldest sun temples in India. The temple is one of the two major temples who worship Lord Surya in India. The other two are the Konark Sun Temple, Odisha and Martand Sun Temple, Jammu and Kashmir.",
+     "url": "https://en.wikipedia.org/wiki/Arasavalli_Sun_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906378,
+   "lat": 17.7005216,
+   "lon": 83.2960083,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Kanaka Maha Lakshmi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906378",
+    "wikipedia": "en:Kanaka Maha Lakshmi Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Visakhapatnam",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Visakhapatnam",
+     "dist_m": 2394
+    },
+    "nearest_bus": {
+     "name": "Old Head Post Office Area",
+     "dist_m": 685
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 37908,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "Amrutha Nursing Home Private Limited",
+     "dist_m": 80
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906378",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Andhra Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Kanaka Maha Lakshmi is the presiding deity of Visakhapatnam locals. The temple is located in Burujupeta of Visakhapatnam city. The temple temple is dedicated to Goddess Lakshmi who resides there in the form of Kanaka Mahalakshmi.",
+     "url": "https://en.wikipedia.org/wiki/Kanaka_Maha_Lakshmi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24929198,
+   "lat": 17.106794444,
+   "lon": 82.243333333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pithapuram Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24929198",
+    "wikipedia": "en:Kukkuteswara Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Kakinada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pithapuram",
+     "dist_m": 1525
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station  , Pithapuram",
+     "dist_m": 2216
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 45944,
+     "iata": "RJA"
+    },
+    "nearest_medical": {
+     "name": "GOVT.HOSPITAL PITHAPURAM",
+     "dist_m": 686
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24929198",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "The Kukkuteswara Temple or Sri Kukkuteswara Swami Temple is a Hindu temple in Pitapuram town of Kakinada district, Andhra Pradesh, India. The temple is prominent in both Saivite and Shakta Hindu traditions. It is one of the eighteen Maha Shakta pithas considered the most significant pilgrimage destinations in Shaktism. The presiding deity of the temple is Lord Kukkuteswara, a form of Lord Siva as a rooster and his consort Rajarajeswari Devi.",
+     "url": "https://en.wikipedia.org/wiki/Kukkuteswara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24948627,
+   "lat": 16.6276,
+   "lon": 81.2893,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Peddintlamma Temple, Kolletikota",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24948627",
+    "wikipedia": "en:Peddintlamma Temple, Kolletikota"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Eluru",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pallevada",
+     "dist_m": 5691
+    },
+    "nearest_bus": {
+     "name": "Gudivaka Lanka Bus Stop",
+     "dist_m": 8094
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 76823,
+     "iata": "RJA"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24948627",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Krishna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Peddintlamma%20Temple%20Kolletikota.jpg",
+    "summary": {
+     "text": "Peddintlamma Temple is a Hindu pilgrimage site. It is located on the shores of Kolleru Lake in Kolletikota of Eluru district in Andhra Pradesh. The temple was built in the 13th century by an Eastern Ganga Dynasty Army General during the reign of the Eastern Ganga king Narasingha Deva I.",
+     "url": "https://en.wikipedia.org/wiki/Peddintlamma_Temple%2C_Kolletikota",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25576264,
+   "lat": 18.12,
+   "lon": 83.42,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Paidithalli Ammavari Temple, Vizianagaram",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25576264"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Vizianagaram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vizianagaram Junction",
+     "dist_m": 2676
+    },
+    "nearest_bus": {
+     "name": "Phool Bagh Bus Stop",
+     "dist_m": 826
+    },
+    "nearest_airport": {
+     "name": "Alluri Sitarama Raju International Airport",
+     "dist_m": 18413,
+     "iata": "VTZ"
+    },
+    "nearest_medical": {
+     "name": "Maharani Mother & Child (Ghosha) Hospital",
+     "dist_m": 503
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25576264",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vizianagaram district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4952193,
+   "lat": 13.56756,
+   "lon": 78.46317,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Boyakonda Gangamma",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4952193",
+    "wikipedia": "en:Boyakonda Gangamma"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Annamayya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kurabalakota",
+     "dist_m": 11336
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Madanapalle",
+     "dist_m": 4951
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 91633,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Siloam Eye Centre",
+     "dist_m": 2077
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4952193",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Annamayya district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Boyakonda Gangamma is a temple dedicated to Gangamma Devi located at Boyakonda, in Annamayya District, Andhra Pradesh, India. The temple is situated near the village of Diguvapalli in Chowdepalli mandal, approximately 20 km from Madanapalle and 150 kms from Bangalore. It serves as a prominent Hindu pilgrimage center in the region.",
+     "url": "https://en.wikipedia.org/wiki/Boyakonda_Gangamma",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48727304,
+   "lat": 15.7609411,
+   "lon": 78.0137396,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Swayambhu Sri Abhista Gnana Ganapathi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48727304",
+    "wikipedia": "en:Swayambhu Sri Abhista Gnana Ganapathi Temple"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Kurnool",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dupadu",
+     "dist_m": 1998
+    },
+    "nearest_bus": {
+     "name": "Bandi Tandrapadu Bus Stop",
+     "dist_m": 5416
+    },
+    "nearest_airport": {
+     "name": "Bellary Airport",
+     "dist_m": 138361,
+     "iata": "BEP"
+    },
+    "nearest_medical": {
+     "name": "Health Center",
+     "dist_m": 2463
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48727304",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kurnool district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ssagg-temple.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Swayambhu Sri Abhista Gnana Ganapathi Temple is a Ganapathi temple located in Mayuri Greenland, Kurnool district, Andhra Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Swayambhu_Sri_Abhista_Gnana_Ganapathi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48734537,
+   "lat": 13.35,
+   "lon": 79.41,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Venugopalaswamy Temple, Karvetinagaram",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48734537",
+    "wikipedia": "en:Venugopalaswamy Temple, Karvetinagaram"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Chittoor",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vepagunta",
+     "dist_m": 16300
+    },
+    "nearest_bus": {
+     "name": "Pallipattu Bus Stand",
+     "dist_m": 3213
+    },
+    "nearest_airport": {
+     "name": "Tirupati Airport",
+     "dist_m": 34494,
+     "iata": "TIR"
+    },
+    "nearest_medical": {
+     "name": "Srinivasa Clinic",
+     "dist_m": 3505
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48734537",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Venugopalaswamy Temple is a Hindu-Vaishnavite temple situated at Karvetinagaram in, Chittoor District of Andhra Pradesh state, India. The Temple is dedicated to Krishna, considered by believers to be the eighth incarnation of Vishnu's Dasavatharam, who is referred to as Venugopala. It is situated at a distance of 58 km from Tirupati and 12 km from Puttur.",
+     "url": "https://en.wikipedia.org/wiki/Venugopalaswamy_Temple%2C_Karvetinagaram",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 61066207,
+   "lat": 16.0069892,
+   "lon": 79.4332639,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Thiripurantakesvararar Temple, Tripuranthakam",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q61066207",
+    "wikipedia": "en:Tripuranthakeswara Temple, Tripuranthakam"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Markapuram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Potlapadu",
+     "dist_m": 17806
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station , Tripuranthakam",
+     "dist_m": 2532
+    },
+    "nearest_airport": {
+     "name": "RGIA Phase II",
+     "dist_m": 175463,
+     "iata": "HYD"
+    },
+    "nearest_medical": {
+     "name": "Surendra Hospital",
+     "dist_m": 2316
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q61066207",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Tripuranthakam mandal",
+      "Prakasam district",
+      "Andhra Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Tripuranthakeswara Temple is a Hindu temple dedicated to the deity Shiva, located at Tripuranthakam in Markapuram district, Andhra Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Tripuranthakeswara_Temple%2C_Tripuranthakam",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6440783,
+   "lat": 16.5333,
+   "lon": 81.7333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ksheerarama",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6440783",
+    "wikipedia": "en:Ksheerarama"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "West Godavari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Palakollu",
+     "dist_m": 2160
+    },
+    "nearest_bus": {
+     "name": "APSRTC Bus Station ,  Palakollu",
+     "dist_m": 2079
+    },
+    "nearest_airport": {
+     "name": "Rajahmundry Airport",
+     "dist_m": 64122,
+     "iata": "RJA"
+    },
+    "nearest_medical": {
+     "name": "Sri Surya Nursing Home - Palakollu",
+     "dist_m": 1470
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6440783",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Palakollu",
+      "West Godavari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/CompleteTempleComplex.jpg",
+    "summary": {
+     "text": "Ksheerarama is one of the five Pancharama Kshetras that are sacred to the Hindu god Shiva. The temple is located in Palakollu of West Godavari in the Indian state of Andhra Pradesh. Shiva is known locally as Ksheera Ramalingeswara Swamy. It is believed that staying one day in Kshirarama is equivalent to staying one year in Varanasi. It is one of the centrally protected monuments of national importance.",
+     "url": "https://en.wikipedia.org/wiki/Ksheerarama",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97656866,
+   "lat": 14.0198,
+   "lon": 78.7384,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Santhana Venugopala Swamy Temple Thettu",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97656866",
+    "wikipedia": "en:Sri Santhana Venugopala Swamy Temple, Thettu"
+   },
+   "state": "Andhra Pradesh",
+   "state_basis": "boundary",
+   "district": "Annamayya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalikiri",
+     "dist_m": 42331
+    },
+    "nearest_bus": {
+     "name": "Yerraguntla Bus Stop",
+     "dist_m": 2092
+    },
+    "nearest_airport": {
+     "name": "Kadapa Airport",
+     "dist_m": 55228,
+     "iata": "CDP"
+    },
+    "nearest_medical": {
+     "name": "Kalesha Clinic",
+     "dist_m": 3171
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97656866",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Santhana Venugopala Swamy is an ancient Hindu temple in Thettu Village, Kurabalakota mandal, Annamayya district, Andhra Pradesh. The Lord Venugopala Swamy Temple and Goddess Paleti Gangamma Temple are the places of worship in the village of Thettu. This deity is also known as Bala Gopala, Hucchu Gopala, or Sri Santana Venugopala.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Santhana_Venugopala_Swamy_Temple%2C_Thettu",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
     ]
    }
   }

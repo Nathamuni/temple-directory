@@ -1,6 +1,6 @@
 {
  "state": "Manipur",
- "count": 7,
+ "count": 8,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -382,6 +382,63 @@
      "name",
      "district",
      "locality"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123469661,
+   "lat": 24.5725,
+   "lon": 93.7671,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gopinath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123469661"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Bishnupur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 23495
+    },
+    "nearest_bus": {
+     "name": "Vans towards Imphal",
+     "dist_m": 8070
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 24436,
+     "iata": "IMF"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123469661",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bishnupur district",
+      "Manipur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gopinath%20Temple%2C%20Ningthoukhong%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
     ]
    }
   }

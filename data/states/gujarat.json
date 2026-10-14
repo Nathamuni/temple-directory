@@ -1,6 +1,6 @@
 {
  "state": "Gujarat",
- "count": 1219,
+ "count": 1292,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -68159,6 +68159,5050 @@
     "of": 8,
     "has": [
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 125371967,
+   "lat": 22.4688945,
+   "lon": 69.1305792,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hanuman Dandi temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q125371967",
+    "wikipedia": "en:Hanuman Dandi temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Devbhumi Dwaraka",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Okha",
+     "dist_m": 5561
+    },
+    "nearest_bus": {
+     "name": "Tata quartiers",
+     "dist_m": 13977
+    },
+    "nearest_airport": {
+     "name": "Jamnagar Airport",
+     "dist_m": 90174,
+     "iata": "JGA"
+    },
+    "nearest_medical": {
+     "name": "Community health center",
+     "dist_m": 4104
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q125371967",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "denomination": {
+     "value": [
+      "Hinduism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Devbhumi Dwarka district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Hanuman Dandi Temple is a Hindu temple located on Beyt Dwarka, an island off the coast of Gujarat, India, dedicated to the deity Hanuman and his son Makardhwaj. Situated approximately 5 kilometers from the Dwarkadhish Temple in Bet Dwarka, this temple is unique as it features idols of Hanuman and Makardhwaj, showcasing a rare depiction of Hanuman, who is traditionally considered a celibate, with his progeny.",
+     "url": "https://en.wikipedia.org/wiki/Hanuman_Dandi_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 13156158,
+   "lat": 23.919166666,
+   "lon": 72.379166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudra Mahalaya Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q13156158",
+    "wikipedia": "en:Rudra Mahalaya Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Patan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Siddhpur",
+     "dist_m": 1121
+    },
+    "nearest_bus": {
+     "name": "Biliya sidhpur",
+     "dist_m": 3660
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 97227,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Harsh Maternity Home",
+     "dist_m": 534
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 293
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q13156158",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0943-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Patan district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20of%20the%20Rudra%20Mala%20at%20Siddhpur%2C%20Gujarat%2C%20retouched.jpg",
+    "summary": {
+     "text": "The Rudra Mahalaya Temple, also known as Rudramal, is a desecrated Hindu temple complex at Siddhpur town of Gujarat, India. Its construction was started in 943 CE by Mularaja and completed in 1140 CE by Jayasimha Siddharaja, a ruler of the Chaulukya dynasty. The Hindu temple was destroyed by the Sultan of Delhi, Alauddin Khalji, and later the Sultan of Gujarat, Ahmed Shah I desecrated and substantially demolished the temple, and also converted part of it into the congregational mosque of the city. Two torans (porches) and four pillars of the former central structure still stand along with the western part of the complex used as a congregational mosque.",
+     "url": "https://en.wikipedia.org/wiki/Rudra_Mahalaya_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15206975,
+   "lat": 23.06777778,
+   "lon": 72.60388889,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Camp Hanuman Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15206975",
+    "wikipedia": "en:Camp Hanuman Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Ahmedabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sabarmati Junction",
+     "dist_m": 1768
+    },
+    "nearest_bus": {
+     "name": "Ranip GSRTC",
+     "dist_m": 2875
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 2937,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Military Hospital",
+     "dist_m": 991
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15206975",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20Hanuman%20Ji.jpg",
+    "website": "http://camphanumanji.org",
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Shree Camp Hanuman Temple is one of the biggest Hanuman temples in India. It is situated in Ahmedabad Cantonment in Shahibaug, Ahmedabad in the Indian state of Gujarat. The temple is owned by Shri Hanumanji Mandir Camp Trust Ahmedabad.",
+     "url": "https://en.wikipedia.org/wiki/Camp_Hanuman_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 6,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18015117,
+   "lat": 23.626111111,
+   "lon": 72.844722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhareshwar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18015117"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Sabarkantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahadevpura",
+     "dist_m": 12384
+    },
+    "nearest_bus": {
+     "name": "Himatnagar Bus Station",
+     "dist_m": 12233
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 64949,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18015117",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Himatnagar Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18126156,
+   "lat": 23.011416666,
+   "lon": 72.580888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jagannath Temple, Ahmedabad",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18126156",
+    "wikipedia": "en:Jagannath Temple, Ahmedabad"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Ahmedabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ahmedabad Junction",
+     "dist_m": 2643
+    },
+    "nearest_bus": {
+     "name": "Gita Mandir Bus Station",
+     "dist_m": 1210
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 8826,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Pearl Eye Hospital",
+     "dist_m": 177
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18126156",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jagannath%20Temple%20Ahmedabad.jpg",
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "\nThe Jagannath Temple is a temple dedicated to the Hindu God Jagannath in the city of Ahmedabad in the Gujarat state of India. The temple is famous for its annual chariot festival, the Rath Yatra, which is the third most important and largest after the Ratha Yatra at Puri. The temple remains open for devotees from 04:30 AM to 01:00 PM and 03:00 PM to 09:00 PM daily.",
+     "url": "https://en.wikipedia.org/wiki/Jagannath_Temple%2C_Ahmedabad",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107584183,
+   "lat": 21.3132,
+   "lon": 70.291,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Radha Damodar Temple, Junagadh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107584183",
+    "wikipedia": "en:Radha Damodar Temple, Junagadh"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Junagadh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badodar",
+     "dist_m": 3773
+    },
+    "nearest_bus": {
+     "name": "Keshod",
+     "dist_m": 4651
+    },
+    "nearest_airport": {
+     "name": "Keshod",
+     "dist_m": 2262,
+     "iata": "IXK"
+    },
+    "nearest_medical": {
+     "name": "Shree Om Clinic",
+     "dist_m": 3423
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107584183",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Radha Damodar Temple is a Hindu temple, situated in the Junagadh district of Gujarat, India. The temple is dedicated to the Damodar Hari, another name of Hindu god Krishna. In this temple, Damodar is worshiped in his four arms form of Vishnu along with his consort, goddess Radha who is seated next to him in the central shrine. Within the premises of temple, Damodar kund and Revati kund are also present. This temple comes under the special care of the Government of Gujarat.",
+     "url": "https://en.wikipedia.org/wiki/Radha_Damodar_Temple%2C_Junagadh",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109932222,
+   "lat": 23.035663888,
+   "lon": 72.481719444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ahmedabad Kali Bari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109932222",
+    "wikipedia": "en:Ahmedabad Kali Bari"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Ahmedabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambli Road",
+     "dist_m": 2319
+    },
+    "nearest_bus": {
+     "name": "Swagat Bunglows BRTS",
+     "dist_m": 964
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 15935,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Bopal Eye Care Centre",
+     "dist_m": 854
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109932222",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmedabad%20Kali%20Bari%20-%20View%20from%20the%20Garden%20-%20South.jpg",
+    "website": "https://ahmedabadkalibari.com/",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ahmedabad Kali Bari is a Hindu temple dedicated to Goddess Kali and the center for Bengali Culture in Ahmedabad, India. Established in 2014, it is situated on Kali Bari Road, West Ahmedabad.",
+     "url": "https://en.wikipedia.org/wiki/Ahmedabad_Kali_Bari",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 6,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126081598,
+   "lat": 23.767638888,
+   "lon": 72.406194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganapati Dada Temple, Aithor",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126081598"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unawa Aithor",
+     "dist_m": 2652
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 5069
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 80273,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Navsarjan Dental Multispeciality Clinic",
+     "dist_m": 3790
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126081598",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0081923%20Shri%20Ganapati%20Dada%20Temple%2C%20Aithor%20Gujarat%20025.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126091974,
+   "lat": 23.802944444,
+   "lon": 72.317027777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Harsiddhi Mata Temple, Sunak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126091974"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unjha",
+     "dist_m": 6634
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 6433
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 86967,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126091974",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th-century%20Harsiddhi%20Mata%20temple%2C%20Sunak%20Gujarat%20018.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126121131,
+   "lat": 23.76794,
+   "lon": 72.40594,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vishnu Temple, Aithor",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126121131"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unawa Aithor",
+     "dist_m": 2652
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 5027
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 80312,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Navsarjan Dental Multispeciality Clinic",
+     "dist_m": 3749
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126121131",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0081923%20Vishnu%20Temple%2C%20Aithor%20Gujarat%20029.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126121605,
+   "lat": 23.483305555,
+   "lon": 72.461722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple and Shakti Kund, Akhaj",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126121605"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Langhnaj",
+     "dist_m": 4328
+    },
+    "nearest_bus": {
+     "name": "Mehsana GSRTC Bus Port (New Bus Station)",
+     "dist_m": 14749
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 48498,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126121605",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0082423%20Shiva%20temple%20and%20Shakti%20kund%2C%20Akhaj%20Gujaratc%20072.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126122583,
+   "lat": 21.337722222,
+   "lon": 70.12925,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya Temple, Akhodar Junagadh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126122583"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Junagadh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Keshod",
+     "dist_m": 13407
+    },
+    "nearest_bus": {
+     "name": "Keshod",
+     "dist_m": 13426
+    },
+    "nearest_airport": {
+     "name": "Keshod",
+     "dist_m": 14732,
+     "iata": "IXK"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126122583",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Junagadh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/7th%20century%20Surya%20Mandir%2C%20Akhodar%20Gujarat%20062.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126177165,
+   "lat": 24.335194444,
+   "lon": 72.878277777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamakshi Devi Temple, Ambaji",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126177165"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Banaskantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Abu Road",
+     "dist_m": 18775
+    },
+    "nearest_bus": {
+     "name": "Ambaji Bus Station",
+     "dist_m": 3011
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 142270,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Chaudhary Clinic",
+     "dist_m": 2549
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126177165",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Banaskantha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambaji%20Kamakshi%20Devi%20Temple%20Gujarat%202023%2008%2012%20180745%2002.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126374896,
+   "lat": 23.984833333,
+   "lon": 73.212833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shakti and Shiva temples, Antarsumba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126374896"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Sabarkantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vadali",
+     "dist_m": 17867
+    },
+    "nearest_bus": {
+     "name": "Khedbrahma GSRTC Station",
+     "dist_m": 17565
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 117180,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126374896",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sabarkantha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th-century%20Shakti%20and%20Shiva%20temples%2C%20Antarsuba%20Gujarat%20008.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126380207,
+   "lat": 23.985388888,
+   "lon": 73.212,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Panchayatan Temple Group 1, Antarsuba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126380207"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Sabarkantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vadali",
+     "dist_m": 17803
+    },
+    "nearest_bus": {
+     "name": "Khedbrahma GSRTC Station",
+     "dist_m": 17464
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 117190,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126380207",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sabarkantha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/15th-century%20Shiva%20Panchayatana%20temple%20complex%2C%20Antarsuba%20Gujarat%20025.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126453076,
+   "lat": 22.224472222,
+   "lon": 71.168166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ananteshwar Temple, Anandpur Bhadla",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126453076"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kothariya",
+     "dist_m": 36829
+    },
+    "nearest_bus": {
+     "name": "GSRTC Central Bus Station",
+     "dist_m": 38384
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 21901,
+     "iata": "HSR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126453076",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Surendranagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/12th-century%20Anteshwar%20Mahadev%20temple%2C%20Bhadia%20Anandpur%20Gujarat%20025.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126476698,
+   "lat": 23.865333333,
+   "lon": 72.443138888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Masiya Mahadev temple, Bhunav",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126476698"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamli",
+     "dist_m": 6833
+    },
+    "nearest_bus": {
+     "name": "Biliya sidhpur",
+     "dist_m": 5802
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 89854,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Kahoda CHC",
+     "dist_m": 2878
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126476698",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th%20century%20Masiya%20Mahadev%20temple%2C%20Bhunav%20Gujarat%20020.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126485702,
+   "lat": 21.728805555,
+   "lon": 69.663722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya and Saptamatrika Temples, Boricha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126485702"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Porbandar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Aditpara",
+     "dist_m": 6621
+    },
+    "nearest_bus": {
+     "name": "City Bus stand",
+     "dist_m": 11486
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 8757,
+     "iata": "PBD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126485702",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Porbandar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/8th-century%20Surya%20temple%2C%20Boricha%20Gujarat%20010.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126487026,
+   "lat": 22.463527777,
+   "lon": 73.517083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakulisa Temple, Pavagadh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126487026"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Champaner Road",
+     "dist_m": 15417
+    },
+    "nearest_bus": {
+     "name": "shared jeeps up the hill",
+     "dist_m": 2903
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 33025,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126487026",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panchmahal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th%20to%2011th-century%20Lakulisa%20temple%2C%20Pavagadh%20hill%2C%20Gujarat%20029.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 134006038,
+   "lat": 23.687222222,
+   "lon": 73.389444444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shamlaji Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q134006038"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Aravalli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lusadiya",
+     "dist_m": 3214
+    },
+    "nearest_bus": {
+     "name": "Modasa Bus Station",
+     "dist_m": 26874
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 103004,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Shan Hospital",
+     "dist_m": 631
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q134006038",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Aravalli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shamlaji%20Temple1.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 141667830,
+   "lat": 22.876583,
+   "lon": 72.768509,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhumapura Hanuman Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q141667830"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kheda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nenpur",
+     "dist_m": 5539
+    },
+    "nearest_bus": {
+     "name": "Maninagar Bus stop",
+     "dist_m": 19843
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 26243,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Joitiba Hospital",
+     "dist_m": 2932
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q141667830",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kheda district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 2724583,
+   "lat": 22.3314,
+   "lon": 73.192,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "EME Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q2724583",
+    "wikipedia": "en:EME Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Vadodara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vadodara Junction",
+     "dist_m": 2537
+    },
+    "nearest_bus": {
+     "name": "Vadodara New Bus Station",
+     "dist_m": 2283
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 3615,
+     "iata": "BDQ"
+    },
+    "nearest_medical": {
+     "name": "Our Lady of Pillar Hospital",
+     "dist_m": 767
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q2724583",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dakshinamoorthy%20%26%20Navgraha%20EME%20Temple.jpg",
+    "summary": {
+     "text": "The Dakshinamoorthy and Navgraha EME Temple is a Hindu temple dedicated to god Shiva, situated in EME School's campus in Vadodara, Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/EME_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 2730907,
+   "lat": 21.722444,
+   "lon": 72.005463,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khodiyar Temple - Rajapara (Gujarat)",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q2730907"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Bhavnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khodiyar Mandir",
+     "dist_m": 1880
+    },
+    "nearest_bus": {
+     "name": "GSRTC Bus Station",
+     "dist_m": 14543
+    },
+    "nearest_airport": {
+     "name": "Bhavnagar Airport",
+     "dist_m": 18950,
+     "iata": "BHU"
+    },
+    "nearest_medical": {
+     "name": "Nandlal Mulji Bhuta Medical Foundation",
+     "dist_m": 4876
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q2730907",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bhavnagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajaparakhodiyarmandir1.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 20746083,
+   "lat": 23.737194444,
+   "lon": 73.198916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhavnath Temple, Mau",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q20746083",
+    "wikipedia": "en:Bhavnath Temple, Mau"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Aravalli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sunak",
+     "dist_m": 14493
+    },
+    "nearest_bus": {
+     "name": "Himatnagar Bus Station",
+     "dist_m": 29277
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 93613,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q20746083",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bhiloda Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Bhavnath Temple is an ancient temple dedicated to Shiva in Mau village of Bhiloda Taluka of Aravalli district, Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/Bhavnath_Temple%2C_Mau",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24943855,
+   "lat": 23.088139,
+   "lon": 69.5936849,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Kera",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24943855",
+    "wikipedia": "en:Shiva temple, Kera"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kutch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sukhpur",
+     "dist_m": 13545
+    },
+    "nearest_bus": {
+     "name": "Kera Bus Station",
+     "dist_m": 871
+    },
+    "nearest_airport": {
+     "name": "Bhuj Rudra Mata Air Force Base",
+     "dist_m": 22037,
+     "iata": "BHJ"
+    },
+    "nearest_medical": {
+     "name": "Jesani Hospital",
+     "dist_m": 2536
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24943855",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kutch district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruined%20Shiva%20Temple%20Kera%20Kutch%20Gujarat.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Shiva temple, Kera, also known as Lakheshwara temple of Kerakot, is located in Kera village near Bhuj of Kutch district in Gujarat, India. The temple was built during the reign of the Chaulukya dynasty (Solankis) in the later part of the 10th Century and is dedicated to Shiva. The temple has been subjected to severe earthquake damage during the earthquake of 1819 and the Bhuj earthquake of 2001. But the temple's spire, inner sanctum and the sculptures are still in an attractive condition.",
+     "url": "https://en.wikipedia.org/wiki/Shiva_temple%2C_Kera",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24946292,
+   "lat": 23.180958004,
+   "lon": 69.666938763,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tapkeshwari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24946292",
+    "wikipedia": "en:Tapkeshwari Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kutch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sukhpur",
+     "dist_m": 7226
+    },
+    "nearest_bus": {
+     "name": "New Bus station",
+     "dist_m": 7276
+    },
+    "nearest_airport": {
+     "name": "Bhuj Rudra Mata Air Force Base",
+     "dist_m": 10535,
+     "iata": "BHJ"
+    },
+    "nearest_medical": {
+     "name": "Swajan Hospital",
+     "dist_m": 4948
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24946292",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Tapakeshwari%20Devi%20Temple%20near%20Bhuj%20Kutch%20Gujarat%20Indua.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Tapkeshwari Temple is a Hindu temple dedicated to goddess Tapkeshwari situated in a valley surrounded by the hills. The Tapkeshwari hill range is situated south to the city of Bhuj, Kutch district (Kachchh), Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/Tapkeshwari_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 26898655,
+   "lat": 23.583412,
+   "lon": 72.590233,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jasmalnathji Mahadev Temple, Asoda",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q26898655",
+    "wikipedia": "en:Jasmalnathji Mahadev Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kukarvada",
+     "dist_m": 4519
+    },
+    "nearest_bus": {
+     "name": "Vijapur",
+     "dist_m": 16110
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 56589,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Shital Maternity and Nursing Home",
+     "dist_m": 4444
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q26898655",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vijapur Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jasmalnathji%20Shiva%20Temple%2C%20Asoda%2C%20Gujarat.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Jasmalnathji Mahadev Temple is a Hindu temple located at Asoda village in Vijapur Taluka, Mehsana district, Gujarat, India. It is locally known as Vaijnath Mahadev temple. The temple is dedicated to Shiva. The temple is built in the 12th century. It consists of a sanctum; mandapa and torana, a porch.",
+     "url": "https://en.wikipedia.org/wiki/Jasmalnathji_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 27963438,
+   "lat": 23.31,
+   "lon": 72.59694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vardayini Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q27963438",
+    "wikipedia": "en:Vardayini Mata Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Gandhinagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sonipur Rupal",
+     "dist_m": 3421
+    },
+    "nearest_bus": {
+     "name": "Gandhinagar Bus Stop",
+     "dist_m": 11348
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 26267,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Vardayini Medicare & Skin Clinic",
+     "dist_m": 324
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q27963438",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupal%20Mandir.jpeg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Vardayini Mata Temple is situated at Rupal, Gandhinagar and is dedicated to Goddess Vardayini Mata.",
+     "url": "https://en.wikipedia.org/wiki/Vardayini_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28080928,
+   "lat": 21.121441,
+   "lon": 71.896769,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Firangi Deval",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28080928",
+    "wikipedia": "en:Firangi Deval"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Bhavnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahuva Junction",
+     "dist_m": 14823
+    },
+    "nearest_bus": {
+     "name": "Mahuva Bus Stand",
+     "dist_m": 13976
+    },
+    "nearest_airport": {
+     "name": "Bhavnagar Airport",
+     "dist_m": 76360,
+     "iata": "BHU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28080928",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bhavnagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Firangi%20Deval%2C%20Bhavnagar%20district%2C%20Gujarat%2C%20India.jpg",
+    "summary": {
+     "text": "Firangi Deval, also known as Devalvasi, is an old temple monument located in Kalsar village near Mahuva, Bhavnagar district, Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/Firangi_Deval",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 29026625,
+   "lat": 23.801702777,
+   "lon": 72.395086111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Umiya Temple, Unjha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q29026625",
+    "wikipedia": "en:Umiya Mata Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unjha",
+     "dist_m": 1446
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 1611
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 84226,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Nutan Hospital",
+     "dist_m": 376
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q29026625",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Unjha%20umiya%20mandir.jpg",
+    "summary": {
+     "text": "Umiya Mata Temple is a Hindu temple of the goddess Umiya, the clan-deity or kuldevi of the Kadava Patidars. It is located in the center of Unjha, Mehsana district, Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/Umiya_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 41153288,
+   "lat": 22.75221,
+   "lon": 74.20147,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Bavka",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q41153288",
+    "wikipedia": "en:Shiva Temple, Bavka"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Dahod",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dahod",
+     "dist_m": 11457
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 110263,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q41153288",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dahod Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0092723%20Mahadev%20temple%2C%20Bavka%20Dahod%20Gujarat%20114.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Shiva temple is located at Bavka in Dahod district, Gujarat, India. It is located on a knoll near Hirlav lake between Bavka and Chandavada village, 14 km from Dahod. It was around 12th-13th century and an example of Māru-Gurjara architecture and panchayatana style temple complex.",
+     "url": "https://en.wikipedia.org/wiki/Shiva_Temple%2C_Bavka",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48082556,
+   "lat": 22.26456,
+   "lon": 69.252885,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pindara Group of Temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48082556",
+    "wikipedia": "en:Pindara Group of Temples"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Devbhumi Dwaraka",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhatiya",
+     "dist_m": 19771
+    },
+    "nearest_bus": {
+     "name": "Suzlon Equipment Yard",
+     "dist_m": 14622
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 79992,
+     "iata": "PBD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48082556",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kalyanpur Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Durvasa%20Rishi%27s%20Ashram.%20Dhyan%20Mandir%2C%20South%20West%20side%20view%201.jpg",
+    "summary": {
+     "text": "The temples at Pindara, locally known as Durvasa Rishi Ashram, in Kalyanpur Taluka of Devbhoomi Dwarka district, Gujarat, India belongs to Maitraka-Saindhava period. The temples are located near sea, about eleven miles east of Dwarka.",
+     "url": "https://en.wikipedia.org/wiki/Pindara_Group_of_Temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55179237,
+   "lat": 23.669444444,
+   "lon": 72.356666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sitala Mata Temple, Butapaldi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55179237",
+    "wikipedia": "en:Shitala Mata Temple, Butapaldi"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panchot",
+     "dist_m": 4233
+    },
+    "nearest_bus": {
+     "name": "Mahesana old bus station",
+     "dist_m": 7809
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 71704,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55179237",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mehsana district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/12th-century%20Sitala%20Mata%20temple%2C%20Butapaldi%20Gujarat%20021.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shitala Mata Temple is a c. 12th century Hindu temple dedicated to goddess Shitala located in Butapaldi village of Mehsana district, Gujarat, India.",
+     "url": "https://en.wikipedia.org/wiki/Shitala_Mata_Temple%2C_Butapaldi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 60787759,
+   "lat": 20.611944444,
+   "lon": 72.891388888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Swaminarayan Mandir, Tithal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q60787759",
+    "wikipedia": "en:Shri Swaminarayan Mandir, Tithal"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Valsad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Valsad",
+     "dist_m": 4403
+    },
+    "nearest_bus": {
+     "name": "Valsad Bus Depot",
+     "dist_m": 4265
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 20779,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Roy Nursing Home & ICCU",
+     "dist_m": 3495
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q60787759",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Swaminarayan Mandir is located near Tithal town of Valsad district of Gujarat, India. The temple is located exactly on the shore of the beach of Tithal. The temple's construction was started in 1991. The temple is made for worshipping Lord Swami Narayan but apart from Idol of Swaminarayan Bhagwan you can also find Lord Shiva, Parvati, and Ganesh on one side as well as Lord Ram and site too with Lord Hanuman, and also Lord Krishna, Radha, alongside Harikrishna Maharaj. The temple was inaugurated by Shree Pramukh Swami. The temple is administrated by BAPS.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Swaminarayan_Mandir%2C_Tithal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 60787787,
+   "lat": 20.59,
+   "lon": 72.936666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tadkeshwar Mahadev Temple, Valsad",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q60787787",
+    "wikipedia": "en:Tadkeshwar Mahadev Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Valsad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Valsad",
+     "dist_m": 2051
+    },
+    "nearest_bus": {
+     "name": "Valsad Bus Depot",
+     "dist_m": 2314
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 20281,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Shaafi Hospital",
+     "dist_m": 478
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q60787787",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Tadkeshwar Mahadev temple is a Hindu temple. It is located near Abrama town in Valsad district of the Indian state of Gujarat. The temple is on the bank of the Wanki river.",
+     "url": "https://en.wikipedia.org/wiki/Tadkeshwar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63347592,
+   "lat": 22.713611111,
+   "lon": 71.676111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ranak Devi's Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63347592",
+    "wikipedia": "en:Ranakdevi's Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Wadhwan City",
+     "dist_m": 1261
+    },
+    "nearest_bus": {
+     "name": "Lakhtar Bus Stand",
+     "dist_m": 19137
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 75034,
+     "iata": "HSR"
+    },
+    "nearest_medical": {
+     "name": "Dr. Modan Clinic",
+     "dist_m": 81
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63347592",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Ranakadevi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Wadhwan Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ranak%20devi%201.jpg",
+    "summary": {
+     "text": "Ranakdevi's Temple is a 9th- or 10th-century Hindu temple dedicated to Ranakdevi located in Wadhwan in Surendranagar district of Gujarat, India. It is built in post-Maitraka and early Nagara phase of Māru-Gurjara architecture style.",
+     "url": "https://en.wikipedia.org/wiki/Ranakdevi's_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63347605,
+   "lat": 22.597222222,
+   "lon": 71.214722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun temple, Thangadh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63347605",
+    "wikipedia": "en:Sun Temple, Thangadh"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Than",
+     "dist_m": 2267
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 29945,
+     "iata": "HSR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 3200
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63347605",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Surendranagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Surya%20temple%2C%20Than%20Gujarat.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "This is a list of Monuments of National Importance (ASI) as officially recognized by and available through the website of the Archaeological Survey of India in the Indian state Gujarat. The monument identifier is a combination of the abbreviation of the subdivision of the list and the numbering as published on the website of the ASI. 203 Monuments of National Importance have been recognized by the ASI in Gujarat.",
+     "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Gujarat",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63347608,
+   "lat": 22.457222222,
+   "lon": 71.4125,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Navlakha temple, Sejakpar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63347608"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramparda",
+     "dist_m": 20758
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 39204,
+     "iata": "HSR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63347608",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sayla Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sejakpur%20-%20Navlakha%20Temple.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63347729,
+   "lat": 22.224444444,
+   "lon": 71.1675,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ananteshwara temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63347729"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kothariya",
+     "dist_m": 36761
+    },
+    "nearest_bus": {
+     "name": "GSRTC Central Bus Station",
+     "dist_m": 38317
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 21862,
+     "iata": "HSR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63347729",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chotila Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63484486,
+   "lat": 23.122038,
+   "lon": 72.043182,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Munsar lake and shrines",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63484486",
+    "wikipedia": "en:Munsar Lake"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Ahmedabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Viramgam Junction",
+     "dist_m": 1224
+    },
+    "nearest_bus": {
+     "name": "Viramgam",
+     "dist_m": 983
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 60362,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Bharat Hospital",
+     "dist_m": 631
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63484486",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Viramgam Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Munsarlake.jpg",
+    "summary": {
+     "text": "Munsar Lake is water body constructed by Minaldevi, mother of Jayasimha Siddharaja, of Chaulukya dynasty. It was named as Mansavor but due to Indiscretion it's widely known as Munsar. This lake is situated at Viramgam, near Ahmedabad.",
+     "url": "https://en.wikipedia.org/wiki/Munsar_Lake",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 62778080,
+   "lat": 24.266388888,
+   "lon": 72.975,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient temple, Halad",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q62778080"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Banaskantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khed Brahma",
+     "dist_m": 27166
+    },
+    "nearest_bus": {
+     "name": "Ambaji Bus Station",
+     "dist_m": 14775
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 136930,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q62778080",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Danta Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 62778205,
+   "lat": 24.285833333,
+   "lon": 71.312777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Muleshwar Mahadev temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q62778205"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Vav-Tharad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhabhar",
+     "dist_m": 39316
+    },
+    "nearest_bus": {
+     "name": "Bus Stand for Zero Point",
+     "dist_m": 12453
+    },
+    "nearest_airport": {
+     "name": "Kandla Airport",
+     "dist_m": 179579,
+     "iata": "IXY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q62778205",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vav-Tharad district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63107048,
+   "lat": 22.831596,
+   "lon": 73.48732,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kankanpur Group of Temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63107048"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tuwa",
+     "dist_m": 4100
+    },
+    "nearest_bus": {
+     "name": "Godhra Bus station",
+     "dist_m": 13937
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 61213,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63107048",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Godhra Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323097,
+   "lat": 22.466944444,
+   "lon": 73.515277777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pavagadh fort and temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323097"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Champaner Road",
+     "dist_m": 15051
+    },
+    "nearest_bus": {
+     "name": "shared jeeps up the hill",
+     "dist_m": 2771
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 33023,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323097",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Halol Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shikhara%20of%20the%20Temple.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323186,
+   "lat": 22.350555555,
+   "lon": 73.551944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudra Mahalaya temple, Desar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323186"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jojwa",
+     "dist_m": 14264
+    },
+    "nearest_bus": {
+     "name": "shared jeeps up the hill",
+     "dist_m": 14821
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 33485,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323186",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Halol Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dear%20shivalay.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323193,
+   "lat": 22.832222222,
+   "lon": 73.484166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kankeshvara Mahadev temple, Kankanpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323193"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tuwa",
+     "dist_m": 4000
+    },
+    "nearest_bus": {
+     "name": "Godhra Bus station",
+     "dist_m": 14264
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 61135,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323193",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Godhra Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323199,
+   "lat": 22.839444444,
+   "lon": 73.431944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ratneshwar Mahadev temple, Ratanpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323199"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Panchmahal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tuwa",
+     "dist_m": 5583
+    },
+    "nearest_bus": {
+     "name": "Godhra Bus station",
+     "dist_m": 19581
+    },
+    "nearest_airport": {
+     "name": "Vadodara Green Airport Harni",
+     "dist_m": 59765,
+     "iata": "BDQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323199",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Godhra Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323243,
+   "lat": 22.173888888,
+   "lon": 69.091944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gokeshwara Mahadev temple, Lowrali",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323243"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Devbhumi Dwaraka",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gorinja",
+     "dist_m": 5262
+    },
+    "nearest_bus": {
+     "name": "Dwarka Bus Station",
+     "dist_m": 15412
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 82359,
+     "iata": "PBD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323243",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dwarka Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63323252,
+   "lat": 22.207777777,
+   "lon": 69.080277777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Fortress and Temple in Dhinki",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63323252"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Devbhumi Dwaraka",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gare de Gorinja",
+     "dist_m": 5372
+    },
+    "nearest_bus": {
+     "name": "Dwarka Bus Station",
+     "dist_m": 12705
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 85888,
+     "iata": "PBD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63323252",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dwarka Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63343140,
+   "lat": 20.759444444,
+   "lon": 70.661111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ranchhodrai Temple, Mul Dwarka",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63343140"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Gir Somnath",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kodinar",
+     "dist_m": 5527
+    },
+    "nearest_bus": {
+     "name": "Kodinar",
+     "dist_m": 5368
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 27590,
+     "iata": "DIU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Panadar",
+     "dist_m": 2584
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63343140",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kodinar Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mul%20Dwarka%20Temple%20at%20Visavada%20Porbandar%20Gujarat%20India.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63343240,
+   "lat": 23.384444444,
+   "lon": 69.782222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Kotai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63343240"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kutch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhuj",
+     "dist_m": 16925
+    },
+    "nearest_bus": {
+     "name": "BUS STATION, MADHAPAR",
+     "dist_m": 17813
+    },
+    "nearest_airport": {
+     "name": "Bhuj Rudra Mata Air Force Base",
+     "dist_m": 17127,
+     "iata": "BHJ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63343240",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Anjar Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63343276,
+   "lat": 23.641111111,
+   "lon": 72.360555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Malai Mata Temple, Palodar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63343276"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panchot",
+     "dist_m": 2419
+    },
+    "nearest_bus": {
+     "name": "Mahesana old bus station",
+     "dist_m": 4939
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 68655,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Ayurkalp Ayurvedic Hospital",
+     "dist_m": 3302
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63343276",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mehsana Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Back%20view%20%28west%29%20of%20Malai%20Mata%20temple%2C%20Palodar%2C%20Gujarat%2C%20India.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63343330,
+   "lat": 23.737222222,
+   "lon": 72.473888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sabha Mandapa and Panchmukhi Mahadev temple, Khandosan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63343330"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pudgam Ganeshpura",
+     "dist_m": 6779
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 12261
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 75269,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Valam",
+     "dist_m": 2665
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63343330",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Visnagar Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63343328,
+   "lat": 23.737222222,
+   "lon": 72.473055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hinglaj Mata temple, Khandosan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63343328"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pudgam Ganeshpura",
+     "dist_m": 6790
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 12195
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 75288,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Valam",
+     "dist_m": 2614
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63343328",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Visnagar Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344230,
+   "lat": 23.802944444,
+   "lon": 72.318361111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nilkantheshwar Mahadev temple, Sunak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344230"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unjha",
+     "dist_m": 6499
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 6298
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 86917,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344230",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Unjha Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th-century%20Nilakantha%20temple%2C%20Sunak%20Gujarat%20140.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344377,
+   "lat": 23.803055555,
+   "lon": 72.316388888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sivai Mata Mandir, Sunak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344377"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unjha",
+     "dist_m": 6700
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 6497
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 87003,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344377",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Unjha Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344411,
+   "lat": 23.769166666,
+   "lon": 72.300555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nilkantheshwar Mahadev temple, Ruvavi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344411"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Patan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manund",
+     "dist_m": 7592
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 9100
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 84149,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "mamta hospital",
+     "dist_m": 4784
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344411",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Patan Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344430,
+   "lat": 23.767777777,
+   "lon": 72.259166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Two small shrines near Sanderi Mata temple, Sander",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344430"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Patan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manund",
+     "dist_m": 4551
+    },
+    "nearest_bus": {
+     "name": "UNJHA",
+     "dist_m": 13040
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 85790,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344430",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Patan Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20shrines%2Csander%2CDist.%20Patan.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344438,
+   "lat": 23.665,
+   "lon": 72.431944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sitamata temple, Piludra",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344438"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Mahesana",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piludra",
+     "dist_m": 2130
+    },
+    "nearest_bus": {
+     "name": "Mahesana old bus station",
+     "dist_m": 7674
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 68592,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344438",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mehsana Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 63344531,
+   "lat": 23.641972222,
+   "lon": 71.993944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Limboji Mata Temple, Delmal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q63344531"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Patan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khambel",
+     "dist_m": 6173
+    },
+    "nearest_bus": {
+     "name": "Patan Bus Port",
+     "dist_m": 27774
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 90521,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q63344531",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chanasma Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/1885%20photo%20of%20Hindu%20temple%20ruins%20at%20Dilmal%2C%20Gujarat%2C%20India.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503888,
+   "lat": 21.96663,
+   "lon": 71.57483,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Swaminarayan Mandir, Gadhada",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503888",
+    "wikipedia": "en:Swaminarayan Mandir, Gadhada"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Botad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alampur",
+     "dist_m": 14073
+    },
+    "nearest_bus": {
+     "name": "Barwala",
+     "dist_m": 39004
+    },
+    "nearest_airport": {
+     "name": "Bhavnagar Airport",
+     "dist_m": 67381,
+     "iata": "BHU"
+    },
+    "nearest_medical": {
+     "name": "Dr. Kalathiya's Hospital",
+     "dist_m": 716
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503888",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gujarat"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gadhada%20Swaminarayan%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Swaminarayan Mandir, Gadhada, also known as Gopinathji Dev mandir, is a Hindu temple in Gadhada, Gujarat, India. This Swaminarayan Sampradaya temple is one of the six temples built by the sect's founder Swaminarayan. The temple is dedicated to Radha Krishna.",
+     "url": "https://en.wikipedia.org/wiki/Swaminarayan_Mandir%2C_Gadhada",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7902887,
+   "lat": 23.021549,
+   "lon": 73.069481,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Utkanteshwar Mahadev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7902887",
+    "wikipedia": "en:Utkanteshwar Mahadev"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kheda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kapadvanj",
+     "dist_m": 992
+    },
+    "nearest_bus": {
+     "name": "Dehgam Bus Station",
+     "dist_m": 30406
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 45249,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Santvan Hospital",
+     "dist_m": 63
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7902887",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Matar Taluka",
+      "Kapadvanj Taluka",
+      "Kheda district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/DugriK.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Utkantheshwar Mahadev or Utkaṇṭheśvara Mahādeva is a Shiva Temple in the Kapadvanj Taluka, Kheda district of Gujarat, India. and is located on the bank of Vatrak river.",
+     "url": "https://en.wikipedia.org/wiki/Utkanteshwar_Mahadev",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 65122325,
+   "lat": 22.645604,
+   "lon": 71.211118,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trinetreshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q65122325",
+    "wikipedia": "en:Trinetreshwar Temple"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Surendranagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Than",
+     "dist_m": 7492
+    },
+    "nearest_airport": {
+     "name": "Rajkot International Airport",
+     "dist_m": 34208,
+     "iata": "HSR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q65122325",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Surendranagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Trinetreshwar%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Trineteshwar temple is a Shiva temple of Pratihara style, located in the Tarnetar village of Surendranagar district, Gujarat. It was built by Mihira Bhoja in the eighth century. The temple is known for its annual fair, Trinetreshwar Mahadev Mela.",
+     "url": "https://en.wikipedia.org/wiki/Trinetreshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871033,
+   "lat": 24.099444444,
+   "lon": 72.804166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Temple No.1 Near Kandivas",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871033"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Banaskantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Taranga Hill",
+     "dist_m": 18252
+    },
+    "nearest_bus": {
+     "name": "Khedbrahma GSRTC Station",
+     "dist_m": 25917
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 115171,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871033",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Banaskantha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871043,
+   "lat": 24.106388888,
+   "lon": 72.8125,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Temple No. 2",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871043"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Banaskantha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Taranga Hill",
+     "dist_m": 19354
+    },
+    "nearest_bus": {
+     "name": "Ambaji Bus Station",
+     "dist_m": 25433
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 116067,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871043",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Banaskantha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871054,
+   "lat": 21.209722222,
+   "lon": 72.105833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ceiling and Pictures on the wall, Gopnath temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871054"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Bhavnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Trapaj Bungalow",
+     "dist_m": 27229
+    },
+    "nearest_bus": {
+     "name": "Talaja Bus Stand",
+     "dist_m": 17451
+    },
+    "nearest_airport": {
+     "name": "Bhavnagar Airport",
+     "dist_m": 61000,
+     "iata": "BHU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871054",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bhavnagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871058,
+   "lat": 21.6125,
+   "lon": 72.265277777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871058"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Bhavnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhavnagar Terminus",
+     "dist_m": 22682
+    },
+    "nearest_bus": {
+     "name": "GSRTC Bus Station",
+     "dist_m": 21976
+    },
+    "nearest_airport": {
+     "name": "Bhavnagar Airport",
+     "dist_m": 17666,
+     "iata": "BHU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871058",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bhavnagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871067,
+   "lat": 23.10553,
+   "lon": 70.029239,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhadeshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871067"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kutch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Anjar",
+     "dist_m": 1709
+    },
+    "nearest_bus": {
+     "name": "Anjar Bus Stand",
+     "dist_m": 650
+    },
+    "nearest_airport": {
+     "name": "Kandla Airport",
+     "dist_m": 7353,
+     "iata": "IXY"
+    },
+    "nearest_medical": {
+     "name": "Anurag Orthopaedic Hospital",
+     "dist_m": 446
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871067",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kutch district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th-century%20Bhandeshwar%20Mahadev%20temple%20complex%2C%20Anjar%20Kutchchh%20Gujarat%20125.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871077,
+   "lat": 23.483832,
+   "lon": 70.462942,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871077"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Kutch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vondh",
+     "dist_m": 19797
+    },
+    "nearest_bus": {
+     "name": "Samakhiali New Bus Station",
+     "dist_m": 20259
+    },
+    "nearest_airport": {
+     "name": "Kandla Airport",
+     "dist_m": 55431,
+     "iata": "IXY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871077",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kutch district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871354,
+   "lat": 20.961388888,
+   "lon": 70.612777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun temple, Bhimdeval Prachi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871354"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Gir Somnath",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gir Hadmatiya",
+     "dist_m": 5312
+    },
+    "nearest_bus": {
+     "name": "Talala ST Bus Stand",
+     "dist_m": 13282
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 42263,
+     "iata": "DIU"
+    },
+    "nearest_medical": {
+     "name": "Om Clinic",
+     "dist_m": 3171
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871354",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gir Somnath district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/9th-century%20Sun%20Temple%2C%20Bhimdeval%20Prachi%20Gujarat%20037.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871362,
+   "lat": 21.682222222,
+   "lon": 69.535,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khimeshwar Mahadev Temple, Kuchhadi Porbandar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871362"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Porbandar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Porbandar",
+     "dist_m": 9325
+    },
+    "nearest_bus": {
+     "name": "City Bus stand",
+     "dist_m": 8623
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 13062,
+     "iata": "PBD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871362",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Porbandar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/7th-century%20Khimeshwar%20Mahadev%20Temple%2C%20Kuchadi%20Porbandar%20Gujarat%20056.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98871384,
+   "lat": 21.78,
+   "lon": 69.786944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bileshwar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98871384"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Porbandar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sakhpur",
+     "dist_m": 5930
+    },
+    "nearest_bus": {
+     "name": "City Bus stand",
+     "dist_m": 24307
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 19726,
+     "iata": "PBD"
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 79
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98871384",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Porbandar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/7th-century%20Bilnath%20Mahadev%20Temple%2C%20Bileshwar%20Porbandar%20Gujarat%20055.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98872074,
+   "lat": 21.368416666,
+   "lon": 69.880805555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhansara Group of Temples, Balej",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98872074"
+   },
+   "state": "Gujarat",
+   "state_basis": "boundary",
+   "district": "Porbandar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Keshod",
+     "dist_m": 39183
+    },
+    "nearest_bus": {
+     "name": "Keshod",
+     "dist_m": 39152
+    },
+    "nearest_airport": {
+     "name": "Porbandar",
+     "dist_m": 38992,
+     "iata": "PBD"
+    },
+    "nearest_medical": {
+     "name": "Sai Hospital",
+     "dist_m": 4164
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98872074",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Porbandar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/6th%20to%207th%20century%20Bhanasara%20Group%20of%20Temples%2C%20Balej%20Gujarat%20218.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
     ]
    }
   }

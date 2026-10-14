@@ -2,7 +2,7 @@
 
 > The earlier Next.js prototype (63 hand-curated temples, role accounts) is preserved on the [`old-version`](https://github.com/Nathamuni/temple-directory/tree/old-version) branch.
 
-Find Hindu temples by name, deity, place or what is near them; rate and comment on the facilities inside each temple (no sign-in); and let volunteers add and correct data with a source and a date. 41,369 temples across India today (from OpenStreetMap), structured so more countries can be added.
+Find Hindu temples by name, deity, place or what is near them; rate and comment on the facilities inside each temple (no sign-in); and let volunteers add and correct data with a source and a date. 43,055 temples across India today (41,369 from OpenStreetMap, 1,686 from Wikidata that are not yet on OpenStreetMap), structured so more countries can be added.
 
 ## Run it
 ```bash
@@ -39,7 +39,7 @@ Dockerfile docker-compose.yml render.yaml .env.example docs/
 - Known gap: Arunachal Pradesh (its boundary is not in the extract used).
 
 ## Rebuilding the data (maintainers)
-`tools/` holds the pipeline: `extract_india_temples.py` (Geofabrik extract → temples with state and district), `fetch_wikidata_temples.py`, `fetch_wikidata_extra.py`, `fetch_nearby_photos.py`, `compute_nearby.py`, `enrich_temples.py` (merge, writes `india-temples.json` and `data/dataset-info.json`), then `npm run import`. Python steps use a local venv (`tools/.venv`, packages `osmium shapely`). `tools/fetch-india-temples.mjs` is an older, slow Overpass route.
+`tools/` holds the pipeline: `extract_india_temples.py` (Geofabrik extract → temples with state and district), `fetch_wikidata_temples.py`, `fetch_wikipedia_coords.py`, `add_wikidata_temples.py` (Wikidata temples missing from OpenStreetMap become their own records; run again after any re-extract), `fetch_wikidata_extra.py`, `fetch_nearby_photos.py`, `compute_nearby.py`, `enrich_temples.py` (merge, writes `india-temples.json` and `data/dataset-info.json`), then `npm run import`. Python steps use a local venv (`tools/.venv`, packages `osmium shapely`). `tools/fetch-india-temples.mjs` is an older, slow Overpass route.
 
 ## Static / demo mode
 If no server answers `/api/health`, the site still works as a browser-only demo (nothing shared). `temple-directory-single-file.html` is an old prototype copy and does not include any of the current features.

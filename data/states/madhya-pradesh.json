@@ -1,6 +1,6 @@
 {
  "state": "Madhya Pradesh",
- "count": 757,
+ "count": 832,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -42558,6 +42558,4664 @@
     "score": 2,
     "of": 8,
     "has": [
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 1726044,
+   "lat": 24.398944444,
+   "lon": 80.44775,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nachna-Kuthara",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q1726044",
+    "wikipedia": "en:Nachna Hindu temples"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghunwara Railway Station",
+     "dist_m": 34751
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 44861,
+     "iata": "TNI"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Saleha",
+     "dist_m": 4897
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q1726044",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gupta%20and%20post-Gupta%20era%20sites%2C%20Nachna-Kuthara%20terrain%2C%20near%20Nachna%20sarovar%2C%20Madhya%20Pradesh.jpg",
+    "summary": {
+     "text": "Nachna Hindu temples, also referred to as Nachana temples or Hindu temples at Nachna-Kuthara, in Panna district, Madhya Pradesh, India\nare some of the earliest surviving stone temples in central India along with those at Bhumara and Deogarh. Their dating is uncertain, but comparing their style to structures that can be dated, some of the Nachna temples are variously dated to the 5th- or 6th-century Gupta Empire era. The Chaturmukha temple is dated to the 9th century. These temples illustrate a North Indian style of Hindu temple architecture.",
+     "url": "https://en.wikipedia.org/wiki/Nachna_Hindu_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15108724,
+   "lat": 24.84861111,
+   "lon": 79.91805556,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chausath Yogini Temple, Khajuraho",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15108724",
+    "wikipedia": "en:Chausath Yogini Temple, Khajuraho"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khajuraho",
+     "dist_m": 6492
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 723
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 3978,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Khajuraho",
+     "dist_m": 1021
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 296
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15108724",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "part of UNESCO World Heritage Site",
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Khajuraho"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Khajuraho%2CChausath-Yogini-Tempel.jpg",
+    "summary": {
+     "text": "The Chausath Yogini temple is a ruined Yogini temple in the Khajuraho town of Madhya Pradesh, India. Dated to the late 9th century, it is the oldest surviving temple at Khajuraho. Unlike the Yogini temples at other places, it has a rectangular plan, but like them it is hypaethral, open to the air. As part of the Khajuraho Group of Monuments, and because of its unique Chandela architecture, the temple was inscribed on the UNESCO World Heritage List in 1986.",
+     "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple%2C_Khajuraho",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16909219,
+   "lat": 22.617222222,
+   "lon": 79.487777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Kala Bhairava Nath Swami Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16909219",
+    "wikipedia": "en:Shri Kala Bhairava Nath Swami Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Seoni",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shikara",
+     "dist_m": 43003
+    },
+    "nearest_airport": {
+     "name": "Jabalpur Airport",
+     "dist_m": 85547,
+     "iata": "JLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16909219",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Shri Kala Bhairava Nath Swami Temple is one of the most famous Hindu temples dedicated to lord Bhairava. It is located in the ancient village of Adegaon in Seoni district in the state of Madhya Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Kala_Bhairava_Nath_Swami_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104865496,
+   "lat": 23.9182813,
+   "lon": 78.2224866,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gadarmal Devi temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104865496",
+    "wikipedia": "en:Gadarmal Devi Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalhar",
+     "dist_m": 17990
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 17764
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 120742,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 2083
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104865496",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vidisha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gadarmal%20Temple%20Badoh.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Gadarmal Devi temple is a Hindu and Jain temple at Badoh village of Vidisha, Madhya Pradesh. Also called Gadarmal Temple of the Mothers, it is one of India's yogini temples. It has 42 niches for yogini statues, unusually arranged in a rectangle; it must originally have been hypaethral.",
+     "url": "https://en.wikipedia.org/wiki/Gadarmal_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 106512884,
+   "lat": 24.398944444,
+   "lon": 80.447472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Parvati Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q106512884",
+    "wikipedia": "en:Parvati temple, Nachna"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghunwara Railway Station",
+     "dist_m": 34766
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 44887,
+     "iata": "TNI"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Saleha",
+     "dist_m": 4870
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q106512884",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mithuna%2C%20Nachna%2C%20Parvati-Tempel%202.jpg",
+    "summary": {
+     "text": "Nachna Hindu temples, also referred to as Nachana temples or Hindu temples at Nachna-Kuthara, in Panna district, Madhya Pradesh, India\nare some of the earliest surviving stone temples in central India along with those at Bhumara and Deogarh. Their dating is uncertain, but comparing their style to structures that can be dated, some of the Nachna temples are variously dated to the 5th- or 6th-century Gupta Empire era. The Chaturmukha temple is dated to the 9th century. These temples illustrate a North Indian style of Hindu temple architecture.",
+     "url": "https://en.wikipedia.org/wiki/Nachna_Hindu_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110309223,
+   "lat": 24.9243476,
+   "lon": 79.9099733,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hanuman Mandir Khajwa Chauda Kheda Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110309223"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajnagar K",
+     "dist_m": 3993
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 8789
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 12388,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Rajnagar",
+     "dist_m": 3612
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110309223",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khajwa"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanuman%20ji%20mandir.jpg",
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115544884,
+   "lat": 22.671902777,
+   "lon": 81.7585,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kalachuri Group of Temples, Amarkantak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115544884"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Anuppur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhanwar Tonk",
+     "dist_m": 15894
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 84233,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115544884",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/012022%20Kalachuri%20group%20of%20temples%2C%20Amarkantak%20Madhya%20Pradesh%2004.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115548026,
+   "lat": 22.671844444,
+   "lon": 81.758219444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Keshav Narayan temple, Amarkantak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115548026"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Anuppur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhanwar Tonk",
+     "dist_m": 15917
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 84240,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115548026",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Keshav%20Narayan%20Temple%2C%20Amarkantak%20Madhya%20Pradesh%2003.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115599274,
+   "lat": 26.236444444,
+   "lon": 78.218638888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya Mandir, Gwalior",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115599274"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Gwalior",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Birlanagar",
+     "dist_m": 2324
+    },
+    "nearest_bus": {
+     "name": "Gwalior Inter-state Bus Stand",
+     "dist_m": 4024
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 6889,
+     "iata": "GWL"
+    },
+    "nearest_medical": {
+     "name": "Bimr Hospitals (Birla Institute Of Medical Research)",
+     "dist_m": 139
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115599274",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0121621%20Sun%20Temple%2C%20Gwalior%20Madhya%20Pradesh%20025.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115599744,
+   "lat": 26.222823258,
+   "lon": 78.167660692,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhagawati Mata Mandir, Gwalior Fort",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115599744"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Gwalior",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gwalior Junction",
+     "dist_m": 1660
+    },
+    "nearest_bus": {
+     "name": "Gwalior Inter-state Bus Stand",
+     "dist_m": 2036
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 10248,
+     "iata": "GWL"
+    },
+    "nearest_medical": {
+     "name": "Ratan Jyoti Netrayalaya",
+     "dist_m": 518
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115599744",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhagawati%20Mata%20Mandir%2C%20Gwalior%20Fort%2C%20Madhya%20Pradesh%2003.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115612602,
+   "lat": 25.001472222,
+   "lon": 80.185083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun temple, Banjari Tikari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115612602"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Singhpur Dumra",
+     "dist_m": 29918
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 31399
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 34432,
+     "iata": "HJR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115612602",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhatarpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sun%20temple%2C%20Banjari%20Tikari%2C%20Chhatarpur%20district%2C%20Madhya%20Pradesh%20107.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115613321,
+   "lat": 25.083944444,
+   "lon": 80.255916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Group of Hindu temples, Vyas Bhadora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115613321"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Singhpur Dumra",
+     "dist_m": 36211
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 45767,
+     "iata": "HJR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115613321",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhatarpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0121921%20Group%20of%20Temples%2C%20Vyas%20Badora%2C%20Madhya%20Pradesh%20051.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115670600,
+   "lat": 24.396805555,
+   "lon": 80.584472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Deoguna Hindu temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115670600"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Satna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Unchhera",
+     "dist_m": 21315
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 32832,
+     "iata": "TNI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115670600",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Satna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122121%20Group%20of%20Hindu%20temples%2C%20Deoguna%20Madhya%20Pradesh%20008.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115694877,
+   "lat": 22.48691,
+   "lon": 76.97619,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Riddhanath temple, Handia",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115694877"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Harda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Harda",
+     "dist_m": 20890
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 123821,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "Govt Hospital, Nemawar",
+     "dist_m": 1095
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115694877",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Harda district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ridhanath%20Riddheshwar%20mandir%2C%20Handia%20Madhya%20Pradesh%20003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115698639,
+   "lat": 24.96355,
+   "lon": 77.91274,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Akhati group of temples, Kadwaha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115698639"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badarwas",
+     "dist_m": 35396
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 66643,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115698639",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111821%20Akhati%20group%20of%20Hindu%20temples%2C%20Kadwaya%20MP%20011.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115710037,
+   "lat": 24.967027777,
+   "lon": 77.91575,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bag group of temples, Kadwaha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115710037"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badarwas",
+     "dist_m": 35677
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 67102,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115710037",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111821%20Bag%20group%20of%20Hindu%20temples%20%2C%20Kadwaya%20Madhya%20Pradesh%20133.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115714433,
+   "lat": 24.9625,
+   "lon": 77.912055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ekla temple, Kadwaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115714433"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badarwas",
+     "dist_m": 35335
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 66524,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115714433",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111821%20Ekla%20temple%2C%20Kadwaha%2C%20MP%20003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115714509,
+   "lat": 24.962888888,
+   "lon": 77.924305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Toteshvara temple and Murayata group, Kadwaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115714509"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badarwas",
+     "dist_m": 36564
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 67609,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115714509",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111821%20Toteshvara%20Mahadeva%20mandir%2C%20Murayata%20group%20of%20temples%2C%20Kadwaha%20MP%20014.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115727543,
+   "lat": 24.290777777,
+   "lon": 81.465305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple and monastery, Chandrehe",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115727543"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Sidhi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rampur Naikin Railway Station",
+     "dist_m": 7138
+    },
+    "nearest_airport": {
+     "name": "Chorhata Airport",
+     "dist_m": 34258,
+     "iata": "REW"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115727543",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20temple%20and%20monastery%2C%20Chandreh%20Rampur%20Naikin%2C%20Madhya%20Pradesh%2004.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115727728,
+   "lat": 24.962416666,
+   "lon": 77.920694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pachhali Marghat group of temples, Kadwaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115727728"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badarwas",
+     "dist_m": 36205
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 67268,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115727728",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111821%20Pachhali%20Marghat%20group%20of%20Hindu%20temples%2C%20Kadwaha%20MP%20099.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115756209,
+   "lat": 24.060361111,
+   "lon": 80.725805555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vishnu Varaha temple and ruins, Karitalai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115756209"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Katni",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhadanpur",
+     "dist_m": 12784
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 57308,
+     "iata": "TNI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115756209",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/01022%20Vishnu%20Varaha%20temple%20and%20ruins%2C%20Karitalai%20Karanpur%2C%20Madhya%20Pradesh%20019.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115768635,
+   "lat": 23.791416666,
+   "lon": 80.275166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vishnu Varaha temple, Bilhari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115768635"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Katni",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Majhgawan Phatak",
+     "dist_m": 11933
+    },
+    "nearest_airport": {
+     "name": "Jabalpur Airport",
+     "dist_m": 71501,
+     "iata": "JLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115768635",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Katni district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/01022%20Vishnu%20Varaha%20temple%2C%20Bilhari%20Madhya%20Pradesh%20018.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115775665,
+   "lat": 24.194,
+   "lon": 75.498888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhamnar Dharmrajeshwar temple, Chandwasa",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115775665"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Mandsaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shamgarh",
+     "dist_m": 14614
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 113011,
+     "iata": "KTU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115775665",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mandsaur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111421%20Dhamnar%20Dharmanatha%20group%20of%20rock-cut%20Nagara%20temples%2C%20Chandwasa%20067.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115790991,
+   "lat": 21.821777777,
+   "lon": 75.454666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chaubara Dera 1 temple, Un",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115790991"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khargone",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 75052
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 97103,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115790991",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khargone district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102221%20Chaubara%20Dera%201%20temple%2C%20Un%20Madhya%20Pradesh%20011.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115796440,
+   "lat": 21.822527777,
+   "lon": 75.454666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahakaleshwar temple 1, Un",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115796440"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khargone",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 75003
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 97185,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115796440",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khargone district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102221%20Mahakaleswar%20temple%201%2C%20Un%2C%20Khargone%20district%2C%20Madhya%20Pradesh%20004.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115798187,
+   "lat": 21.820111111,
+   "lon": 75.460166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahakaleshwar temple 2, Un",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115798187"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khargone",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 74700
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 96818,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115798187",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khargone district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102221%20Mahakaleswar%20Mandir%20number%202%2C%20Un%20Madhya%20Pradesh%2018.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115803529,
+   "lat": 21.822527777,
+   "lon": 75.457611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nilkantheshvara temple, Un",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115803529"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khargone",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 74756
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 97130,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115803529",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khargone district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102221%20Nilkanthesvara%20temple%2C%20Un%20Madhya%20Pradesh%20029.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115820645,
+   "lat": 21.823861111,
+   "lon": 75.450944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ballaleshwar temple, Un",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115820645"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khargone",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 75229
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 97403,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115820645",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khargone district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102221%20Ballaleswar%20temple%2C%20Un%20012.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115857999,
+   "lat": 25.045666666,
+   "lon": 77.94925,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mohajmata temple, Terahi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115857999",
+    "wikipedia": "en:Mohajmata Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shivpuri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lukwasa",
+     "dist_m": 36708
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 74726,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115857999",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shivpuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111721%20Mohajmata%20mandir%2C%20Terahi%20Madhya%20Pradesh%20011.jpg",
+    "summary": {
+     "text": "Mohajmata Temple is a temple in Madhya Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Mohajmata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115862485,
+   "lat": 24.663111111,
+   "lon": 77.999861111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hori ki marhia group of temples, Thubon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115862485"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piprai Gaon",
+     "dist_m": 18037
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 65987,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115862485",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ashoknagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111921%20Hori%20Ki%20Marhia%20Group%20of%20temples%2C%20Thubon%20Madhya%20Pradesh%20062.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115862718,
+   "lat": 24.64943,
+   "lon": 77.99222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sita marhi group of temples, Thubon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115862718"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piprai Gaon",
+     "dist_m": 16399
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 65215,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115862718",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ashoknagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111921%20Sitamarhi%20group%20of%20temples%2C%20Thubon%20Madhya%20Pradesh%20057.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115863855,
+   "lat": 24.661,
+   "lon": 77.990111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadev Ghat group of temples, Thubon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115863855"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piprai Gaon",
+     "dist_m": 17635
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 65000,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115863855",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ashoknagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahadev%20ghat%20group%20of%20temples%2C%20Thoban%20Madhya%20Pradesh%20072.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115864666,
+   "lat": 24.663472222,
+   "lon": 77.992833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kuti group of temples and Vaishnava monastery, Thoban",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115864666"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piprai Gaon",
+     "dist_m": 17949
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 65278,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115864666",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ashoknagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111921%20Kuti%20group%20of%20Hindu%20temples%20and%20Vaishnava%20monastery%2C%20Thubon%20Madhya%20Pradesh%20026.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115866011,
+   "lat": 24.666555555,
+   "lon": 77.995527777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Andhakuan group of temples, Thubon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115866011"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ashoknagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Piprai Gaon",
+     "dist_m": 18332
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 65555,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115866011",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ashoknagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111921%20Andhakuan%20group%20of%20temples%2C%20Thobon%20Madhya%20Pradesh%20025.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115868073,
+   "lat": 23.925277777,
+   "lon": 78.211694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Saptamatrika cave, Badoh Pathari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115868073"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalhar",
+     "dist_m": 16689
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 17984
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 119409,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 1902
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115868073",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0112421%20Saptamatrika%20Caves%2C%20Badoh-Pathari%20Madhya%20Pradesh%20208.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115868609,
+   "lat": 23.923611111,
+   "lon": 78.225361111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dasavatara temples and archaeological site, Badoh Pathari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115868609"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khurai",
+     "dist_m": 17875
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 17131
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 120554,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 1467
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115868609",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0112421%20Dashavatara%20temples%20and%20archaeological%20site%2C%20Badoh%20Madhya%20Pradesh%20108.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115903458,
+   "lat": 23.935722222,
+   "lon": 78.228055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kutkeshwar temple, Badoh Pathari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115903458"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khurai",
+     "dist_m": 16644
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 15979
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 119850,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 284
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115903458",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0112421%20Kutkeshwar%20temple%2C%20Badoh%20Pathari%20Madhya%20Pradesh%20012.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115910747,
+   "lat": 23.929472222,
+   "lon": 78.231722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Satmarhi temples group, Badoh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115910747"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khurai",
+     "dist_m": 16967
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 16213
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 120593,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 1030
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115910747",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0112421%20Satmarhi%20group%20of%20Hindu%20temples%2C%20Badoh%20Pathari%2C%20Madhya%20Pradesh%20053.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115934297,
+   "lat": 25.035333333,
+   "lon": 77.959083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahua mandapika temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115934297"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shivpuri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lukwasa",
+     "dist_m": 37906
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 74882,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115934297",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shivpuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahua%20mandapika%20temple%2C%20Shiva%20mandir%20number%201%2C%20Madhya%20Pradesh%20001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115937401,
+   "lat": 25.034194444,
+   "lon": 77.956111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahua Shiva temple number 2, Shivpuri district",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115937401"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shivpuri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lukwasa",
+     "dist_m": 37640
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 74563,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115937401",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shivpuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahua%20Nagara%20mandir%2C%20Shiva%20temple%20number%202%2C%20Madhya%20Pradesh%20064.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115977989,
+   "lat": 24.39924444,
+   "lon": 80.4473,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chaumukhnath Mahadeva temple, Nachna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115977989"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghunwara Railway Station",
+     "dist_m": 34803
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 44889,
+     "iata": "TNI"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Saleha",
+     "dist_m": 4843
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115977989",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122221%20Chaturmukh%20Mahadeva%20temple%2C%20Nachna%20Madhya%20Pradesh%20006.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116001027,
+   "lat": 24.390416666,
+   "lon": 80.442805555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rupni temple, Nachna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116001027"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghunwara Railway Station",
+     "dist_m": 34228
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 45709,
+     "iata": "TNI"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Saleha",
+     "dist_m": 4829
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116001027",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122221%20Rupni%20ka%20mandir%2C%20Nachna%20Madhya%20Pradesh%20018.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116004207,
+   "lat": 24.392805555,
+   "lon": 80.445055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kumra matha, Nachna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116004207"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghunwara Railway Station",
+     "dist_m": 34324
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 45391,
+     "iata": "TNI"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Saleha",
+     "dist_m": 4903
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116004207",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122221%20Kumra%20Matha%2C%20Teliya%20Hindu%20monastery%2C%20Nachna%20Madhya%20Pradesh%20014.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116163192,
+   "lat": 23.993388888,
+   "lon": 80.0715,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nand Chand, Madhya Pradesh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116163192",
+    "wikipedia": "en:Nandchand"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Panna",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rithi",
+     "dist_m": 12108
+    },
+    "nearest_airport": {
+     "name": "Jabalpur Airport",
+     "dist_m": 90415,
+     "iata": "JLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116163192",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panna district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122321%20Mritangeshvara%20Shiva%20temple%2C%20Nandchand%20Madhya%20Pradesh%20014.jpg",
+    "summary": {
+     "text": "Nandchand or Nand Chand, is a village located in the Panna district of the Indian state of Madhya Pradesh. It is also an archaeological site, with archaeological remains of the Kalachuri kingdom.",
+     "url": "https://en.wikipedia.org/wiki/Nandchand",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116182801,
+   "lat": 22.493138888,
+   "lon": 76.977916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddhanath Temple, Nemawar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116182801",
+    "wikipedia": "en:Siddhanath Temple, Nemawar"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Dewas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Harda",
+     "dist_m": 21334
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 123848,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "Govt Hospital, Nemawar",
+     "dist_m": 1181
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116182801",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dewas district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0102521%20Siddhanath%20temple%2C%20Siddheshwar%20Mahadev%20temple%2C%20Nemawar%2C%20Madhya%20Pradesh%20030.jpg",
+    "summary": {
+     "text": "Siddhanath Temple, also known as the Sidheshwara Temple, is a temple located in Nemawar, in the Indian state of Madhya Pradesh. Dating back to the 10th century, it forms an important example of Paramara architecture. Standing upon a plinth on the banks of the Narmada River, the temple is built out of yellow and blush sandstone. It is of the Nagara form, composed of a mandapa, ante-chamber, and sanctum. The exterior of the temple is elaborately carved, with Shaivite imagery most prominently displayed. The temple is dedicated to Shiva, and remains in active worship. It is listed as a Monument of National Importance.",
+     "url": "https://en.wikipedia.org/wiki/Siddhanath_Temple%2C_Nemawar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116578306,
+   "lat": 24.870083333,
+   "lon": 78.785305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun Temple, Madkhera",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116578306",
+    "wikipedia": "en:Sun Temple, Madkhera"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Tikamgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tikamgarh",
+     "dist_m": 12783
+    },
+    "nearest_bus": {
+     "name": "Shyama Prasad Mukharjee New Bus Stand Tikamgarh",
+     "dist_m": 15067
+    },
+    "nearest_airport": {
+     "name": "Datia Airstrip",
+     "dist_m": 91759,
+     "iata": "DPP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116578306",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Tikamgarh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0122121%209th-century%20Sun%20temple%2C%20Madkhera%20Tikamgarh%2C%20Madhya%20Pradesh%20007.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sun Temple, Madkhera is a temple located in the village of Madkhera, in Tikamgarh district, in the Indian state of Madhya Pradesh. It is listed as a state protected monument.",
+     "url": "https://en.wikipedia.org/wiki/Sun_Temple%2C_Madkhera",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116733805,
+   "lat": 24.211388888,
+   "lon": 79.716305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Sakor",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116733805"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Damoh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghatera",
+     "dist_m": 42654
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 69828,
+     "iata": "HJR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116733805",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Damoh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010122%20Shiva%20temple%2C%20Sakor%2C%20Damoh%20district%2C%20Madhya%20Pradesh%20108.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116759308,
+   "lat": 25.315027777,
+   "lon": 77.639472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun Temple, Sesai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116759308",
+    "wikipedia": "en:Sun Temple, Sesai"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shivpuri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khonker",
+     "dist_m": 5992
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 79131,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116759308",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shivpuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111621%20Surya%20Temple%2C%20Sesai%20Madhya%20Pradesh%20006.jpg",
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sun Temple, Sesai or Surya Temple, Sesai is a temple located in Sesai, in the Indian state of Madhya Pradesh. It is dedicated to the worship of Surya, the solar deity in Hinduism.",
+     "url": "https://en.wikipedia.org/wiki/Sun_Temple%2C_Sesai",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116761379,
+   "lat": 25.314583333,
+   "lon": 77.639944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Sesai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116761379"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shivpuri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khonker",
+     "dist_m": 6037
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 79103,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116761379",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shivpuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111621%20Shiva%20temple%2C%20Sesai%20Sadak%20Madhya%20Pradesh%20004.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116822531,
+   "lat": 22.250444444,
+   "lon": 76.143305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kedareswar Temple, Omkar Mandhata",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116822531"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khandwa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Omkareshwar Road",
+     "dist_m": 10722
+    },
+    "nearest_bus": {
+     "name": "Omkareshwar new bus stand",
+     "dist_m": 1390
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 63215,
+     "iata": "IDR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116822531",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khandwa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kedareswar%20Temple%2C%20Omkareswar%20Madhya%20Pradesh%20019.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116835381,
+   "lat": 22.253666666,
+   "lon": 76.165305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chaubis Avatar Temple, Panthia Omkareshwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116835381"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Khandwa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sanawad",
+     "dist_m": 12647
+    },
+    "nearest_bus": {
+     "name": "Omkareshwar new bus stand",
+     "dist_m": 3276
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 64225,
+     "iata": "IDR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116835381",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khandwa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaubis%20Avatar%20Temple%2C%20Panthia%20Omkareswar%2C%20Madhya%20Pradesh%20007.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116850914,
+   "lat": 23.671722222,
+   "lon": 79.581444444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadeva temple, Nohta",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116850914"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Damoh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bandakpur",
+     "dist_m": 19621
+    },
+    "nearest_airport": {
+     "name": "Jabalpur Airport",
+     "dist_m": 73054,
+     "iata": "JLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116850914",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Damoh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010122%20Mahadeva%20Temple%2C%20Nohta%20Madhya%20Pradesh%20024.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116870299,
+   "lat": 24.055444444,
+   "lon": 78.088361111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadeva Temple, Bamora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116870299"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Sagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mandi Bamora",
+     "dist_m": 651
+    },
+    "nearest_bus": {
+     "name": "Bardha Bus Satend",
+     "dist_m": 18698
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 100398,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116870299",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahadeva%20temple%2C%20Mandi%20Bamora%2C%20Madhya%20Pradesh%20040.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116884262,
+   "lat": 21.511111111,
+   "lon": 80.553694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Koteshwar Mahadev Temple, Lanji",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116884262"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Balaghat",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Salekasa",
+     "dist_m": 24142
+    },
+    "nearest_bus": {
+     "name": "Gondia Bus Stand",
+     "dist_m": 36763
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 128896,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "CH Lanji",
+     "dist_m": 1720
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116884262",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Balaghat district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Koteshwar%20Temple%2C%20Lanji%20Madhya%20Pradesh%20023.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 20751086,
+   "lat": 26.4368,
+   "lon": 78.2352,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chausath Yogini Temple, Mitaoli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q20751086",
+    "wikipedia": "en:Chausath Yogini Temple, Mitaoli"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Morena",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Malanpur",
+     "dist_m": 5591
+    },
+    "nearest_bus": {
+     "name": "Gwalior Inter-state Bus Stand",
+     "dist_m": 25141
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 15463,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q20751086",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Morena district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chausath%20Yogini%20Temple%2C%20Mitaoli%2C%20Morena%20006.jpg",
+    "summary": {
+     "text": "The Chausath Yogini Temple, Mitaoli, also known as Ekattarso Mahadeva Temple, is an 11th-century temple in Morena district in the Indian state of Madhya Pradesh. Build during Kachchhapaghata reign, it is one of the well-preserved Yogini temples in India. The temple is formed by a circular wall with 65 chambers, apparently for 64 yoginis and the goddess Devi, and an open mandapa in the centre of a circular courtyard, sacred to Shiva.",
+     "url": "https://en.wikipedia.org/wiki/Chausath_Yogini_Temple%2C_Mitaoli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 26258400,
+   "lat": 24.593,
+   "lon": 74.8175,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nava Toran Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q26258400",
+    "wikipedia": "en:Nava Toran Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Neemuch",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jawad Road",
+     "dist_m": 6534
+    },
+    "nearest_bus": {
+     "name": "Manasa Bus Stand",
+     "dist_m": 34927
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 121381,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Rathod Hospital",
+     "dist_m": 643
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q26258400",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Neemuch district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0111321%20Nau%20toran%20temple%2C%20Navatorana%20mandir%2C%20Khor%20Madhya%20Pradesh%20012.jpg",
+    "summary": {
+     "text": "Nava Toran Temple is located at Khor, Jawad census town, under Jawad tehsil in Neemuch district, Madhya Pradesh, India. It is an eleventh-century temple which consists of ten decorative arches arranged in two rows. The temple decorations include leaf-shaped borders, heads of makaras, and garland bearers, Nav or nou means \"nine\" and toran means \"pillars\"; this is where the temple gets its name. The prime deity of the temple is Varaha, who is the third avatar of lord Vishnu. It is said that there is a tunnel beneath the temple that goes to the Chittor Fort and that Maharana Pratap often used to go through the tunnel to worship the deity of the temple.",
+     "url": "https://en.wikipedia.org/wiki/Nava_Toran_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 27914560,
+   "lat": 26.5849309,
+   "lon": 78.2485567,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kakanmath temple, Sihoniya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q27914560",
+    "wikipedia": "en:Kakanmath"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Morena",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nonera",
+     "dist_m": 18529
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 31985,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q27914560",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sihoniya"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0121621%20Kakanmath%20temple%2C%20Sihoniya%20Madhya%20Pradesh%20068.jpg",
+    "summary": {
+     "text": "Kakanmaṭh is a ruined 11th century Shiva temple located at Sihoniya in Madhya Pradesh, India. It was built by the Kachchhapaghata ruler Kirttiraja. Only a part of the original temple complex now survives. Some of the sculptures from the site are now located at Gwalior.",
+     "url": "https://en.wikipedia.org/wiki/Kakanmath",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 39049186,
+   "lat": 23.2242096,
+   "lon": 75.7770731,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddhwat Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q39049186",
+    "wikipedia": "en:Siddhwat Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Ujjain",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ujjain Junction",
+     "dist_m": 4993
+    },
+    "nearest_bus": {
+     "name": "Dewas Gate Bus station, buses north and local",
+     "dist_m": 4843
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 56079,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "RD Gardi Medical College",
+     "dist_m": 3311
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q39049186",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ujjain",
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Siddhwat%20Temple.jpg",
+    "summary": {
+     "text": "Siddhwat temple is located at Bhairavgarh, Ujjain (MP), India at the banks of Shipra river. This temple is also known as Shaktibhed shrine. The temple is one of the sites where Kumbh Mela is celebrated.",
+     "url": "https://en.wikipedia.org/wiki/Siddhwat_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4879812,
+   "lat": 24.82944,
+   "lon": 79.93452,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Beejamandal, Khajuraho",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4879812",
+    "wikipedia": "en:Beejamandal"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khajuraho",
+     "dist_m": 5861
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 2131
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 2747,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Khajuraho",
+     "dist_m": 1962
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4879812",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khajuraho"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Beejamandal%20Temple%2C%20ASI%20Excavation%20Site%2001.jpg",
+    "summary": {
+     "text": "Beejamandal is a ruined temple in Jatkara village near Khajuraho, Madhya Pradesh, that has not yet been fully excavated and explored. It has a length of 34.60 meters and is thus longer than the largest temple of Khajuraho namely Kandariya which measures about 30 metres.",
+     "url": "https://en.wikipedia.org/wiki/Beejamandal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4907186,
+   "lat": 22.73036,
+   "lon": 75.79827,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bijasan mata mandir indore",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4907186",
+    "wikipedia": "en:Bijasan Mata Temple, Indore"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Indore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lakshmibai Nagar",
+     "dist_m": 6157
+    },
+    "nearest_bus": {
+     "name": "Gangawal Bus Stand",
+     "dist_m": 4812
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 1140,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "Arya aushadhyala",
+     "dist_m": 1148
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4907186",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Bijasan Mata Temple is one of the temples of the Hindu goddess Durga, situated in Indore District of Madhya Pradesh, India. This temple is built in the year 1760 by Shivaji Rao Holkar. This temple is visited by thousands of devotees during Navaratri.",
+     "url": "https://en.wikipedia.org/wiki/Bijasan_Mata_Temple%2C_Indore",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5517549,
+   "lat": 22.723,
+   "lon": 75.898,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gajanan Maharaj Temple, Indore",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5517549",
+    "wikipedia": "en:Gajanan Maharaj Temple, Indore"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Indore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Indore Junction",
+     "dist_m": 3101
+    },
+    "nearest_bus": {
+     "name": "Platform 5&6",
+     "dist_m": 2983
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 10389,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "Ashish Mehrotra",
+     "dist_m": 31
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5517549",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Shri Sant Gajanan Maharaj Temple Indore is situated at Paliwal Nagar in Indore, Madhya Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Gajanan_Maharaj_Temple%2C_Indore",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6165262,
+   "lat": 24.849497,
+   "lon": 79.935316,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Javari Temple, Khajuraho",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6165262",
+    "wikipedia": "en:Javari Temple, Khajuraho"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khajuraho",
+     "dist_m": 7513
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 1112
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 4584,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Khajuraho",
+     "dist_m": 857
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6165262",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "part of UNESCO World Heritage Site",
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chhatarpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Khajuraho%20Jeveri%20Temple%202010.jpg",
+    "summary": {
+     "text": "The Javari Temple in Khajuraho, India, is a Hindu temple, which forms part of the Khajuraho Group of Monuments, a UNESCO World Heritage Site. It was built between c. 975 and 1100 A.D.",
+     "url": "https://en.wikipedia.org/wiki/Javari_Temple%2C_Khajuraho",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 57738490,
+   "lat": 26.096111111,
+   "lon": 78.625,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ratangarh Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q57738490",
+    "wikipedia": "en:Ratangarh Mata Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Datia",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Simariatal",
+     "dist_m": 37497
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 45590,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q57738490",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ratangarh Mata Temple is a Hindu temple in Datia Bundelkhand, Madhya Pradesh, India. It is dedicated to Shakti.",
+     "url": "https://en.wikipedia.org/wiki/Ratangarh_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6748650,
+   "lat": 23.747888,
+   "lon": 77.801496,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mangala Devi Temple, Kagpur, Vidisha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6748650",
+    "wikipedia": "en:Mangala Devi Temple, Kagpur, Vidisha"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gulabhganj",
+     "dist_m": 13310
+    },
+    "nearest_bus": {
+     "name": "Vidisha Bus Stand",
+     "dist_m": 25260
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 110864,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Preetanand Hospital",
+     "dist_m": 79
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6748650",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district",
+      "Madhya Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mangla Devi Temple is a ruined Hindu temple in the Kagpur village of Vidisha District, Madhya Pradesh, India. It is located on the State Highway 19, 33 km from Vidisha.",
+     "url": "https://en.wikipedia.org/wiki/Mangala_Devi_Temple%2C_Kagpur%2C_Vidisha",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7505921,
+   "lat": 24.009,
+   "lon": 76.728,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shyam Kaka Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7505921",
+    "wikipedia": "en:Shyam Kaka Temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Rajgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Biyavra Rajgarh",
+     "dist_m": 19999
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 95322,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Shobha Dental Hospital",
+     "dist_m": 319
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7505921",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Shyam Kaka Temple, temple of Hindu God Krishna, dating back to 1845 CE located in Shaka Jagir village in Rajgarh district, Madhya Pradesh, India. It is near Narsinghgarh, about 100 km from Bhopal. Despite being a temple of the Hindu god Krishna, there is a panel in the temple depicting six Muslim men dressed in long robes and traditional headgear, offering namaz. According to author Shalini Rai Narayan, it is one of the exceptional places, where religious beliefs and antagonistic holy men stood in solidarity. it was heavily damaged during the British raj heavy looting campaign were launched by the British to get to temples wealth and estimated amount of 123 kg gold was looted from the temple it was fully rebulided in August 1987 by bogriath gupta and his colleagues.it is still to this day missing some parts.",
+     "url": "https://en.wikipedia.org/wiki/Shyam_Kaka_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7801329,
+   "lat": 23.690694444,
+   "lon": 80.066555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tigawa Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7801329",
+    "wikipedia": "en:Tigawa"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Katni",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Salaia",
+     "dist_m": 19942
+    },
+    "nearest_airport": {
+     "name": "Jabalpur Airport",
+     "dist_m": 56753,
+     "iata": "JLR"
+    },
+    "nearest_medical": {
+     "name": "Government hospital Bahoriband",
+     "dist_m": 2788
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7801329",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Hindu temple architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Katni district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010222%20Tigowa%20temples%20site%2C%20Tigawan%2C%20Madhya%20Pradesh%20008.jpg",
+    "summary": {
+     "text": "Tigawa is a village in Indian state of Madhya Pradesh and an archaeological site with a complex of about 36 Hindu temple ruins. Of these, the small but important and ancient Kankali Devi Temple is in good condition, and is usually dated to about 400-425 CE. Unless another building is mentioned, references to \"the temple\" below refer to this.",
+     "url": "https://en.wikipedia.org/wiki/Tigawa",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7912912,
+   "lat": 24.85148,
+   "lon": 79.93498,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vamana Temple, Khajuraho",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7912912",
+    "wikipedia": "en:Vamana Temple, Khajuraho"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Chhatarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khajuraho",
+     "dist_m": 7667
+    },
+    "nearest_bus": {
+     "name": "Raja Yashovarman Bus stand",
+     "dist_m": 1168
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 4765,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Khajuraho",
+     "dist_m": 951
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7912912",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "part of UNESCO World Heritage Site",
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chhatarpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Khajuraho%20Vaman%20Temple%202010.jpg",
+    "summary": {
+     "text": "Vamana temple is a Hindu temple dedicated to Vamana, an avatar of the god Vishnu. The temple was built between 1050 and 1075. It forms part of the Khajuraho Group of Monuments, a UNESCO World Heritage Site listed because of its exceptional architecture, art, and testimony to the Chandela dynasty.",
+     "url": "https://en.wikipedia.org/wiki/Vamana_Temple%2C_Khajuraho",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946268,
+   "lat": 22.67140559,
+   "lon": 81.75813892,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Karan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946268"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Anuppur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhanwar Tonk",
+     "dist_m": 15903
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 84199,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946268",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Anuppur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Karna%20Mandir%2C%20Group%20of%20Ancient%20Temples%2C%20Amarkantak.%20-%20panoramio%20%282%29.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946274,
+   "lat": 22.67186304,
+   "lon": 81.75857871,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pataleswara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946274"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Anuppur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhanwar Tonk",
+     "dist_m": 15885
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 84226,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946274",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Anuppur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010422%20Pataleswar%20Temple%2C%20Group%20of%20Ancient%20Temples%20%28Kalachuri%20Group%29%2C%20Amarkantak%2C%20Madhya%20Pradesh%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946280,
+   "lat": 23.32046662,
+   "lon": 81.35885963,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Virateshwar temple, Sohagpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946280",
+    "wikipedia": "en:Virateshwar temple"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Shahdol",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shahdol",
+     "dist_m": 3889
+    },
+    "nearest_bus": {
+     "name": "Burhar bus stand",
+     "dist_m": 21802
+    },
+    "nearest_airport": {
+     "name": "Chorhata Airport",
+     "dist_m": 132306,
+     "iata": "REW"
+    },
+    "nearest_medical": {
+     "name": "Action Hospital",
+     "dist_m": 457
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946280",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Shahdol district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0101022%20Virateshwar%20temple%2C%20Sohagpur%2C%20Madhya%20Pradesh%20003.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Virateshwar temple or Virat temple of Lord Shiva is located in Sohagpur (Shahdol), Shahdol district of Madhya Pradesh. The Archaeological Survey of India (ASI) Monument number for this temple is N-MP-255. ASI database mentions it as \"Virath Temple and remains\".",
+     "url": "https://en.wikipedia.org/wiki/Virateshwar_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946301,
+   "lat": 23.91833793,
+   "lon": 78.22252874,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gadarmal temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946301"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalhar",
+     "dist_m": 17992
+    },
+    "nearest_bus": {
+     "name": "Khurai Bus Stenad",
+     "dist_m": 17756
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 120741,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Pathari",
+     "dist_m": 2076
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946301",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gadarmal%20Temple%20Badoh.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946306,
+   "lat": 23.666388888,
+   "lon": 78.111472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Athakamba Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946306"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gulabhganj",
+     "dist_m": 20415
+    },
+    "nearest_bus": {
+     "name": "Rahatgarh Bus Stand",
+     "dist_m": 31931
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 134503,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Gyaraspur",
+     "dist_m": 213
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946306",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0112521%20Athkhamba%20temple%2C%20Gyaraspur%2C%20Madhya%20Pradesh%20002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946312,
+   "lat": 23.66690409,
+   "lon": 78.11579642,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hindola torana and Chaukhamba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946312"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Vidisha",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gulabhganj",
+     "dist_m": 20848
+    },
+    "nearest_bus": {
+     "name": "Rahatgarh Bus Stand",
+     "dist_m": 31510
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 134710,
+     "iata": "GUX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Gyaraspur",
+     "dist_m": 519
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946312",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vidisha district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hindola%20Torana%20Gyaraspur.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946657,
+   "lat": 22.32673247,
+   "lon": 75.38997543,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Neelkantha (Nilkantheswar)",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946657",
+    "wikipedia": "en:Nilkanth temple (Mandu)"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Dhar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhar",
+     "dist_m": 33223
+    },
+    "nearest_bus": {
+     "name": "Dhar Bus Terminal",
+     "dist_m": 30935
+    },
+    "nearest_airport": {
+     "name": "Devi Ahilyabai Holkar Airport",
+     "dist_m": 60497,
+     "iata": "IDR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Mandav",
+     "dist_m": 2634
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946657",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dhar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Neelkantheshwar%20mahadev.jpg",
+    "summary": {
+     "text": "Nilkanth Temple or Imarat-i-Dilkhusha is a Mughal architecture temple built on the orders of Mughal Emperor Akbar by the governor of Mandu, Shah Badgah in 1574 AD. Akbar commissioned this temple for his favourite wife, Empress Mariam-uz-Zamani, who was a follower of Hinduism.",
+     "url": "https://en.wikipedia.org/wiki/Nilkanth_temple_(Mandu)",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97946792,
+   "lat": 26.43136131,
+   "lon": 78.20172268,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Garhi Padavali Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97946792"
+   },
+   "state": "Madhya Pradesh",
+   "state_basis": "boundary",
+   "district": "Morena",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rithaura Kalan",
+     "dist_m": 6098
+    },
+    "nearest_bus": {
+     "name": "Gwalior Inter-state Bus Stand",
+     "dist_m": 24106
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 15055,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97946792",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Morena district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gadhi%20Padawali%20pic%206.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
      "district",
      "photo"
     ]

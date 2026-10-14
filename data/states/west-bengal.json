@@ -1,6 +1,6 @@
 {
  "state": "West Bengal",
- "count": 1369,
+ "count": 1427,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -77844,6 +77844,3899 @@
     "photo_search": {
      "radius_m": 150,
      "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 105081437,
+   "lat": 23.4248499,
+   "lon": 88.3887502,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Temple of Vedic Planetarium",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q105081437",
+    "wikipedia": "en:Temple of the Vedic Planetarium"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Nadia",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Amghata",
+     "dist_m": 3512
+    },
+    "nearest_bus": {
+     "name": "Krishnanagar New Bus Stand",
+     "dist_m": 11262
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 85644,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Bhaktivedanta Clinic",
+     "dist_m": 594
+    },
+    "parking": {
+     "count": 2,
+     "nearest_m": 79
+    },
+    "toilets": {
+     "count": 3,
+     "nearest_m": 217
+    },
+    "water": {
+     "count": 6,
+     "nearest_m": 83
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q105081437",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mayapur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chandrodaya%20temple%20at%20ISKCON%2C%20Mayapur%20in%20Nadia%20District%2C%20West%20Bengal%2C%20India%2001.jpg",
+    "summary": {
+     "text": "The Temple of the Vedic Planetarium is a modern Hindu temple and planetarium complex under construction since 2009 in Mayapur, West Bengal, India. Serving as the global headquarters of the International Society for Krishna Consciousness (ISKCON), the temple is of particular significance to followers of Gaudiya Vaishnavism, a tradition associated with Chaitanya Mahaprabhu. The complex includes the Sri Mayapur Chandrodaya Mandir, one of the main temples within the premises, which is dedicated to the worship of the Pancha Tattva deities, Radha Madhava along with the Ashta-sakhis, and Narasimha. Upon completion, it will be the largest religious monument in the world, with its opening scheduled for 2027. The project chair is Alfred Brush Ford, also known as Ambarish Das, a great-grandson of Henry Ford and an initiated disciple of Srila Prabhupada.",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_the_Vedic_Planetarium",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110068353,
+   "lat": 22.966713888,
+   "lon": 88.479322222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kulia Pat Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110068353"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Nadia",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalyani Main",
+     "dist_m": 1249
+    },
+    "nearest_bus": {
+     "name": "85 Bus Station",
+     "dist_m": 4430
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 34690,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Gandhi Memorial Hospital",
+     "dist_m": 670
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110068353",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chakdaha community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kulia%20Pat%20Temple%2C%20Vaishnav%20place%20of%20pilgrimage%20at%20Kulia%2C%20Nadia%2023.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110643963,
+   "lat": 22.528916666,
+   "lon": 87.781416666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Lakshmi Janardan temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110643963"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narayan Pakuria Murail",
+     "dist_m": 14369
+    },
+    "nearest_bus": {
+     "name": "Mecheda Bus Station",
+     "dist_m": 15110
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 69564,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Sonakhali Rural Hospital",
+     "dist_m": 2751
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110643963",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Daspur II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Lakshmi%20Janardan%20Nabaratna%20temple%20at%20Ajuria%20under%20Daspur%20Police%20Station%20in%20Paschim%20Medinipur%20district%2002.jpg",
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110643982,
+   "lat": 22.664386111,
+   "lon": 87.651583333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridhar temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110643982"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Goghat",
+     "dist_m": 26690
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 8037
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 81398,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110643982",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ghatal community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Sridhara%20Nabaratna%20temple%20of%20Roy%20family%20at%20Alui%20village%20under%20Ghatal%20Police%20Station%20of%20Paschim%20Medinipur%20District%20in%20West%20Bengal%2018.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110644089,
+   "lat": 22.515536111,
+   "lon": 87.79295,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridharjiu temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110644089"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhogpur",
+     "dist_m": 12705
+    },
+    "nearest_bus": {
+     "name": "Mecheda Bus Station",
+     "dist_m": 13221
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 68732,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Sonakhali Rural Hospital",
+     "dist_m": 4647
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110644089",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Daspur II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Saptarath%20Sridharajiu%20Deul%20temple%20at%20Palashpai%20under%20Pashim%20Medinipur%20district%20in%20West%20Bengal%2002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110644098,
+   "lat": 22.6278,
+   "lon": 87.744075,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridhar temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110644098"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narayan Pakuria Murail",
+     "dist_m": 25534
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 4136
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 71983,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Ghatal Lion Eye Hospital",
+     "dist_m": 2471
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110644098",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Daspur I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Pancha%20Ratna%20Sridhar%20Jiu%20Temple%20at%20Kotalpur%20under%20Daspur%20Police%20Station%20at%20Paschim%20Medinipur%20district%20in%20West%20Bengal%2002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110644108,
+   "lat": 22.421113888,
+   "lon": 87.605441666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Lakshmi Janardanjiu",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110644108"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Radhamohanpur",
+     "dist_m": 7173
+    },
+    "nearest_bus": {
+     "name": "Panskura Central Bus Stand",
+     "dist_m": 14165
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 90086,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Satyam Shivam nursing Home and Diagnostic Centre",
+     "dist_m": 3536
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110644108",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Debra community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancha%20Ratna%20Rasmancha%20at%20Chak%20Bajit%20under%20Paschim%20Medinipur%20district%20in%20West%20Bengal%2001.jpg",
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646350,
+   "lat": 22.63745,
+   "lon": 87.640558333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridharjiu temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646350"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panskura Junction",
+     "dist_m": 29169
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 9584
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 82560,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646350",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ghatal community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/17%20Pinnacled%20Rasmancha%20of%20Bag%20family%20at%20Lachhipur%20under%20Ghatal%20Police%20Station%20in%20Paschim%20Medinipur%20district%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646408,
+   "lat": 22.565863888,
+   "lon": 87.612227777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Narajole Rajbari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646408"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Haur",
+     "dist_m": 22705
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 16174
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 86053,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646408",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Panchabimsati-ratna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Daspur I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/25%20pinnacle%20Rasmancha%20of%20Narajole%20Rajbari%20in%20Paschim%20Medinipur%20district%20of%20West%20Bengal%2003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646814,
+   "lat": 22.66795,
+   "lon": 87.732011111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tulsimancha of Dey family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646814"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Arambag",
+     "dist_m": 25240
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 632
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 73151,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Ghatal Sub Divisional Hospital",
+     "dist_m": 1361
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646814",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Ghatal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancharatna%20Tulsimancha%20of%20Dey%20family%20at%20Gombhirnagar%20under%20Ghatal%20Police%20Station%20at%20Paschim%20Medinipur%20district%20in%20West%20Bengal%2005.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646831,
+   "lat": 22.466830555,
+   "lon": 87.576541666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Satyapur Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646831"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Balichak",
+     "dist_m": 12375
+    },
+    "nearest_bus": {
+     "name": "Panskura Central Bus Stand",
+     "dist_m": 18715
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 91615,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646831",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Debra community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nava%20Ratna%20Rasmancha%20at%20Satyapur%20Marhtala%20under%20Paschim%20Medinipiur%20district%20in%20West%20Bengal%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646863,
+   "lat": 21.846216666,
+   "lon": 87.469216666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Raghunath temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646863"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 20762
+    },
+    "nearest_bus": {
+     "name": "SBSTC Bus Terminal Digha",
+     "dist_m": 25293
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 134891,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Kasabagola Hospital",
+     "dist_m": 3810
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646863",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Egra I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Nabaratna%20Raghunatha%20temple%20at%20Alangiri%20under%20Purba%20Medinipur%20district%20in%20West%20Bengal%2006.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646887,
+   "lat": 21.854247222,
+   "lon": 87.465208333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radha Gokulananda temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646887"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dantan",
+     "dist_m": 20531
+    },
+    "nearest_bus": {
+     "name": "SBSTC Bus Terminal Digha",
+     "dist_m": 26241
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 134603,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Kasabagola Hospital",
+     "dist_m": 4520
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646887",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Egra I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Gokulananda%20Ek%20Ratna%20temple%20at%20Alangiri%20under%20Purba%20Medinipur%20district%20in%20West%20Bengal%2001.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110646897,
+   "lat": 21.902461111,
+   "lon": 87.538266666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Hatnagar Shiva temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110646897"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sitalpur",
+     "dist_m": 19854
+    },
+    "nearest_bus": {
+     "name": "SBSTC Bus Terminal Digha",
+     "dist_m": 31410
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 125411,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Prafulla Medical and Research Center Pvt Ltd",
+     "dist_m": 288
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110646897",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Egra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Hatnagar%20Shiva%20Deul%20temple%20with%20Rasmancha%20at%20Egra%20under%20Purba%20Medinipur%20district%20in%20West%20Bengal%2019.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110876314,
+   "lat": 23.045,
+   "lon": 87.4866,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Raha family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110876314"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gokulnagar Joypur",
+     "dist_m": 3149
+    },
+    "nearest_bus": {
+     "name": "Bishnupur Bus Terminus",
+     "dist_m": 18068
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 69113,
+     "iata": "RDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110876314",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Joypur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Seventeen%20pinnacled%20Rasmancha%20of%20Raha%20family%20at%20Rajagram%20under%20Joypur%20police%20station%20in%20Bankura%20district%2006.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110876328,
+   "lat": 23.0428,
+   "lon": 87.485480555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Supur Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110876328"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gokulnagar Joypur",
+     "dist_m": 3006
+    },
+    "nearest_bus": {
+     "name": "Bishnupur Bus Terminus",
+     "dist_m": 17989
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 69300,
+     "iata": "RDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110876328",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Joypur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruined%20Rasmancha%20at%20Supur%20under%20Joypur%20thana%20in%20Bankura%20district%2002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110876344,
+   "lat": 23.319161111,
+   "lon": 87.226011111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Beliatore Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110876344"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Beliatore",
+     "dist_m": 535
+    },
+    "nearest_bus": {
+     "name": "Bankura Private Bus Terminal",
+     "dist_m": 21368
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 34003,
+     "iata": "RDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110876344",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Barjora community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nine%20pinnacled%20Octagonal%20rasmnacha%20at%20Beliatore%20in%20Bankura%20district%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110876352,
+   "lat": 22.587938888,
+   "lon": 87.929788888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jaypur Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110876352"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Howrah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Amta",
+     "dist_m": 9271
+    },
+    "nearest_bus": {
+     "name": "Mecheda Bus Station",
+     "dist_m": 20625
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 53406,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "B. B. Dhar Rural Hospital",
+     "dist_m": 2195
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110876352",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Amta II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Octagonal%20Rasmancha%20at%20Jaypur%20in%20Howrah%20district%2006.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110876456,
+   "lat": 22.657988888,
+   "lon": 88.119930555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Mandal family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110876456"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Howrah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pantihal",
+     "dist_m": 671
+    },
+    "nearest_bus": {
+     "name": "12B Bus Station (Matiaburj to Dharamtalla)",
+     "dist_m": 21104
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 33337,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Jibak Nursing Home",
+     "dist_m": 1685
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110876456",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jagatballavpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nine%20Pinnacled%20Octagonal%20Rasmancha%20of%20Mallick%20family%20at%20Pantihal%20in%20Howrah%20district%2005.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110878285,
+   "lat": 22.639461111,
+   "lon": 88.114419444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nijbalia Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110878285"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Howrah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pantihal",
+     "dist_m": 2163
+    },
+    "nearest_bus": {
+     "name": "12B Bus Station (Matiaburj to Dharamtalla)",
+     "dist_m": 20477
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 33957,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Jibak Nursing Home",
+     "dist_m": 3419
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110878285",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jagatballavpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Octagonal%20Nine%20pinaccled%20Rasmancha%20outside%20SinghaBahini%20temple%20at%20Nijbalia%20in%20Howrah%20district%2002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110960801,
+   "lat": 23.417561111,
+   "lon": 88.18895,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dol Mandir of Basu family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110960801"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Bardhaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Purbasthali",
+     "dist_m": 14403
+    },
+    "nearest_bus": {
+     "name": "Maldanga Bus Terminus",
+     "dist_m": 10902
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 88598,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110960801",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "dalan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Manteswar community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dol%20Mandir%20of%20Basu%20family%20at%20Kaigram%20in%20Purba%20Bardhaman%20district%2003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111018939,
+   "lat": 22.686880555,
+   "lon": 87.466161111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radhaballabh temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111018939"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandrakona Road",
+     "dist_m": 14072
+    },
+    "nearest_bus": {
+     "name": "Chandrakona Central Bus Stand",
+     "dist_m": 7059
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 100469,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111018939",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Keshpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20Of%20Rabhaballabh%20Temple%20of%20Basu%20family%20at%20Amanpur%20in%20Paschim%20Medinipur%20district.%2001.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111018988,
+   "lat": 22.686219444,
+   "lon": 87.467038888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Jagadishwar Shiva temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111018988"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandrakona Road",
+     "dist_m": 14184
+    },
+    "nearest_bus": {
+     "name": "Chandrakona Central Bus Stand",
+     "dist_m": 7050
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 100377,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111018988",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Keshpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20at%20Dakshinpara%20of%20Amanpur%20in%20Paschim%20Medinipur%20district.%2003%20%28cropped%29.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116692573,
+   "lat": 23.073483333,
+   "lon": 88.511722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jagadish Pandit's Shripat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116692573"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Nadia",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Palpara",
+     "dist_m": 1747
+    },
+    "nearest_bus": {
+     "name": "Chakdaha Bus Terminal",
+     "dist_m": 2122
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 46885,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Chakdaha State General Hospital",
+     "dist_m": 1515
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116692573",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chakdaha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jagadish%20Pandit%27s%20Sripat%20along%20with%20Jagannath%20temple%20at%20Jasra%20in%20Nadia%20district%2C%20West%20Bengal%2014.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116692673,
+   "lat": 22.994683333,
+   "lon": 88.539186111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Madangopal temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116692673"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Nadia",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Madanpur",
+     "dist_m": 5193
+    },
+    "nearest_bus": {
+     "name": "Chakdaha Bus Terminal",
+     "dist_m": 9450
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 38843,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Medical Unit",
+     "dist_m": 4291
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116692673",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1760-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "architecture": {
+     "value": [
+      "dalan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Haringhata community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Madangopal%20temple%20at%20Birahi%20in%20Nadia%20district%20%2C%20West%20Bengal%2002.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116740069,
+   "lat": 22.741197222,
+   "lon": 87.969080555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Sridharnathjiu of Samanta family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116740069"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Howrah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Takipur Halt",
+     "dist_m": 14463
+    },
+    "nearest_bus": {
+     "name": "Tarkeswar Bus Stand",
+     "dist_m": 16196
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 49705,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Matrisadan Nursing Home",
+     "dist_m": 2749
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116740069",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaynarayanpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancharatna%20Rasmancha%20of%20Sridharnathjiu%20of%20Samanta%20family%20at%20Sitapur%20of%20Howrah%20district%2C%20West%20Bengal%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116740719,
+   "lat": 22.636755555,
+   "lon": 88.109980555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Bhubaneshwar Shiva Temple of Manna family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116740719"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Howrah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Munsirhat",
+     "dist_m": 2022
+    },
+    "nearest_bus": {
+     "name": "12B Bus Station (Matiaburj to Dharamtalla)",
+     "dist_m": 20731
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 34430,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Jibak Nursing Home",
+     "dist_m": 3942
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116740719",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jagatballavpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Bhubaneswar%20Shiva%20temple%20of%20Manna%20family%20at%20Garh%20Balia%20in%20Howrah%20district%2C%20West%20Bengal%2001.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116771986,
+   "lat": 23.614088888,
+   "lon": 87.371572222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radhamadhab temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116771986"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Bardhaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Durgapur",
+     "dist_m": 14331
+    },
+    "nearest_bus": {
+     "name": "Prantika",
+     "dist_m": 10729
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 13238,
+     "iata": "RDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116771986",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Faridpur-Durgapur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ras%20temple%20adjacent%20to%20Radha%20Madhab%20Temple%20at%20Kantaberia%20under%20Kanksa%20police%20station%20in%20Paschim%20Bardhaman%2C%20West%20Bengal%2001.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116776021,
+   "lat": 23.642277777,
+   "lon": 87.228347222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radhamadhab temple of Sarkar family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116776021"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Bardhaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ukhra",
+     "dist_m": 1396
+    },
+    "nearest_bus": {
+     "name": "Prantika",
+     "dist_m": 10244
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 2416,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Ukhra K.P. Nursing Home",
+     "dist_m": 1337
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116776021",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Andal community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Radhamadhab%20temple%20of%20Sarkar%20family%20at%20Khandra%20in%20Paschim%20Bardhaman%20district.%2002.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116788616,
+   "lat": 22.777869444,
+   "lon": 87.524525,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radhagobinda temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116788616"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandrakona Road",
+     "dist_m": 19313
+    },
+    "nearest_bus": {
+     "name": "Chandrakona Central Bus Stand",
+     "dist_m": 5165
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 95354,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Bhagabantapur Rural Hospital",
+     "dist_m": 3332
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116788616",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chandrakona II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Radhagobinda%20temple%20at%20Basanchhora%20in%20Paschim%20Medinipur%20district%2C%20West%20Bengal%2003.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116788704,
+   "lat": 22.782680555,
+   "lon": 87.524302777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridhar temple of Sarkar family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116788704"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandrakona Road",
+     "dist_m": 19418
+    },
+    "nearest_bus": {
+     "name": "Chandrakona Central Bus Stand",
+     "dist_m": 5685
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 95452,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Bhagabantapur Rural Hospital",
+     "dist_m": 2929
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116788704",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chandrakona II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Sridhar%20temple%20belonging%20to%20Sarkar%20family%20at%20Dakshinpara%20area%20of%20Basanchhora%20village%20in%20Paschim%20Medinipur%20district%2C%20West%20Bengal%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116789714,
+   "lat": 22.805133333,
+   "lon": 87.511411111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Damodar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116789714"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamarpukur",
+     "dist_m": 18949
+    },
+    "nearest_bus": {
+     "name": "Chandrakona Central Bus Stand",
+     "dist_m": 8089
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 95185,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Bhagabantapur Rural Hospital",
+     "dist_m": 964
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116789714",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chandrakona II community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Damodar%20at%20Ukilpara%20area%20of%20Bhiarbpur%20in%20Paschim%20Medinipur%20district%20of%20West%20Bengal%2003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116847540,
+   "lat": 22.469927777,
+   "lon": 87.692022222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Radhamadhab temple of Mailty family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116847540"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panskura Junction",
+     "dist_m": 10046
+    },
+    "nearest_bus": {
+     "name": "Panskura Central Bus Stand",
+     "dist_m": 9966
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 80030,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116847540",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panskura community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Octagonal%20Rasmancha%20of%20Radha%20Madhab%20temple%20at%20Mangloi%20Shyamballabhpur%20in%20Paschim%20Medinipur%2C%20West%20Bengal%2004.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116847667,
+   "lat": 22.534808333,
+   "lon": 87.711363888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Shridharjiu temple of Hazra family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116847667"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panskura Junction",
+     "dist_m": 16128
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 14338
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 76499,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Sekendari Hospital",
+     "dist_m": 432
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116847667",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Daspur I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Sridharjiu%20temple%20of%20Hazra%20family%20at%20Joykrishnapur%20in%20Paschim%20Medinipur%20district%2C%20West%20Bengal%2004.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116885107,
+   "lat": 22.559277777,
+   "lon": 87.656102777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Gopinath temple of Goswami family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116885107"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panskura Junction",
+     "dist_m": 20551
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 13762
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 81677,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116885107",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1896-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Daspur I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nabaratna%20Rasmancha%20of%20Gopnath%20at%20Hosenpur%20in%20Paschim%20Medinipur%20district%2C%20West%20Bengal%2001.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 116885855,
+   "lat": 22.567958333,
+   "lon": 87.743897222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha of Sitaram temple of Bera family",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q116885855"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Paschim Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narayan Pakuria Murail",
+     "dist_m": 18949
+    },
+    "nearest_bus": {
+     "name": "Central Bus Stand",
+     "dist_m": 10623
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 72615,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Sonakhali Rural Hospital",
+     "dist_m": 3119
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q116885855",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Daspur I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasmancha%20of%20Sitaram%20temple%20of%20Bera%20family%20at%20Berabagan%20area%20of%20Sridharpur%20in%20Paschim%20Medinipur%20district%2C%20West%20Bengal%2001.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123302271,
+   "lat": 23.0097401,
+   "lon": 87.5885288,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sridhar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123302271",
+    "wikipedia": "en:Kotulpur Sridhar Temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Maynapur",
+     "dist_m": 9227
+    },
+    "nearest_bus": {
+     "name": "Bidyasagar Bus Terminus",
+     "dist_m": 24215
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 76977,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Camelia Health And Eye Care",
+     "dist_m": 723
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123302271",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Pancharatna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kotulpur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sridhar%20Temple%20Kotulpur%20Bankura.jpg",
+    "summary": {
+     "text": "Kotulpur Sridhar temple is a Vishnu temple at Shiromanipur village in West Bengal. Hindu God Vishnu is worshiped as Sridhar (Shaligram) in this temple. It is located in Kotulpur police station of Bankura district. Built by the Bhadra family, known as traders and zamindars, the temple stands within the Bhadra palace. The temple is a great example of ratna architecture, which was erected in the early 1830s.",
+     "url": "https://en.wikipedia.org/wiki/Kotulpur_Sridhar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 128125116,
+   "lat": 22.454186111,
+   "lon": 86.881555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kanak Durga Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q128125116",
+    "wikipedia": "en:Kanak Durga Temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Jhargram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gidhni",
+     "dist_m": 4757
+    },
+    "nearest_bus": {
+     "name": "Jhargram New Bus Stand",
+     "dist_m": 11534
+    },
+    "nearest_airport": {
+     "name": "Jamshedpur Airport",
+     "dist_m": 83313,
+     "iata": "IXW"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q128125116",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chilkigarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chilkigarh%20Kanak%20Durga%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kanak Durga Temple is a Hindu temple dedicated to Devi Durga, located at Chilkigarh, Jhargram district in West Bengal.",
+     "url": "https://en.wikipedia.org/wiki/Kanak_Durga_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 131632182,
+   "lat": 22.89,
+   "lon": 88.42,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Boro Maa Kali Temple, Naihati",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q131632182",
+    "wikipedia": "en:Boro Maa Kali Temple, Naihati"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "North 24 Parganas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Naihati Junction",
+     "dist_m": 411
+    },
+    "nearest_bus": {
+     "name": "85 Bus Station",
+     "dist_m": 6303
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 26103,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Green View Clinic And Nursing Home",
+     "dist_m": 161
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q131632182",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "North 24 Parganas district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Boro Maa Kali Temple is a Hindu temple in Naihati, North 24 Parganas, West Bengal in India, dedicated to the Hindu goddess Kali, one of the 10 Mahavidyas in the Hindu tantric tradition and the supreme deity in the Kalikula worship tradition.",
+     "url": "https://en.wikipedia.org/wiki/Boro_Maa_Kali_Temple%2C_Naihati",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 139769906,
+   "lat": 22.373280555,
+   "lon": 88.251661111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Joyrampur Shiv Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q139769906"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "South 24 Parganas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nangi",
+     "dist_m": 14411
+    },
+    "nearest_bus": {
+     "name": "3A bus stand",
+     "dist_m": 10756
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 37208,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Moukhali Gramin Hospital",
+     "dist_m": 1666
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q139769906",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "South 24 Parganas district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Joyrampur%20Shib%20Mandir.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 139780162,
+   "lat": 22.792891666,
+   "lon": 86.958722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahamaya Mandir, Raipur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q139780162"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khatkura",
+     "dist_m": 35180
+    },
+    "nearest_bus": {
+     "name": "Jhargram New Bus Stand",
+     "dist_m": 39437
+    },
+    "nearest_airport": {
+     "name": "Jamshedpur Airport",
+     "dist_m": 80952,
+     "iata": "IXW"
+    },
+    "nearest_medical": {
+     "name": "Raipur Rural Hospital",
+     "dist_m": 3314
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q139780162",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bankura district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamaya%20Temple%20Pano.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18988005,
+   "lat": 24.479722222,
+   "lon": 88.043611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Petkati Kali temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18988005"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Murshidabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jangipur Road",
+     "dist_m": 2304
+    },
+    "nearest_bus": {
+     "name": "BRTC BUS COUNTER",
+     "dist_m": 28444
+    },
+    "nearest_airport": {
+     "name": "Malda Airport",
+     "dist_m": 59595,
+     "iata": "LDA"
+    },
+    "nearest_medical": {
+     "name": "Vetenary hospital",
+     "dist_m": 2517
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18988005",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jalpaiguri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18989156,
+   "lat": 23.226344444,
+   "lon": 88.359011111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddheshwari Kali temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18989156",
+    "wikipedia": "en:Siddheshwari Kali Mandir"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Bardhaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambika Kalna",
+     "dist_m": 1612
+    },
+    "nearest_bus": {
+     "name": "Chakdaha Bus Terminal",
+     "dist_m": 24011
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 63985,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Merina Nursing Home",
+     "dist_m": 1135
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18989156",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Jor-bangla"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Purba Bardhaman district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%80%20%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%20%2C%20%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE.jpg",
+    "deity": {
+     "values": [
+      "Shiva",
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Siddheshwari Kali Mandir is a Śākta temple in Kalna City in Purba Bardhaman district of West Bengal. The Hindu goddess Kali or Kalika is worshiped in the form of Siddheshwari in this temple. Built by Chitrasen Roy, a zamindar of Burdwan, the temple stands near the banks of the Bhagirathi-Hooghly river in the northeastern part of the city. The temple is a great example of Jor-bangla architecture; established in the fifth decade of the 18th century.",
+     "url": "https://en.wikipedia.org/wiki/Siddheshwari_Kali_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18989162,
+   "lat": 26.380833333,
+   "lon": 89.513888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddheshwari temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18989162"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Cooch Behar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "New Baneswar",
+     "dist_m": 1562
+    },
+    "nearest_bus": {
+     "name": "NBSTC Bus Stand",
+     "dist_m": 9154
+    },
+    "nearest_airport": {
+     "name": "Cooch Behar",
+     "dist_m": 6972,
+     "iata": "COH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18989162",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Cooch Behar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19595643,
+   "lat": 22.504166666,
+   "lon": 88.353888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Shiva Anjaneya Swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19595643"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Kolkata",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lake Gardens",
+     "dist_m": 436
+    },
+    "nearest_bus": {
+     "name": "Calcutta State Transport Corporation Depot",
+     "dist_m": 295
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 19327,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Swiss Park Nursing Home",
+     "dist_m": 541
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19595643",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Telangana"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20anjaneya%20temple.jpg",
+    "deity": {
+     "values": [
+      "Hanuman",
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 31726848,
+   "lat": 22.627958333,
+   "lon": 88.371816666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bamondas Mookerjee Kali Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q31726848"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "North 24 Parganas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Belur Math",
+     "dist_m": 2211
+    },
+    "nearest_bus": {
+     "name": "4B,Bus Stand",
+     "dist_m": 1016
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 8129,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Critical and Trauma Care Hospital",
+     "dist_m": 563
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q31726848",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1904-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "KMC Heritage Building Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "architecture": {
+     "value": [
+      "Navaratna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Ward No. 1, Kolkata Municipal Corporation"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamondas%20Mookerjee%20Kalibari%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 54317695,
+   "lat": 22.6,
+   "lon": 88.36,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhakeshwari Mata Temple, Kumortuli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q54317695",
+    "wikipedia": "en:Dhakeshwari Mata Temple, Kumortuli"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Kolkata",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sovabazar Ahiritola",
+     "dist_m": 588
+    },
+    "nearest_bus": {
+     "name": "Kolkata Station Bus Terminal",
+     "dist_m": 2286
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 10726,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Abinash Dutta Maternity Home",
+     "dist_m": 492
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q54317695",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kumortuli is a traditional potters' quarter in North Kolkata in West Bengal, India. The city is renowned for its sculpting prowess. It not only manufactures clay idols for various festivals but also regularly exports them.",
+     "url": "https://en.wikipedia.org/wiki/Kumortuli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55624610,
+   "lat": 23.95,
+   "lon": 87.67,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nandikeshwari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55624610",
+    "wikipedia": "en:Nandikeshwari temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Birbhum",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sainthia Junction",
+     "dist_m": 1126
+    },
+    "nearest_bus": {
+     "name": "Suri Bus Stand",
+     "dist_m": 15252
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 56607,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Netronir",
+     "dist_m": 1279
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55624610",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Birbhum district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Slider-134.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Nandikeshwari temple, also known as Nandikeshwari Tala, is located in Sainthia City of West Bengal. The temple is part of the famous Shakta pithas in Indian Subcontinent.",
+     "url": "https://en.wikipedia.org/wiki/Nandikeshwari_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56154613,
+   "lat": 23.0596447,
+   "lon": 87.32462311,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Radha Madhab Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56154613",
+    "wikipedia": "en:Radha Madhab Temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishnupur",
+     "dist_m": 2449
+    },
+    "nearest_bus": {
+     "name": "Bishnupur Bus Terminus",
+     "dist_m": 1561
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 63382,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Lake View Nursing Home",
+     "dist_m": 1707
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56154613",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1737-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "architecture": {
+     "value": [
+      "Ek-ratna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bishnupur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Radhamadhab%20Temple%20at%20Bishnupur%20in%20Bankura%20district%20of%20West%20Bengal.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Radha Madhab Temple is a Hindu temple located in Bishnupur, West Bengal, India.",
+     "url": "https://en.wikipedia.org/wiki/Radha_Madhab_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56278170,
+   "lat": 27.047763888,
+   "lon": 88.267958333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahakal temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56278170",
+    "wikipedia": "en:Mahakal temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Darjeeling",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 1177
+    },
+    "nearest_bus": {
+     "name": "Bus and taxi stand",
+     "dist_m": 429
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 37802,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Yuma Nursing Home and Diagnostic Centre Pvt Ltd",
+     "dist_m": 462
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 65
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 275
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56278170",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1782-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Darjeeling"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Exteriors%20of%20Mahakal%20Temple%20at%20Darjeeling%20City%20In%20West%20Bengal%2001.jpg",
+    "summary": {
+     "text": "The Mahakal temple or Mahakal mandir is a sacred Hindu temple located in Darjeeling, West Bengal, India, dedicated to the Hindu god Shiva, the third god in the Hindu triumvirate. The temple was built in 1782 by Lama Dorjey Rinzing and is perched atop the Observatory Hill and is an amalgamation of Hindu and Buddhist religions. It is a religious site where both religions coexist harmoniously.",
+     "url": "https://en.wikipedia.org/wiki/Mahakal_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7295089,
+   "lat": 23.0682354,
+   "lon": 87.32209778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rasmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7295089",
+    "wikipedia": "en:Rasmancha"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishnupur",
+     "dist_m": 2155
+    },
+    "nearest_bus": {
+     "name": "Bishnupur Bus Terminus",
+     "dist_m": 1079
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 62401,
+     "iata": "RDP"
+    },
+    "nearest_medical": {
+     "name": "Lake View Nursing Home",
+     "dist_m": 758
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7295089",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1600-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bishnupur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rasa%20Mancha%20of%20Bishnupur%20%2813%29.jpg",
+    "summary": {
+     "text": "The Rasmancha is a historical temple located at Bishnupur, Bankura district, West Bengal, India.",
+     "url": "https://en.wikipedia.org/wiki/Rasmancha",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 64348103,
+   "lat": 25.329486111,
+   "lon": 88.710575,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bolla Kali temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q64348103"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Dakshin Dinajpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mallickpur Hat",
+     "dist_m": 2052
+    },
+    "nearest_bus": {
+     "name": "Taltala More",
+     "dist_m": 4912
+    },
+    "nearest_airport": {
+     "name": "Balurghat",
+     "dist_m": 11388,
+     "iata": "RGH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q64348103",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Balurghat community development block",
+      "Dakshin Dinajpur district",
+      "West Bengal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 65046504,
+   "lat": 22.3628642,
+   "lon": 87.696268,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Begunbari Kali Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q65046504",
+    "wikipedia": "en:Begunbari Kali Temple"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Purba Medinipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khirai",
+     "dist_m": 1342
+    },
+    "nearest_bus": {
+     "name": "Panskura Central Bus Stand",
+     "dist_m": 5490
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 83532,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Subha Laxmi Nursing Home",
+     "dist_m": 4343
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q65046504",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Purba Medinipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Begunbari Kali Temple is a Hindu temple, located in Begunbari, Purba Medinipur, West Bengal, near Khirai railway station in the Panskura block. Situated on the western bank of the Kangsabati River, the temple's presiding deity is Sashan Kali—an incarnation of Goddess Kali.",
+     "url": "https://en.wikipedia.org/wiki/Begunbari_Kali_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 66795006,
+   "lat": 22.806772222,
+   "lon": 87.767652777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jorbangla Navaratna Durga temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q66795006"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Hooghly",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Arambag",
+     "dist_m": 9380
+    },
+    "nearest_bus": {
+     "name": "South Bengal State Transport Corporation Arambagh Depot",
+     "dist_m": 9026
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 71433,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Rangtakhali Hospital",
+     "dist_m": 4012
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q66795006",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "architecture": {
+     "value": [
+      "Navaratna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Goghat I community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jor%20Bangla%20temple%20of%20Durga%20with%20Navaratna%20tower%20at%20Bally%20Dewangunj%20village%20in%20Hooghly%20District.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 66809965,
+   "lat": 22.746944444,
+   "lon": 88.355555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Henry Martyn's Pagoda",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q66809965"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Hooghly",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Serampore",
+     "dist_m": 1962
+    },
+    "nearest_bus": {
+     "name": "Serampore Court Bus Terminus",
+     "dist_m": 1653
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 13611,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "United Nursing Home (P) Ltd.",
+     "dist_m": 545
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q66809965",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Serampore"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Martin%27s%20Pagoda%20at%20Serampore%20in%20Hooghly%20district.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 69985173,
+   "lat": 23.146338888,
+   "lon": 87.280238888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rangamani Ras Mancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q69985173"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "Bankura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramsagar",
+     "dist_m": 4470
+    },
+    "nearest_bus": {
+     "name": "Bishnupur Bus Terminus",
+     "dist_m": 9387
+    },
+    "nearest_airport": {
+     "name": "Kazi Nazrul Islam Airport",
+     "dist_m": 53322,
+     "iata": "RDP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q69985173",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Saptadash-ratna"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bishnupur community development block"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/17%20pinnacled%20Octagonal%20Rasmacha%20at%20Bandopadhyay%20Debottar%20Estate%20at%20Ajodhya%20in%20Bankura%20district%2006.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 96738921,
+   "lat": 22.720669,
+   "lon": 88.364226,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rashkhola Rashmancha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q96738921"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "North 24 Parganas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khardaha",
+     "dist_m": 1459
+    },
+    "nearest_bus": {
+     "name": "Rahara bazar bus depot",
+     "dist_m": 2345
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 10930,
+     "iata": "CCU"
+    },
+    "nearest_medical": {
+     "name": "Sree Balaram Seva Mandir State General Hospital",
+     "dist_m": 641
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q96738921",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "West Bengal Heritage Commission declared site"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Khardah"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashkhola%20Rashmancha%20at%20Khardaha%20in%20North%2024%20Parganas%20district%2C%20West%20Bengal%2007.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97383054,
+   "lat": 22.379747222,
+   "lon": 88.531511111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gourdaha Maa Kali Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97383054"
+   },
+   "state": "West Bengal",
+   "state_basis": "boundary",
+   "district": "South 24 Parganas",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gourdaha Halt",
+     "dist_m": 372
+    },
+    "nearest_bus": {
+     "name": "Santoshpur BBD BAG mini bus stopage",
+     "dist_m": 16944
+    },
+    "nearest_airport": {
+     "name": "Netaji Subhash Chandra Bose International Airport",
+     "dist_m": 32022,
+     "iata": "CCU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97383054",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "South 24 Parganas district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
     }
    },
    "completeness": {

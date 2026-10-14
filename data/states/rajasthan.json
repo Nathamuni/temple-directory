@@ -1,6 +1,6 @@
 {
  "state": "Rajasthan",
- "count": 1068,
+ "count": 1119,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -58279,6 +58279,3559 @@
     "of": 8,
     "has": [
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12419620,
+   "lat": 25.7528,
+   "lon": 71.0977,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kiradu temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12419620",
+    "wikipedia": "en:Kiradu temples"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Barmer",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khadeen",
+     "dist_m": 4029
+    },
+    "nearest_bus": {
+     "name": "Gurjaro Ka Was ,Balewa",
+     "dist_m": 27491
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 202994,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Governmet Hospital Sihani",
+     "dist_m": 3324
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12419620",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Barmer district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kiradu%20ke%20Mandir%20-%20Barmer%20-%20Rajasthan%20-%20011.jpg",
+    "summary": {
+     "text": "The Kiradu temples are a group of ruined Hindu temples located in the Barmer district of Rajasthan, India. Kiradu town is located in the Thar Desert, about 35 km from Barmer and 157 km from Jaisalmer.",
+     "url": "https://en.wikipedia.org/wiki/Kiradu_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12447476,
+   "lat": 26.94,
+   "lon": 76.79,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mehandipur Balaji Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12447476",
+    "wikipedia": "en:Mehandipur Balaji Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Dausa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhajera",
+     "dist_m": 20311
+    },
+    "nearest_bus": {
+     "name": "Sikandra",
+     "dist_m": 21007
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 97091,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Anita Hospital",
+     "dist_m": 2199
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12447476",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dausa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mehandipur%20Balaji%20exterior.jpg",
+    "summary": {
+     "text": "Mehandipur Balaji Temple is a temple in Mehandipur, Dausa district, in the Indian state of Rajasthan dedicated to the Hindu deity Hanuman. The name Balaji refers to the childhood form of Hanuman, revered in several parts of the country. Unlike similar religious sites, it is in a town rather than the countryside. Its reputation for ritualistic healing and exorcism of evil spirits attracts many pilgrims from Rajasthan and elsewhere. the year.",
+     "url": "https://en.wikipedia.org/wiki/Mehandipur_Balaji_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12980457,
+   "lat": 26.3351,
+   "lon": 76.8938,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kaila Devi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12980457",
+    "wikipedia": "en:Kaila Devi Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Karauli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangapur City",
+     "dist_m": 22272
+    },
+    "nearest_bus": {
+     "name": "Roadways Bus Stand",
+     "dist_m": 22473
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 120108,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Surendra Clinic",
+     "dist_m": 364
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12980457",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rajasthan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kailadevi%20Temple.jpg",
+    "summary": {
+     "text": "Kaila Devi Temple is a Hindu temple situated in Kailadevi village of Karauli district, in the Indian state of Rajasthan.",
+     "url": "https://en.wikipedia.org/wiki/Kaila_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15274355,
+   "lat": 24.73611111,
+   "lon": 73.72083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sahastra Bahu Temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15274355",
+    "wikipedia": "en:Sahasra Bahu Temples"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khemli",
+     "dist_m": 13533
+    },
+    "nearest_bus": {
+     "name": "Shrinath travel bus stand",
+     "dist_m": 17841
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 181377,
+     "iata": "JDH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15274355",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagda-04-Sas%20Bahu-2018-gje.jpg",
+    "summary": {
+     "text": "The Sahasra Bahu temples or Sasbahu Temples, at Nagda, Rajasthan, are a pair of late 10th-century Hindu temples dedicated to Virabhadra. They share a platform, facing the temple tank, and are similar in style, but one is rather larger than the other. The larger one is surrounded by ten subsidiary shrines, the smaller by four; only the bases remain of some of these. The temples have many of the characteristics of slightly later Māru-Gurjara architecture but lack others, especially in the plan and exterior sculpture.",
+     "url": "https://en.wikipedia.org/wiki/Sahasra_Bahu_Temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15964787,
+   "lat": 25.289,
+   "lon": 75.939,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Keshav Rai Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15964787",
+    "wikipedia": "en:Keshav Rai Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Bundi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Keshorai Patan",
+     "dist_m": 3834
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 13903
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 17124,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Keshoraipatan",
+     "dist_m": 103
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15964787",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajasthan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20view%20%2C%20kaishawray%20patan.jpg",
+    "summary": {
+     "text": "Keshav Rai Temple is a popular Hindu temple, situated on the banks of the Chambal River in Keshoraipatan, Rajasthan (India). The temple is dedicated to Keshav Rai or Vishnu. It was constructed by Rao Raja Chhatrasal in 1641.",
+     "url": "https://en.wikipedia.org/wiki/Keshav_Rai_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16008848,
+   "lat": 27.00758889,
+   "lon": 76.60510833,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Harshat Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16008848",
+    "wikipedia": "en:Harshat Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Dausa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bandikui Junction",
+     "dist_m": 5241
+    },
+    "nearest_bus": {
+     "name": "Sikandra",
+     "dist_m": 7173
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 80445,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Vijay Hospital and Research Centre",
+     "dist_m": 4973
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 52
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16008848",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dausa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Abhaneri%20%282022-07-15%29%20Harshat%20Mata%20ki%20Mandir%20--%20img%2002.jpg",
+    "summary": {
+     "text": "The Harshat Mata Temple is a Hindu temple in the Abhaneri village of Rajasthan, in north-western India. The temple is dedicated to a goddess named Harshat Mata, although some art historians theorize it was initially a Vaishnavite shrine.",
+     "url": "https://en.wikipedia.org/wiki/Harshat_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16252266,
+   "lat": 24.6357441,
+   "lon": 74.4735503,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Avari Mata temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16252266",
+    "wikipedia": "en:Avari Mata temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gambhiri Road",
+     "dist_m": 20914
+    },
+    "nearest_bus": {
+     "name": "Bus stand Kapasan",
+     "dist_m": 31413
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 150166,
+     "iata": "KTU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16252266",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Avari Mata temple is in Bhadesar tehsil of Nikumbh, Chittorgarh district, Rajasthan. Located in an area with hills and springs in the village of Aasawara, Aavari Mata was born into a Rathore Rajput family, hence she is also called Rathora Rani.In Avari mata tample Traditionally, it has been visited by people seeking a cure for paralysis and polio. Avari Mata Temple is one of the popular temples in Rajasthan which is located in the Bhadesar Town of Chittorgarh. The temple is dedicated to goddess Avari Mata and the temple the Aasawara. There is a pond and Hanuman temple behind the temple.",
+     "url": "https://en.wikipedia.org/wiki/Avari_Mata_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16916459,
+   "lat": 25.23,
+   "lon": 73.25,
+   "coord_source": "wikipedia",
+   "tags": {
+    "name": "Khudala Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16916459",
+    "wikipedia": "en:Khudala Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Pali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Falna",
+     "dist_m": 1633
+    },
+    "nearest_bus": {
+     "name": "sadri bus station",
+     "dist_m": 20725
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 115292,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Jain Hospital and Fertility Research Centre",
+     "dist_m": 224
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16916459",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Khudala is municipality Bali tehsil of Pali District in Rajasthan, India. It falls under the jurisdiction of the Falna Municipality. The area is known for its proximity to the town of Bali, which serves as the tehsil headquarters.",
+     "url": "https://en.wikipedia.org/wiki/Khudala",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109232621,
+   "lat": 27.096111111,
+   "lon": 76.288055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gopinath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109232621"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 19115
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 22313
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55211,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109232621",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Gopinath"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20temple%20at%20bhangarh...%20witness%20to%20all%20the%20stories.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109235253,
+   "lat": 27.093888888,
+   "lon": 76.290555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mangla Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109235253"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 18767
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 22009
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55288,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109235253",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mangla%20Devi%20Temple%2C%20Bhangarh.JPG"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109235361,
+   "lat": 27.093166666,
+   "lon": 76.290111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Keshav Rai Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109235361"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 18733
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 21943
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55208,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Sainthal",
+     "dist_m": 4934
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109235361",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kesav%20Rai%20Temple%2C%20Bhangarh.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109236021,
+   "lat": 27.095166666,
+   "lon": 76.286777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Somesvara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109236021"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 19114
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 22245
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55048,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109236021",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/JaipurHeritageFort.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109246425,
+   "lat": 27.0965,
+   "lon": 76.29475,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hanuman Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109246425"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 18740
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 22188
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55794,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109246425",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanuman%20temple%20bhangarh.jpg",
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 109302039,
+   "lat": 27.095361111,
+   "lon": 76.287638888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganesh Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q109302039"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhan Kari",
+     "dist_m": 19076
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 22243
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 55131,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q109302039",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Alwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhangarh%20village.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110639953,
+   "lat": 24.998,
+   "lon": 72.239,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kshemkari Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110639953",
+    "wikipedia": "en:Kshemkari Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jalore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Marwar Bhinmal",
+     "dist_m": 3720
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 161435,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Nahar Hospital",
+     "dist_m": 2451
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110639953",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kshemkari Mata temple is a temple of the Hindu goddess Kshemkari, also known as Khimaj Mata on a mountain at latitude 24.998°N and longitude 72.239°E, in Bhinmal, Jalore District, Rajasthan, India.",
+     "url": "https://en.wikipedia.org/wiki/Kshemkari_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 110640041,
+   "lat": 24.998,
+   "lon": 72.239,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khema Baba Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q110640041",
+    "wikipedia": "en:Khema Baba Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jalore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Marwar Bhinmal",
+     "dist_m": 3720
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 161435,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Nahar Hospital",
+     "dist_m": 2451
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q110640041",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Khema Baba Temple is a Hindu temple dedicated to folk deity, Lord Sidh Shree Khema Baba located near a sand dune, in Baytu, Barmer District of Rajasthan at Latitude 25.89201°N and Longitude 71.77074°E. It is 48 km (30 mi) from Barmer District. It is situated at a distance of 800m from Railway station and Govt bus stand Baytu.",
+     "url": "https://en.wikipedia.org/wiki/Khema_Baba_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 122225282,
+   "lat": 26.02027778,
+   "lon": 76.455,
+   "coord_source": "wikipedia",
+   "tags": {
+    "name": "Trinetra Ganesh Temple, Ranthambore",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q122225282",
+    "wikipedia": "en:Trinetra Ganesh Temple, Ranthambore"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Sawai Madhopur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sawai Madhopur 'D' cabin",
+     "dist_m": 7755
+    },
+    "nearest_bus": {
+     "name": "Local bus station",
+     "dist_m": 8250
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 109900,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q122225282",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sawai Madhopur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ganesh%20Temple%20at%20Ranthambore%20Fort.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ranthambore Fort lies within the Ranthambore National Park, near the city of Sawai Madhopur in Sawai Madhopur district of Rajasthan, India. The park being the former hunting grounds of the Maharajas of Jaipur until the time of India's Independence. It is a formidable fort, having been a focal point of the historical developments of Rajasthan. The fort provides a panoramic view of the surrounding Ranthambore National Park and is now a popular tourist attraction.",
+     "url": "https://en.wikipedia.org/wiki/Ranthambore_Fort",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 131703696,
+   "lat": 24.529444444,
+   "lon": 76.177777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sitaleshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q131703696",
+    "wikipedia": "en:Sitaleshwar Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jhalawar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jhalarapatan",
+     "dist_m": 1960
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 77748,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Vedant Clinic",
+     "dist_m": 652
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q131703696",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shivalaya%20chandrabhaga%20temples%20jhalwar%2C%20rajasthan.jpg",
+    "deity": {
+     "values": [
+      "Shiva",
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sitaleshwar Temple, or Sitaleshwar Mahadeva Temple, is a temple located in Jhalrapatan, Rajasthan. Dedicated to Shiva, the temple consists of a pavilion with elaborately carved pillars, an antechamber, and a sanctum. The exterior walls are carved with sculptures in relief depicting various Hindu deities.",
+     "url": "https://en.wikipedia.org/wiki/Sitaleshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 135318659,
+   "lat": 24.693372145,
+   "lon": 73.667376824,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kukdeswar Ji Mahadev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q135318659"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ranapratap Nagar",
+     "dist_m": 13771
+    },
+    "nearest_bus": {
+     "name": "Shrinath travel bus stand",
+     "dist_m": 13372
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 183932,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "TB Hospital",
+     "dist_m": 4221
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q135318659",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19891184,
+   "lat": 28.0537418,
+   "lon": 75.7617204,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chomukha Bhairavji Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19891184"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jhunjhunu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chirawa",
+     "dist_m": 21799
+    },
+    "nearest_bus": {
+     "name": "Bus Depot Khetri",
+     "dist_m": 6039
+    },
+    "nearest_airport": {
+     "name": "Hisar Airport",
+     "dist_m": 125162,
+     "iata": "HSS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19891184",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Khetri tehsil",
+      "Neem Ka Thana district",
+      "Rajasthan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chomukha%20Bhairavji.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19893030,
+   "lat": 26.742,
+   "lon": 77.0,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kyarda Hanumanji Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19893030"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Karauli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sikroda Mina",
+     "dist_m": 2097
+    },
+    "nearest_bus": {
+     "name": "Mahaveerji bus station",
+     "dist_m": 10158
+    },
+    "nearest_airport": {
+     "name": "Agra Airport",
+     "dist_m": 104925,
+     "iata": "AGR"
+    },
+    "nearest_medical": {
+     "name": "Dr. Vimal Chand Jain Clinic",
+     "dist_m": 2954
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19893030",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karauli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19894729,
+   "lat": 27.2474,
+   "lon": 76.352,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Neelkanth temple, Alwar district",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19894729",
+    "wikipedia": "en:Neelkanth temple, Alwar district"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baswa",
+     "dist_m": 24631
+    },
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 38340
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 70423,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19894729",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Neelkanth temple is a Hindu temple in the Rajgarh tehsil, in Alwar district, Rajasthan, India. It is dedicated to the god Shiva. It is situated in an isolated hill near the Sariska National Park, and access can only be gained by a steep track. It was built between the 6th to the 9th century CE by Parmeshwara Mathanadeva, a local Pratihara feudatory.",
+     "url": "https://en.wikipedia.org/wiki/Neelkanth_temple%2C_Alwar_district",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906654,
+   "lat": 26.81841667,
+   "lon": 77.06047222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Madan Mohan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906654",
+    "wikipedia": "en:Madan Mohan Temple, Karauli"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Karauli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhindhora Hukmi Kheda",
+     "dist_m": 4016
+    },
+    "nearest_bus": {
+     "name": "Mahaveerji bus station",
+     "dist_m": 20015
+    },
+    "nearest_airport": {
+     "name": "Agra Airport",
+     "dist_m": 95909,
+     "iata": "AGR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906654",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Madan Mohan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Karauli"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Shri Radha Madan Mohan Ji Temple is a Hindu temple situated at Karauli, in the Indian state of Rajasthan. The temple is located on the banks of the Bhadravati River, a tributary of the Banas River in the hills of Aravali. It is located in the braj region. The temple is dedicated to Madan Mohan form of Krishna. In the central altar, Krishna is flanked with the icons of his consort Radha and Lalita on either side.",
+     "url": "https://en.wikipedia.org/wiki/Madan_Mohan_Temple%2C_Karauli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24931106,
+   "lat": 24.585277777,
+   "lon": 73.678055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ambamata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24931106",
+    "wikipedia": "en:Ambamata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur City",
+     "dist_m": 2939
+    },
+    "nearest_bus": {
+     "name": "Shrinath travel bus stand",
+     "dist_m": 2399
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 195646,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Dr.Aabha Gupta Maternity Home",
+     "dist_m": 192
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24931106",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Ambamata Temple, a large Hindu temple in the middle of Udaipur in Rajasthan, is considered one of the major places of worship in Udaipur. This temple was constructed by Maharana Raj Singh of Udaipur. It is assumed that he built this temple on the instructions of the goddess Amba Mata in Gujarat.",
+     "url": "https://en.wikipedia.org/wiki/Ambamata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24931320,
+   "lat": 24.58957083,
+   "lon": 73.72768883,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bohra Ganesh Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24931320",
+    "wikipedia": "en:Bohra Ganesh Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ranapratap Nagar",
+     "dist_m": 763
+    },
+    "nearest_bus": {
+     "name": "Udaipur Bus Stand",
+     "dist_m": 3112
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 196856,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "St.Teresa S Hospital",
+     "dist_m": 195
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24931320",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Bohra Ganesh Temple is a Hindu temple dedicated to the god Ganesh. It is situated near Mohanlal Sukhadia University in Udaipur.",
+     "url": "https://en.wikipedia.org/wiki/Bohra_Ganesh_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24937851,
+   "lat": 24.615589,
+   "lon": 72.7665303,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Achaleshwar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24937851",
+    "wikipedia": "en:Achaleshwar Mahadev Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Sirohi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kivarli",
+     "dist_m": 11388
+    },
+    "nearest_bus": {
+     "name": "Mt Abu Bus",
+     "dist_m": 6143
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 171760,
+     "iata": "AMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24937851",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sirohi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nandi%20the%20bull%2C%20Achalgarh%20Temple%20IV.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Achaleshwar Mahadev Temple is a Shiva temple situated just outside the Achalgarh Fort, located in the Abu Road tehsil of Sirohi district, in the western Indian state of Rajasthan. The temple is believed to have been constructed sometime in the 9th century AD, and by the Paramara dynasty, which is also credited with having constructed the original structure of the Achalgarh Fort, later reconstructed, renovated and named as Achalgarh by Maharana Kumbha in 1452 CE.",
+     "url": "https://en.wikipedia.org/wiki/Achaleshwar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 26258398,
+   "lat": 24.57234981,
+   "lon": 73.68745439,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pala Ganesh Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q26258398",
+    "wikipedia": "en:Pala Ganesh Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur City",
+     "dist_m": 1337
+    },
+    "nearest_bus": {
+     "name": "Shrinath travel bus stand",
+     "dist_m": 1349
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 197312,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Doshi Clinic",
+     "dist_m": 879
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 103
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 102
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q26258398",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/PalaGaneshUdaipur.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Pala Ganesh Temple is a Hindu temple of Lord Ganesh, situated near Gulab Bagh area in Udaipur. This temple was built around 500 years ago, and is considered one of the ancient temples of Lord Ganesh in Udaipur.",
+     "url": "https://en.wikipedia.org/wiki/Pala_Ganesh_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28178889,
+   "lat": 25.92705,
+   "lon": 75.457125,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bisaldeo temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28178889",
+    "wikipedia": "en:Bisaldeo temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Tonk",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bundi",
+     "dist_m": 60830
+    },
+    "nearest_bus": {
+     "name": "Bus Stand",
+     "dist_m": 20427
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 93741,
+     "iata": "KTU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28178889",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Tonk district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bisaldeo%20temple.jpg",
+    "summary": {
+     "text": "Bisaldeo temple, also known as Bisaldev temple or Bisal Deoji's temple, is a Hindu temple in Bisalpur, India. It is located beside the Bisalpur Dam on the Banas River, in the Tonk district of Rajasthan state. The temple is dedicated to Gokarneshvara, an aspect of Shiva. A Monument of National Importance, it was commissioned by the 12th century Chahamana ruler Vigraharaja IV, who is also known as Bisal Deo.",
+     "url": "https://en.wikipedia.org/wiki/Bisaldeo_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 29415012,
+   "lat": 26.72694444,
+   "lon": 77.03944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Raghunath Ji Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q29415012",
+    "wikipedia": "en:Shri Raghunath Ji Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Karauli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hindaun City",
+     "dist_m": 3303
+    },
+    "nearest_bus": {
+     "name": "Mahaveerji bus station",
+     "dist_m": 13241
+    },
+    "nearest_airport": {
+     "name": "Agra Airport",
+     "dist_m": 102205,
+     "iata": "AGR"
+    },
+    "nearest_medical": {
+     "name": "Harsana Physiotherapy Clinic",
+     "dist_m": 968
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q29415012",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajasthan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Raghunath Ji Temple is a Hindu temple. It is the ancient temple of Hindaun City. The temple is approximately 650 year old. The temple is located at Tulsipura near Nakkash Ki Devi – Gomti Dham",
+     "url": "https://en.wikipedia.org/wiki/Shri_Raghunath_Ji_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 29634204,
+   "lat": 25.33333333,
+   "lon": 76.62416667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhand Deva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q29634204",
+    "wikipedia": "en:Bhand Deva Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Baran",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baran",
+     "dist_m": 28975
+    },
+    "nearest_bus": {
+     "name": "bus stop",
+     "dist_m": 38342
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 80641,
+     "iata": "KTU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q29634204",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Baran district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhand%20devra1.jpg",
+    "summary": {
+     "text": "Bhand Deva Temple or Bhand Devara Temple, also known as Little Khajuraho as the 18th century main Hindu temple is built in the style of Khajuraho Group of Monuments, is a temple complex with one main shiva temple and two cave temples further uphill. It is on the banks of a meteor impact crater lake inside the 4 km wide Ramgarh crater about 40 km from the city of Baran, Rajasthan. It is located near Ramgarh village, between Mangrol 15 km to its west and Kuno National Park to its immediate East, in Mangrol tehsil of Baran district of Eastern Rajasthan.",
+     "url": "https://en.wikipedia.org/wiki/Bhand_Deva_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 38251576,
+   "lat": 24.5418891,
+   "lon": 73.7395009,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gupteshwar Mahadev, Udaipur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q38251576",
+    "wikipedia": "en:Gupteshwar Mahadev, Udaipur"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Umra",
+     "dist_m": 3923
+    },
+    "nearest_bus": {
+     "name": "Unofficial bus station for long-distance buses",
+     "dist_m": 3940
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 198202,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Victoria Hospital",
+     "dist_m": 1452
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q38251576",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Gupteshwar Mahadev is a popular temple of the lord Shiva in the Udaipur city in the state of Rajasthan, India.",
+     "url": "https://en.wikipedia.org/wiki/Gupteshwar_Mahadev%2C_Udaipur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 39047915,
+   "lat": 26.91305556,
+   "lon": 71.91944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jajwala Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q39047915"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jaisalmer",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pokaran",
+     "dist_m": 1991
+    },
+    "nearest_airport": {
+     "name": "Amrita Devi Bishnoi Airport Jodhpur",
+     "dist_m": 133833,
+     "iata": "JDH"
+    },
+    "nearest_medical": {
+     "name": "Sri Ramdev Homoeopathic Clinic",
+     "dist_m": 939
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q39047915",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5208069,
+   "lat": 27.2373,
+   "lon": 74.0755,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dadhimati Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5208069",
+    "wikipedia": "en:Dadhimati Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Nagaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khatu",
+     "dist_m": 28686
+    },
+    "nearest_airport": {
+     "name": "Kishangarh Airport",
+     "dist_m": 102499,
+     "iata": "KQH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5208069",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jayal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dadhimati%20Mata%20Temple%2C%20Rajasthan.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Dadhimati Mata Temple is a Hindu temple of the goddess Dadhimati, located between the villages of Goth and Manglod in the Jayal tehsil of Nagaur district in Rajasthan, India. An inscription found there suggests that it existed at least as long ago at 608 CE.",
+     "url": "https://en.wikipedia.org/wiki/Dadhimati_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5523215,
+   "lat": 26.9453466,
+   "lon": 75.8269604,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Garh Ganesh Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5523215",
+    "wikipedia": "en:Garh Ganesh Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jaipur Junction",
+     "dist_m": 4840
+    },
+    "nearest_bus": {
+     "name": "DoodhMandi Bus Stand",
+     "dist_m": 3479
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 13061,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Shiva Life Line Clinic",
+     "dist_m": 964
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5523215",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jaipur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaipur%2003-2016%2038%20Garh%20Ganesh%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Garh Ganesh Temple is a Hindu temple located on the Aravalli hills near Jaipur, Rajasthan, India. It is dedicated to Lord Ganesha and is known for its unique idol, which does not feature a trunk-an uncommon representation of the deity. The temple is one of the prominent religious sites in Jaipur, attracting a significant number of devotees, particularly during Ganesh Chaturthi.",
+     "url": "https://en.wikipedia.org/wiki/Garh_Ganesh_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6122158,
+   "lat": 27.5305792,
+   "lon": 76.6038109,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jagannath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6122158",
+    "wikipedia": "en:Jagannath Temple, Alwar"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Alwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alwar Junction",
+     "dist_m": 3749
+    },
+    "nearest_bus": {
+     "name": "Alwar Bus Stand",
+     "dist_m": 3537
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 110120,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Mahavir HospitaL",
+     "dist_m": 1519
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6122158",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Alwar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Jagannath Temple is a Hindu temple dedicated to Lord Vishnu and located in Alwar, India. The temple's presiding deity is anthropomorphic form of Lord Jagannath of Puri, while other two deities are SitaramJi, the Shaligram maharaj and JankiJi, the goddess Laxmi. The temple is built several meters above the ground in old part of the city. It has awe inspiring medieval architecture and rare floral motifs adorn its walls and pillars. The Garbhagriha has two deities of Lord Jagannath, one is movable while other is fixed. It is probably the only temple where two deities of one presiding Lord reside simultaneously. The temple is famous for its annual Rath Yatra festival where Lord Jagannath is carried in a chariot called Indra Vimana. The chariot, earlier an elephant carriage, had been used by erstwhile Maharaja of Alwar and was donated to the temple later on to be used for the Rath yatra. The Rath Yatra festival follows different traditions and rituals than those of Puri. Here, it is part of annual wedding celebration between Lord Jagannath and JankiJi at Roopbas. The fixed deity of Lord Jagannath, Budhe Jagannath, is much older and available for darshana only for five days during Rath Yatra.",
+     "url": "https://en.wikipedia.org/wiki/Jagannath_Temple%2C_Alwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55615608,
+   "lat": 26.9262837,
+   "lon": 75.8268671,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kalki Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55615608",
+    "wikipedia": "en:Kalki Mandir"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jaipur Junction",
+     "dist_m": 4033
+    },
+    "nearest_bus": {
+     "name": "Jaipur Main Bus station",
+     "dist_m": 2613
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 10945,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Ali Clinic & Doiagnostic Centre",
+     "dist_m": 315
+    },
+    "parking": {
+     "count": 4,
+     "nearest_m": 88
+    },
+    "toilets": {
+     "count": 8,
+     "nearest_m": 12
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55615608",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalki%20Temple%20Shikharas%202016.jpg",
+    "summary": {
+     "text": "Kalki Mandir is a Hindu temple in Jaipur, Rajasthan, India, which was built by Jai Singh II in the 18th century. The temple is located in Sireh Deori Bazar opposite the palace gate. In the temple yard is a statue of a horse made of white marble. As main deities the temple contains Vigrah (idol) of Kalki and Lakshmi. Kalki is the prophesied tenth and final incarnation of the Hindu god Vishnu. Lakshmi is one of the principal goddesses in Hinduism, revered as the goddess of wealth, fortune, prosperity, beauty, fertility, royal power, and abundance.",
+     "url": "https://en.wikipedia.org/wiki/Kalki_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6444812,
+   "lat": 27.30916667,
+   "lon": 73.91611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kunjal Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6444812",
+    "wikipedia": "en:Kunjal Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Nagaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nagaur",
+     "dist_m": 22562
+    },
+    "nearest_bus": {
+     "name": "Thawariya",
+     "dist_m": 38482
+    },
+    "nearest_airport": {
+     "name": "Bikaner Nal Air Force Station",
+     "dist_m": 109829,
+     "iata": "BKB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6444812",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajasthan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kunjal Mata Temple of goddess Kunjal is located in Deh village of Jayal tehsil in Nagaur district of Rajasthan, India, and 1.3 km (1 mi) away from Deh's Bus Station on Nagaur-Ladnun National Highway-65.",
+     "url": "https://en.wikipedia.org/wiki/Kunjal_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7359929,
+   "lat": 28.81,
+   "lon": 73.075277777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rojhri dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7359929",
+    "wikipedia": "en:Rojhri dham"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Sri Ganganagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Anupgarh",
+     "dist_m": 44806
+    },
+    "nearest_airport": {
+     "name": "Bikaner Nal Air Force Station",
+     "dist_m": 83217,
+     "iata": "BKB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7359929",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Anupgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Rojhri Dham is a complex of religious sites dedicated to the worship of the Hindu deity Hanuman. It is situated in Rawla Mandi tehsil of Anupgarh district of Rajasthan.",
+     "url": "https://en.wikipedia.org/wiki/Rojhri_dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503803,
+   "lat": 26.3781443,
+   "lon": 75.4372723,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Kalyan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503803",
+    "wikipedia": "en:Shri Kalyan Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Tonk",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Banasthali Niwai",
+     "dist_m": 49617
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 62804,
+     "iata": "JAI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503803",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Tonk district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Diggikalyanji.png",
+    "summary": {
+     "text": "Shri Diggi Kalyan Ji Temple is a Hindu temple to Vishnu in Diggi town of Malpura tehsil, Tonk district, Rajasthan, India.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Kalyan_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7639766,
+   "lat": 24.833,
+   "lon": 72.367,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sundha Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7639766",
+    "wikipedia": "en:Sundha Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jalore",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kagmala",
+     "dist_m": 9847
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 172022,
+     "iata": "JDH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7639766",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jalore district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundha%20Mata.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sundha Mata temple is a temple of the Hindu goddess Chamunda on a hilltop called Sundha, at longitude 72.367°E and latitude 24.833°N, in Jalore District of Rajasthan, India.",
+     "url": "https://en.wikipedia.org/wiki/Sundha_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 65050759,
+   "lat": 24.731938,
+   "lon": 73.748812,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rathasena Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q65050759",
+    "wikipedia": "en:Rathasena Mata Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Rajsamand",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khemli",
+     "dist_m": 10742
+    },
+    "nearest_bus": {
+     "name": "Shrinath travel bus stand",
+     "dist_m": 17946
+    },
+    "nearest_airport": {
+     "name": "Jodhpur Airbase",
+     "dist_m": 182865,
+     "iata": "JDH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q65050759",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Rathasena Mata Temple is located on a hill on Maruwas area in the city of Udaipur, Rajasthan. This temple is located on a green hill in the Maruwas, area of Udaipur. It has uphill slope walkway to climb. It enshrines the stone idol of Rathasan Mata.",
+     "url": "https://en.wikipedia.org/wiki/Rathasena_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 85763398,
+   "lat": 24.95805556,
+   "lon": 75.59361111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ghateshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q85763398",
+    "wikipedia": "en:Ghateshwar Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32844
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36747
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33905,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4311
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q85763398",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temple%20of%20Shiv.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ghateshwar Temple is a Hindu temple located in Badoli, one of the nine temples near the river Chambal in Rajasthan, India. The Ghateshwar temple is dedicated to the god Shiva and is constructed in the Pratihara style of circa. It is located in Rawatbhata, which is around 50 km from Kota. The Ghateshwar temple is governed by the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Ghateshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 85799496,
+   "lat": 24.52,
+   "lon": 73.74,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sanchareswar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q85799496",
+    "wikipedia": "en:Sanchareswar Mahadev Temple"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Udaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Umra",
+     "dist_m": 3278
+    },
+    "nearest_bus": {
+     "name": "Unofficial bus station for long-distance buses",
+     "dist_m": 5649
+    },
+    "nearest_airport": {
+     "name": "Sardar Vallabhbhai Patel International Airport",
+     "dist_m": 196240,
+     "iata": "AMD"
+    },
+    "nearest_medical": {
+     "name": "Geetanjali Medical College and Hospital",
+     "dist_m": 3769
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q85799496",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sanchareswar Mahadev Temple is a temple of the lord Shiva in the Udaipur city in the state of Rajasthan, India.",
+     "url": "https://en.wikipedia.org/wiki/Sanchareswar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97119504,
+   "lat": 26.917111111,
+   "lon": 75.852305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sun Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97119504"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bais Godam",
+     "dist_m": 6456
+    },
+    "nearest_bus": {
+     "name": "RSRTC/Roadways Bus Stand",
+     "dist_m": 4344
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 10432,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Tawakkal General Clinic",
+     "dist_m": 1677
+    },
+    "water": {
+     "count": 1,
+     "nearest_m": 117
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97119504",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jaipur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sun%20Temple%20Galta%20-Lal%20Dungri%20-Jaipur%20-Rajasthan%20-IMG%2020200101.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459306,
+   "lat": 24.95847406,
+   "lon": 75.59317454,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ashtamata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459306"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32875
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36745
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33907,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4257
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459306",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Baroli%20temple%202.jpg"
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459311,
+   "lat": 24.95813427,
+   "lon": 75.59240035,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple in the tank",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459311"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32960
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36826
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33990,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4191
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459311",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20Temple%20in%20the%20tank%200361.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459308,
+   "lat": 24.95875827,
+   "lon": 75.59330613,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganesha Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459308"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32854
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36713
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33876,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4262
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459308",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/GANESH%20TEMPLE%20BADOLI%2CRAWATBHATA..JPG"
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459309,
+   "lat": 24.95840094,
+   "lon": 75.59321506,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sheshashayan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459309"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32873
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36748
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33909,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4263
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459309",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459312,
+   "lat": 24.95835915,
+   "lon": 75.59330347,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trimurti Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459312"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32866
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36745
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33906,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4273
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459312",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Trimurti"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Badoli%20mandir.jpg"
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459316,
+   "lat": 24.95847173,
+   "lon": 75.59323147,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vamanavatar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459316"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Chittorgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alniya",
+     "dist_m": 32869
+    },
+    "nearest_bus": {
+     "name": "Main Bus Stand",
+     "dist_m": 36741
+    },
+    "nearest_airport": {
+     "name": "Kota Airport",
+     "dist_m": 33903,
+     "iata": "KTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhaisroardgarh",
+     "dist_m": 4263
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459316",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Vamana"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "founded": {
+     "value": "0990-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rawatbhata tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Group%20of%20Temples%2C%20Badoli.jpg"
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97459442,
+   "lat": 26.98795556,
+   "lon": 75.85561667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Laxmi Narayan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97459442"
+   },
+   "state": "Rajasthan",
+   "state_basis": "boundary",
+   "district": "Jaipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jaipur Junction",
+     "dist_m": 10124
+    },
+    "nearest_bus": {
+     "name": "DoodhMandi Bus Stand",
+     "dist_m": 8429
+    },
+    "nearest_airport": {
+     "name": "Jaipur International Airport",
+     "dist_m": 18141,
+     "iata": "JAI"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Amer",
+     "dist_m": 221
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 139
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 36
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97459442",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1520-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jaipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/90196-sri-laxmi-narayan-temple-amber%2001.jpg",
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
     ]
    }
   }

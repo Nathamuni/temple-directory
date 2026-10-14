@@ -1,6 +1,6 @@
 {
  "state": "Nagaland",
- "count": 3,
+ "count": 4,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -181,6 +181,78 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5277164,
+   "lat": 25.9043,
+   "lon": 93.7253,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dimapur Kalibari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5277164",
+    "wikipedia": "en:Dimapur Kalibari"
+   },
+   "state": "Nagaland",
+   "state_basis": "boundary",
+   "district": "Dimapur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dimapur",
+     "dist_m": 426
+    },
+    "nearest_bus": {
+     "name": "Nagaland State Transport Bus Station (NST)",
+     "dist_m": 508
+    },
+    "nearest_airport": {
+     "name": "Dimapur Airport",
+     "dist_m": 5115,
+     "iata": "DMU"
+    },
+    "nearest_medical": {
+     "name": "Sunjay Surgi Care",
+     "dist_m": 269
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5277164",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1956-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dimapur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dimapur%20Kalibari%20Temple.jpeg",
+    "summary": {
+     "text": "Dimapur Kalibari is a temple of the Hindu goddess Kali in the town of Dimapur in Nagaland state of India.",
+     "url": "https://en.wikipedia.org/wiki/Dimapur_Kalibari",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

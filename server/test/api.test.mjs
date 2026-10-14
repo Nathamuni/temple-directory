@@ -1,10 +1,12 @@
 // Integration tests against a running server with DEV_LINKS=1:  BASE=http://localhost:8080 npm test
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
 
 const BASE = process.env.BASE || 'http://localhost:8080';
 const TEMPLE = 'osm-node-398040821';
 const stamp = Date.now().toString(36);
+const COUNT = JSON.parse(readFileSync(new URL('../../data/dataset-info.json', import.meta.url), 'utf8')).count;
 
 // A tiny cookie-keeping client = one "browser".
 function browser() {
@@ -26,7 +28,7 @@ let commentId, fieldEditId;
 
 test('health and data are present', async () => {
   const r = await A('GET', '/api/health');
-  assert.equal(r.status, 200); assert.equal(r.json.temples, 41369);
+  assert.equal(r.status, 200); assert.equal(r.json.temples, COUNT);
 });
 
 test('anyone can rate without signing in; one rating per browser per item', async () => {
@@ -150,11 +152,11 @@ test('exports are complete and never contain an email', async () => {
   const C = browser();
   await C('POST', '/api/ratings', { templeId: TEMPLE, itemKey: 'first-aid', stars: 3, email, consent: true });
   const nd = (await ANON('GET', '/api/export/temples.ndjson')).text.trim().split('\n');
-  assert.equal(nd.length, 41369); assert.ok(JSON.parse(nd[0]).id.startsWith('osm-'));
+  assert.equal(nd.length, COUNT); assert.ok(nd.every(l => /^(osm-(node|way|relation)-|wd-Q)\d+$/.test(JSON.parse(l).id)));
   const csv = (await ANON('GET', '/api/export/temples.csv')).text.trim().split('\n');
   assert.ok(csv.length >= 41370, 'header + one row per temple (quoted newlines allowed)');
   const geo = JSON.parse((await ANON('GET', '/api/export/temples.geojson')).text);
-  assert.equal(geo.features.length, 41369); assert.equal(geo.features[0].geometry.type, 'Point');
+  assert.equal(geo.features.length, COUNT); assert.equal(geo.features[0].geometry.type, 'Point');
   const com = (await ANON('GET', '/api/export/community.json')).text;
   assert.ok(!com.includes(email) && !com.includes('@example.com'), 'no email in the community export');
   for (const r of ['/api/temples/' + TEMPLE, '/api/community/' + TEMPLE, '/api/community-summary', '/api/needs', '/api/admin/edits'])

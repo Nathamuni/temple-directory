@@ -1,6 +1,6 @@
 {
  "state": "Puducherry",
- "count": 233,
+ "count": 236,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -13276,6 +13276,227 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48731807,
+   "lat": 10.9237272,
+   "lon": 79.8299009,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Aayiram Kaliamman Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48731807",
+    "wikipedia": "en:Aayiram Kaliamman Temple"
+   },
+   "state": "Puducherry",
+   "state_basis": "boundary",
+   "district": "Karaikal District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karaikal",
+     "dist_m": 1236
+    },
+    "nearest_bus": {
+     "name": "Nagapattinam",
+     "dist_m": 16780
+    },
+    "nearest_airport": {
+     "name": "Thanjavur Air Force Station",
+     "dist_m": 81671,
+     "iata": "TJV"
+    },
+    "nearest_medical": {
+     "name": "Vasan Eye Care Hospital",
+     "dist_m": 570
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48731807",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Amman (Tamil goddess)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "\n\nAayiram Kaliamman Temple is an ancient temple in Tirumalairayanpattinam (T.R.Pattinam). The temple is much famous for the main deity, Goddess Kaliamman's statue is made up of wood.",
+     "url": "https://en.wikipedia.org/wiki/Aayiram_Kaliamman_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55636968,
+   "lat": 11.9275,
+   "lon": 79.6475,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Varadharajaperumal temple, Thirubuvanai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55636968",
+    "wikipedia": "en:Varadharajaperumal temple, Thirubuvanai"
+   },
+   "state": "Puducherry",
+   "state_basis": "boundary",
+   "district": "Puducherry",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chinnababu Samudram",
+     "dist_m": 4353
+    },
+    "nearest_bus": {
+     "name": "Villupuram old Bus Stand",
+     "dist_m": 17022
+    },
+    "nearest_airport": {
+     "name": "Puducherry Airport",
+     "dist_m": 18495,
+     "iata": "PNY"
+    },
+    "nearest_medical": {
+     "name": "Primary health care, Thirubhuvanai",
+     "dist_m": 388
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55636968",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0955-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Puducherry district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Varadharajaperumal%20temple%2C%20Thirubuvanai%20%286%29.jpg",
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Varadaraja Perumal temple in the South Indian union territory of Puducherry, is dedicated to the Hindu god Vishnu. It is located in Thirubuvanai, a village, located 23 km (14 mi), in the outskirts of Puducherry. Constructed in the Dravidian style of architecture, the temple is a storehouse of Chola architecture and believed to have been built by Parantaka I. The temple has inscriptions from the time of Rajaraja Chola indicating an educational institution operating in the temple.",
+     "url": "https://en.wikipedia.org/wiki/Varadharajaperumal_temple%2C_Thirubuvanai",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7809358,
+   "lat": 10.9167,
+   "lon": 79.7833,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tirunallar Saniswaran Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7809358",
+    "wikipedia": "en:Tirunallar Dharbaranyeswarar Temple"
+   },
+   "state": "Puducherry",
+   "state_basis": "boundary",
+   "district": "Karaikal District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karaikal",
+     "dist_m": 6077
+    },
+    "nearest_bus": {
+     "name": "Nagapattinam",
+     "dist_m": 17187
+    },
+    "nearest_airport": {
+     "name": "Thanjavur Air Force Station",
+     "dist_m": 76565,
+     "iata": "TJV"
+    },
+    "nearest_medical": {
+     "name": "GH, Vizhidiyur",
+     "dist_m": 2166
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7809358",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Dravidian architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Karaikal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Thirunallar%20Dharbaranyeeswarar%20Temple%20and%20Tank.jpg",
+    "summary": {
+     "text": "Dharbaranyeswarar Temple, more popularly known as Tirunallar Saniswaran Temple, is a Hindu temple dedicated to the deity Shiva, located in the Thirunallar village of the Karaikal district, in the Union territory of Puducherry, Southeastern India.",
+     "url": "https://en.wikipedia.org/wiki/Tirunallar_Dharbaranyeswarar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

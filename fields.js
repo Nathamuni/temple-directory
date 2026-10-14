@@ -19,11 +19,11 @@ function fmtComputed(key,v){
 function mapped(t,map){
   for(const path of [].concat(map||[])){
     let v,src,kind='dataset';
-    if(path.startsWith('tags.')){v=(t.tags||{})[path.slice(5)];src='OpenStreetMap'}
+    if(path.startsWith('tags.')){v=(t.tags||{})[path.slice(5)];src=t.source==='Wikidata'?'Wikidata':'OpenStreetMap'}
     else if(path.startsWith('computed.')){const k=path.slice(9);v=t.computed?.[k];if(v!=null)v=fmtComputed(k,v);src='OSM · computed';kind='computed'}
-    else{v=t[path];src=['founded','architecture','heritage','circuits','operatorBody'].includes(path)?'Wikidata':'OpenStreetMap'}
+    else{v=t[path];src=t.source==='Wikidata'&&!['state','district'].includes(path)||['founded','architecture','heritage','circuits','operatorBody','locatedIn','wdWebsite'].includes(path)?'Wikidata':'OpenStreetMap'}
     if(Array.isArray(v))v=v.join(', ');
-    if(v==null||v===''||/not recorded|not provided/i.test(String(v)))continue;
+    if(v==null||v===''||/not recorded|not provided/i.test(String(v))||(path==='name'&&t.named===false))continue;
     v=String(v);
     if(path==='deity'&&t.deityBasis==='INFERRED_from_name'){v=v.replace(/\s*\(inferred from name\)\s*$/,'');return {value:v,source:'Inferred from name',kind:'inferred'}}
     return {value:v,source:src,kind};

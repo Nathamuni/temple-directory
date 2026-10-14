@@ -81,7 +81,8 @@
             "visit"
           ],
           "map": [
-            "locality"
+            "locality",
+            "locatedIn"
           ]
         }
       ]
@@ -444,7 +445,8 @@
           ],
           "map": [
             "tags.website",
-            "tags.contact:website"
+            "tags.contact:website",
+            "wdWebsite"
           ]
         },
         {

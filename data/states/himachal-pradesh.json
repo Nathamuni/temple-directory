@@ -1,6 +1,6 @@
 {
  "state": "Himachal Pradesh",
- "count": 609,
+ "count": 638,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -32304,6 +32304,1970 @@
      "name",
      "district",
      "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17054974,
+   "lat": 32.1927,
+   "lon": 76.4506,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Himani Chamunda",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17054974",
+    "wikipedia": "en:Aadi Himani Chamunda"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kangra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chamunda Marg",
+     "dist_m": 9566
+    },
+    "nearest_bus": {
+     "name": "Bus Stand, Nagrota Bhagwa",
+     "dist_m": 11306
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 17917,
+     "iata": "DHM"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17054974",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Himachal Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Aadi Himani Chamunda is a Hindu temple dedicated to Shri Chamunda Devi, situated in Chandar Bhan, Jia in Kangra Valley, Himachal Pradesh, India, in the Himalayas.",
+     "url": "https://en.wikipedia.org/wiki/Aadi_Himani_Chamunda",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104586803,
+   "lat": 31.0853,
+   "lon": 77.1425,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sankat Mochan Temple, Shimla",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104586803",
+    "wikipedia": "en:Sankat Mochan Temple, Shimla"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Shimla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Taradevi",
+     "dist_m": 1048
+    },
+    "nearest_bus": {
+     "name": "ISBT Shimla (New Bus Stand)",
+     "dist_m": 1632
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 7167,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Health Care Clinic",
+     "dist_m": 1635
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104586803",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Sankat Mochan Temple is a Hindu temple, dedicated to Hindu deity Hanuman in Shimla, Himachal Pradesh, India. The temple is Shimla's second most visited Hanuman temple after Jakhu Temple. It was established in 1950 by noted religious figure, Neem Karoli Baba.",
+     "url": "https://en.wikipedia.org/wiki/Sankat_Mochan_Temple%2C_Shimla",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 114024074,
+   "lat": 31.968,
+   "lon": 76.207,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bagalamukhi Temple, Bankhandi, HP",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q114024074",
+    "wikipedia": "en:Bagalamukhi Temple, Bankhandi, HP"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kangra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tripal",
+     "dist_m": 4661
+    },
+    "nearest_bus": {
+     "name": "Dehra Bus Stand",
+     "dist_m": 9392
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 22493,
+     "iata": "DHM"
+    },
+    "parking": {
+     "count": 2,
+     "nearest_m": 189
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q114024074",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mata%20Baglamukhi%20Temple%20at%20Bankhandi%20%28Kangra%29..jpg",
+    "summary": {
+     "text": "The Bagalamukhi Temple is a Hindu temple located in Bankhandi, Kangra district of Himachal Pradesh, India. It is dedicated to the Hindu goddess Bagalamukhi, one of the ten Tantric Mahavidya goddesses. The goddess, also known as Peetambhara, is associated with the colour yellow. She is depicted seated on a golden throne with pillars decorated with jewels and has three eyes, symbolising her ability to grant ultimate knowledge to her devotees.",
+     "url": "https://en.wikipedia.org/wiki/Bagalamukhi_Temple%2C_Himachal_Pradesh",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 119837129,
+   "lat": 31.50061,
+   "lon": 76.95657,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamaksha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q119837129",
+    "wikipedia": "en:Kamaksha Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Mandi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Beri Barmana",
+     "dist_m": 14875
+    },
+    "nearest_bus": {
+     "name": "BBMB Colony Bus Station",
+     "dist_m": 6140
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 45734,
+     "iata": "KUU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q119837129",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jaidevi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaidevi%20temple.jpg",
+    "summary": {
+     "text": "Shri Kamaksha Temple Jaidevi, also known as the Kul Devi of the Suket royal family and the Raj-Rajeshwari and Adhisthatri Devi of the Suket principality, is a historic Hindu temple surrounded by mountains in a natural setting.",
+     "url": "https://en.wikipedia.org/wiki/Kamaksha_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124219966,
+   "lat": 31.033527777,
+   "lon": 77.372055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mangleshwar Devata Temple, Balag Himachal Pradesh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124219966"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Shimla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 21598
+    },
+    "nearest_bus": {
+     "name": "Theog Bus Station",
+     "dist_m": 10062
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 29550,
+     "iata": "SLV"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124219966",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shimla District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0041523%20Mangleshwar%20Devata%20Maharaj%20temple%2C%20Balag%2C%20Himachal%20Pradesh%20009.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124256588,
+   "lat": 31.306194444,
+   "lon": 76.536666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Naina Devi Temple, Naina Devi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124256588"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Anandpur Sahib",
+     "dist_m": 9142
+    },
+    "nearest_bus": {
+     "name": "Naina Devi",
+     "dist_m": 424
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 56237,
+     "iata": "SLV"
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 256
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124256588",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Naina%20Devi%20Temple%2C%20Himachal.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124259571,
+   "lat": 31.329861111,
+   "lon": 76.756166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ranganatha Temples, Bilaspur Himachal Pradesh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124259571"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Beri Barmana",
+     "dist_m": 12185
+    },
+    "nearest_bus": {
+     "name": "Bilaspur Bus Stand",
+     "dist_m": 1060
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 40352,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Referral Hospital, Bilaspur",
+     "dist_m": 1060
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124259571",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilaspur%20submerged%20Ranganatha%20temples%2C%20Gobind%20Sagar%20Bhakra%20Dam%2C%20Himachal%20Pradesh.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124262211,
+   "lat": 31.425555555,
+   "lon": 77.573194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Parasuram Kothi Temple, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124262211"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53222
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 6172
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61341,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 488
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124262211",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Parasuram%20Kothi%20Temple%2C%20Nirmand%20Himachal%20Pradesh%20022.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124262298,
+   "lat": 31.42525,
+   "lon": 77.575027777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Thakurdwara Lakshmi Narayan Temple, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124262298"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53328
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 6033
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61457,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 329
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124262298",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Lakshmi%20Narayan%20Temple%2C%20Nirmand%20Himachal%20Pradesh%20005.jpg",
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124263642,
+   "lat": 31.424916666,
+   "lon": 77.57175,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ambika Temple, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124263642"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53073
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 6327
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61189,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 582
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124263642",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Ambike%20Devi%20Temple%2C%20Nirmand%20Himachal%20Pradesh%20016.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124266417,
+   "lat": 31.425916666,
+   "lon": 77.575777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandi Devi Temple and Ancient Baoli, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124266417"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53430
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 5935
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61558,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 343
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124266417",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Chandi%20Devi%20temple%20and%20historic%20Water%20tanks%2C%20Nirmand%20Himachal%20Pradesh%20027.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124268637,
+   "lat": 31.424222222,
+   "lon": 77.572361111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dakshineshwar Temple, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124268637"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53064
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 6310
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61187,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 505
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124268637",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Dakshineshwar%20temple%2C%20Nirmand%20Himachal%20Pradesh%20012.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124270721,
+   "lat": 31.370277777,
+   "lon": 77.5425,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya Narayan Temple, Nirath",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124270721"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Shimla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 46999
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 12262
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 55330,
+     "iata": "SLV"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124270721",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shimla District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004172023%20Surya%20Narayana%20temple%2C%20Nirath%20Himachal%20Pradesh%20015.jpg",
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124272226,
+   "lat": 31.425472222,
+   "lon": 77.57375,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pancha Pandava Temple, Nirmand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124272226"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shimla",
+     "dist_m": 53255
+    },
+    "nearest_bus": {
+     "name": "Old Bus S tand Rampur",
+     "dist_m": 6129
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61377,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Nirmand",
+     "dist_m": 439
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124272226",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/004182023%20Pancha%20Pandava%20temple%2C%20Nirmand%20Himachal%20Pradesh%20014.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137441426,
+   "lat": 31.096111111,
+   "lon": 77.134166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamna Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137441426",
+    "wikipedia": "en:Kamna Devi Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Shimla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jutogh",
+     "dist_m": 1271
+    },
+    "nearest_bus": {
+     "name": "ISBT Shimla (New Bus Stand)",
+     "dist_m": 1601
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 6531,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Health Care Clinic",
+     "dist_m": 673
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137441426",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Shimla District",
+      "Himachal Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kamna Devi Temple is a Hindu temple located in Boileauganj, Shimla, Himachal Pradesh. It is situated atop of Prospect Hill which is one of the seven hills in Shimla. The temple is situated on steep road to hilltop above Boileauganj.",
+     "url": "https://en.wikipedia.org/wiki/Kamna_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24883117,
+   "lat": 32.5202082,
+   "lon": 76.0330345,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pohlani Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24883117",
+    "wikipedia": "en:Pohlani Mata Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Chamba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nurpur Road",
+     "dist_m": 31760
+    },
+    "nearest_bus": {
+     "name": "Dalhousie Bus Station",
+     "dist_m": 6549
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 45065,
+     "iata": "DHM"
+    },
+    "nearest_medical": {
+     "name": "Arpana Charitable Hospital",
+     "dist_m": 4724
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 231
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24883117",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Himachal Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Pohlani%20Mata.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Jai Pohlani Mata Temple is a Hindu temple for the deity Pohlani Mata. It is located about 8.1 km away from Dalhousie, Himachal Pradesh, India. It includes a teahouse and great views of the Pir Pinjal range.",
+     "url": "https://en.wikipedia.org/wiki/Pohlani_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56948690,
+   "lat": 32.555833333,
+   "lon": 76.126111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sita Ram Temple, Chamba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56948690"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Chamba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nurpur Road",
+     "dist_m": 40175
+    },
+    "nearest_bus": {
+     "name": "Chamba Old ISBT",
+     "dist_m": 320
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 45367,
+     "iata": "DHM"
+    },
+    "nearest_medical": {
+     "name": "Sukhmani Hospital, Chamba",
+     "dist_m": 284
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56948690",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0051523%20Sita%20Ram%20temple%2C%20Chamba%2C%20Himachal%20Pradesh%20028.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56948999,
+   "lat": 32.44710833,
+   "lon": 76.37533056,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shakti Devi Temple, Chatrari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56948999"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Chamba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nagrota",
+     "dist_m": 37672
+    },
+    "nearest_bus": {
+     "name": "Bharmour Old Bus Stand",
+     "dist_m": 14910
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 33135,
+     "iata": "DHM"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56948999",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0051623%20Shakti%20Devi%20temple%2C%20Chhatrari%2C%20Himachal%20Pradesh%20010.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56949435,
+   "lat": 32.556111111,
+   "lon": 76.125,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Champavati Temple, Chamba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56949435"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Chamba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nurpur Road",
+     "dist_m": 40131
+    },
+    "nearest_bus": {
+     "name": "Chamba Old ISBT",
+     "dist_m": 360
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 45426,
+     "iata": "DHM"
+    },
+    "nearest_medical": {
+     "name": "Sukhmani Hospital, Chamba",
+     "dist_m": 208
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56949435",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0051523%20Champavati%20temple%2C%20Chamba%2C%20Himachal%20Pradesh%20009.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56980167,
+   "lat": 31.83715446,
+   "lon": 76.5045983,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narbadeshwar Temple, Sujanpur Tira",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56980167"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Hamirpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panchrukhi",
+     "dist_m": 25043
+    },
+    "nearest_bus": {
+     "name": "Jwalamukhi Bus Depot",
+     "dist_m": 18081
+    },
+    "nearest_airport": {
+     "name": "Kangra Airport, Gaggal",
+     "dist_m": 42944,
+     "iata": "DHM"
+    },
+    "nearest_medical": {
+     "name": "Johal Hospital",
+     "dist_m": 468
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56980167",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Hamirpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Narbadeshwar%20Temple%27.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56985343,
+   "lat": 31.847222222,
+   "lon": 77.164444444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Basheshar Mahadev Temple, Bajaura",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56985343"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Winch Camp",
+     "dist_m": 36919
+    },
+    "nearest_bus": {
+     "name": "Bhuntar Bus Stand",
+     "dist_m": 3999
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 3360,
+     "iata": "KUU"
+    },
+    "nearest_medical": {
+     "name": "Maya Dass Shiv Dass Rotary Eye Hospital",
+     "dist_m": 844
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56985343",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20of%20the%20temple%20at%20Bajaura.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56985696,
+   "lat": 32.198333333,
+   "lon": 77.202666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Miniature Siva Temple, Jagatsukh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56985696"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Kullu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Zero Point",
+     "dist_m": 38696
+    },
+    "nearest_bus": {
+     "name": "Manali Inter State Bus Terminus",
+     "dist_m": 5231
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 36127,
+     "iata": "KUU"
+    },
+    "nearest_medical": {
+     "name": "Civil Hospital, Manali",
+     "dist_m": 4709
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56985696",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kullu district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20Shiv%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56988610,
+   "lat": 31.71131111,
+   "lon": 76.93562778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Panchvaktra Temple, Mandi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56988610"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Mandi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Buffer Stop",
+     "dist_m": 33150
+    },
+    "nearest_bus": {
+     "name": "ISBT Mandi",
+     "dist_m": 695
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 27589,
+     "iata": "KUU"
+    },
+    "nearest_medical": {
+     "name": "Jagriti Hospital",
+     "dist_m": 323
+    },
+    "parking": {
+     "count": 2,
+     "nearest_m": 80
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56988610",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mandi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Panchvaktra%20Temple%2C%20Mandi%20%28SIDE%20VIEW%29.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56989059,
+   "lat": 31.71275,
+   "lon": 76.92996667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ardhnareshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56989059"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Mandi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Buffer Stop",
+     "dist_m": 32809
+    },
+    "nearest_bus": {
+     "name": "ISBT Mandi",
+     "dist_m": 1064
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 27887,
+     "iata": "KUU"
+    },
+    "nearest_medical": {
+     "name": "District Ayurvedic Hospital, Mandi",
+     "dist_m": 187
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 156
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56989059",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mandi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/AEDHNARISHWAR%20TEMPLE%2C%20MANDI%20%28FRONT%20VIEW%29.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56989242,
+   "lat": 30.752111111,
+   "lon": 77.258583333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mangarh Shiva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56989242"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Sirmaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Barog",
+     "dist_m": 22758
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Nahan",
+     "dist_m": 21639
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 41081,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Akal Hospital",
+     "dist_m": 3927
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56989242",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sirmaur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mangarh%20Shiva%20temple%2C%20Himachal%20Pradesh.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6720940,
+   "lat": 30.58,
+   "lon": 77.55,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Bhangayani Temple, Haripurdhar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6720940",
+    "wikipedia": "en:Maa Bhangayani Temple, Haripurdhar"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Sirmaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dehradun",
+     "dist_m": 54967
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Nahan",
+     "dist_m": 25228
+    },
+    "nearest_airport": {
+     "name": "Sarsawa Air Force Station",
+     "dist_m": 66229,
+     "iata": "SWN"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6720940",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sirmaur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Maa Bhangayani is known to be the most powerful goddess of Himachal Pradesh's Sirmour district. According to the legends, Shirgul Maharaj was imprisoned by a Mughal king of that time who was frightened by Maharaj's spiritual powers. With the blessings of Maa Bhangyani, the king of Bagad and Guga peer helped him to gain freedom. This incident has been enlisted in golden chapters and since then Maa Bhangayani has been celebrated as god sister of Shirgul Mahadev.",
+     "url": "https://en.wikipedia.org/wiki/Maa_Bhangayani_Temple%2C_Haripurdhar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6720960,
+   "lat": 31.902,
+   "lon": 76.698,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Simsa temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6720960",
+    "wikipedia": "en:Maa Simsa Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Mandi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chauntra Bahetren",
+     "dist_m": 12330
+    },
+    "nearest_bus": {
+     "name": "Joginder Nagar ISBT",
+     "dist_m": 13069
+    },
+    "nearest_airport": {
+     "name": "Bhuntar Airport",
+     "dist_m": 43138,
+     "iata": "KUU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6720960",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mandi district",
+      "Himachal Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "\n\nMaa Simsa Mandir or Simsa Mata Mandir is a Hindu temple located in Ladbharol region of the Joginder Nagar subdivision of Mandi district of Himachal Pradesh, India. The temple is dedicated to Sharada Devi. While the main temple is located in the Simsa village, 30 km from the Baijnath town, 38 km from Joginder Nagar, and other one Simsa Mata temple in Daroh village, 17 km from Palampur.",
+     "url": "https://en.wikipedia.org/wiki/Maa_Simsa_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7842103,
+   "lat": 30.54035,
+   "lon": 77.20855,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trilokpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7842103",
+    "wikipedia": "en:Trilokpur Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Sirmaur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghagghar",
+     "dist_m": 35357
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Nahan",
+     "dist_m": 7853
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 61842,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Sneh Hospital",
+     "dist_m": 4561
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7842103",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Nahan"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Trilokpur%20Devi%20Temple%20%28as%20seen%20from%20side%29%20%28cropped%29.jpg",
+    "summary": {
+     "text": "Trilokpur is a Hindu temple site in Himachal Pradesh, India. It is located on an hillock about 24 km south-west of Nahan at an elevation of about 430 m. The temple is an amalgam of Indo-Persian styles of architecture.",
+     "url": "https://en.wikipedia.org/wiki/Trilokpur_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 96407828,
+   "lat": 31.05408,
+   "lon": 77.142,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tara Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q96407828",
+    "wikipedia": "en:Tara Devi Temple"
+   },
+   "state": "Himachal Pradesh",
+   "state_basis": "boundary",
+   "district": "Shimla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shoghi railway station",
+     "dist_m": 2345
+    },
+    "nearest_bus": {
+     "name": "ISBT Shimla (New Bus Stand)",
+     "dist_m": 4971
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 7815,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Sri Ram Hospital, Shimla",
+     "dist_m": 4314
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q96407828",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Tara Devi temple is at a height of 7200 feet above sea level in the Taradevi area atop a ridge, around 7 km away from Shimla city centre.",
+     "url": "https://en.wikipedia.org/wiki/Tara_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
     ]
    }
   }

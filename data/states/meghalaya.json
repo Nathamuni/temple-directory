@@ -1,6 +1,6 @@
 {
  "state": "Meghalaya",
- "count": 13,
+ "count": 15,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -665,6 +665,135 @@
     "has": [
      "name",
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 1398404,
+   "lat": 25.91833333,
+   "lon": 90.21138889,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhamrai Jagannath Roth",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q1398404",
+    "wikipedia": "en:Dhamrai Rathayatra"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "West Garo Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhubri",
+     "dist_m": 26069
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 39211,
+     "iata": "RUP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q1398404",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Dhamrai Jagannath Roth is a chariot temple or Ratha Yatra, a Roth, dedicated to the Hindu God Jagannath located in Dhamrai, Bangladesh. The annual Jagannath Roth Jatra is a famous Hindu festival attracting thousands of people. The Roth Jatra in Dhamrai is one of the most important events for the Hindu community of Bangladesh. Sri Jagannath is believed by the Hindus to be an incarnation of Lord Vishnu, one among the Holy Hindu Trinity of Gods. Lord Jagannath is also believed to be a deity form of Lord Krishna.",
+     "url": "https://en.wikipedia.org/wiki/Dhamrai_Rathayatra",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17059185,
+   "lat": 25.567,
+   "lon": 92.209,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nartiang Durga Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17059185",
+    "wikipedia": "en:Nartiang Durga Temple"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "West Jaintia Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Barahu",
+     "dist_m": 61480
+    },
+    "nearest_bus": {
+     "name": "SRGT Parking Lot",
+     "dist_m": 32002
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 27715,
+     "iata": "SHL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17059185",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Meghalaya"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nartiang%20Durga%20Temple%20-%20Deity%201.jpg",
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Nartiang Durga Temple is a Hindu temple located in the West Jaintia Hills district of Meghalaya in northeastern India. It is one of the 51 Shakta pithas and is one of the holiest sites for devotees of the Shaktism sect of Hinduism. It is 600 years old. The Hindus in the Jaintia Hills believe that this temple is the permanent abode of Goddess Durga. The temple draws a large number of pilgrims from all over the country for the occasion of Durga Puja. The Shakti of Nartiang Devi shrine is worshipped as Jayanti and the Bhairava as Kamadishwar.",
+     "url": "https://en.wikipedia.org/wiki/Nartiang_Durga_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
     ]
    }
   }

@@ -1,6 +1,6 @@
 {
  "state": "Assam",
- "count": 321,
+ "count": 364,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -17092,6 +17092,2846 @@
      "name",
      "district",
      "locality"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 131689499,
+   "lat": 26.1955962,
+   "lon": 91.7584706,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chatrakar Devalaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q131689499"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guwahati",
+     "dist_m": 1690
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 1815
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 19659,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Dr. Goswami's Clinic",
+     "dist_m": 588
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q131689499",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "denomination": {
+     "value": [
+      "Hinduism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup Metropolitan district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Sri%20Chatrakar%20Devalaya%2003.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18327314,
+   "lat": 26.23516354,
+   "lon": 91.53459801,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Kameswar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18327314"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agthori",
+     "dist_m": 15641
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 18902
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 14670,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "State Dispensary, Dampur",
+     "dist_m": 4144
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18327314",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kameshwar%20mandir.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18327312,
+   "lat": 26.24178314,
+   "lon": 91.5439682,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Kedar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18327312"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agthori",
+     "dist_m": 14959
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 18384
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 15081,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "State Dispensary, Dampur",
+     "dist_m": 4857
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18327312",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kedar%20of%20the%20east.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18327313,
+   "lat": 26.23614502,
+   "lon": 91.53401184,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Ganesh Temple, Hajo",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18327313"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agthori",
+     "dist_m": 15726
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 19001
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 14793,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "State Dispensary, Dampur",
+     "dist_m": 4260
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18327313",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ganesh%20temple%20ext.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 102220012,
+   "lat": 26.434083333,
+   "lon": 91.408305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Basudev Devalaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q102220012",
+    "wikipedia": "en:Basudev Devalaya"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Nalbari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nalbari",
+     "dist_m": 3560
+    },
+    "nearest_bus": {
+     "name": "Barbari",
+     "dist_m": 38460
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 39993,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Nalbari Pediatric Centre",
+     "dist_m": 2626
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q102220012",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": " Basudev Devalaya  in Balikaria, Nalbari district, Assam is an ancient Hindu temple and is dedicated to Basudev. This temple was built by Ahom King Sutanphaa (1714-1744).",
+     "url": "https://en.wikipedia.org/wiki/Basudev_Devalaya",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 105095213,
+   "lat": 26.758888888,
+   "lon": 94.214722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Burhi Gosani Devalaya Jorhat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q105095213",
+    "wikipedia": "en:Burhi Gosani Devalaya Jorhat"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Jorhat",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jorhat Town",
+     "dist_m": 982
+    },
+    "nearest_bus": {
+     "name": "Public Bus Stand",
+     "dist_m": 426
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 5192,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Dr. K.C. Dey's Clinic",
+     "dist_m": 109
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q105095213",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1794-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jorhat district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/SRI%20SRI%20BURHI%20GOSANI%20DEVALAYA%20Jorhat%20Assam%20India.jpg",
+    "summary": {
+     "text": "Burhi Gosani Devalaya is a Hindu shakta temple which was originally used to worship the primordial deity Burhi and was later sanskritised\nto goddess Durga. It is situated at Dewal Road in Jorhat, Assam, India.",
+     "url": "https://en.wikipedia.org/wiki/Burhi_Gosani_Devalaya_Jorhat",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 105359812,
+   "lat": 26.21885,
+   "lon": 93.8275,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Deopani Durga Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q105359812",
+    "wikipedia": "en:Deopani Durga Mandir"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Karbi Anglong",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sarupathar",
+     "dist_m": 4347
+    },
+    "nearest_bus": {
+     "name": "Public Bus Terminus",
+     "dist_m": 35523
+    },
+    "nearest_airport": {
+     "name": "Dimapur Airport",
+     "dist_m": 37640,
+     "iata": "DMU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q105359812",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karbi Anglong district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Deopani%20Durga%20temple.jpg",
+    "website": "https://deopanidurgamandir.com/",
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Deopani Durga Mandir is a Hindu Shakti temple of Goddess Durga situated in Asean highway 1, Borsewaguri, Bokajan, Karbi Anglong, Assam, India – 782470.",
+     "url": "https://en.wikipedia.org/wiki/Deopani_Durga_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 6,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 105424745,
+   "lat": 26.24178,
+   "lon": 91.54397,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Kedar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q105424745",
+    "wikipedia": "en:Shri Kedar Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agthori",
+     "dist_m": 14959
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 18384
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 15080,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "State Dispensary, Dampur",
+     "dist_m": 4857
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q105424745",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Shri Kedar Temple is a medieval Hindu temple dedicated to Shiva located at top of Madanachala hill in Hajo, Kamrup, Assam. The central chamber has a linga. The temple, along with the two walls adjacent, build by Ahom King Rajeswara Singha in 1753. The linga in this temple is considered as Swayambhu - the one that originates itself and is not crafted or made.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Kedar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 113631598,
+   "lat": 27.4728,
+   "lon": 94.912,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Sri Koli Aai Thaan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q113631598"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Dibrugarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dibrugarh Town",
+     "dist_m": 1241
+    },
+    "nearest_bus": {
+     "name": "Silapathar ASTC",
+     "dist_m": 22664
+    },
+    "nearest_airport": {
+     "name": "Dibrugarh Mohanbari Airport",
+     "dist_m": 10461,
+     "iata": "DIB"
+    },
+    "nearest_medical": {
+     "name": "Srimanta Sankardeva Hospital And Research Institute",
+     "dist_m": 86
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q113631598",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dibrugarh district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536490,
+   "lat": 26.947083055,
+   "lon": 94.534013055,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gaurisagar Vishnudol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536490"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 11841
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 11185
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 43133,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Mini PHC, Charing",
+     "dist_m": 4928
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536490",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaurisagar%20Vishnu%20dol.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536491,
+   "lat": 26.947622505,
+   "lon": 94.538218266,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gaurisagar Devidol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536491"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 11436
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 10778
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 43512,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Mini PHC, Charing",
+     "dist_m": 4956
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536491",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaurisagar%20Devidol%20-%20Inbound4105977292739800535.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536492,
+   "lat": 26.94724878,
+   "lon": 94.535409247,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gaurisagar Sivadol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536492"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 11707
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 11050
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 43258,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Mini PHC, Charing",
+     "dist_m": 4932
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536492",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaurisagar%20Shiva%20dol.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536498,
+   "lat": 26.955534,
+   "lon": 94.624206,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Joysagar Vishnudol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536498",
+    "wikipedia": "en:Joy dol"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 4297
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 3706
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 51241,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 3087
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536498",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Vishnudol%20joysagar.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Keshavnarayan Vishnu dol, popularly known as Joy dol, was constructed in 1698 by Ahom king Swargadeo Rudra Singha (1696–1714) in honour and memory of his mother Joymoti. Particularly this temple is dedicated to Hindu god Lord Vishnu. The presiding deity of the temple was before known as Kesavaraya Visnu This temple is constructed of brick and stone. The walls are decorated with images of celestial beings and sculptures representing the social life of the day such as the sports and favourite pastimes of the erstwhile Ahom kings. The Joysagar Group of temples standing on the banks of the tank of the same name includes the Joydol, the Sivadol, the Devi Ghar, and the Ghanashyam House.",
+     "url": "https://en.wikipedia.org/wiki/Joy_dol",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536500,
+   "lat": 26.95453,
+   "lon": 94.618927,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Joysagar Devidol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536500"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 4646
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 4025
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 50731,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 3442
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536500",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Devi%20Ghar.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18536512,
+   "lat": 26.955563,
+   "lon": 94.620665,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Joysagar Sivadol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18536512"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 4459
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 3844
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 50937,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 3253
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18536512",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Joysagar%20Shiva%20Dol%201.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18555420,
+   "lat": 26.95999,
+   "lon": 94.622435,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Meteka Rangnathdol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18555420"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 3946
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 3326
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 51333,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 2743
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18555420",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18555458,
+   "lat": 26.659736,
+   "lon": 93.172032,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bordol temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18555458"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Biswanath",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nizchatia",
+     "dist_m": 12214
+    },
+    "nearest_bus": {
+     "name": "ASTC Bus Station",
+     "dist_m": 37781
+    },
+    "nearest_airport": {
+     "name": "Tezpur Air Force Station",
+     "dist_m": 38986,
+     "iata": "TEZ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18555458",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bishwanath district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19457005,
+   "lat": 26.4693,
+   "lon": 91.5643,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bagheswari Temple, Bongaigaon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19457005",
+    "wikipedia": "en:Bagheswari Temple, Bongaigaon"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghograpar",
+     "dist_m": 4066
+    },
+    "nearest_bus": {
+     "name": "Barbari",
+     "dist_m": 22907
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 39859,
+     "iata": "GAU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19457005",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Bagheswari"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bongaigaon district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bagheswari%20Temple%2C%20Bongaigaon.JPG",
+    "summary": {
+     "text": "The Bagheswari Temple is a Hindu temple dedicated to the mother goddess Bagheswari, one of the oldest of the 51 Shakti Pitha. Situated in southern part of Bongaigaon city in Assam, India. It is an important pilgrimage destination for general Hindu. Here exists a rock-cut Ganesha of the mediaeval period, along with architectural components of a stone temple datable to 10th -11th CE",
+     "url": "https://en.wikipedia.org/wiki/Bagheswari_Temple%2C_Bongaigaon",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19882332,
+   "lat": 26.0971,
+   "lon": 91.696054,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhimeswar Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19882332",
+    "wikipedia": "en:Bhimeswar Dham"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamakhya Junction",
+     "dist_m": 6703
+    },
+    "nearest_bus": {
+     "name": "Inter State Bus Terminal",
+     "dist_m": 3362
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 11170,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Peerless Hospital",
+     "dist_m": 2654
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19882332",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kamrup Metropolitan district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhimeswar%20main%20gate.jpg",
+    "summary": {
+     "text": "Bhimeswar Dham, is a Hindu temple, located at Dakini hill near Pamohi in Guwahati, Assam, India. It is situated at the hill just besides the Deepor Beel. It is believed that Shiva had incarnated here to destroy a demon called Bhimasura and protect his devotees.",
+     "url": "https://en.wikipedia.org/wiki/Bhimeswar_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25681781,
+   "lat": 26.958467879,
+   "lon": 93.798457664,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maghnowa Doul",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25681781"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Lakhimpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Uttar Kathani",
+     "dist_m": 2466
+    },
+    "nearest_bus": {
+     "name": "Arunachal pradesh State transport bus station",
+     "dist_m": 23552
+    },
+    "nearest_airport": {
+     "name": "Itanagar Holongi Airport",
+     "dist_m": 15565,
+     "iata": "HGI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25681781",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Lakhimpur district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Maghnuwa%20Doul.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25682128,
+   "lat": 26.049555555,
+   "lon": 90.632194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tukreswari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25682128",
+    "wikipedia": "en:Tukreswari Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Goalpara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Krishnai",
+     "dist_m": 5736
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 73099,
+     "iata": "RUP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25682128",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Tukreswari Temple in Goalpara district, Assam is an ancient Hindu temple and is dedicated to Sati as Shakta pitha. Shakta pithas are shrines or divine places of Sati, believed to have enshrined with the presence of Shakti due to the falling of body parts of the corpse of Sati. It is believed that an enraged Shiva performed the Tandava dance with Sati's charred body, which led her body came apart and the pieces fell at different places on earth. As per religious faith a portion of Goddess Sati's body part fell in this place and therefore this temple is known as Tukreswari.",
+     "url": "https://en.wikipedia.org/wiki/Tukreswari_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25682148,
+   "lat": 26.186887,
+   "lon": 91.723977,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Aswakranta temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25682148"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guwahati",
+     "dist_m": 2657
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 2671
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 16190,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Mahendra Mohan Choudhury Hospital",
+     "dist_m": 1651
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25682148",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Aswoklanta%20temple.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25682219,
+   "lat": 26.725339,
+   "lon": 92.994821,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nagsankar Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25682219",
+    "wikipedia": "en:Nagsankar Mandir"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sonitpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Niz Chatia",
+     "dist_m": 5822
+    },
+    "nearest_bus": {
+     "name": "ASTC Bus Station",
+     "dist_m": 23053
+    },
+    "nearest_airport": {
+     "name": "Tezpur Air Force Station",
+     "dist_m": 20955,
+     "iata": "TEZ"
+    },
+    "nearest_medical": {
+     "name": "Nagsankar Hospital",
+     "dist_m": 1081
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25682219",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sonitpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "The Nagsankar Temple is a shrine in Nagsankar Mouza near Sootea, to the east of Tezpur, in Sonitpur District of Assam. The temple is believed to be built by King Narasankar of Nagakha in the 4th century.",
+     "url": "https://en.wikipedia.org/wiki/Nagsankar_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4867584,
+   "lat": 26.095,
+   "lon": 91.784444444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Basistha Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4867584",
+    "wikipedia": "en:Basistha Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "New Guwahati",
+     "dist_m": 9707
+    },
+    "nearest_bus": {
+     "name": "Basistha Mandir",
+     "dist_m": 170
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 19966,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "151 Base Hospital",
+     "dist_m": 1610
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4867584",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Basistha temple is a Shiva mandir located in the south-east corner of Guwahati city, Assam, India.",
+     "url": "https://en.wikipedia.org/wiki/Basistha_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5280751,
+   "lat": 26.242583333,
+   "lon": 91.749388888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dirgheshwari temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5280751",
+    "wikipedia": "en:Dirgheshwari temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Changsari",
+     "dist_m": 5910
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 6829
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 21933,
+     "iata": "GAU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5280751",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirgheswari%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Dirgheswari Mandir is a temple situated in the northern banks of the river Brahmaputra in North Guwahati, Assam, India. Many ancient images made on rocks existed along with the temple. Brick temple was Built by Ahom king Swargadeo Siva Singha, Dirgheswari temple is considered as a Shakta pitha for Shakti worship. The main attraction of Dirgheswari temple is the annual Durga Puja celebrations, in which devotees from far of places use to attend.",
+     "url": "https://en.wikipedia.org/wiki/Dirgheshwari_temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5302221,
+   "lat": 26.206772222,
+   "lon": 91.741705555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Doul Govinda Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5302221",
+    "wikipedia": "en:Doul Govinda Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guwahati",
+     "dist_m": 2840
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 2964
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 18874,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Dr. Dilip Ghosal Clinic",
+     "dist_m": 1880
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 154
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5302221",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Doul%20Govinda%20Temple%2C%20Kamrup.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Doul Govinda Temple is one of the important temples of Kamrup, Assam, India. It is situated on the northern banks, on the foothills of Chandra Bharati hill at Rajaduar, North Guwahati. The temple is mainly devoted to Lord Krishna. Besides, there is an Namghar along with the temple within the same premises. The temple is open and accessible all the year round, but one can enjoy the thrill of a river cruise as well as walking on white sands of the beaches of Brahmaputra, from the month of November to April.",
+     "url": "https://en.wikipedia.org/wiki/Doul_Govinda_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 44588591,
+   "lat": 26.5611805,
+   "lon": 92.975332,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bharali Namghar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q44588591",
+    "wikipedia": "en:Bharali Namghar"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Nagaon",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jakhalabandha",
+     "dist_m": 2624
+    },
+    "nearest_bus": {
+     "name": "ASTC Bus Station",
+     "dist_m": 19178
+    },
+    "nearest_airport": {
+     "name": "Tezpur Air Force Station",
+     "dist_m": 25445,
+     "iata": "TEZ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q44588591",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/NaamgharGate.jpg",
+    "summary": {
+     "text": "Bharali Namghar is a temple situated in Bharali village, India. Bharali is approximately 2 km away from Hatbor, a place of historical importance under the Kaliabor subdivision in the Nagaon district, Assam in India. People from the Nagaon district are mostly agriculture oriented and are guided by rich Sattria culture.",
+     "url": "https://en.wikipedia.org/wiki/Bharali_Namghar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48724833,
+   "lat": 25.965395,
+   "lon": 92.8724224,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Govinda Temple, Hojai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48724833",
+    "wikipedia": "en:Govinda Temple, Hojai"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Hojai",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhalpukhuri",
+     "dist_m": 3460
+    },
+    "nearest_bus": {
+     "name": "Lumding Bus Stand",
+     "dist_m": 37966
+    },
+    "nearest_airport": {
+     "name": "Tezpur Air Force Station",
+     "dist_m": 83646,
+     "iata": "TEZ"
+    },
+    "nearest_medical": {
+     "name": "Dr. S. Bagchi's Memorial Clinic",
+     "dist_m": 4478
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48724833",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hojai district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jagannath%20Govinda%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Jagannath Govinda Temple is a Hindu temple in Gauranagar, in the Indian state of Assam which was established in 1928.",
+     "url": "https://en.wikipedia.org/wiki/Govinda_Temple%2C_Hojai",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6395304,
+   "lat": 26.649,
+   "lon": 92.78039,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ketakeshwar Dewal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6395304",
+    "wikipedia": "en:Ketakeshwar Dewal"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sonitpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dekargaon",
+     "dist_m": 3924
+    },
+    "nearest_bus": {
+     "name": "ASTC Bus Station",
+     "dist_m": 3419
+    },
+    "nearest_airport": {
+     "name": "Tezpur Air Force Station",
+     "dist_m": 7180,
+     "iata": "TEZ"
+    },
+    "nearest_medical": {
+     "name": "Hkbm Physiotherapy & Rehabilation Centre",
+     "dist_m": 483
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6395304",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%95%E0%A7%87%E0%A6%A4%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%B0%20%E0%A6%A6%E0%A7%87%E0%A7%B1%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%B0%20%E0%A6%B6%E0%A6%BF%E0%A7%B1%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%97.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ketakeshwar Dewal (shrine) is a holy site in the Ketakibari area of Tezpur in Assam, India. It is reputed to have one of the largest Shivalingas in the world.",
+     "url": "https://en.wikipedia.org/wiki/Ketakeshwar_Dewal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6487206,
+   "lat": 26.171452,
+   "lon": 91.644776,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lankeshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6487206",
+    "wikipedia": "en:Lankeshwar Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamakhya Junction",
+     "dist_m": 4976
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 6271
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 8939,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "SM Clinic",
+     "dist_m": 1770
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6487206",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Guwahati"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Lankeshwar Temple is an ancient temple dedicated to Shiva on top of a hill in the western part of Guwahati, Assam, India, near the campus of Gauhati University. Lankeshwar is one of the many forms of Lord Shiva. The followers of Lord Shiva considered the temple as one of the most sacred one. Devotees all around the year visit this temple and seek divine blessings.",
+     "url": "https://en.wikipedia.org/wiki/Lankeshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6512504,
+   "lat": 26.2427,
+   "lon": 91.5265,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hayagriva Madhava Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6512504",
+    "wikipedia": "en:Hayagriva Madhava Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agthori",
+     "dist_m": 16649
+    },
+    "nearest_bus": {
+     "name": "Kamakhya Mandir",
+     "dist_m": 19988
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 15742,
+     "iata": "GAU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6512504",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kamrup district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A6%97%E0%A7%8D%E0%A7%B0%E0%A7%80%E0%A7%B1%20%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%AC%20%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A7%B0%2C%20%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%8B.jpg",
+    "summary": {
+     "text": "Hayagriva Madhava Temple is situated on the Manikut hill. The hill is situated in Hajo of Kamrup District in Assam, India. Which is around 30 km to west of Guwahati.",
+     "url": "https://en.wikipedia.org/wiki/Hayagriva_Madhava_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6733037,
+   "lat": 26.2143,
+   "lon": 90.1185,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahamaya Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6733037",
+    "wikipedia": "en:Mahamaya Dham"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kokrajhar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagribari",
+     "dist_m": 1104
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 22582,
+     "iata": "RUP"
+    },
+    "nearest_medical": {
+     "name": "Bagribari Model Hospital",
+     "dist_m": 2917
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6733037",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kokrajhar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Mahamaya Dham or Mahamaya Temple of Bogribari, about 30 km east from Dhubri town and 10 km west from Bilasipara town, is regarded as a greatest Shakta pithas for Hindu pilgrims in Lower Assam, India. It is located under Parbatjhora sub-division of district Kokrajhar. In terms of attractions, this temple is the second to Kamakhya Temple of Guwahati to the pilgrims and tourists. It is believed that the famous goddess Mahamaya was traditionally worshipped by the local people of Parvatjowar like Kacharies, Koches and Naths. It was also the presiding deity of the Zamindar (landlord) of Parvatjowar. Latter the goddess received wide acceptance and these days, all Hindus of Lower Assam worship mother Mahamaya.",
+     "url": "https://en.wikipedia.org/wiki/Mahamaya_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7292880,
+   "lat": 26.959973183,
+   "lon": 94.622471317,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rangnath Dol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7292880",
+    "wikipedia": "en:Rangnath Dol"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 3946
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 3326
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 51335,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 2743
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7292880",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ranganath%20dol.jpg",
+    "summary": {
+     "text": "Rangnath Dol is a Hindu temple dedicated to the god Shiva on the bank of Joysagar Tank. It was built in 1703 by Sukhrungphaa near the main gateway on the way from the Joysagar tank to the Talatal Ghar. Large numbers of devotees continue to visit and offer puja in this temple. The sanctum of the temple enshrines a lingam. A do-chala mandapa is attached to the sanctum.",
+     "url": "https://en.wikipedia.org/wiki/Rangnath_Dol",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7377539,
+   "lat": 26.209438888,
+   "lon": 91.724561111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudreswar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7377539",
+    "wikipedia": "en:Rudreswar Temple"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guwahati",
+     "dist_m": 3945
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 4039
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 17667,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Mahendra Mohan Choudhury Hospital",
+     "dist_m": 3105
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7377539",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "The Rudreswar Temple or Devaloya is a temple dedicated to Lord Shiva in the village of Rudreswar, under Sila Sindhurighopa Mouza, on northern bank of the river Brahmaputra, in North Guwahati. Built in 1749 CE by Ahom king Pramatta Singha, in memory of his father Swargadeo Rudra Singha, the temple is a fine example of a mixed style of Ahom-Mughal architecture.",
+     "url": "https://en.wikipedia.org/wiki/Rudreswar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7877918,
+   "lat": 26.1891,
+   "lon": 91.7538,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ugro Tara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7877918",
+    "wikipedia": "en:Ugratara Devalaya"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Kamrup Metropolitan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guwahati",
+     "dist_m": 833
+    },
+    "nearest_bus": {
+     "name": "ASTC",
+     "dist_m": 961
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 18910,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Orthopaedic Clinic",
+     "dist_m": 96
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7877918",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Guwahati"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Ugratara Devalaya is a temple dedicated to Ugratara located in the western side of Jor Pukhury tanks in the heart of Guwahati city in the Lotaxil (Latasil) locality in Northeast India. The Ugratara Temple in Uzan Bazaar in the eastern part of Guwahati, Assam, is a Shakti shrine. Legend has said that the navel of Sati, first consort of Shiva, is related to this temple. Ugratara in Assam is generally identified with Tiksna-Kanta, Eka-Jata, etc., of the Buddhist pantheon.",
+     "url": "https://en.wikipedia.org/wiki/Ugratara_Devalaya",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 64860358,
+   "lat": 27.410707,
+   "lon": 94.19512,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Podumoni Than",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q64860358"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Lakhimpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baginadi",
+     "dist_m": 1789
+    },
+    "nearest_bus": {
+     "name": "Inter State Bus Terminal - ISBT North Lakhimpur",
+     "dist_m": 18781
+    },
+    "nearest_airport": {
+     "name": "Lilabari Airport",
+     "dist_m": 15948,
+     "iata": "IXI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q64860358",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Lakhimpur district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Padumani%20than%20in%20Lakhimpur%2C%20Assam.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 84362853,
+   "lat": 26.9527,
+   "lon": 94.5855,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siva Doul",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q84362853",
+    "wikipedia": "en:Na-Pukhuri Shiva Dol"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 7083
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 6408
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 47768,
+     "iata": "JRH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q84362853",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20Doul%20Rudrasagar%20%28Napukhuri%29%2C%20Sivasagar%2003.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Na-Pukhuri Shiva Dol or Rudrasagar Shiva Dol in an 18th-century Hindu temple constructed during the reign of king Lakshmi Singha (1769-1780). This temple is 8 km away from Sivasagar town. This is the last temple built during the Ahom era which represents grandeur before its overall decline in temple building and architectural building. This temple is located on the south bank of Rudrasagar Pukhuri (tank) which was excavated in honor of Rudra Singha. As Rudrasagar Pukhuri was excavated on the opposite of Athaisagar Pukhuri, it is also known as Na Pukhuri (New-Tank) and Athaisagar Pukhuri which was originally excavated during the reign of Jayadhwaj Singha as Purani Pukhuri (Old-tank).",
+     "url": "https://en.wikipedia.org/wiki/Na-Pukhuri_Shiva_Dol",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 84362878,
+   "lat": 26.960450846,
+   "lon": 94.621326452,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Haragouri Doul",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q84362878"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sibsagar Town",
+     "dist_m": 3962
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 3333
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 51264,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Netra Jyoti Eye Hospital",
+     "dist_m": 2765
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q84362878",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hara-Gauri%20Doul%2002.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 84362886,
+   "lat": 26.813224133,
+   "lon": 94.731252419,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Piyali Phukanar Doul",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q84362886"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mezenga",
+     "dist_m": 9118
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 21388
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 56082,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "PHC, Gelakey",
+     "dist_m": 3382
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q84362886",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Piyali%20Phukanar%20Doul%20%28IMG%207756%29.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 84362884,
+   "lat": 26.933940869,
+   "lon": 94.726716124,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gorokhiya Doul",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q84362884"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Sivasagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nazira",
+     "dist_m": 3438
+    },
+    "nearest_bus": {
+     "name": "Sibsagar Bus Terminal",
+     "dist_m": 10579
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 59353,
+     "iata": "JRH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q84362884",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Sivasagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorokhiya%20Doul%20or%20Mai%20Doul%20or%20Maheswara%20Ghar%20%28IMG%207728%29.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97249885,
+   "lat": 26.8,
+   "lon": 94.3,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Moinaporia Namghar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97249885"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Jorhat",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jorhat Town",
+     "dist_m": 9985
+    },
+    "nearest_bus": {
+     "name": "Public Bus Stand",
+     "dist_m": 9953
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 14753,
+     "iata": "JRH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97249885",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jorhat district",
+      "Assam"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A7%B0%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE%20%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%98%E0%A7%B0%20%28%E0%A6%AF%E0%A7%8B%E0%A7%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F%29%E0%A7%B0%20%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%AD%E0%A6%BE%E0%A6%97.jpg",
+    "website": "http://www.moinaporianamghar.org/"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97250140,
+   "lat": 26.4801,
+   "lon": 91.18886,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Sri Parihareswar Devalay",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97250140"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Bajali",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pathsala",
+     "dist_m": 2194
+    },
+    "nearest_bus": {
+     "name": "Barpeta Road bus station",
+     "dist_m": 22084
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 56951,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Pathsala Sub-Divisional Civil Hospital",
+     "dist_m": 3765
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97250140",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97251333,
+   "lat": 26.777678,
+   "lon": 94.265539,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hatigarh Siva Dewalaya",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97251333"
+   },
+   "state": "Assam",
+   "state_basis": "boundary",
+   "district": "Jorhat",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jorhat Town",
+     "dist_m": 5764
+    },
+    "nearest_bus": {
+     "name": "Public Bus Stand",
+     "dist_m": 5820
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 10540,
+     "iata": "JRH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97251333",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jorhat district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hatigarh%20shiva%20dewalay%2C%20Jorhat.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
     ]
    }
   }

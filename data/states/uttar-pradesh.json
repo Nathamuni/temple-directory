@@ -1,6 +1,6 @@
 {
  "state": "Uttar Pradesh",
- "count": 1419,
+ "count": 1463,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -75857,6 +75857,2943 @@
      "district",
      "locality",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12446019,
+   "lat": 28.814444444,
+   "lon": 77.57,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sikri Mata Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12446019",
+    "wikipedia": "en:Sikri Mata Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Ghaziabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Modi Nagar",
+     "dist_m": 1602
+    },
+    "nearest_bus": {
+     "name": "Modinagar Bus stand",
+     "dist_m": 1978
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 23713,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "aryan hospital",
+     "dist_m": 1240
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12446019",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Sikri Mata Temple, officially known as the Shri Mahamaya Devi Temple, is a Hindu temple at Sikri Khurd village, Ghaziabad district, Uttar Pradesh, India. The temple was built in the 15th century by Jalim Giri Baba and his family, who belonged to the Goswami community of the village. Its administration was taken over from the descendants of Giri Baba by the gram panchayat in 1977. Dedicated to the goddess Sikri, who is believed to be an incarnation of Durga, the temple attracts large gatherings of visitors during the biannual festival of Navaratri. During the Chaitra month of Navaratri, marking the beginning of a new year on the Hindu calendar, a large historical fair is organised for nine days. The fair was cancelled in 2020 due to the COVID-19 pandemic for the first time since 1918. There is a banyan tree on the temple premises from which more than 130 revolutionaries were hanged to death during the Indian Rebellion of 1857.",
+     "url": "https://en.wikipedia.org/wiki/Sikri_Mata_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15221632,
+   "lat": 25.96055,
+   "lon": 81.6777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ghuisarnath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15221632",
+    "wikipedia": "en:Ghuisarnath Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Misrauli",
+     "dist_m": 24113
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 58552,
+     "iata": "IXD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15221632",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pratapgarh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghisarnath%20Dham4.jpg",
+    "summary": {
+     "text": "Ghuisarnath or Ghushmeshwarnath Temple is a Hindu temple located on the bank of Sai River at Lalganj Ajhara, Pratapgarh, India. The temple is situated at a distance of about 45 km from Pratapgarh & 145 km from Ayodhya, in Bela Pratapgarh. This magnificent temple dedicated to Lord Shiva, is the center of people's faith & spirituality.Jyotirlinga find mention in Shiva Puran.",
+     "url": "https://en.wikipedia.org/wiki/Ghuisarnath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15256542,
+   "lat": 29.12,
+   "lon": 78.57,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Moteshwar Mahadev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15256542",
+    "wikipedia": "en:Moteshwar Mahadev"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Bijnor",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kanth",
+     "dist_m": 8397
+    },
+    "nearest_bus": {
+     "name": "Kashipur Bus Station",
+     "dist_m": 39481
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 88182,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "H. N. A. Hospital",
+     "dist_m": 4510
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15256542",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udham Singh Nagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/BSM007.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shree Moteshwar Mahadev, also known as Shree Bheem Shankar Mahadev, is an abode of Lord Shiva in Kashipur of Uttarakhand state, India. This place was known as the Dakini State in ancient days.",
+     "url": "https://en.wikipedia.org/wiki/Moteshwar_Mahadev",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16280675,
+   "lat": 25.93388889,
+   "lon": 82.00194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Belha Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16280675",
+    "wikipedia": "en:Belha Devi Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chilbila Junction",
+     "dist_m": 1457
+    },
+    "nearest_bus": {
+     "name": "Bus Stabd",
+     "dist_m": 36814
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 61215,
+     "iata": "IXD"
+    },
+    "nearest_medical": {
+     "name": "Ruma Hospital",
+     "dist_m": 479
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16280675",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pratapgarh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Belha%20Devi%20Temple%20Pratapgarh.jpg",
+    "website": "http://www.BelhaDevi.com",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Belha Devi Temple is an old Hindu temple in the city of Bela Pratapgarh, dedicated to the goddess Belha, the local incarnation of the Devi.",
+     "url": "https://en.wikipedia.org/wiki/Belha_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 6,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16938010,
+   "lat": 24.476111111,
+   "lon": 78.392222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Neelkantheshwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16938010",
+    "wikipedia": "en:Neelkantheshwar"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Lalitpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhaura",
+     "dist_m": 7665
+    },
+    "nearest_bus": {
+     "name": "Lalitpur Bus Stand",
+     "dist_m": 24743
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 107557,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16938010",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "\n\nNeelkantheshwar is a famous Hindu temple dedicated to Lord Shiva in the Green Mountainous region of Northern India. The idol of Lord Shiva is unique in that it has three heads, and is considered to be one of the Avatar of Lord Shiva. The temple is located in the town of Pali, Lalitpur in Lalitpur district of Uttar Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Neelkantheshwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17017875,
+   "lat": 25.035277777,
+   "lon": 83.036666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhandari Devi temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17017875"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Mirzapur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kailahat",
+     "dist_m": 16080
+    },
+    "nearest_bus": {
+     "name": "Ganga Travels",
+     "dist_m": 30675
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 49435,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17017875",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17996989,
+   "lat": 25.744166666,
+   "lon": 81.815833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhayaharan Nath Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17996989"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mau Aimma Station",
+     "dist_m": 11032
+    },
+    "nearest_bus": {
+     "name": "Civil Lines Bus Station",
+     "dist_m": 32953
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 35021,
+     "iata": "IXD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17996989",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Hindu temple architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pratapgarh district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhayaharan%20Nath%20Mandir%20%28%E0%A4%AD%E0%A4%AF%E0%A4%B9%E0%A4%B0%E0%A4%A3%E0%A4%A8%E0%A4%BE%E0%A4%A5%20%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0%29.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18111005,
+   "lat": 25.919166666,
+   "lon": 81.982222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandikan Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18111005",
+    "wikipedia": "en:Chandikan Dham"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pratapgarh Junction",
+     "dist_m": 2039
+    },
+    "nearest_bus": {
+     "name": "Bus Stabd",
+     "dist_m": 38795
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 58898,
+     "iata": "IXD"
+    },
+    "nearest_medical": {
+     "name": "Raj Ganga Nursing Home",
+     "dist_m": 224
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18111005",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pratapgarh district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Chandikan Devi Temple is a Hindu temple of goddess Kali located Sandwa village at a distance of about 24 km from Pratapgarh on Pratapgarh-Raipur Road, about 40 km from Sultanpur & 101 from Ayodhya in Pratapgarh District, Uttar Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Chandikan_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18111073,
+   "lat": 25.835555555,
+   "lon": 82.061666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chauharjan Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18111073",
+    "wikipedia": "en:Chauharjan Devi Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dandupur",
+     "dist_m": 4204
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 54865,
+     "iata": "IXD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18111073",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Maa%20Chauharjan%20%28Barahi%29%20Devi%20Temple.JPG",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Chauharjan Devi Temple also known as Barahi Devi Temple is a Hindu temple of mother goddess Barahi or Chauharjan Devi, located in village Chauharjan Parasrampur in Pratapgarh, Uttar Pradesh. The temple is located on the holy bank of river Sai.",
+     "url": "https://en.wikipedia.org/wiki/Chauharjan_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18126521,
+   "lat": 25.736388888,
+   "lon": 81.749166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamakshi Devi Temple, Pratapgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18126521"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Pratapgarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ram Chaura Road",
+     "dist_m": 15432
+    },
+    "nearest_bus": {
+     "name": "Civil Lines Bus Station",
+     "dist_m": 33244
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 33317,
+     "iata": "IXD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18126521",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115736268,
+   "lat": 25.000611111,
+   "lon": 80.48525,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Venkat Bihari temple, Kalinjar Fort",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115736268"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Banda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badausa",
+     "dist_m": 32206
+    },
+    "nearest_airport": {
+     "name": "Satna Airport",
+     "dist_m": 61244,
+     "iata": "TNI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115736268",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/011721%20Venkat%20Bihari%20temple%2C%20Kalinjar%20Fort%2C%20Uttar%20Pradesh%20008.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 136892913,
+   "lat": 25.591872,
+   "lon": 83.342929,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree shiv shakti mannat temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q136892913"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Ghazipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Basuchak",
+     "dist_m": 6744
+    },
+    "nearest_bus": {
+     "name": "hauli",
+     "dist_m": 33234
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 50669,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q136892913",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1986-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137364100,
+   "lat": 26.7779,
+   "lon": 79.0238,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kedareshwar Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137364100"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Etawah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Etawah Junction",
+     "dist_m": 1044
+    },
+    "nearest_bus": {
+     "name": "Etawah bus adda",
+     "dist_m": 539
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 95538,
+     "iata": "GWL"
+    },
+    "nearest_medical": {
+     "name": "Shivjyoti Mahila Chikitsalaya and Maternity Home",
+     "dist_m": 517
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137364100",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Etawah district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137375174,
+   "lat": 26.7865,
+   "lon": 78.9889,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakhna Kalika Devi Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137375174"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Etawah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Etawah Junction",
+     "dist_m": 3180
+    },
+    "nearest_bus": {
+     "name": "Etawah bus adda",
+     "dist_m": 4021
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 93230,
+     "iata": "GWL"
+    },
+    "nearest_medical": {
+     "name": "Duveep Kiran Dispensary",
+     "dist_m": 840
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137375174",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Etawah district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137383031,
+   "lat": 26.730833333,
+   "lon": 78.917222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kundeshwar Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137383031"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Etawah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udi More Junction",
+     "dist_m": 3372
+    },
+    "nearest_bus": {
+     "name": "Etawah bus adda",
+     "dist_m": 12344
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 83847,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137383031",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Etawah district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137506846,
+   "lat": 26.7966734,
+   "lon": 78.9216248,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pilua Mahaveer Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137506846"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Etawah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jaitpura",
+     "dist_m": 6213
+    },
+    "nearest_bus": {
+     "name": "Etawah bus adda",
+     "dist_m": 10793
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 88580,
+     "iata": "GWL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137506846",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Etawah district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 137532654,
+   "lat": 26.7652898,
+   "lon": 79.0212972,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Neelkanth Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q137532654"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Etawah",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Etawah Junction",
+     "dist_m": 2407
+    },
+    "nearest_bus": {
+     "name": "Etawah bus adda",
+     "dist_m": 1786
+    },
+    "nearest_airport": {
+     "name": "Gwalior Airport",
+     "dist_m": 94557,
+     "iata": "GWL"
+    },
+    "nearest_medical": {
+     "name": "Shivjyoti Mahila Chikitsalaya and Maternity Home",
+     "dist_m": 1040
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q137532654",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Etawah district",
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 191732,
+   "lat": 25.21666667,
+   "lon": 82.22916667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Baba Gangeshwarnath Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q191732",
+    "wikipedia": "en:Baba Gangeshwarnath Dham"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Sant Ravidas Nagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manda Road",
+     "dist_m": 5975
+    },
+    "nearest_bus": {
+     "name": "School Bus Stand",
+     "dist_m": 33964
+    },
+    "nearest_airport": {
+     "name": "Allahabad Bamrauli Airport",
+     "dist_m": 54999,
+     "iata": "IXD"
+    },
+    "nearest_medical": {
+     "name": "Shree Siddhivinayak Hospital",
+     "dist_m": 2575
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q191732",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bhadohi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Baba%20Gangeshwar%20Dham.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Itahara Uparwar is a village in Deegh Mandal, Bhadohi district, Uttar Pradesh State. Itahara Uparwar is 37.9 km from its District Main City Bhadohi and 221 km from its State Main City Lucknow. At this place the Ganges flows to the west to east.",
+     "url": "https://en.wikipedia.org/wiki/Itahara_Uparwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 199925,
+   "lat": 25.24055556,
+   "lon": 82.33277778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sita Samahit Sthal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q199925",
+    "wikipedia": "en:Sita Samahit Sthal"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Sant Ravidas Nagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jangiganj",
+     "dist_m": 7410
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Mirzapur",
+     "dist_m": 26846
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 58169,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q199925",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/61%20big.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sita Samahit Sthal (Sitamarhi), the holy place of Sitamarhi is situated between Prayagraj and Varanasi, near the national highway No. 2 and also connected with Prayagraj and Varanasi railway line with Jangiganj, the nearest railway station. It is a well known Hindu pilgrimage in the poorvanchal region of Uttar Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Sita_Samahit_Sthal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19882307,
+   "lat": 25.3172,
+   "lon": 82.9893,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bharat Mata Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19882307",
+    "wikipedia": "en:Bharat Mata Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Varanasi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Varanasi Junction Railway Station",
+     "dist_m": 1179
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 1282
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 19580,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "Priya Multispeciality Hospital Pvt.Ltd.",
+     "dist_m": 330
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19882307",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Varanasi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bharat%20Mata%20Mandir%20Varanasi%20India%20-%20panoramio%20%283%29.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Bharat Mata Mandir is located on the Mahatma Gandhi Kashi Vidyapith campus in Varanasi, Uttar Pradesh, India. Instead of traditional statues of gods and goddesses, the temple has a large map of Akhand Bharat carved in marble. The temple is dedicated to Bharat Mata and was originally the only one of its kind in the world.",
+     "url": "https://en.wikipedia.org/wiki/Bharat_Mata_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19894180,
+   "lat": 25.3176,
+   "lon": 82.9739,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mrityunjay Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19894180",
+    "wikipedia": "en:Mrityunjay Mahadev Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Varanasi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Varanasi Junction Railway Station",
+     "dist_m": 1703
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 2045
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 18577,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "Maitri Hospital",
+     "dist_m": 32
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19894180",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Varanasi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ravaneshwar Mandir is one of the most famous temples in the holy city of Varanasi. This temple has great historical and cultural importance in Hinduism.",
+     "url": "https://en.wikipedia.org/wiki/Mrityunjay_Mahadev_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 22909029,
+   "lat": 26.87416667,
+   "lon": 80.94,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Ramakrishna Math, Lucknow",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q22909029",
+    "wikipedia": "en:Sri Ramakrishna Math, Lucknow"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Lucknow",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Daliganj",
+     "dist_m": 1240
+    },
+    "nearest_bus": {
+     "name": "Kaiserbagh Bus Station",
+     "dist_m": 2593
+    },
+    "nearest_airport": {
+     "name": "Chaudhary Charan Singh International Airport",
+     "dist_m": 13434,
+     "iata": "LKO"
+    },
+    "nearest_medical": {
+     "name": "Dr. Punit Meharatro Gastro Clinic",
+     "dist_m": 82
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 280
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q22909029",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.ramakrishnalucknow.org",
+    "summary": {
+     "text": "Sri Ramakrishna Math, Lucknow is a monastic organisation for men created by Ramakrishna (1836–1886), a 19th-century saint of Bengal. The motto of the Ramakrishna Math and Ramakrishna Mission is: \"For one's own salvation, and for the welfare of the world\". It contains idols of Ramakrishna, Swami Vivekananda and Holy Mother Sarada Devi.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Ramakrishna_Math%2C_Lucknow",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906782,
+   "lat": 25.317645,
+   "lon": 82.973914,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kaal Bhairav Mandir, Varanasi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906782",
+    "wikipedia": "en:Kaal Bhairav Mandir, Varanasi"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Varanasi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Varanasi Junction Railway Station",
+     "dist_m": 1699
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 2041
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 18574,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "Maitri Hospital",
+     "dist_m": 31
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906782",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Varanasi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaal%20Bhairab%2C%20Kathmandu%2C%20Nepal.jpg",
+    "summary": {
+     "text": "Kaal Bhairav Mandir is one of the oldest Shiva temples in Varanasi, India. Situated in Bharonath, Vishweshwarganj (Varanasi), this temple has great historical and cultural importance in Hinduism; especially amongst the locals. The temple is dedicated to Bhairava, a fierce form of Shiva and wears a garland of skulls and carries a club of peacock feathers. The word \"Kaal\" means both \"death\" and \"time\". Kaal Bhairav also means the one who removes the fear of both death and time. It is believed that even death is afraid of Kaal Bhairav.",
+     "url": "https://en.wikipedia.org/wiki/Kaal_Bhairav_Mandir%2C_Varanasi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24907458,
+   "lat": 25.317645,
+   "lon": 82.973914,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Annapurna Devi Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24907458",
+    "wikipedia": "en:Annapurna Devi Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Varanasi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Varanasi Junction Railway Station",
+     "dist_m": 1699
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 2041
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 18574,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "Maitri Hospital",
+     "dist_m": 31
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24907458",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Varanasi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Annapurna%20devi.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Annapurna Devi Mandir, also known as Annapurna Mata Mandir and Annapurna Mandir, is one of the most famous Hindu temples (Mandir) in the holy city of Varanasi. This temple has great religious importance in Hinduism and is dedicated to the goddess Annapurna. Annapurna is the Hindu goddess for nourishment and is a form of the goddess Parvati. The current Annapurna Mandir was constructed in the 18th century by Maratha Peshwa Bajirao I.",
+     "url": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24943326,
+   "lat": 25.485680842,
+   "lon": 83.037896748,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandrika Devi Temple, Lucknow",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24943326",
+    "wikipedia": "en:Chandrika Devi Temple, Lucknow"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Varanasi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kadipur",
+     "dist_m": 6766
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 18102
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 18005,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24943326",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Chandrika Devi Temple is a Hindu temple, dedicated to one of the manifestations of the Hindu goddess Durga, on the bank of river Gomti at Bakshi Ka Talab in Lucknow, Uttar Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Chandrika_Devi_Temple%2C_Lucknow",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24945484,
+   "lat": 26.1135169,
+   "lon": 82.4296533,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bijethua Mahavir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24945484",
+    "wikipedia": "en:Bijethua Mahavir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Sultanpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Koiripur",
+     "dist_m": 13517
+    },
+    "nearest_bus": {
+     "name": "Akbarpur Bus station",
+     "dist_m": 37390
+    },
+    "nearest_airport": {
+     "name": "Azamgarh Airport",
+     "dist_m": 68726,
+     "iata": "AZH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24945484",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "The Bijethua Mahavir is a temple situated in Sultanpur district, Uttar Pradesh, India. It is a popular spot for worship; many visit to pay homage to Lord Hanuman.",
+     "url": "https://en.wikipedia.org/wiki/Bijethua_Mahavir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25106517,
+   "lat": 25.765299,
+   "lon": 82.718486,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sheetala Chaukia Dham Mandir Jaunpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25106517",
+    "wikipedia": "en:Sheetala Chaukiya Dham"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Jaunpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jaunpur Junction",
+     "dist_m": 1964
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 37814,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "District Women Hospital Jaunpur",
+     "dist_m": 2274
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25106517",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jaunpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheetala%20Mata%20Mandir.jpg",
+    "summary": {
+     "text": "Sheetla Chaukiya Dham Temple is a Hindu temple dedicated to Goddess Sheetla. It is located in Chaukiya Dham, in Jaunpur, Uttar Pradesh, India. The temple is a Hindu pilgrimage site. The presiding deity is known by the names Shitala and Sheetala, meaning Goddess Of Coolness.\nThis is an ancient temple of Maa Sheetla Chaukiya Devi.",
+     "url": "https://en.wikipedia.org/wiki/Sheetala_Chaukiya_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 26258426,
+   "lat": 26.536213343,
+   "lon": 79.932511876,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Parhul Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q26258426",
+    "wikipedia": "en:Parhul Devi Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Kanpur Dehat",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rura",
+     "dist_m": 6163
+    },
+    "nearest_bus": {
+     "name": "New Bus Station",
+     "dist_m": 36781
+    },
+    "nearest_airport": {
+     "name": "Kanpur Civil Airport",
+     "dist_m": 44201,
+     "iata": "KNU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q26258426",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Parhul%20Devi%20Temple%20%28west%20view%29.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Parhul Devi Temple is a temple to the Hindu goddess Durga in the village of Lamahra in Kanpur Dehat district, Uttar Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Parhul_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28936230,
+   "lat": 26.854349,
+   "lon": 83.802804,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ved Mata Gaytri Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28936230",
+    "wikipedia": "en:Ved Mata Gaytri Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Kushinagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramkola",
+     "dist_m": 6942
+    },
+    "nearest_airport": {
+     "name": "Kushinagar International Airport",
+     "dist_m": 12297,
+     "iata": "KBK"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28936230",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kushinagar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaytrimandir.JPG",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Ved Mata Gaytri Temple is a Hindu temple of the Maa Gayatri Devi. The name Gayatri Mandir derives from the Acharya of Gayatri Mission, Gaytari Mandir is a famous Temple. The Gayatri Mandir is founded by Mr. Rampravesh Kushwaha.This Temple is situated in Kushinagar, Uttar Pradesh, India since a long time. Gayatri Mandir temple performs various cultural and social activities and serves as the cultural hub of the city. Gayatri Mandir Arrange every year Nav Kundiy Gaytri Gayatri Mhayagya. During Last Day of Yagya Gaytri Mandir also Arrange Mass wedding ceremonies.",
+     "url": "https://en.wikipedia.org/wiki/Ved_Mata_Gaytri_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6159487,
+   "lat": 25.389078693,
+   "lon": 78.706951139,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jarai-ka-Math",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6159487",
+    "wikipedia": "en:Jarai-ka-Math"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Jhansi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Barwa Sagar",
+     "dist_m": 4857
+    },
+    "nearest_bus": {
+     "name": "Baruasagar",
+     "dist_m": 2202
+    },
+    "nearest_airport": {
+     "name": "Datia Airstrip",
+     "dist_m": 35788,
+     "iata": "DPP"
+    },
+    "nearest_medical": {
+     "name": "Badri Hospital",
+     "dist_m": 3032
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6159487",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jhansi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20temple%20near%20Jhasi%20Pic%204.jpg",
+    "summary": {
+     "text": "Jarai-ka-Math is a temple dedicated to Goddess Laxmi in Barua sagar near Jhansi in Uttar Pradesh, India.",
+     "url": "https://en.wikipedia.org/wiki/Jarai-ka-Math",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55621613,
+   "lat": 25.59172,
+   "lon": 83.070256,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Kaali & Bhagwan Shankar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55621613",
+    "wikipedia": "en:Maa Kaali & Bhagwan Shankar Temple"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Jaunpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dudhaunda",
+     "dist_m": 2075
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 30332
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 26046,
+     "iata": "VNS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55621613",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bisauri"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Goddess%20Kaali%20%26%20Lord%20Shankar%20temple.jpg",
+    "summary": {
+     "text": "Maa Kaali and Bhagwan Shankar Temple is an ancient Hindu temple. It is situated in Bisauri village Jaunpur district, Uttar Pradesh, India. Maha Shivratri and Navratri are some main festivals celebrated.",
+     "url": "https://en.wikipedia.org/wiki/Maa_Kaali_%26_Bhagwan_Shankar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55639811,
+   "lat": 25.634574814,
+   "lon": 82.909802105,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gomateshwar Mahadev Temple,Kerakat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55639811",
+    "wikipedia": "en:Gomateshwar Mahadev Temple, Kerakat"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Jaunpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kirakat",
+     "dist_m": 1716
+    },
+    "nearest_bus": {
+     "name": "Chaudhari Charan Singh Bus Station",
+     "dist_m": 34953
+    },
+    "nearest_airport": {
+     "name": "Lal Bahadur Shastri International Airport",
+     "dist_m": 20945,
+     "iata": "VNS"
+    },
+    "nearest_medical": {
+     "name": "Yash Nursing Home and Maternity Home, Bhadohi",
+     "dist_m": 1479
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55639811",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jaunpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Gomateshwar Mahadeva Temple Kerakat, meaning \"the Great God of the Gomati River\", is the largest and most ornate Hindu temple in the medieval temple group found at Kerakat in Uttar Pradesh, India. It is considered one of the best examples of temples preserved from the medieval period in India.",
+     "url": "https://en.wikipedia.org/wiki/Gomateshwar_Mahadev_Temple%2C_Kerakat",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6666361,
+   "lat": 27.0956,
+   "lon": 81.4847,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lodheshwar Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6666361",
+    "wikipedia": "en:Lodheshwar Mahadev Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Bahraich",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghaghara Ghat",
+     "dist_m": 1967
+    },
+    "nearest_airport": {
+     "name": "Chaudhary Charan Singh International Airport",
+     "dist_m": 69475,
+     "iata": "LKO"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6666361",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Barabanki district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Lodheshwar Mahadev Temple is a Hindu temple of Shiva, located in village Mahadeva, Ram Nagar tehsil in Barabanki district, Uttar Pradesh, India. The deity of Shivling worshiped in this temple is one of the rarest of the 52 Shivlings found on the Shakti Pithas across India. This ancient temple has been mentioned several times in Mahabharat. Lodheshwar Mahadev is Kuldevta of Lodhi Rajputs. Its importance has been mentioned in many Hindu scriptures and holy books. This shakti peetha is considered to be one of the most sacred places on earth.",
+     "url": "https://en.wikipedia.org/wiki/Lodheshwar_Mahadev_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503745,
+   "lat": 27.812994444,
+   "lon": 77.769525,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Alkheswar Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503745",
+    "wikipedia": "en:Shri Alkheswar Mahadev Mandir"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Mathura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vrindavan",
+     "dist_m": 27340
+    },
+    "nearest_bus": {
+     "name": "Vrindavan Bus Stand",
+     "dist_m": 27025
+    },
+    "nearest_airport": {
+     "name": "Noida International Airport",
+     "dist_m": 42842,
+     "iata": "DXN"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503745",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Alkheswar Mahadev Mandir is a sacred temple of Alkheshwar mahadev otherwise known among locals as Alakh Baba.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Alkheswar_Mahadev_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 65080874,
+   "lat": 26.268654,
+   "lon": 81.1788052,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Aastik Swami Mandir, Raebareli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q65080874",
+    "wikipedia": "en:Sri Aastik Swami Mandir, Raebareli"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Raebareli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangaganj",
+     "dist_m": 3488
+    },
+    "nearest_bus": {
+     "name": "Raebareli Bus Stand",
+     "dist_m": 7288
+    },
+    "nearest_airport": {
+     "name": "Chaudhary Charan Singh International Airport",
+     "dist_m": 61680,
+     "iata": "LKO"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q65080874",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttar Pradesh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Aastik%20baba%20mandir.jpg",
+    "summary": {
+     "text": "Sri Aastik Swami Mandir is a Hindu temple situated in Lalupur, a village in the district of Raebareli, Uttar Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Aastik_Swami_Mandir%2C_Raebareli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 66662123,
+   "lat": 25.26416111,
+   "lon": 79.84303333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rahiliya temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q66662123"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Mahoba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahoba Junction",
+     "dist_m": 4749
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 50676,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Government hospital mahoba",
+     "dist_m": 4660
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q66662123",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mahoba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rahiliya%20Sagar%20Sun%20temple.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97124105,
+   "lat": 26.93459716,
+   "lon": 78.542382235,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bateshwarnath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97124105"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Agra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Batesar",
+     "dist_m": 3383
+    },
+    "nearest_bus": {
+     "name": "Shikohabad Bus Stand",
+     "dist_m": 19576
+    },
+    "nearest_airport": {
+     "name": "Agra Airport",
+     "dist_m": 63574,
+     "iata": "AGR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97124105",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Agra district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/UP%20monuments%20and%20temples.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97124181,
+   "lat": 27.331259652,
+   "lon": 78.191017756,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple at Tikaitrai",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97124181"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Agra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Barhan",
+     "dist_m": 167
+    },
+    "nearest_bus": {
+     "name": "Tedi Bagiya, Bus Stand",
+     "dist_m": 18243
+    },
+    "nearest_airport": {
+     "name": "Agra Airport",
+     "dist_m": 30666,
+     "iata": "AGR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97124181",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kanpur Nagar District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temple%20near%20bithoor%20ghat.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97705434,
+   "lat": 25.284721388,
+   "lon": 79.866548063,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khakra Math Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97705434"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Mahoba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahoba Junction",
+     "dist_m": 2910
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 52672,
+     "iata": "HJR"
+    },
+    "nearest_medical": {
+     "name": "Goverment Hospital",
+     "dist_m": 2065
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97705434",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mahoba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Khakra%20Math%20Temple.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97705436,
+   "lat": 25.355820221,
+   "lon": 80.000691698,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Makarbai Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97705436"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Mahoba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kabrai",
+     "dist_m": 5036
+    },
+    "nearest_bus": {
+     "name": "Banda bus station",
+     "dist_m": 36214
+    },
+    "nearest_airport": {
+     "name": "Khajuraho Airport",
+     "dist_m": 60984,
+     "iata": "HJR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97705436",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mahoba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Makarbai%20Temple.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97705494,
+   "lat": 26.209800583,
+   "lon": 80.275537582,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhitargaon Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97705494"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Kanpur Nagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Patara",
+     "dist_m": 7588
+    },
+    "nearest_bus": {
+     "name": "Jhakarkati Bus Stand",
+     "dist_m": 27526
+    },
+    "nearest_airport": {
+     "name": "Kanpur Chakeri Airport",
+     "dist_m": 25840,
+     "iata": "KNU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97705494",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kanpur Dehat district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gupt%20kalin%20mandir%20bhitargaon.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97705650,
+   "lat": 24.42681389,
+   "lon": 78.3898,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Larger Surang",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97705650"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Lalitpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhaura",
+     "dist_m": 7358
+    },
+    "nearest_bus": {
+     "name": "Lalitpur Bus Stand",
+     "dist_m": 30224
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 108484,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97705650",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Lalitpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20View%20of%20Larger%20Surang.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97705660,
+   "lat": 24.524072,
+   "lon": 78.262265,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kuraiya Bir Temple, Kuchdon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97705660"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Lalitpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jakhalaun",
+     "dist_m": 8464
+    },
+    "nearest_bus": {
+     "name": "Lalitpur Bus Stand",
+     "dist_m": 24734
+    },
+    "nearest_airport": {
+     "name": "Guna",
+     "dist_m": 93681,
+     "iata": "GUX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97705660",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Lalitpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0101422%20Kuraiya%20Bir%20temple%2C%20Kuchdon%2C%20Uttar%20Pradesh%2005.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98915098,
+   "lat": 27.882276344,
+   "lon": 80.747355499,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Medhak Shiva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98915098"
+   },
+   "state": "Uttar Pradesh",
+   "state_basis": "boundary",
+   "district": "Lakhimpur Kheri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kadipur Sani Halt",
+     "dist_m": 3800
+    },
+    "nearest_bus": {
+     "name": "Sitapur Bus Stop",
+     "dist_m": 36027
+    },
+    "nearest_airport": {
+     "name": "Chaudhary Charan Singh International Airport",
+     "dist_m": 125521,
+     "iata": "LKO"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98915098",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Lakhimpur Kheri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Medhak%20shiv%20temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
     ]
    }
   }

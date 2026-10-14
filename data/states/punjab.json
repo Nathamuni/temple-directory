@@ -1,6 +1,6 @@
 {
  "state": "Punjab",
- "count": 174,
+ "count": 181,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -9667,6 +9667,476 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16892565,
+   "lat": 31.67416667,
+   "lon": 74.75583333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ram Teerath",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16892565",
+    "wikipedia": "en:Bhagwan Valmiki Tirath Sthal"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Amritsar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chheharta",
+     "dist_m": 6853
+    },
+    "nearest_bus": {
+     "name": "RAM TIRTH ROAD BYPASS",
+     "dist_m": 373
+    },
+    "nearest_airport": {
+     "name": "Sri Guru Ram Dass Jee International Airport",
+     "dist_m": 5497,
+     "iata": "ATQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16892565",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "2016-12-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Amritsar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bagwan%20Valmiki%20Tirath.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Bhagwan Valmiki Tirath Asthan is temple panorama complex and an important historical monument of Valmikis located at Bhagwan Valmiki Tirath road of Amritsar city. Since 1 December 2016, it has an 8-foot-tall 800-kg gold-plated murti of Sage Valmiki in main section. Formerly known as Ram Tirath, the location was renamed after Balmiki in 2016, a sign of the successful appropriation and reclamation of the site by the Balmiki community.",
+     "url": "https://en.wikipedia.org/wiki/Bhagwan_Valmiki_Tirath_Sthal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111941266,
+   "lat": 30.5378,
+   "lon": 76.5811,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shanaleshwara Swayambhu Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111941266",
+    "wikipedia": "en:Shanaleshwara Swayambhu Temple"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Patiala",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajpura Junction",
+     "dist_m": 5853
+    },
+    "nearest_bus": {
+     "name": "Jyoti Swaroop Bus Stand",
+     "dist_m": 20585
+    },
+    "nearest_airport": {
+     "name": "Sahnewal Airport - Ludhiana",
+     "dist_m": 69699,
+     "iata": "LUH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111941266",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Punjab"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/ShanaleshwaraSwayambhuTemple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shanaleshwara Swayambhu Temple dedicated to the worship of Lord Shiva. \"Shanaleshwara\" means, the sign that is worshiped as Lord Shiva. It is situated at 7 Kilometre away in the Nalas village of Rajpura, Punjab. It is maintained by the ascetic sadhu's of Juna Akhara Foundation.",
+     "url": "https://en.wikipedia.org/wiki/Shanaleshwara_Swayambhu_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118641454,
+   "lat": 32.0571,
+   "lon": 75.5023,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Thakurdwara Bhagwan Narainji",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118641454",
+    "wikipedia": "en:Pandori Dham"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Gurdaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gurdaspur",
+     "dist_m": 7905
+    },
+    "nearest_bus": {
+     "name": "Bhikhariwal Bus Stop",
+     "dist_m": 23977
+    },
+    "nearest_airport": {
+     "name": "Pathankot Air Force Station",
+     "dist_m": 23310,
+     "iata": "IXP"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 3218
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118641454",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Thakurdwara Bhagwan Narainji is a historical Hindu temple belonging to Ramanandi Sampradaya, located in the village Pandori Mahantan in Gurdaspur district of Punjab in India. It constitutes one of the fifty-two Vaishnav dvaras of Indian subcontinent into which Bairagis have been organized. It is a Vaishnava gaddi. The shrine was founded by Ramanandi saint Shri Bhagwanji and his disciple Shri Narainji after whom the shrine has been name. The temple is known for its Baisakhi fair.",
+     "url": "https://en.wikipedia.org/wiki/Pandori_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 131152219,
+   "lat": 31.926389,
+   "lon": 75.740278,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gagan Ji Ka Tilla",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q131152219"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Hoshiarpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghaunspur",
+     "dist_m": 11080
+    },
+    "nearest_bus": {
+     "name": "Bus Stand, Bullowal",
+     "dist_m": 37656
+    },
+    "nearest_airport": {
+     "name": "Pathankot Air Force Station",
+     "dist_m": 36247,
+     "iata": "IXP"
+    },
+    "nearest_medical": {
+     "name": "Kanwar Hospital",
+     "dist_m": 4781
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q131152219",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hoshiarpur District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gagan%20Ji%20Ka%20Tilla.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6732646,
+   "lat": 31.650328,
+   "lon": 74.88441,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maha Kali Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6732646"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Amritsar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Amritsar Junction",
+     "dist_m": 2509
+    },
+    "nearest_bus": {
+     "name": "Amritsar Bus Station",
+     "dist_m": 2246
+    },
+    "nearest_airport": {
+     "name": "Sri Guru Ram Dass Jee International Airport",
+     "dist_m": 10479,
+     "iata": "ATQ"
+    },
+    "nearest_medical": {
+     "name": "Swift Hospital",
+     "dist_m": 161
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6732646",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6785886,
+   "lat": 30.76527778,
+   "lon": 76.82694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mata Mansa Devi Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6785886",
+    "wikipedia": "en:Mata Mansa Devi Mandir"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Sahibzada Ajit Singh Nagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Surajpur",
+     "dist_m": 6261
+    },
+    "nearest_bus": {
+     "name": "Mansa Devi Bus Stand",
+     "dist_m": 5442
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 42125,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Pandey Clinic",
+     "dist_m": 3058
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6785886",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Panchkula district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://mansadevi.nic.in/",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mata Mansa Devi is a Hindu temple dedicated to goddess Mansa Devi, a form of Shakti, in the Panchkula district of the Indian state of Haryana. The temple complex is spread of 100 acres (0.40 km2) of the Shivalik foothills in the village of Bilaspur, near Mani Majra of Chandigarh, and Panchkula, 10 km from Chandi Mandir, another noted Devi shrine in the region, both just outside Chandigarh.",
+     "url": "https://en.wikipedia.org/wiki/Mata_Mansa_Devi_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6933612,
+   "lat": 32.4251,
+   "lon": 75.733,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mukteshwar Temple, Punjab",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6933612",
+    "wikipedia": "en:Mukteshwar Mahadev Temple"
+   },
+   "state": "Punjab",
+   "state_basis": "boundary",
+   "district": "Pathankot",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dalhousie Road",
+     "dist_m": 15265
+    },
+    "nearest_bus": {
+     "name": "Bus Stand",
+     "dist_m": 11430
+    },
+    "nearest_airport": {
+     "name": "Pathankot Air Force Station",
+     "dist_m": 23048,
+     "iata": "IXP"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6933612",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pathankot District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.mukteshwarmahadev.com/",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mukteshwar Mahadev Temple, also known as Mukesaran Mandir, is a shrine to Shiva and man-made cave complex located near Pathankot City, Punjab, India. on Shahpur Kandi Dam road. It is a Hindu temple containing representations of Ganesha, Brahma, Vishnu, Hanuman, and Parvati. It is considered to be one of the most sacred places around Pathankot. According to legend, the Pandavas stayed in the caves for a night during their exile (Agayatwas), and it is said that some of the caves date to the time of the Mahabharata.",
+     "url": "https://en.wikipedia.org/wiki/Mukteshwar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history",
+     "contact"
     ]
    }
   }

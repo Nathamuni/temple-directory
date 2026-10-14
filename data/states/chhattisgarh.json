@@ -1,6 +1,6 @@
 {
  "state": "Chhattisgarh",
- "count": 224,
+ "count": 289,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -12479,6 +12479,4074 @@
      "locality",
      "deity",
      "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12420262,
+   "lat": 20.9621224,
+   "lon": 81.8711494,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kuleshwar Temple,",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12420262"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dhamtari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 918
+    },
+    "nearest_bus": {
+     "name": "Abhanpur Bus stand",
+     "dist_m": 16429
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 27914,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "hospital ",
+     "dist_m": 1045
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12420262",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Raipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12427803,
+   "lat": 21.094487,
+   "lon": 82.285646,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jagannadh temple, Khallari Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12427803"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Mahasamund",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhimkhoj",
+     "dist_m": 1580
+    },
+    "nearest_bus": {
+     "name": "bus stand mahasamund",
+     "dist_m": 19890
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 56655,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Govt Hospital Khallari",
+     "dist_m": 582
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12427803",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mahasamund district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012623%20Jagannadh%20temple%2C%20Khallari%20Chhattisgarh%20008.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104859565,
+   "lat": 20.608359,
+   "lon": 82.045487,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhooteshwarnath",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104859565",
+    "wikipedia": "en:Bhooteshwarnath"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 44224
+    },
+    "nearest_bus": {
+     "name": "chhura bus stand",
+     "dist_m": 27791
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 71210,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Someshwar private hospital",
+     "dist_m": 3328
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104859565",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gariaband district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhooteshwarnath%20Temple%2002.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Bhuteshwarnath also known as Bhakurra Mahadeva is a temple of Lord Shiva, situated near Marouda Village of Gariaband district, Chhattisgarh, India. It is in the middle of the Gariaband Forests. It is the second largest natural Shivlinga (Lingam) in the world, after Siddheshwarnath in Ziro, Arunachal Pradesh.",
+     "url": "https://en.wikipedia.org/wiki/Bhooteshwarnath",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111949815,
+   "lat": 21.231666666,
+   "lon": 81.628611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahamaya Temple, Raipur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111949815",
+    "wikipedia": "en:Mahamaya Temple, Raipur"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Raipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Raipur Junction",
+     "dist_m": 2911
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Station Raipur",
+     "dist_m": 1370
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 13417,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Shre Ramkinkar Medical Institute Hospital",
+     "dist_m": 423
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111949815",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Shree Rajrajeshwari Maa Mahamaya Devi Mandir Raipur or popularly Mahamaya Temple is a Hindu temple dedicated to Devi Mahamaya, located at Purani Basti, Raipur, Chhattisgarh. The temple is one of the 36 Shaktipeeths or 36 forts of Chhattisgarh. It was renovated between 17th-18th Century by Maratha confederacy rulers.",
+     "url": "https://en.wikipedia.org/wiki/Mahamaya_Temple%2C_Raipur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115380060,
+   "lat": 19.137649,
+   "lon": 81.373546,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mama Bhanja Temple, Barsoor",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115380060",
+    "wikipedia": "en:Mama Bhanja Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dantewada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gidam",
+     "dist_m": 22702
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 69902,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115380060",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dantewada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Mama Bhanja Temple is a temple in Barsur, Chhattisgarh. The temple is dedicated to God Shiva.",
+     "url": "https://en.wikipedia.org/wiki/Mama_Bhanja_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115408600,
+   "lat": 19.137181,
+   "lon": 81.382853,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandraditya temple, Barsur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115408600",
+    "wikipedia": "en:Chandratiya Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dantewada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gidam",
+     "dist_m": 22497
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 68924,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115408600",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dantewada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/012%2001%202022%20Barsur%20Chandraditya%20Temple%20Chattisgarh%20012.jpg",
+    "summary": {
+     "text": "The Chandratiya Temple is a Hindu temple located in the town of Barsur, in the Dantewada district in the Indian state of Chhattisgarh. The temple is dedicated to one of the principal Hindu deities, Shiva, also known as Mahadev. Barsur is located on the bank of the Indravati River and the temple is situated on the bank of Buddha Pond. The temple is named after the Mahamandleshwar Chandraditya, who was a feudatory chief of that time.",
+     "url": "https://en.wikipedia.org/wiki/Chandratiya_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115433681,
+   "lat": 19.13406,
+   "lon": 81.37368,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganesh Mandir, Barsur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115433681"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dantewada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gidam",
+     "dist_m": 22306
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 69849,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115433681",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dantewada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115463941,
+   "lat": 19.199649506,
+   "lon": 81.740512514,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narayanpal Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115463941",
+    "wikipedia": "en:Narayanpal Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bade Arapur",
+     "dist_m": 22766
+    },
+    "nearest_bus": {
+     "name": "Jagdalpur Bus Stand",
+     "dist_m": 32175
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 33992,
+     "iata": "JGB"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Ghotiya",
+     "dist_m": 3359
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115463941",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0011122%20Narayanpal%20Vishnu%20Mandir%20Chhattisgarh%20017.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Narayanpal Temple is a historic Hindu temple located near the confluence of the Indravati and Narangi rivers in the Bastar district of Chhattisgarh, India. It is dedicated to the Hindu god Vishnu, the protector of the universe in Hindu mythology. The temple is situated in the village of Narayanpal, about 4 kilometers east of the reputed Chitrakote Falls. The temple was built around 1111 AD by Mumunda Devi, a queen of the Chindaka Naga dynasty. It was built in the Nagara style of Hindu temple architecture and influenced by the Chalukya style as well.",
+     "url": "https://en.wikipedia.org/wiki/Narayanpal_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115473603,
+   "lat": 23.01869,
+   "lon": 82.9243,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Satmahala Group of Temples, Kalcha-Bhadwahi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115473603"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Surguja",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishrampur",
+     "dist_m": 18816
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 141598,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115473603",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Surguja district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010622%20Bhadwaha%20Satmahala%20Chattisgarh%20116.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115486035,
+   "lat": 21.696777777,
+   "lon": 81.752166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chitavari Devi Temple, Dhobni Damakheda",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115486035"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hathbandh",
+     "dist_m": 12104
+    },
+    "nearest_bus": {
+     "name": "Kharora Bus Stand",
+     "dist_m": 37765
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 49445,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115486035",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dhobni%20Damakheda%20Chitawari%20Devi%20temple%20Chhattisgarh%20Oct%202022%20-%2069.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115486911,
+   "lat": 20.574777777,
+   "lon": 81.444416666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudra temple, Onakona",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115486911"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Balod",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhamtari",
+     "dist_m": 19151
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 74870,
+     "iata": "RPR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115486911",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Onakona%20Rudra%20Temple%20Chhattisgarh%2015.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115488939,
+   "lat": 22.19242,
+   "lon": 82.04372,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganiyari Shiva temple, Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115488939"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalmitar",
+     "dist_m": 4926
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 17609
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 23713,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Jan Swasthaya Sahyog",
+     "dist_m": 1403
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115488939",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ganiyari%20Shiva%20temple%20Chhattisgarh%20Oct%202022%20-%2015.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115493924,
+   "lat": 21.906805555,
+   "lon": 82.026333333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Devrani Jethani temples and ruins, Tala",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115493924"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dagori",
+     "dist_m": 4437
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 19420
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 12803,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115493924",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010822%206th%20century%20Tala%20Enigmatic%20statue%2C%20Devrani%20Jethani%20temple%20Chattisgarh%20009.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115508814,
+   "lat": 21.746828256,
+   "lon": 82.579605519,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Indal Deul temple, Kharod",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115508814",
+    "wikipedia": "en:Indal Deul Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 30736
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 55160,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115508814",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010922%207th%20century%20Kharod%20Indal%20Deul%20Mandir%20Chhattisgarh%20015.jpg",
+    "summary": {
+     "text": "Indal Deul Temple is a Hindu temple in Kharod, Chhattisgarh. It is dated to between 650 and 675 CE.",
+     "url": "https://en.wikipedia.org/wiki/Indal_Deul_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115512398,
+   "lat": 21.74624947,
+   "lon": 82.575328239,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Laxmaneshwar Temple, Kharod",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115512398"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 30783
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 54807,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115512398",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010922%206th%20century%20Kharod%20Lakshmaneswar%20Temple%20Chhattisgarh%20045.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115514564,
+   "lat": 21.740639767,
+   "lon": 82.578093101,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shabari temple, Kharod",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115514564"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 31417
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 55365,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115514564",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010922%208th%20century%20Kharod%20Maa%20Shabari%20Temple%20Chhattisgarh%20036.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117932106,
+   "lat": 21.457392,
+   "lon": 81.330042,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Budheswar Shiv and Chaturbhuji temples, Dhamdha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117932106"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Durg",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhilai Power House",
+     "dist_m": 28108
+    },
+    "nearest_bus": {
+     "name": "Bus Stand",
+     "dist_m": 30452
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 52825,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Dhamdha Government Hospital",
+     "dist_m": 778
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117932106",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Durg district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/00100922%20Budheswar%20and%20Chaturbhuji%20temples%2C%20Dhamdha%20Chhattisgarh%2001.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117936813,
+   "lat": 21.457873,
+   "lon": 81.32785,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahamaya temple and Dhamdha fort, Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117936813"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Durg",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhilai Power House",
+     "dist_m": 28200
+    },
+    "nearest_bus": {
+     "name": "Bus Stand",
+     "dist_m": 30469
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 53041,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Dhamdha Government Hospital",
+     "dist_m": 821
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117936813",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Durg district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0100922%20Mahamaya%20temple%20and%20Dhamdha%20fort%2C%20Chhattisgarh%20005.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117939241,
+   "lat": 21.221761,
+   "lon": 81.812058,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nawagaon Brick temple, Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117939241"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Raipur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Naya Raipur",
+     "dist_m": 1232
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Station Raipur",
+     "dist_m": 18762
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 7764,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Sri Sathya Sai Sanjeevani Hospital",
+     "dist_m": 1205
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117939241",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Raipur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nawagaon%20Brick%20temple%20Chhattisgarh%20Sept%202022%20-%2033.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117942711,
+   "lat": 22.10948,
+   "lon": 81.154099,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Madwa Mahal, Chaura Kabirdham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117942711",
+    "wikipedia": "en:Madwa Mahal Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Kabirdham",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 99745,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117942711",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kawardha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/14th%20century%20Madwa%20Mahal%20temple%201%2C%20Kawardha%2C%20Chhattisgarh.jpg",
+    "summary": {
+     "text": "Madwa Mahal Temple is a temple in Chhattisgarh. It is located about a kilometer away from the Bhoramdeo Temple. It is dedicated to Shiva. It is a state protected monument.The temple was built by Phani Nagavanshi Gond king Ramchandra Dev.",
+     "url": "https://en.wikipedia.org/wiki/Madwa_Mahal_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117948689,
+   "lat": 18.990708,
+   "lon": 81.784016,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dodrepal Temple, Chhotegud Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117948689"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dilmili",
+     "dist_m": 4903
+    },
+    "nearest_bus": {
+     "name": "Jagdalpur Bus Stand",
+     "dist_m": 26274
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 27992,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117948689",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012823%20Dodrepal%20temple%2C%20Chhotegud%20Chhattisgarh%20009.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117977137,
+   "lat": 18.896112,
+   "lon": 81.771013,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Gumadpal Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117977137"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kumhar Sodra",
+     "dist_m": 9301
+    },
+    "nearest_bus": {
+     "name": "Tongpal Bus Stop",
+     "dist_m": 19373
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 34104,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117977137",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012823%20Shiva%20temple%2C%20Ghumadpal%20Chhattisgarh%20058.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118012588,
+   "lat": 19.387392,
+   "lon": 81.902023,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gudhiyari Shiv temple, Kesharpal Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118012588"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jagdalpur",
+     "dist_m": 37560
+    },
+    "nearest_bus": {
+     "name": "Jagdalpur Bus Stand",
+     "dist_m": 36714
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 37578,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118012588",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012823%20Gudhiyari%20Shiva%20temple%2C%20Kesharpal%20Chhattisgarh%20067.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118105459,
+   "lat": 20.790988,
+   "lon": 82.065921,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jatmai Mata Mandir, Gariyaband",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118105459"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 28591
+    },
+    "nearest_bus": {
+     "name": "chhura bus stand",
+     "dist_m": 14812
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 54878,
+     "iata": "RPR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118105459",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gariaband district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jatmayi.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118106253,
+   "lat": 20.962006,
+   "lon": 81.871561,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kuleshwar Mahadev Temple, Rajim",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118106253"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dhamtari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 945
+    },
+    "nearest_bus": {
+     "name": "Abhanpur Bus stand",
+     "dist_m": 16470
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 27945,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "hospital ",
+     "dist_m": 1012
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118106253",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajim"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012723%20Kuleshwar%20Mahadev%20temple%2C%20Nawagaon%20Rajim%20Chhattisgarh%20011.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118108870,
+   "lat": 20.963117,
+   "lon": 81.878975,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ramachandra Temple, Rajim",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118108870",
+    "wikipedia": "en:Ramachandra Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 1343
+    },
+    "nearest_bus": {
+     "name": "Abhanpur Bus stand",
+     "dist_m": 17006
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 28197,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Soni and Kaur Multispeciality Hospital And Maternity Home",
+     "dist_m": 763
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118108870",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajim"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0091019%20Ramchandra%20temple%2C%20Rajim%20Chhattisgarh%20002.jpg",
+    "summary": {
+     "text": "Ramachandra Temple is a temple located in Rajim, in the Indian state of Chhattisgarh.",
+     "url": "https://en.wikipedia.org/wiki/Ramachandra_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118112092,
+   "lat": 20.315531,
+   "lon": 81.927506,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Karneshwar Mahadev Temple, Sihawa Dhamtari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118112092"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dhamtari",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhamtari",
+     "dist_m": 59265
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 98504,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Government hospital Nagri",
+     "dist_m": 4995
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118112092",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dhamtari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012723%20Karneshwar%20Mahadev%20temple%2C%20Sihawa%20Dhamtari%20Chhattisgarh%20011.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118119692,
+   "lat": 20.97109,
+   "lon": 82.04168,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Phanikeshwar Mahadev Temple, Fingeshwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118119692"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahasamund",
+     "dist_m": 17098
+    },
+    "nearest_bus": {
+     "name": "bus stand mahasamund",
+     "dist_m": 16736
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 38670,
+     "iata": "RPR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118119692",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gariaband district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012623%20Phanikeshwar%20Mahadev%20Temple%2C%20Fingeshwar%20Chhattisgarh%20011.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118126814,
+   "lat": 21.492396,
+   "lon": 82.361773,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Turturiya Dham, Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118126814"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhimkhoj",
+     "dist_m": 46441
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 60908,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118126814",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baloda Bazar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012623%20Turturiya%20Matha%20and%20Dham%2C%20Chhattisgarh%20084.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118133973,
+   "lat": 21.534904,
+   "lon": 82.177734,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddheshwar Mandir, Palari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118133973",
+    "wikipedia": "en:Siddheshwar Mandir, Palari"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhatapara",
+     "dist_m": 32489
+    },
+    "nearest_bus": {
+     "name": "Kharora Bus Stand",
+     "dist_m": 30898
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 50942,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118133973",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baloda Bazar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012523%20Siddheshwar%20temple%2C%20Palari%2C%20Chhattisgarh%20045.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Siddheshwar Temple is a temple located in Palari, in the Indian state of Chhattisgarh.",
+     "url": "https://en.wikipedia.org/wiki/Siddheshwar_Mandir%2C_Palari",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118140392,
+   "lat": 21.925938,
+   "lon": 82.085608,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Deokirari Shiv temple, Kirari Godi, Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118140392"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dagori",
+     "dist_m": 2804
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 14901
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 7576,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital BILHA",
+     "dist_m": 3724
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118140392",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010822%20Deokirari%20Shiva%20temple%2C%20Kirari%20Godhi%2C%20Chhattisgarh%20083.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118142608,
+   "lat": 21.928636,
+   "lon": 82.088733,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhumnath temple, Deokirari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118142608"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dagori",
+     "dist_m": 3238
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 14522
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 7180,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital BILHA",
+     "dist_m": 3480
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118142608",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010822%20Deokirari%20Dhumnath%20temple%2C%20Kirari%20Godhi%2C%20Chhattisgarh%20011.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118142873,
+   "lat": 21.576104,
+   "lon": 82.370446,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadev temple and Bairagi Matha, Narayanpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118142873"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nipania",
+     "dist_m": 43659
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 53053,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118142873",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baloda Bazar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012623%20Mahadeva%20temple%20and%20Bairagi%20matha%2C%20Narayanpur%20Balodabazar%20027.jpg",
+    "deity": {
+     "values": [
+      "Shiva",
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118143062,
+   "lat": 21.678202,
+   "lon": 81.059633,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hindu temple ruins, Ghatiyari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118143062"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Khairagarh-Chhuikhadan-Gandai",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rasmara",
+     "dist_m": 55145
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 89898,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital,Gandai",
+     "dist_m": 4006
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118143062",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rajnandgaon district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghatiyari%20Gandai%20temple%20and%20ruins%2C%20Chhattisgarh%20-%2041.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118143518,
+   "lat": 23.019289,
+   "lon": 82.944022,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Cherka Deur Devi Temple ruins, Devgarh–Bhadwahi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118143518"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Surguja",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishrampur",
+     "dist_m": 18210
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 142853,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118143518",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Surguja district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010622%20Devgarh%20%28near%20Bhadwahi%29%20Devi%20Ka%20Mandir%20Chattisgarh%20075.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118143551,
+   "lat": 23.018177,
+   "lon": 82.949231,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple ruins, Devgarh-Bhadwahi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118143551"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Surguja",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishrampur",
+     "dist_m": 18223
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 143074,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118143551",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Surguja district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010622%20Devgarh%20%28near%20Bhadwahi%29%20Shiva%20Mandir%20Chattisgarh%20058.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118146720,
+   "lat": 23.302625,
+   "lon": 83.724564,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Temple ruins and Samat Sarna, Dipadih",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118146720"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Balrampur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambikapur",
+     "dist_m": 62124
+    },
+    "nearest_airport": {
+     "name": "Veer Surendra Sai Airport",
+     "dist_m": 157782,
+     "iata": "JRG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118146720",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Balrampur–Ramanujganj district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012423%20Hindu%20temple%20group%20ruins%20and%20Samat%20Sarna%2C%20Dipadih%20Chhattisgarh%20300.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118163016,
+   "lat": 23.304575,
+   "lon": 83.724593,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ruined temple near Rani Talab, Dipadih Kusmi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118163016"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Balrampur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambikapur",
+     "dist_m": 62191
+    },
+    "nearest_airport": {
+     "name": "Veer Surendra Sai Airport",
+     "dist_m": 157994,
+     "iata": "JRG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118163016",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Balrampur–Ramanujganj district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruined%20temple%20near%20Rani%20Talab%2C%20Dipadih%20Kusmi%20Dipadih%20Chattisgarh%20051.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118163285,
+   "lat": 23.323224,
+   "lon": 83.609677,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple Group, Harratoli Chhattisgarh",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118163285"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Balrampur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambikapur",
+     "dist_m": 51900
+    },
+    "nearest_airport": {
+     "name": "Veer Surendra Sai Airport",
+     "dist_m": 162895,
+     "iata": "JRG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118163285",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Balrampur–Ramanujganj district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012323%20Shiv%20temple%2C%20Harratola%20Chhattisgarh%20011.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118164424,
+   "lat": 21.644959,
+   "lon": 83.350269,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Pujeripali Maharajpur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118164424"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Sarangarh-Bilaigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Raigarh",
+     "dist_m": 27798
+    },
+    "nearest_airport": {
+     "name": "Veer Surendra Sai Airport",
+     "dist_m": 78330,
+     "iata": "JRG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118164424",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Raigarh district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20and%20Vishnu%20temple%20ruins%2C%20Pujeripali%20Maharajpur%20Chhattisgarh%20024.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118176623,
+   "lat": 22.510397,
+   "lon": 82.271351,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahisasur Mardini Temple, Chaiturgarh Korba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118176623"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Korba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Belgahna",
+     "dist_m": 26078
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 60209,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118176623",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Korba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaiturgarh%20temple%20Korba%2C%20Chhattisgarh%2068759.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19632876,
+   "lat": 22.115344444,
+   "lon": 81.147683333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhairam Dev temple museum",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19632876"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Kabirdham",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 100487,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19632876",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19632903,
+   "lat": 18.997256521,
+   "lon": 81.734553579,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhilmil Kama memorial",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19632903"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dilmili",
+     "dist_m": 1067
+    },
+    "nearest_bus": {
+     "name": "Jagdalpur Bus Stand",
+     "dist_m": 30968
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 32748,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19632903",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dantewada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19632940,
+   "lat": 18.976666666,
+   "lon": 81.303611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Karli Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19632940"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Dantewada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dantewara",
+     "dist_m": 9396
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 77680,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19632940",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Samlur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19632978,
+   "lat": 22.005949369,
+   "lon": 82.572171166,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vishnu Temple, Janjgir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19632978"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 2016
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 47361,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Ll Paliwal Memorial Hospital",
+     "dist_m": 1029
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19632978",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Janjagir%20vishnu%20mandir1.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633010,
+   "lat": 22.00624642,
+   "lon": 82.572157242,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Janjgir small Vishnu temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633010"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 1984
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 47361,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Ll Paliwal Memorial Hospital",
+     "dist_m": 1012
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633010",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir–Champa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Small%20Vishnu%20Mandir%20built%20by%20kings%20of%20Hayhay%20Vansh%2C%20near%20Bhima%20Talab%20of%20purani%20basti%20of%20Janjgir%20in%2013%20Century.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633020,
+   "lat": 21.740629818,
+   "lon": 82.578031509,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "brick temple of Savari",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633020"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 31418
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 55360,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633020",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir–Champa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633030,
+   "lat": 21.746736288,
+   "lon": 82.579555838,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Andaldeo temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633030"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 30746
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 55160,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633030",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir–Champa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633065,
+   "lat": 22.372916666,
+   "lon": 82.3235,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pali Mahadev temple, Korba",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633065"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Korba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Belgahna",
+     "dist_m": 30616
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 47859,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633065",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Korba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010722%20Pali%20%28Korba%29%20Shiv%20Mandir%20Chattisgarh%20007.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633102,
+   "lat": 21.895277777,
+   "lon": 82.279722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pateleswar Mahadev Temple complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633102"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jairamnagar",
+     "dist_m": 15496
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 23657
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 20099,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633102",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Malhar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19633116,
+   "lat": 22.289166666,
+   "lon": 82.16,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kanthi Deul Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19633116"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalmitar",
+     "dist_m": 12140
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 26337
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 33713,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19633116",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0010722%2015th%20century%20Ratanpur%20Kanthi%20Dewal%20Temple%20Chattisgarh%20004.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677227,
+   "lat": 21.7285266,
+   "lon": 82.5896709,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sheorinarayana Temple and compound",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677227"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 32832
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 57077,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677227",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir–Champa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677224,
+   "lat": 21.719277353,
+   "lon": 82.590224204,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kesava Narayan temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677224"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Janjgir-Champa",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Janjgir Naila",
+     "dist_m": 33862
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 57656,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677224",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Janjgir–Champa district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677242,
+   "lat": 22.574991748,
+   "lon": 82.42232672,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadev Temple, Tuman",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677242"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Korba",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gevra Road",
+     "dist_m": 34054
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 72500,
+     "iata": "PAB"
+    },
+    "nearest_medical": {
+     "name": "Govt hospital TUMAN",
+     "dist_m": 184
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677242",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Korba district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012323%20Mahadeva%20temple%20group%2C%20Tuman%20Chhattisgarh%20014.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677258,
+   "lat": 22.211425312,
+   "lon": 81.872717408,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gatora Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677258"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kargi Road",
+     "dist_m": 18500
+    },
+    "nearest_bus": {
+     "name": "Mungeli",
+     "dist_m": 25593
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 34997,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677258",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677257,
+   "lat": 22.211425312,
+   "lon": 81.872717408,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Belpan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677257"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bilaspur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kargi Road",
+     "dist_m": 18500
+    },
+    "nearest_bus": {
+     "name": "Mungeli",
+     "dist_m": 25593
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 34997,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677257",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19677284,
+   "lat": 21.669783333,
+   "lon": 81.408341111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Deorbija Sita Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19677284"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bemetara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tilda-Neora",
+     "dist_m": 42097
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 64330,
+     "iata": "RPR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19677284",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bemetara district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/10th%20to%2012th%20century%20Sita%20Mandir%20Deorbeeja%2C%20Bemetara%20district%2C%20Chhattisgarh%20-%201.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19833044,
+   "lat": 21.576136056,
+   "lon": 82.370337285,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narayanpur Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19833044"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nipania",
+     "dist_m": 43648
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 53045,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19833044",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Baloda Bazar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva",
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19833045,
+   "lat": 21.576185946,
+   "lon": 82.370409002,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narayanpur Surya Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19833045"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Baloda Bazar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nipania",
+     "dist_m": 43650
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 53044,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19833045",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Baloda Bazar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19833050,
+   "lat": 20.964,
+   "lon": 81.8775,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rajiv Lochan temple, Rajim",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19833050",
+    "wikipedia": "en:Rajiv Lochan Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 1161
+    },
+    "nearest_bus": {
+     "name": "Abhanpur Bus stand",
+     "dist_m": 16824
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 28038,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Soni and Kaur Multispeciality Hospital And Maternity Home",
+     "dist_m": 809
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19833050",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gariaband district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/6th%20to%207th%20century%20Rajivalochan%20Vishnu%20Temple%2C%20Rajim%2C%20Chhattisgarh.jpg",
+    "summary": {
+     "text": "Rajiv Lochan Temple is a temple located in Rajim, in the Indian state of Chhattisgarh. It is dated to the 8th century CE.",
+     "url": "https://en.wikipedia.org/wiki/Rajiv_Lochan_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19833053,
+   "lat": 20.963178033,
+   "lon": 81.878836296,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ramchandra Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19833053"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Gariaband",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rajim",
+     "dist_m": 1327
+    },
+    "nearest_bus": {
+     "name": "Abhanpur Bus stand",
+     "dist_m": 16990
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 28184,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Soni and Kaur Multispeciality Hospital And Maternity Home",
+     "dist_m": 767
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19833053",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gariaband district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19833058,
+   "lat": 21.665006,
+   "lon": 81.106636,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gandai Shiva temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19833058"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Khairagarh-Chhuikhadan-Gandai",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rasmara",
+     "dist_m": 52464
+    },
+    "nearest_airport": {
+     "name": "Swami Vivekananda Airport",
+     "dist_m": 85168,
+     "iata": "RPR"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital,Gandai",
+     "dist_m": 1137
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19833058",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rajnandgaon district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/12th%20or%2013th-century%20Gandai%20Shiv%20Mandir%2C%20Chhattisgarh%20-%201.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4902046,
+   "lat": 22.116,
+   "lon": 81.148,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhoramdeo Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4902046",
+    "wikipedia": "en:Bhoramdeo Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Kabirdham",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 100465,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4902046",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kawardha"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhoramdeo%20Temple%2C%20Kawardha.jpg",
+    "website": "http://kawardha.nic.in/bhoramdeo.htm",
+    "summary": {
+     "text": "Bhoramdeo Temple is a Hindu temple dedicated to the god Shiva in Bhoramdeo, in the Indian state of Chhattisgarh. It comprises a group of four temples of which the earliest is a brick-temple. The main temple is the Bhoramdeo temple built in stone. The architectural features with erotic sculptures has given a distinct style akin to the Khajuraho temple and the Konark Sun Temple in Odisha, and hence the Bhoramdeo complex is known by the sobriquet the \"Khajuraho of Chhattisgarh\".",
+     "url": "https://en.wikipedia.org/wiki/Bhoramdeo_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97119230,
+   "lat": 19.212309823,
+   "lon": 81.932757402,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Bastar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97119230"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Bastar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jagdalpur",
+     "dist_m": 18313
+    },
+    "nearest_bus": {
+     "name": "Jagdalpur Bus Stand",
+     "dist_m": 17597
+    },
+    "nearest_airport": {
+     "name": "Jagdalpur Airport",
+     "dist_m": 18801,
+     "iata": "JGB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97119230",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bastar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0011122%20Bastar%20Shiv%20Temple%20Chhattisgarh%20027.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97119238,
+   "lat": 21.901222222,
+   "lon": 81.975527777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhumnath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97119238",
+    "wikipedia": "en:Dhumnath Temple"
+   },
+   "state": "Chhattisgarh",
+   "state_basis": "boundary",
+   "district": "Mungeli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dagori",
+     "dist_m": 9690
+    },
+    "nearest_bus": {
+     "name": "Interstate Bus Terminal",
+     "dist_m": 23116
+    },
+    "nearest_airport": {
+     "name": "Bilasa Devi Kevat Airport",
+     "dist_m": 17233,
+     "iata": "PAB"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97119238",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bilaspur district",
+      "Chhattisgarh"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargaon%20Dhoomnath%20Dhumeswari%20temple%20Chhattisgarh%20-%2070.jpg",
+    "summary": {
+     "text": "Dhumnath Temple is a Shiva temple located in Sargaon village, in the Indian state of Chhattisgarh. It is listed as a state protected monument and was built during the reign of the Kalachuris of Ratanpura.",
+     "url": "https://en.wikipedia.org/wiki/Dhumnath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

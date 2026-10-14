@@ -1,6 +1,6 @@
 {
  "state": "Jammu and Kashmir",
- "count": 181,
+ "count": 198,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -9864,6 +9864,1205 @@
      "name",
      "district",
      "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117138551,
+   "lat": 34.174611111,
+   "lon": 74.322138888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Fatehgarh Baramulla",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117138551"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Baramulla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baramula",
+     "dist_m": 7955
+    },
+    "nearest_bus": {
+     "name": "Tangmarg Bus and Taxi Station",
+     "dist_m": 15911
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 46481,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Dr. Altafs Nursing Home",
+     "dist_m": 3959
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117138551",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baramulla district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117151238,
+   "lat": 34.203031,
+   "lon": 74.507482,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pratapswami Temple, Tapper Wari Pora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117151238"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Baramulla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hamre",
+     "dist_m": 2214
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Sopore",
+     "dist_m": 10410
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 34046,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "The North End Hospital Tapper",
+     "dist_m": 342
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117151238",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baramulla district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117156127,
+   "lat": 33.946814,
+   "lon": 74.92922,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Temple, Kakapora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117156127"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Pulwama",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kakapor",
+     "dist_m": 1609
+    },
+    "nearest_bus": {
+     "name": "payer",
+     "dist_m": 9610
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 14966,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Govt. Hospital Lethpora",
+     "dist_m": 3920
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117156127",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pulwama district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117168333,
+   "lat": 34.082916666,
+   "lon": 74.058611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Datta Temple, Bandi Uri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117168333"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Baramulla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baramula",
+     "dist_m": 33987
+    },
+    "nearest_bus": {
+     "name": "Tangmarg Bus and Taxi Station",
+     "dist_m": 33797
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 66935,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Sub District Hospital",
+     "dist_m": 569
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117168333",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Baramulla district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Datta%20temple%2C%20Bandi%20Uri%20J%26K%20018.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117193861,
+   "lat": 34.055365,
+   "lon": 75.100491,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Narastan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117193861"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Pulwama",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Awantipura",
+     "dist_m": 21134
+    },
+    "nearest_bus": {
+     "name": "Sumo Stand Awantipora",
+     "dist_m": 17689
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 30603,
+     "iata": "SXR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117193861",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pulwama district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20temple%2C%20Narastan%20Jammu%20%26%20Kashmir%20037.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24939277,
+   "lat": 33.7,
+   "lon": 75.33,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva Bhagwati Temple Akingam",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24939277",
+    "wikipedia": "en:Shiva Bhagwati Temple Akingam"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Anantnag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sadura",
+     "dist_m": 18126
+    },
+    "nearest_bus": {
+     "name": "Janglat mandi bus stop",
+     "dist_m": 16641
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 60603,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Sub District hospital, Shangus",
+     "dist_m": 4010
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24939277",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shiva Bhagwati Temple Akingam is a temple of Jagad Amba Shiva Bhagwati in Kashmir valley",
+     "url": "https://en.wikipedia.org/wiki/Shiva_Bhagwati_Temple_Akingam",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24950973,
+   "lat": 33.923207,
+   "lon": 75.012829,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Avanti Swami Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24950973",
+    "wikipedia": "en:Avantiswami Temple"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Pulwama",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Awantipura",
+     "dist_m": 4366
+    },
+    "nearest_bus": {
+     "name": "Sumo Stand Awantipora",
+     "dist_m": 1337
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 23112,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "BHM Hospital",
+     "dist_m": 841
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24950973",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Awantipora tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Avantiswami%20Temple%20entrance%20%286134257460%29.jpg",
+    "summary": {
+     "text": "The Avantiswami Temple is a ruined Hindu temple complex on the banks of the Jhelum River, approximately 16 km northeast of Pulwama town, in Awantipora, Pulwama district in Jammu and Kashmir, India. This site originally comprised two temples, one dedicated to Shiva and the other to Vishnu, built during the reign of King Avantivarman of the Utpala dynasty in the 9th century CE. Today, the ruins are protected by the Archaeological Survey of India. Locals call the temple Pandav Lari, meaning \"house of the Pandavas\".",
+     "url": "https://en.wikipedia.org/wiki/Avantiswami_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657848,
+   "lat": 34.144333333,
+   "lon": 74.18925,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vishnu temple, Buniyar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657848"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Baramulla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baramula",
+     "dist_m": 20183
+    },
+    "nearest_bus": {
+     "name": "Tangmarg Bus and Taxi Station",
+     "dist_m": 23630
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 56676,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Primary Healthcare Center Boniyar",
+     "dist_m": 1576
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657848",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Baramulla district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/NawshehraTemple1870s.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657886,
+   "lat": 33.927952,
+   "lon": 75.004509,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Avantisvara Temple Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657886"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Pulwama",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Awantipura",
+     "dist_m": 4593
+    },
+    "nearest_bus": {
+     "name": "Sumo Stand Awantipora",
+     "dist_m": 2161
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 22212,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "BHM Hospital",
+     "dist_m": 92
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657886",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Awantipora tehsil"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Avantishwara%20temple%20%286134239190%29.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657898,
+   "lat": 33.99229108,
+   "lon": 74.99358957,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient Temple at Ladhoo",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657898",
+    "wikipedia": "en:Ancient Temple, Ladhoo"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Pulwama",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kakapor",
+     "dist_m": 8571
+    },
+    "nearest_bus": {
+     "name": "Sumo Stand Awantipora",
+     "dist_m": 9214
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 19973,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Modern Health Care",
+     "dist_m": 3834
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657898",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Water Heritage Site",
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pulwama district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sanz%20Haer%20Nag%2C%20Ladhoo.jpg",
+    "summary": {
+     "text": "Ancient Temple, Ladhoo, is located in the middle of a natural fed pond or spring known as Sanz Haer Nag or Sanyasar Nag in Ladhoo, a village in the Pulwama district of the southern part of the Kashmir Valley of the Indian union territory of Jammu and Kashmir. It is four km (2.5 mi) away from NH44 via Lethapora and 18 km (11 mi) from Srinagar.",
+     "url": "https://en.wikipedia.org/wiki/Ancient_Temple%2C_Ladhoo",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657934,
+   "lat": 32.756412,
+   "lon": 75.150053,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Devi Bhagwati Temple Babour Thalora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657934"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Udhampur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manwal",
+     "dist_m": 2177
+    },
+    "nearest_bus": {
+     "name": "Udhampur Bus Stand",
+     "dist_m": 18703
+    },
+    "nearest_airport": {
+     "name": "Jammu Airport",
+     "dist_m": 30046,
+     "iata": "IXJ"
+    },
+    "nearest_medical": {
+     "name": "Majalta",
+     "dist_m": 4441
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657934",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udhampur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Devi%20Bhagwati%20Temple%2C%20Thalora%20Manwal%2C%20J%26K%20009.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657938,
+   "lat": 32.753653,
+   "lon": 75.14604,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient Temples Kala Dera I  and II, Thalora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657938"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Udhampur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manwal",
+     "dist_m": 2139
+    },
+    "nearest_bus": {
+     "name": "Udhampur Bus Stand",
+     "dist_m": 18988
+    },
+    "nearest_airport": {
+     "name": "Jammu Airport",
+     "dist_m": 29606,
+     "iata": "IXJ"
+    },
+    "nearest_medical": {
+     "name": "Majalta",
+     "dist_m": 4405
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657938",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udhampur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kala%20Dera%20Temple%2C%20Thalora%20Manwal%2C%20J%26K%20017.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657939,
+   "lat": 32.751397,
+   "lon": 75.141871,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient Temple Nand Babour",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657939"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Udhampur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manwal",
+     "dist_m": 2153
+    },
+    "nearest_bus": {
+     "name": "Udhampur Bus Stand",
+     "dist_m": 19224
+    },
+    "nearest_airport": {
+     "name": "Jammu Airport",
+     "dist_m": 29168,
+     "iata": "IXJ"
+    },
+    "nearest_medical": {
+     "name": "Majalta",
+     "dist_m": 4473
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657939",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udhampur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Nand%20Babour%20Temple%2C%20Thalora%20Manwal%2C%20J%26K%20011.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657936,
+   "lat": 32.753066,
+   "lon": 75.150054,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ancient Temple Dera Babour",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657936"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Udhampur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manwal",
+     "dist_m": 2433
+    },
+    "nearest_bus": {
+     "name": "Udhampur Bus Stand",
+     "dist_m": 19074
+    },
+    "nearest_airport": {
+     "name": "Jammu Airport",
+     "dist_m": 29955,
+     "iata": "IXJ"
+    },
+    "nearest_medical": {
+     "name": "Majalta",
+     "dist_m": 4130
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657936",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udhampur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dera%20Babour%20Temple%2C%20Thalora%20Manwal%2C%20J%26K%20018.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 59657942,
+   "lat": 32.965111111,
+   "lon": 75.119555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Group of Temples at Kiramchi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q59657942",
+    "wikipedia": "en:Krimchi temples"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Udhampur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chak Rakhwal",
+     "dist_m": 4291
+    },
+    "nearest_bus": {
+     "name": "Udhampur Bus Stand",
+     "dist_m": 4809
+    },
+    "nearest_airport": {
+     "name": "Jammu Airport",
+     "dist_m": 40394,
+     "iata": "IXJ"
+    },
+    "nearest_medical": {
+     "name": "Klsm Rotary Eye and Ent Hospital",
+     "dist_m": 4068
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q59657942",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udhampur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/KrimachiTemplesMain.jpg",
+    "summary": {
+     "text": "Krimchi temples is a complex of seven ancient Hindu temples in the Udhampur District of the Jammu Division in Jammu and Kashmir, India. It is located on bank of a stream Birunala in village Krimachi, 12 km from Udhampur. This group of temples is locally known as the Pandava Temples.",
+     "url": "https://en.wikipedia.org/wiki/Krimchi_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6774201,
+   "lat": 33.7454,
+   "lon": 75.21999,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Martand Sun Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6774201",
+    "wikipedia": "en:Martand Sun Temple"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Anantnag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sadura",
+     "dist_m": 10961
+    },
+    "nearest_bus": {
+     "name": "Janglat mandi bus stop",
+     "dist_m": 6589
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 49330,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "The SKJ Hospital",
+     "dist_m": 3182
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6774201",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Mārtanda"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "architecture": {
+     "value": [
+      "Greco-Buddhist art"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "denomination": {
+     "value": [
+      "Hinduism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Anantnag district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Martand%20Sun%20Temple%20Central%20shrine%20%286133772365%29.jpg",
+    "summary": {
+     "text": "The Martand Sun Temple is a Hindu temple located in Mattan, in the Anantnag district of the Kashmir Valley of Jammu and Kashmir, India. It dates back to the eighth century CE and was dedicated to Surya, the solar deity in Hinduism; Surya is also known by the Sanskrit-language synonym Martand. The temple was destroyed by Sikandar Shah Miri.",
+     "url": "https://en.wikipedia.org/wiki/Martand_Sun_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7488717,
+   "lat": 34.157777777,
+   "lon": 74.556916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shankaragaurishvara Temple, Pattan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7488717",
+    "wikipedia": "en:Shankaragaurishvara Temple"
+   },
+   "state": "Jammu and Kashmir",
+   "state_basis": "boundary",
+   "district": "Baramulla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pattan",
+     "dist_m": 1071
+    },
+    "nearest_bus": {
+     "name": "Tangmarg Bus and Taxi Station",
+     "dist_m": 16394
+    },
+    "nearest_airport": {
+     "name": "Sheikh ul-Alam International Airport",
+     "dist_m": 27293,
+     "iata": "SXR"
+    },
+    "nearest_medical": {
+     "name": "Trauma Hospital",
+     "dist_m": 1596
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7488717",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Baramulla district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Side%20view%20of%20Sankaragaurisvara%20Temple.JPG",
+    "summary": {
+     "text": "The Shankaragaurishvara Temple is a 9th century Hindu temple attributed to the Utpala dynasty. The temple is dedicated to the Hindu god, Shiva and located in Pattan, in the Baramulla district of Jammu and Kashmir, India. The temple was built by king Shankaravarman of the Utpala dynasty of Kashmir, who ruled between 883 and 902 AD.",
+     "url": "https://en.wikipedia.org/wiki/Shankaragaurishvara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

@@ -1,6 +1,6 @@
 {
  "state": "Telangana",
- "count": 2243,
+ "count": 2260,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -121930,6 +121930,1153 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 139965171,
+   "lat": 17.7638,
+   "lon": 77.7123,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Ketaki Sangameswara Swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q139965171"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Sangareddy",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Zahirabad",
+     "dist_m": 14544
+    },
+    "nearest_bus": {
+     "name": "TGSRTC Bus Station , Zaheerabad",
+     "dist_m": 13852
+    },
+    "nearest_airport": {
+     "name": "Bidar Air Force Station",
+     "dist_m": 29594,
+     "iata": "IXX"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre Jarasangam",
+     "dist_m": 176
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q139965171",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "denomination": {
+     "value": [
+      "Shaivism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jharasangam Mandal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104866660,
+   "lat": 17.169683,
+   "lon": 79.582198,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Erakeswara Temple, Pillalamarri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104866660",
+    "wikipedia": "en:Erakeswara Temple, Pillalamarri"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Suryapet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tipparthi",
+     "dist_m": 24803
+    },
+    "nearest_bus": {
+     "name": "TGSRTC Hi-Tech Bus Stand , Suryapeta",
+     "dist_m": 4465
+    },
+    "nearest_airport": {
+     "name": "Warangal Airport",
+     "dist_m": 82802,
+     "iata": "WGC"
+    },
+    "nearest_medical": {
+     "name": "Harika Hospitals",
+     "dist_m": 2755
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104866660",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Suryapet district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Erakesvara%20temple%2C%20Pillalamarri%2C%20Suryapet%20district%2C%20Telangana%2003.jpg",
+    "summary": {
+     "text": "The Erakeswara Temple is a Hindu Saivite temple located in the western side of Pillalamarri, in the Suryapet district, of Telangana, India. The temple was built on the banks of the Musi river in c. 1208 CE. It was commissioned by Erakasani, the wife of Bēti Reddi of the Recherla Reddis family, who were feudatories of Kakatiyas. The Erakeswara Temple is one among the four prominent and intricately carved stone and granite temples located in Pillalamarri—the other three are about 250 metres east of the Erakeswara temple. These include the double temples next to each other: Nameswara Temple and Trikuteswara Temple ; and the third being the Chennakesava Temple (Vishnu) in ruins that is a few hundred feet southwest of the double temples. They are all from 12th to early 13th century period.",
+     "url": "https://en.wikipedia.org/wiki/Erakeswara_Temple%2C_Pillalamarri",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107406775,
+   "lat": 17.976583333,
+   "lon": 78.858222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudreswara Swamy Temple, Kondapak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107406775"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Siddipet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gajwel",
+     "dist_m": 23975
+    },
+    "nearest_bus": {
+     "name": "TGSRTC  Bus Depot , Siddipet",
+     "dist_m": 12994
+    },
+    "nearest_airport": {
+     "name": "Begumpet Airport",
+     "dist_m": 71282,
+     "iata": "BPM"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre Kondapak",
+     "dist_m": 57
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107406775",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Telangana"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107407716,
+   "lat": 18.248972222,
+   "lon": 79.013138888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakshmi Narasimha Swamy Temple, Bejjanki",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107407716"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Siddipet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sircilla railway station",
+     "dist_m": 22103
+    },
+    "nearest_bus": {
+     "name": "Chigurumamidi Bus Stand",
+     "dist_m": 19244
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 64297,
+     "iata": "RMD"
+    },
+    "nearest_medical": {
+     "name": "MAHALAXMI HOSPITAL",
+     "dist_m": 811
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107407716",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Siddipet district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Lakshmi",
+      "Narasimha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107417120,
+   "lat": 18.493888888,
+   "lon": 79.096111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chikati Gudi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107417120"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Karimnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kothapalli Haveli",
+     "dist_m": 2094
+    },
+    "nearest_bus": {
+     "name": "RTC WORKSHOP",
+     "dist_m": 4572
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 38873,
+     "iata": "RMD"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre, Kothapalli",
+     "dist_m": 120
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107417120",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karimnagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19595650,
+   "lat": 18.8703,
+   "lon": 78.9378,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Dubba Rajeshwara Swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19595650",
+    "wikipedia": "en:Dubba Rajeswara Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Jagtial",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lingampet Jagityal",
+     "dist_m": 11108
+    },
+    "nearest_bus": {
+     "name": "TGSRTC Old Bus Station , Jagityala",
+     "dist_m": 8231
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 51495,
+     "iata": "RMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19595650",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jagtial district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Dubba Rajeshwara Swamy Devasthanam is a Hindu temple in the village of Pembatla, Sarangapur mandal, Karimnagar District, Telangana, India. It is one of the oldest and most famous temples in Karimnagar District, primarily worshipping Shiva in the form of Dubba Rajeswara Swamy.",
+     "url": "https://en.wikipedia.org/wiki/Dubba_Rajeswara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19898462,
+   "lat": 18.5369,
+   "lon": 79.0242,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Trilinga Sanghameshwara swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19898462",
+    "wikipedia": "en:Trilinga Sanghameshwara Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Karimnagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gangadhara",
+     "dist_m": 6226
+    },
+    "nearest_bus": {
+     "name": "RTC WORKSHOP",
+     "dist_m": 13257
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 42954,
+     "iata": "RMD"
+    },
+    "nearest_medical": {
+     "name": "SubCentre Upparimalyala",
+     "dist_m": 4010
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19898462",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karimnagar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Sri Sri Trilinga Sanghameshwara Swamy Devalayam is located in Vilasagar village of Karimnagar district\nin the state of Telangana, India. It is one of the unique ancient Shiva temples where three linga's\nin three inner sanctums in one temple facing east, north and south. Sri Trilinga\nSanghameshwara swamy temple is situated 23 kilometers from Karimnagar town and 12 kilometers from\nVemulawada known as “southern kasi”.",
+     "url": "https://en.wikipedia.org/wiki/Trilinga_Sanghameshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28172799,
+   "lat": 16.5785877,
+   "lon": 79.0705561,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tulja Bhavani Temple - Peddamunigal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28172799",
+    "wikipedia": "en:Peddamunigal"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Nalgonda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Macherla",
+     "dist_m": 41051
+    },
+    "nearest_bus": {
+     "name": "TGSRTC New Bus Station , Devarakonda",
+     "dist_m": 20314
+    },
+    "nearest_airport": {
+     "name": "RGIA Phase II",
+     "dist_m": 101886,
+     "iata": "HYD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28172799",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Nalgonda"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Peddamunigal, also known as Munigal, is a Hindu temple situated on the banks of the Krishna River back of Nagarjuna Sagar Dam. and surrounded with Nallamala Forest in Nalgonda district of the Indian state of Telangana. The Temple is said to be an abode of Bhavani.",
+     "url": "https://en.wikipedia.org/wiki/Peddamunigal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5088609,
+   "lat": 17.077527777,
+   "lon": 79.295444444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chaya Someswara Swamy temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5088609",
+    "wikipedia": "en:Chaya Someswara Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Nalgonda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nalgonda",
+     "dist_m": 2280
+    },
+    "nearest_bus": {
+     "name": "TGSRTC  Bus Stand , Nalgonda",
+     "dist_m": 3287
+    },
+    "nearest_airport": {
+     "name": "RGIA Phase II",
+     "dist_m": 95038,
+     "iata": "HYD"
+    },
+    "nearest_medical": {
+     "name": "Urban Primary Health Centre, Panagal",
+     "dist_m": 1008
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5088609",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Dravidian architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "denomination": {
+     "value": [
+      "Shaivism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Telangana"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/11th%2012th%20century%20Chaya%20Someshwara%20Temple%2C%20Panagal%20Telangana%20India%20-%2018.jpg",
+    "summary": {
+     "text": "Chaya Someshwara Temple is a Shaivite Hindu temple located in Panagal, Nalgonda district of Telangana, India. It was built around the mid-11th century during the rule of the Kunduru Chodas, supported and embellished further by later Hindu dynasties of Telangana. Some date it to late 11th to early 12th-century.",
+     "url": "https://en.wikipedia.org/wiki/Chaya_Someswara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 48730192,
+   "lat": 15.87157519,
+   "lon": 78.12238776,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Alampur Papanasi Temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q48730192",
+    "wikipedia": "en:Alampur Papanasi Temples"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Jogulamba Gadwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Alampur Road",
+     "dist_m": 8510
+    },
+    "nearest_bus": {
+     "name": "Alampur Bus Station",
+     "dist_m": 1339
+    },
+    "nearest_airport": {
+     "name": "Bellary Airport",
+     "dist_m": 154544,
+     "iata": "BEP"
+    },
+    "nearest_medical": {
+     "name": "Govt Hospital,Alampur",
+     "dist_m": 1286
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q48730192",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Hindu temple architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jogulamba Gadwal district",
+      "Telangana"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jogulamba.jpg",
+    "summary": {
+     "text": "Alampuram Papanasi Temples are a group of twenty three Hindu temples dated between 9th- and 11th-century that have been relocated to the southwest of Alampuram village in Telangana. This cluster of mostly ruined temples are co-located near the meeting point of Tungabhadra River and Krishna River at the border of Andhra Pradesh. They are about 1.5 kilometers from the Alampur Navabrahma Temples of the Shaivism tradition, but completed a few centuries later by the Rashtrakutas and later Chalukyas.",
+     "url": "https://en.wikipedia.org/wiki/Alampur_Papanasi_Temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7121969,
+   "lat": 17.079666666,
+   "lon": 79.288194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pachala Someswara temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7121969",
+    "wikipedia": "en:Pachala Someswara Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Nalgonda",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nalgonda",
+     "dist_m": 2179
+    },
+    "nearest_bus": {
+     "name": "TGSRTC  Bus Stand , Nalgonda",
+     "dist_m": 3036
+    },
+    "nearest_airport": {
+     "name": "RGIA Phase II",
+     "dist_m": 94235,
+     "iata": "HYD"
+    },
+    "nearest_medical": {
+     "name": "Urban Primary Health Centre, Panagal",
+     "dist_m": 315
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7121969",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "Dravidian architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "denomination": {
+     "value": [
+      "Hinduism",
+      "Shaivism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Nalgonda district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/11th%2012th%20century%20Pachala%20Someshwara%20Temple%20reliefs%20and%20mandapams%2C%20Panagal%20Telangana%20India%20-%208.jpg",
+    "summary": {
+     "text": "Pachala Someswara Temple is a Shaivite Hindu temple located in Panagal, Nalgonda district, Telangana, India. It is a popular pilgrimage site particularly during Maha Shivaratri. The idol of the deity at the temple is carved out of green onyx, which is the source of the temple's name—Pacha meaning \"green\" in Telugu. The temple is in close proximity to Chaya Someswara Temple, another Shaivite shrine in Panagal. The temple dates back to the 11th or 12th centuries CE and was probably built during the rule of Kunduru Chodas and Prataparudra I of Kakatiya dynasty who governed the Panagal region.",
+     "url": "https://en.wikipedia.org/wiki/Pachala_Someswara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6428625,
+   "lat": 17.9202,
+   "lon": 78.9732,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Komrelly Mallanna Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6428625",
+    "wikipedia": "en:Komrelly Mallanna Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Siddipet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jangaon",
+     "dist_m": 28999
+    },
+    "nearest_bus": {
+     "name": "TGSRTC  Bus Depot , Siddipet",
+     "dist_m": 23079
+    },
+    "nearest_airport": {
+     "name": "Warangal Airport",
+     "dist_m": 66702,
+     "iata": "WGC"
+    },
+    "nearest_medical": {
+     "name": "Community Health Centre, Cherial",
+     "dist_m": 560
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6428625",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Siddipet district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "The Komuravelli Mallanna Swamy Temple is a Hindu temple located on a hill in Komuravelli village of Siddipet district in Telangana state, India. It is located near Siddipet on SH–1 Rajiv Rahadari. The primary deity is Mallanna or Mallikarjuna Swamy, a form of Shiva. The deity is also called as Khandoba by the Maharashtrian people. The temple is located about 85 kilometers from Hyderabad. In 2026, the state government opened the Komuravelli railway station to ensure easy access to the temple. The station is part of the Kothapalli–Manoharabad line.",
+     "url": "https://en.wikipedia.org/wiki/Komrelly_Mallanna_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7423263,
+   "lat": 18.20583333,
+   "lon": 78.98805556,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Saraswathi Kshetramu, Ananthasagar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7423263",
+    "wikipedia": "en:Saraswathi Kshetramu, Ananthasagar"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Siddipet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sircilla railway station",
+     "dist_m": 23701
+    },
+    "nearest_bus": {
+     "name": "Siddipet Old Bus Stop",
+     "dist_m": 18499
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 69706,
+     "iata": "RMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7423263",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Siddipet district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Saraswathi Kshetramu is a Hindu Temple of Goddess Saraswathi located in the Ananthasagar, Chinna Kodur Mandal, Siddipet Division, Siddipet district of Telangana. The temple was built on Friday, 2 May 1980 by Astakala Narasimha Rama Sharma (Astavadhani). It is located between Siddipet to Karimnagar, 22 km away from the former, 125 km from Hyderabad and 63 km from Medak.",
+     "url": "https://en.wikipedia.org/wiki/Saraswathi_Kshetramu%2C_Ananthasagar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7841994,
+   "lat": 18.0275,
+   "lon": 78.765555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trilinga Kshetras",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7841994",
+    "wikipedia": "en:Trilinga Kshetras"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Siddipet",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gajwel",
+     "dist_m": 21328
+    },
+    "nearest_bus": {
+     "name": "TGSRTC  Bus Depot , Siddipet",
+     "dist_m": 11778
+    },
+    "nearest_airport": {
+     "name": "Begumpet Airport",
+     "dist_m": 71108,
+     "iata": "BPM"
+    },
+    "nearest_medical": {
+     "name": "Sub Centre, Gudikandula",
+     "dist_m": 4760
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7841994",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "The land of the Telugu people was referred to, during ancient times, as Āndhra dēśa and Trilingadēśa. The word Telugu is believed to have been derived from trilinga, as in Trilinga Desha, \"the country of the three lingas\". According to legend, the deity Shiva descended as a lingam on three mountains that marked the boundaries of the Telugu country, namely Kaleshwaram in Telangana, Srisailam in Rayalaseema and Bhimeswaram, also known as Draksharamam, in Coastal Andhra. It was also believed that the word Telangana derived from Telingana, Telinga, Trilinga.",
+     "url": "https://en.wikipedia.org/wiki/Trilinga_Kshetras",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 84162080,
+   "lat": 17.4112085,
+   "lon": 78.4297628,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hare Krishna Golden Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q84162080",
+    "wikipedia": "en:Hare Krishna Golden Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Hyderabad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khairatabad",
+     "dist_m": 3326
+    },
+    "nearest_bus": {
+     "name": "Banjara Hills Rd12",
+     "dist_m": 649
+    },
+    "nearest_airport": {
+     "name": "Begumpet Airport",
+     "dist_m": 6282,
+     "iata": "BPM"
+    },
+    "nearest_medical": {
+     "name": "Avis Ankura Hospital for Women & Children",
+     "dist_m": 285
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q84162080",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hyderabad"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Hare Krishna Golden Temple is located at Banjara Hills, Hyderabad, India. It is the first Golden Temple to be constructed in Telangana. It was inaugurated in 2018 by Vice President of India Sri Venkaiah Naidu.",
+     "url": "https://en.wikipedia.org/wiki/Hare_Krishna_Golden_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 85756658,
+   "lat": 18.115166666,
+   "lon": 80.037027777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Devunigutta Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q85756658",
+    "wikipedia": "en:Devunigutta Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Mulugu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chintalpalli",
+     "dist_m": 41860
+    },
+    "nearest_bus": {
+     "name": "Mulugu bus stand (bus to palampet)",
+     "dist_m": 12826
+    },
+    "nearest_airport": {
+     "name": "Warangal Airport",
+     "dist_m": 50996,
+     "iata": "WGC"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre, Rainigudem",
+     "dist_m": 2365
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q85756658",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jayashankar Bhupalpally district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Devunigutta%20Temple%20In%20Telangana%20State%2002.jpg",
+    "summary": {
+     "text": "The Devunigutta Temple or Shiva Temple, Kothur is a Hindu temple near Kothur village in the Mulugu District, Telangana, India, some 60 km east of Warangal. Located in a remote forested plateau, it was probably built c. 6th century CE by the Vakatakas. It was first recorded in 2012, in an abandoned state, by the Archaeological Survey of India (ASI); however, it did not come to wider attention until images were posted on social media in 2017.",
+     "url": "https://en.wikipedia.org/wiki/Devunigutta_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97356111,
+   "lat": 16.198,
+   "lon": 78.049,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Ranganayaka Swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97356111",
+    "wikipedia": "en:Sri Ranganayaka Swamy Temple"
+   },
+   "state": "Telangana",
+   "state_basis": "boundary",
+   "district": "Wanaparthy",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Arepalli",
+     "dist_m": 21648
+    },
+    "nearest_bus": {
+     "name": "TGSRTC Bus Station , Pebbair",
+     "dist_m": 6206
+    },
+    "nearest_airport": {
+     "name": "RGIA Phase II",
+     "dist_m": 123504,
+     "iata": "HYD"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre, Srirangapur",
+     "dist_m": 159
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97356111",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Wanaparthy district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Ranganayaka%20Swamy%20temple%20Srirangapur%2C%20Wanaparthy%20Telangana%2C%20India%20-%201.jpg",
+    "summary": {
+     "text": "Sri Ranganayaka Swamy Temple, also known as the Shri Rangapur Temple, was constructed in the 18th century AD by Raja Baheri Gopal Rao of Wanaparthy Samasthanam It is located in Shri Rangapur Village, Pebbair, Wanaparthy District, Telangana.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Ranganayaka_Swamy_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
     ]
    }
   }

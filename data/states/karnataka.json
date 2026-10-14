@@ -1,6 +1,6 @@
 {
  "state": "Karnataka",
- "count": 3863,
+ "count": 3929,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -222226,6 +222226,4604 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12060946,
+   "lat": 15.570583333,
+   "lon": 74.752416666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamala Narayana Temple, Degaon",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12060946",
+    "wikipedia": "en:Kamala Narayana Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Belagavi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kambarganvi",
+     "dist_m": 14497
+    },
+    "nearest_bus": {
+     "name": "Haliyal KSRTC Bus Stand",
+     "dist_m": 26522
+    },
+    "nearest_airport": {
+     "name": "Belgaum Airport",
+     "dist_m": 35332,
+     "iata": "IXG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12060946",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1174-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Degaon"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamala%20Narayana%20Temple%2025.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kamala Narayana Temple is at Degaon in Belgaum District, Karnataka, India. The temple was built by the Kadamba dynasty. Kamal Narayan Temple was constructed by Tippoja, the chief architect of Kamala Devi, the Queen of the Kadamba king Sivachitta Permadi in the 12th century. This temple built in 1174. A.D. The principal deity is Lord Narayana.",
+     "url": "https://en.wikipedia.org/wiki/Kamala_Narayana_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 13609848,
+   "lat": 12.853055555,
+   "lon": 77.289722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vana Vishesha Sthalangal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q13609848",
+    "wikipedia": "en:Vana Vishesha Sthalangal"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru South",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ketohalli",
+     "dist_m": 11612
+    },
+    "nearest_bus": {
+     "name": "Bidadi Bus Station",
+     "dist_m": 12025
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 59193,
+     "iata": "BLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q13609848",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Vana Vishesha Sthalangal are the Siva temples which are located in famous forest areas. The word Vana means \"forest area\" and Vishesha means \"famous\". These temples are located in Tamil Nadu State.",
+     "url": "https://en.wikipedia.org/wiki/Vana_Vishesha_Sthalangal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15213882,
+   "lat": 12.96012,
+   "lon": 75.37836,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dharmasthala Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15213882",
+    "wikipedia": "en:Dharmasthala Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narimogaru",
+     "dist_m": 25606
+    },
+    "nearest_bus": {
+     "name": "Dharmasthala Private Bus Station",
+     "dist_m": 808
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 53591,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre Dharmasthala",
+     "dist_m": 1476
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15213882",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dakshina Kannada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dharmasthala%20Temple%2C%20Karnataka%20%282025%29%2004.jpg",
+    "website": "http://www.shridharmasthala.org/",
+    "summary": {
+     "text": "Dharmasthala Temple is an 800-year-old Hindu religious institution in the temple town of Dharmasthala in Dakshina Kannada, Karnataka, India. The deities of the temple are Hindu god Shiva, who is referred to as Mañjunatha, Hindu goddess Ammanavaru, the Tirthankara Chandraprabha and the protective gods of Jainism, Kalarahu, Kalarkayi, Kumarasvami and Kanyakumari. The temple was reconsecrated in 16th century by Hindu Dvaita saint Vadiraja Tirtha by the request of the then administrator of the temple, Devaraja Heggade. The temple is considered unique, since the priests in the temple are Madhwa Brahmins, who are Vaishnava, and the administration is run by a Jain Bunt family called the Pergades.",
+     "url": "https://en.wikipedia.org/wiki/Dharmasthala_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15277455,
+   "lat": 14.82,
+   "lon": 76.21972222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Guru Kottureshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15277455",
+    "wikipedia": "en:Shri Guru Kottureshwara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Vijayanagara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kotturu",
+     "dist_m": 998
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Stand",
+     "dist_m": 1072
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 59434,
+     "iata": "VDY"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 372
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15277455",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ballari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kottureshwara%20Belli%20Theru.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Guru Kottureshwara Shrine at Kotturu is an ancient shrine located at Kotturu taluk, Vijayanagara District, North Karnataka, India, 583134. This temple is 19 km from Kudligi, 28 km from Harapanahalli, 70 km from Davanagere and 253 km from Bengaluru.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Guru_Kottureshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16829577,
+   "lat": 13.180833333,
+   "lon": 77.923888888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dharmesvara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16829577",
+    "wikipedia": "en:Dharmesvara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru North",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Malur",
+     "dist_m": 20964
+    },
+    "nearest_bus": {
+     "name": "Vijayapura bus station",
+     "dist_m": 18308
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 23634,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Bylanarsapura Primary Health Centre",
+     "dist_m": 1474
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16829577",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Dharmesvara Temple, located in Kondrahalli, Bangalore Rural, Hoskote Taluk in Bangalore, Karnataka, India, is dedicated to the deity\nDharmesvara. It dates back to the Chola period of 1065 AD. The temple also has 5000 years of history as informed by the temple in charge, Mr. Manjunath.",
+     "url": "https://en.wikipedia.org/wiki/Dharmesvara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16835646,
+   "lat": 12.9320744,
+   "lon": 77.5734198,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Eshwara Temple, Kengeri, Bangalore",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16835646",
+    "wikipedia": "en:Eshwara Temple, Kengeri, Bengaluru"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru Urban",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Krishnadevaraya Halt",
+     "dist_m": 4711
+    },
+    "nearest_bus": {
+     "name": "N. R. Colony Bus Station",
+     "dist_m": 819
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 32842,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Oxford Hospital",
+     "dist_m": 264
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 246
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16835646",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Eshwara Temple is a Hindu temple in Kengeri, Bangalore, dedicated to the Lord Shiva. Dates back to the Chola king Rajendra Chola's Period.",
+     "url": "https://en.wikipedia.org/wiki/Eshwara_Temple%2C_Kengeri%2C_Bengaluru",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16892777,
+   "lat": 12.9525,
+   "lon": 77.692777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Someshwara Temple, Marathahalli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16892777",
+    "wikipedia": "en:Someshwara Temple, Marathahalli"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru Urban",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Belandur Road",
+     "dist_m": 2196
+    },
+    "nearest_bus": {
+     "name": "Terminal 2",
+     "dist_m": 1335
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 27290,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Piles and Fistula Clinic",
+     "dist_m": 398
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16892777",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Someshwara Temple is a Hindu temple in Marathahalli, Bangalore, Karnataka, India, dedicated to Siva.",
+     "url": "https://en.wikipedia.org/wiki/Someshwara_Temple%2C_Marathahalli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16937153,
+   "lat": 13.4881963,
+   "lon": 74.7028787,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Ammanavara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16937153",
+    "wikipedia": "en:Shri Ammanavara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Barkur",
+     "dist_m": 6286
+    },
+    "nearest_bus": {
+     "name": "Kokkarne",
+     "dist_m": 15106
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 62456,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Saligrama PHC, Karkada",
+     "dist_m": 2138
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16937153",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gundmi",
+      "Saligrama, Udupi",
+      "Udupi district",
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Amman (Tamil goddess)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Gundmi is a panchayat town in Udupi Taluk in Udupi district in the Indian state of Karnataka. Gundmi town is one of the oldest towns in India.",
+     "url": "https://en.wikipedia.org/wiki/Gundmi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17060126,
+   "lat": 12.876111111,
+   "lon": 74.838055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kudroli Bhagavathi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17060126",
+    "wikipedia": "en:Kudroli Bhagavathi Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mangaluru Central",
+     "dist_m": 1521
+    },
+    "nearest_bus": {
+     "name": "KSRTC Mangalore Bus Stand",
+     "dist_m": 1089
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 10064,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Sri Sathya Sai Nursing Home, Dakshina Kannada",
+     "dist_m": 177
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 217
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17060126",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kudroli%20Bhagavathi%20Khsethra%201.jpg",
+    "summary": {
+     "text": "The Kudroli Shri Bhagavathi Kshetra is a temple located in the heart of the city in Kodialbail, Mangalore in Karnataka.",
+     "url": "https://en.wikipedia.org/wiki/Kudroli_Bhagavathi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17062156,
+   "lat": 13.168611111,
+   "lon": 76.663611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Moole Shankareshvara Temple, Turuvekere",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17062156",
+    "wikipedia": "en:Moole Shankareshvara Temple, Turuvekere"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Tumakuru",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Aralaguppe",
+     "dist_m": 10863
+    },
+    "nearest_bus": {
+     "name": "Turuvekere",
+     "dist_m": 699
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 104342,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Turavakere",
+     "dist_m": 874
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17062156",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shankareshvara%20Temple%20%281260%20AD%29%20at%20Turvekere.JPG",
+    "summary": {
+     "text": "The Shankareshvara temple, dedicated to the Hindu god Shiva is located in Turuvekere, a small town in the Tumkur district, Karnataka state, India. Turuvekere, founded as an Agraharam town in the 13th century is located about 77 miles from the state capital Bangalore. The temple was built around 1260 A.D. during the rule of the Hoysala Empire King Narasimha III. This temple is a protected monument under the Karnataka state division of the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Moole_Shankareshvara_Temple%2C_Turuvekere",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 114397286,
+   "lat": 15.738055555,
+   "lon": 75.824722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhimambika temple, Itagi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q114397286",
+    "wikipedia": "en:Bhimambika temple, Itagi"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Gadag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Somanakatti",
+     "dist_m": 20912
+    },
+    "nearest_bus": {
+     "name": "Bus to Badami",
+     "dist_m": 23772
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 90343,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "Spm Medicals & Spm Clinic",
+     "dist_m": 246
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q114397286",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Bhimambika temple or Bheemavva temple, is a popular Mutt and temple located in the temple town of Itagi in Gadag District, Ron Taluk in Karnataka. It is About 13 km from Gajendragad Kalkaleshwara temple.",
+     "url": "https://en.wikipedia.org/wiki/Bhimambika_temple%2C_Itagi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 115805036,
+   "lat": 14.431311,
+   "lon": 74.956551,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandragutti Renukamba Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q115805036",
+    "wikipedia": "en:Chandragutti Renukamba Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Shimoga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kanale",
+     "dist_m": 23295
+    },
+    "nearest_bus": {
+     "name": "Siddapur Bus Stand",
+     "dist_m": 11607
+    },
+    "nearest_airport": {
+     "name": "Shivamogga Airport",
+     "dist_m": 95784,
+     "iata": "RQY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q115805036",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Chandragutti Renukamba Temple located at Shivamogga district is a Hindu temple dedicated to goddess Renuka. This is an ancient cave temple. It is located 19 km (12 mi) away from the town of Soraba and 19 km (12 mi) away from Sirsi and Siddapura towns in the district of Uttara Kannada in Karnataka State of India.",
+     "url": "https://en.wikipedia.org/wiki/Chandragutti_Renukamba_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 117006412,
+   "lat": 12.901037,
+   "lon": 76.391169,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chennakesava temple, Channarayapatna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q117006412"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Hassan",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Channarayapatna",
+     "dist_m": 974
+    },
+    "nearest_bus": {
+     "name": "Channarayapattana Bus Stand",
+     "dist_m": 326
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 79758,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Sri Vijaya Hospital",
+     "dist_m": 259
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q117006412",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hassan district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chennakeshava%20Temple%2C%20Channarayapattana%20Karnataka%20056.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123337953,
+   "lat": 13.308833333,
+   "lon": 74.739138888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Prasanna Somesvara temple, Udiyavara Udupi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123337953"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udupi",
+     "dist_m": 4571
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Station",
+     "dist_m": 3700
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 42365,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Dr. Sharma Clinic",
+     "dist_m": 288
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123337953",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udupi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/21.10%20Shambukallu-Tempel.png"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 138497769,
+   "lat": 12.9882156,
+   "lon": 74.9979695,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Samba Sadashiva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q138497769"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bantawal",
+     "dist_m": 12848
+    },
+    "nearest_bus": {
+     "name": "Moodabidri Bus Stand",
+     "dist_m": 8891
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 12911,
+     "iata": "IXE"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q138497769",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dakshina Kannada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 138497809,
+   "lat": 12.9966645,
+   "lon": 75.0059309,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Iruvail shri durgaparameswari temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q138497809"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bantawal",
+     "dist_m": 13525
+    },
+    "nearest_bus": {
+     "name": "Moodabidri Bus Stand",
+     "dist_m": 8025
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 14022,
+     "iata": "IXE"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q138497809",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udupi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 138499049,
+   "lat": 12.7386904,
+   "lon": 75.0260646,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Gurudevadatta Samsthanam, Odiyoor",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q138499049"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalladaka",
+     "dist_m": 12319
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Station",
+     "dist_m": 8681
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 28557,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Centre 24x7, Bayar",
+     "dist_m": 4722
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q138499049",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bantwal taluk",
+      "Dakshina Kannada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B2%B6%E0%B3%8D%E0%B2%B0%E0%B3%80%20%E0%B2%B8%E0%B2%82%E0%B2%B8%E0%B3%8D%E0%B2%A5%E0%B2%BE%E0%B2%A8%E0%B2%AE%E0%B3%8D.jpg",
+    "website": "https://shreeodiyoor.org/"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 138836905,
+   "lat": 12.948783333,
+   "lon": 77.558383333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Bande Mahakali Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q138836905"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru Urban",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Krishnadevaraya Halt",
+     "dist_m": 2345
+    },
+    "nearest_bus": {
+     "name": "Srinagar Bus Station",
+     "dist_m": 629
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 31967,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Kamala Nursing Home, Bengaluru Urban",
+     "dist_m": 416
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q138836905",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bengaluru"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Bande%20Mahakali%20Temple%20%282024%29%2002.jpg",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 2044395,
+   "lat": 13.332222222,
+   "lon": 74.746111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Udupi Sri Krishna Matha",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q2044395",
+    "wikipedia": "en:Udupi Sri Krishna Matha"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udupi",
+     "dist_m": 2701
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Station",
+     "dist_m": 1001
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 44533,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "T M A Pai Hospital",
+     "dist_m": 103
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q2044395",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "denomination": {
+     "value": [
+      "Vaishnavism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Udupi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Udupi%20Sri%20Krishna%20Temple%2C%20Udupi%2C%20Karnataka%2C%20India%20%282007%29.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Udupi Shri Krishna Temple is a well-known historic Hindu temple dedicated to Krishna and Dvaita Matha, located in the city of Udupi in Karnataka, India. The Matha area resembles a living ashram, a holy place for daily devotion and living. Surrounding the Shri Krishna Temple are several temples namely the Udupi Anantheshwara Temple which is over a thousand years old.",
+     "url": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 283287,
+   "lat": 15.91666667,
+   "lon": 75.75,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahakuta group of temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q283287",
+    "wikipedia": "en:Mahakuta group of temples"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bagalkote",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Badami",
+     "dist_m": 9146
+    },
+    "nearest_bus": {
+     "name": "Badami Bus Station",
+     "dist_m": 7686
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 94884,
+     "iata": "HBX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q283287",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bagalkot district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahakuta%20group%20of%20temples3%20at%20Mahakuta.jpg",
+    "summary": {
+     "text": "The Mahakuta group of temples is located in Mahakuta, a village in the Bagalkot district of Karnataka state, India. It is an important place of worship for Hindus and the location of a well-known Shaiva monastery. The temples are dated to the 6th or 7th century CE and were constructed by the early kings of the Chalukya dynasty of Badami. The dating of the temples is based on the style of architecture which is similar to that of the temples in nearby Aihole and the information in two notable inscriptions in the complex: the Mahakuta Pillar inscription dated between 595–602 CE ; and an inscription of Vinapoti, a concubine of king Vijayaditya, dated between 696–733 CE and written in the Kannada language and script.",
+     "url": "https://en.wikipedia.org/wiki/Mahakuta_group_of_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19882059,
+   "lat": 11.96806553,
+   "lon": 76.98776527,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Arakeshvara Templa",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19882059",
+    "wikipedia": "en:Arakeshvara Temple, Hole Alur"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Chamarajanagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chamarajanagar",
+     "dist_m": 7041
+    },
+    "nearest_bus": {
+     "name": "Chamarajanagar KSRTC Bus Stand",
+     "dist_m": 7112
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 46756,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Tribal Mobile Health Unit",
+     "dist_m": 4337
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19882059",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamarajanagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Arakeshvara%20temple%20at%20Hole%20Alur.JPG",
+    "summary": {
+     "text": "The Arakeshvara Temple, dedicated to the Hindu god Shiva, is located in the village of Hole Alur in the Chamarajanagar district of Karnataka state, India. According to the historian Sarma, the temple which dates back to the middle of the 10th century rule of the Western Ganga Dynasty appears to have been renovated in later periods. It was constructed by King Butuga II around 949 A.D. to celebrate his victory over the Cholas of Tanjore in the historically important battle of Takkolam. It was a military engagement between crown prince Rajaditya, son of the Chola King Parantaka I, and King Butaga II. The temple is protected as a monument of national importance by the central Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Arakeshvara_Temple%2C_Hole_Alur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19893067,
+   "lat": 13.146861111,
+   "lon": 76.539805555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakshminarasimha Temple, Vignasante",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19893067",
+    "wikipedia": "en:Lakshminarasimha Temple, Vignasante"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Tumakuru",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Banashankari",
+     "dist_m": 13420
+    },
+    "nearest_bus": {
+     "name": "Turuvekere",
+     "dist_m": 13746
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 102634,
+     "iata": "MYQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19893067",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Tumkur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Narasimha%20temple%20at%20Vignasante.JPG",
+    "deity": {
+     "values": [
+      "Lakshmi",
+      "Narasimha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Lakshminarasimha temple at Vignasante is a 13th-century Vishnu temple in the village of Vignasante, Tumkur district, Karnataka, India. The three-shrine temple is dedicated to Venugopala, Narasimha and Lakshmi Narayana. One of the late temples built before Hoysala empire came under sustained attacks from the Delhi Sultanate, it illustrates the mature Hoysalanadu architectural tradition. The fully carved, three storey Vesara vimana of this temple is notable.",
+     "url": "https://en.wikipedia.org/wiki/Lakshminarasimha_Temple%2C_Vignasante",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19895759,
+   "lat": 14.35303,
+   "lon": 76.1468,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ranganathaswamy Temple, Nirthadi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19895759",
+    "wikipedia": "en:Ranganathaswamy Temple, Nirthadi"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Davanagere",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mayakonda",
+     "dist_m": 10542
+    },
+    "nearest_bus": {
+     "name": "SRE Ananth Group Bus Station",
+     "dist_m": 26974
+    },
+    "nearest_airport": {
+     "name": "Shivamogga Airport",
+     "dist_m": 79164,
+     "iata": "RQY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19895759",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Davanagere district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Tower%20over%20shrine%20at%20Ranganatha%20Swamy%20temple%20in%20Neerthadi.JPG",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Ranganatha Swamy Temple at Nirthadi, is a post-Vijayanagara Empire re-construction. Nirthadi is a village in the Davangere district of Karnataka state, India. According to noted historian and epigraphist Benjamin Lewis Rice, a Kannada language inscription dated 1698 AD in the temple premise describes the destruction of the original temple by the armies of Mogul emperor Aurangzeb in 1696 AD. The Chitradurga chief Baramappa Nayaka (r.1689–1721) rebuilt the temple in 1698 AD. The monument is protected by the Karnataka state division of Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple%2C_Nirthadi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906618,
+   "lat": 12.08333333,
+   "lon": 76.66666667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakshmikanta Temple, Kalale",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906618",
+    "wikipedia": "en:Lakshmikanta Temple, Kalale"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Mysuru District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nanjangud Town",
+     "dist_m": 4716
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Stand",
+     "dist_m": 4541
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 16425,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Karunalaya Hospital, Nanajanagud",
+     "dist_m": 2675
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906618",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mysuru district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20View%20showing%20dravidian%20style%20sikhara%20over%20shrine%20and%20gopura%20over%20entrance%20in%20Lakshmikantha%20temple%20at%20Kalale.JPG",
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The  Lakshmikanta Temple  is a Hindu (Vaishnava) temple in Kalale, a village in the Nanjangud taluk of the Mysore district, Karnataka state, India. The temple dates back at least to the early 18th century and is built in typical dravidian style. The temple is a protected monument under the Karnataka state division of the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Lakshmikanta_Temple%2C_Kalale",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906623,
+   "lat": 13.23,
+   "lon": 77.7,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Venugopalaswamy Temple, Devanahalli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906623",
+    "wikipedia": "en:Venugopalaswamy Temple, Devanahalli"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru North",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Devanahalli",
+     "dist_m": 2037
+    },
+    "nearest_bus": {
+     "name": "New bus stand",
+     "dist_m": 2227
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 3669,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Sri Shirdi Sai Hospital",
+     "dist_m": 1965
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906623",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bengaluru North district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Venugopalaswamy%20Temple%20in%20Devanahalli%2003.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Venugopalaswamy Temple, dedicated to a form of the Hindu god Vishnu is located inside the Devanahalli Fort in the town of Devanahalli. It is a town in the Bangalore Rural district, Karnataka state, India and is located 35 kilometres (25 mi) to the north-east of Bangalore, the state capital. The Venugopalaswamy temple is constructed in the Dravidian style and belongs to the post Vijayanagara Empire period. The temple is a protected monument under the Karnataka state division of the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Venugopalaswamy_Temple%2C_Devanahalli",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906642,
+   "lat": 15.41,
+   "lon": 75.61,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Veeranarayana Temple, Gadag",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906642",
+    "wikipedia": "en:Veeranarayana Temple, Gadag"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Gadag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Binkadakatti",
+     "dist_m": 3322
+    },
+    "nearest_bus": {
+     "name": "KSRTC Gadag New Bus Stand",
+     "dist_m": 2945
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 57303,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "LYDM Sparsh Multispeciality Hospital",
+     "dist_m": 596
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906642",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gadag-Betageri"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20and%20gopura%20of%20the%20Veeranarayana%20temple%20in%20Gadag.JPG",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Veeranarayana Temple in Gadag city is a Hindu temple known to have been built around 11th century by the Chalukyas of Kalyani. Gadag city is the administrative headquarters of Gadag district in the state of Karnataka, India. The primary deity in temple is the Hindu god Narayana. The Veeranarayana temple is a protected monument under the Karnataka state division of the Archaeological Survey of India. Priests in the temple are Madhva Brahmins and is under their control.",
+     "url": "https://en.wikipedia.org/wiki/Veeranarayana_Temple%2C_Gadag",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906641,
+   "lat": 12.21,
+   "lon": 76.906,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gunja Narasimha Swamy Temple, Thirumakudalu Narasipura",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906641",
+    "wikipedia": "en:Gunja Narasimha Swamy Temple, Tirumakudal Narasipura"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Mysuru District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narasambudhi",
+     "dist_m": 22650
+    },
+    "nearest_bus": {
+     "name": "Bus Stop",
+     "dist_m": 20008
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 27738,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, T.Narasipura",
+     "dist_m": 883
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906641",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Mysuru district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gopura%20over%20entrance%20in%20Gunjanarasimhaswamy%20temple%20at%20Tirumakudal%20Narasipura.JPG",
+    "deity": {
+     "values": [
+      "Narasimha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Gunja Narasima Swamy Temple is a Hindu temple in Tirumakudal Narasipura, a town in the Mysore district, Karnataka state, India. The town is located 20 miles south east of the historically important city of Mysore. The temple dates back to about the 16th rule of the Vijayanagara Empire and is built in typical dravidian style with an imposing gopura (tower) over the entrance gate (mahadwara) and a four pillared mantapa (\"hall\") in front of the sanctum. The temple is located at the confluence of the Kaveri river and the Kabini river and is considered sacred by Hindus. The temple gets its name from the Gunja(Gulaganji in Kannada) tree that grows in the front of the main entrance; a boastful local claim is that the temple is more sacred than Varanasi (Kashi) by the weight of a gunja plant. Sculptures in the temple include those of the Hindu god Narasimha and the demon King Hiranyakashipu.",
+     "url": "https://en.wikipedia.org/wiki/Gunja_Narasimha_Swamy_Temple%2C_Tirumakudal_Narasipura",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906644,
+   "lat": 12.46,
+   "lon": 76.39,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Arakeshwara Temple, Haleyedatore",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906644",
+    "wikipedia": "en:Arakeshwara Temple, Haleyedatore"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Mysuru District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Krishnaraja Nagar",
+     "dist_m": 1678
+    },
+    "nearest_bus": {
+     "name": "Krishnarajanagara Bus Stand",
+     "dist_m": 2563
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 38208,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Krishnarajanagara Taluk Government Hospital",
+     "dist_m": 1993
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906644",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Krishnarajanagara Taluk"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Arakeshwara%20temple%20and%20outer%20prakara%20at%20Hale%20Yadatore%20in%20Mysore%20district.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Hale Yedatore, a village in the Krishnaraja Nagara taluk of the Mysore district, Karnataka state, India is located about four kilometers north of the commercially important newly built town of Krishnarajanagara, and about 44 km north-west of the historically important city of Mysore. The name Yedatore derives from two Kannada language words, yeda and tore – a name that arises from the \"bend to the left\" made by the river at that spot which is considered sacred by Hindus. There are steps leading from the temple down to the bathing areas (\"ghats\") by the river. Yedatore village was severely damaged in the 1920s from the flood waters of the River Kaveri, prompting the Mysore ruler to build the new town, named Krishnarajanagar, little southerly on an elevated land.",
+     "url": "https://en.wikipedia.org/wiki/Arakeshwara_Temple%2C_Haleyedatore",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906671,
+   "lat": 15.55,
+   "lon": 76.4,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kanakachalapathi Temple, Kanakagiri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906671",
+    "wikipedia": "en:Kanakachalapathi Temple, Kanakagiri"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Koppal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chikkabenakal",
+     "dist_m": 14258
+    },
+    "nearest_bus": {
+     "name": "Hampi Bus Stand",
+     "dist_m": 24890
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 48611,
+     "iata": "VDY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906671",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Koppal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gopura%20over%20entrance%20to%20Kanakachalapathi%20temple%20at%20Kanakagiri%20in%20the%20Koppal%20district.JPG",
+    "summary": {
+     "text": "The Kanakachalapathi temple is a 16th-century Hindu temple dedicated to the god Vishnu. It is located in the town of Kanakagiri, in the Gangavathi taluk of Koppal district in the Karnataka state, India. Kanakagiri, known in ancient times as \"Swarnagiri\" is about 3 km from the district headquarters Koppal city, 380 km north of Bangalore city and 200 km east of Belagavi city.",
+     "url": "https://en.wikipedia.org/wiki/Kanakachalapathi_Temple%2C_Kanakagiri",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24913112,
+   "lat": 14.8981956,
+   "lon": 74.2828254,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Siddheshwar Mandir, Balni Karwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24913112"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Uttara Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karwar",
+     "dist_m": 13827
+    },
+    "nearest_bus": {
+     "name": "Karwar Bus stand",
+     "dist_m": 19566
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 72194,
+     "iata": "GOI"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital Ulga",
+     "dist_m": 4586
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24913112",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karwar",
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shree%20Siddheshwar%20Temple%2C%20Karwar%20Balni%20Pic%202.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24934940,
+   "lat": 14.4689579,
+   "lon": 74.419712,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Hirebeera Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24934940"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Uttara Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kumta",
+     "dist_m": 3531
+    },
+    "nearest_bus": {
+     "name": "New Bus Stand",
+     "dist_m": 4167
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 119390,
+     "iata": "GOI"
+    },
+    "nearest_medical": {
+     "name": "Ramleela Hospital",
+     "dist_m": 3572
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24934940",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hegde village",
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Hirebeera%20Deva.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24935422,
+   "lat": 12.800331,
+   "lon": 74.8742697,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Parashakthi Kshetra",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24935422",
+    "wikipedia": "en:Sri Parashakthi Kshetra"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ullal",
+     "dist_m": 2281
+    },
+    "nearest_bus": {
+     "name": "Ullal Bus Station",
+     "dist_m": 4305
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 17213,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "K S Hegde Medical College",
+     "dist_m": 1452
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24935422",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kotekar",
+      "Dakshina Kannada district",
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "\nSri Parashakthi Kshetra, a temple complex at Madyar, Kotekar. Madyar, located around 20 km from Mangalore, the port city of Karnataka, India where the Hindu goddess Vaishnavi is worshiped as the presiding deity.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Parashakthi_Kshetra",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25627158,
+   "lat": 17.336420246,
+   "lon": 76.826178236,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sharana Basaveshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25627158",
+    "wikipedia": "en:Sharana Basaveshwara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Kalaburagi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalaburagi Junction",
+     "dist_m": 2390
+    },
+    "nearest_bus": {
+     "name": "Main bus station",
+     "dist_m": 1464
+    },
+    "nearest_airport": {
+     "name": "Kalaburagi Airport",
+     "dist_m": 15102,
+     "iata": "GBI"
+    },
+    "nearest_medical": {
+     "name": "Netrajyothi Eye Care",
+     "dist_m": 220
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25627158",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sharana%20Basaveshwara%20Temple%20Gulbarga.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sharana Basaveshwara Temple is a shrine at Kalaburgi (Gulbarga), an ancient town in the north-eastern part of Karnataka.",
+     "url": "https://en.wikipedia.org/wiki/Sharana_Basaveshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28154101,
+   "lat": 12.86883,
+   "lon": 74.872202,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Brahma Baidarkala Garadi Kshetra",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28154101",
+    "wikipedia": "en:Shree Brahma Baidarkala Garadi Kshetra"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mangaluru Junction",
+     "dist_m": 800
+    },
+    "nearest_bus": {
+     "name": "KSRTC Mangalore Bus Stand",
+     "dist_m": 3779
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 9648,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Indiana Hospital and Heart Institute Ltd. - Mangalore",
+     "dist_m": 639
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28154101",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Koti-chennaya.jpg",
+    "summary": {
+     "text": "Shree Brahma Baidarkala Garadi Kshetra, or popularly known as Garodi, is a temple in Mangalore dedicated to the twin cultural heroes of Tulu Nadu region, Koti and Chennayya. The temple is located at Kankanadi, adjacent to the Mangalore-Bangalore highway just 4 km away from the heart of Mangalore. This temple is of much significance to the Tuluva community.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Brahma_Baidarkala_Garadi_Kshetra",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 29467291,
+   "lat": 13.15852,
+   "lon": 74.837778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Santhoor Subramanya Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q29467291",
+    "wikipedia": "en:Santhoor Subramanya Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nandikoor",
+     "dist_m": 4482
+    },
+    "nearest_bus": {
+     "name": "Mulki Bus stand",
+     "dist_m": 9296
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 23190,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Belman, Government Hospital",
+     "dist_m": 3860
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q29467291",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Murugan"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Santhoor Subramanya Temple is a Hindu temple located in the village of Santhoor near Padubidri, Karnataka. Here Kartikeya is worshipped as Subramanya, lord of all serpents. The main festivals celebrated here includes Shashti, Kiru Shashti and Nagara Panchami. During the Shashti Mahotsav Devotees in thousands come into the temple, early in the morning for having Darshan of God, offered special poojas and sought the blessing from God Subramanya for good health, wealth, prosperity and peace.",
+     "url": "https://en.wikipedia.org/wiki/Santhoor_Subramanya_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 30593098,
+   "lat": 13.472111111,
+   "lon": 77.282972222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Goravanahalli mahalakshmi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q30593098",
+    "wikipedia": "en:Goravanahalli Mahalakshmi Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Tumakuru",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kyatsandra",
+     "dist_m": 22733
+    },
+    "nearest_bus": {
+     "name": "Devarayana Durga Bus Stop",
+     "dist_m": 13662
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 55040,
+     "iata": "BLR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q30593098",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "\n\nGoravanahalli Mahalakshmi Temple is a Hindu temple located in Goravanahalli, a village in Tumkur district in the Indian state of Karnataka.",
+     "url": "https://en.wikipedia.org/wiki/Goravanahalli_Mahalakshmi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 31374519,
+   "lat": 12.1190951,
+   "lon": 77.3572176,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "P. Agrakaram Muniyappan Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q31374519"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Chamarajanagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chamarajanagar",
+     "dist_m": 50509
+    },
+    "nearest_bus": {
+     "name": "Sangama Mekedatu Bus Service",
+     "dist_m": 20546
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 77686,
+     "iata": "MYQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q31374519",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dharmapuri district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 31830650,
+   "lat": 12.9142,
+   "lon": 75.0596,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Karinjeshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q31830650",
+    "wikipedia": "en:Karinjeshwara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bantawal",
+     "dist_m": 4868
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Terminal",
+     "dist_m": 4999
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 19577,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Saraswati Nursing Home",
+     "dist_m": 2614
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q31830650",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dakshina Kannada district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Karinjeshwara%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Karinjeshwara Temple is Hindu Temple, a famous Lord Shiva temple located Karinja in Bantwala Taluk, Kavalamudur Village, Dakshina Kannada, Karnataka, India. This temple is situated on the peak of Karinja Hill, about 1000 feet above sea level in Kodyamale hills, Karinjeshwara.",
+     "url": "https://en.wikipedia.org/wiki/Karinjeshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4751490,
+   "lat": 15.278055555,
+   "lon": 76.407222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ananthasayana temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4751490",
+    "wikipedia": "en:Ananthasayana Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Vijayanagara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hosapete Junction",
+     "dist_m": 2406
+    },
+    "nearest_bus": {
+     "name": "Hosapete Bus Stand",
+     "dist_m": 1953
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 26817,
+     "iata": "VDY"
+    },
+    "nearest_medical": {
+     "name": "Srikarii Hospital",
+     "dist_m": 836
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4751490",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Vijayanagara District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ananthasayana%20temple%20%281524%20AD%29%20at%20Ananthasayanagudi.JPG",
+    "summary": {
+     "text": "Ananthasayana temple in Ananthasayanagudi, Vijayanagara district, Karnataka state, India was constructed by King Krishnadeva Raya of the Vijayanagara Empire in memory of his deceased son.",
+     "url": "https://en.wikipedia.org/wiki/Ananthasayana_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4955605,
+   "lat": 12.763472222,
+   "lon": 76.429083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Brahmeshvara Temple, Kikkeri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4955605",
+    "wikipedia": "en:Brahmeshvara Temple, Kikkeri"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Mandya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mandagere",
+     "dist_m": 6614
+    },
+    "nearest_bus": {
+     "name": "Bus Stand",
+     "dist_m": 494
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 64018,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 863
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4955605",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mandya district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Brahmeshvara%20Temple%20%281171%20AD%29%20at%20Kikkeri%2C%20Mandya%20district.JPG",
+    "summary": {
+     "text": "The Brahmeshvara temple, also referred to as the Brahmeshwara or Brahmesvara temple, is a 12th-century Hindu temple with Hoysala architecture in Kikkeri village, Mandya district of Karnataka state, India. Along with two other major historic temples within the village, the Brahmeshvara temple is one of many major ruined temples with notable artwork in Kikkeri area close to the more famous monuments of Shravanabelagola.",
+     "url": "https://en.wikipedia.org/wiki/Brahmeshvara_Temple%2C_Kikkeri",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5287741,
+   "lat": 15.301861111,
+   "lon": 75.771638888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Doddabasappa Temple, Dambal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5287741",
+    "wikipedia": "en:Doddabasappa Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Gadag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Harlapur",
+     "dist_m": 15172
+    },
+    "nearest_bus": {
+     "name": "KSRTC Gadag New Bus Stand",
+     "dist_m": 19396
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 74671,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Dambal",
+     "dist_m": 883
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5287741",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gadag district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodda%20Basappa%20Temple.JPG",
+    "summary": {
+     "text": "Doddabasappa Temple is a 12th-century Western Chalukyan architectural innovation in Dambal, Karnataka state, India. Dambal is about 20 km (12 mi) southeast of Gadag city and 24 km (15 mi) southwest of Ittagi in Koppal district. The sanctum contains a Shiva linga, the symbol of the presiding deity, God Shiva. The temple interior is a standard construction and consists of a sanctum (cella), a vestibule (antarala) and a main mantapa. The vestibule connects the sanctum to the mantapa. The Western Chalukya monuments, regional variants of existing dravida temples, defined the Karnata dravida architectural tradition.",
+     "url": "https://en.wikipedia.org/wiki/Doddabasappa_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6348580,
+   "lat": 14.5756738,
+   "lon": 75.14738656,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kaitabheshvara Temple, Kubatur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6348580",
+    "wikipedia": "en:Kaitabheshvara Temple, Kubatur"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Shimoga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Haveri",
+     "dist_m": 37394
+    },
+    "nearest_bus": {
+     "name": "New Bus Stand",
+     "dist_m": 21825
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 87584,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Anavatti",
+     "dist_m": 1211
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6348580",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Shimoga district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20view%20of%20Kaitabhesvara%20temple%20%281100%20AD%29%20at%20Kubatur.JPG",
+    "summary": {
+     "text": "The Kaitabheshvara temple is located in the town of Kubatur, near Anavatti in the Shimoga district of Karnataka state, India. The temple was constructed during the reign of Hoysala King Vinayaditya around 1100 AD. The Hoysala ruling family was during this time a powerful feudatory of the imperial Western Chalukya Empire ruled by King Vikramaditya VI. According to the Archaeological Survey of India, the architectural signature of the temple is mainly \"Chalukyan\". Art historian Adam Hardy classifies the style involved in the construction of the temple as \"Later Chalukya, non mainstream, far end of spectrum\". The building material used is soapstone The temple is protected as a monument of national importance by the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Kaitabheshvara_Temple%2C_Kubatur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6353763,
+   "lat": 14.92527778,
+   "lon": 75.83111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kalleshwara Temple, Hire Hadagali",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6353763",
+    "wikipedia": "en:Kalleshwara Temple, Hire Hadagali"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Vijayanagara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Harapanahalli",
+     "dist_m": 23628
+    },
+    "nearest_bus": {
+     "name": "Old Bus Stand",
+     "dist_m": 15037
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 90506,
+     "iata": "VDY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6353763",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ballari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shrine%20and%20tower%20%28vimana%29%20of%20Kalleshvara%20temple%20at%20Hire%20Hadagali.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Kalleshwara temple is located in the town of Hire Hadagali of the Hoovina Hadagalitaluk in Vijayanagara district of Karnataka state, India.",
+     "url": "https://en.wikipedia.org/wiki/Kalleshwara_Temple%2C_Hire_Hadagali",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 60617898,
+   "lat": 13.62833333,
+   "lon": 74.68888889,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Vinayaka Temple, Guddattu",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q60617898",
+    "wikipedia": "en:Sri Vinayaka Temple, Guddattu"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kundapura",
+     "dist_m": 4611
+    },
+    "nearest_bus": {
+     "name": "KSRTC Bus Station",
+     "dist_m": 714
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 77802,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Sri Matha Hospital",
+     "dist_m": 6
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q60617898",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udupi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Vinayaka%20Temple%2C%20Guddattu%2C%20Karnataka%20%282026%29%2008.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Guddattu Sri Vinayaka Temple is located at Kundapura, Udupi District in the state of Karnataka, India. It is a Hindu temple dedicated to god Ganapathy, also called Jaladhivasa GanapathyTemple, It is the only Jaladhivasa Ganapathi temple in India. Lord Ganesha’s three-foot idol is believed to have emerged from the rock. Aayira Koda Seva, Tailabhyanjana, Panchamrutha and Rudrabhisheka are performed in the temple every day.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Vinayaka_Temple%2C_Guddattu",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 61702554,
+   "lat": 17.858346,
+   "lon": 76.974582972,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple in Narayanapur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q61702554",
+    "wikipedia": "en:Shiva temple, Narayanapur"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bidar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Humanabad",
+     "dist_m": 19939
+    },
+    "nearest_bus": {
+     "name": "Humnabad KSRTC Bus Stand",
+     "dist_m": 18547
+    },
+    "nearest_airport": {
+     "name": "Bidar Air Force Station",
+     "dist_m": 53003,
+     "iata": "IXX"
+    },
+    "nearest_medical": {
+     "name": "Charaka Ayurvedic Hospital Dr Sadanand Patil",
+     "dist_m": 2636
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q61702554",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Narayanapur, Bidar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20temple%2C%20Narayanapur%2C%20Bidar%2005.jpg",
+    "deity": {
+     "values": [
+      "Shiva",
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Shiva temple in Narayanapur village in Bidar district. The temple is about 4 km from Basavakalyan town. The temple is a showcase of Kalyani Chalukyan architecture.",
+     "url": "https://en.wikipedia.org/wiki/Shiva_temple%2C_Narayanapur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 61740703,
+   "lat": 17.831202777,
+   "lon": 77.176375,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Iswara temple in Jalasangvi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q61740703",
+    "wikipedia": "en:Iswara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bidar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nandagaon",
+     "dist_m": 5210
+    },
+    "nearest_bus": {
+     "name": "Humnabad KSRTC Bus Stand",
+     "dist_m": 8575
+    },
+    "nearest_airport": {
+     "name": "Bidar Air Force Station",
+     "dist_m": 32398,
+     "iata": "IXX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q61740703",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jalasangvi",
+      "Bidar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Iswara%20temple%20in%20Jalasangvi%20001.jpg",
+    "summary": {
+     "text": "Iswara temple also known by other names Kamalishwara temple, Kamaleshwara temple, Kalleshwara temple, Eshwara temple is located in Jalasangvi village, about 10 km north-west of Humnabad Taluk of Bidar district, Karnataka, India. According to the inscriptions found the temple was built during the reign of the celebrated emperor Vikramaditya VI of Kalyana Chalukya dynasty.",
+     "url": "https://en.wikipedia.org/wiki/Iswara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 825236,
+   "lat": 15.91833333,
+   "lon": 75.685,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Badami cave temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q825236",
+    "wikipedia": "en:Badami cave temples"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bagalkote",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Yaragoppa",
+     "dist_m": 4119
+    },
+    "nearest_bus": {
+     "name": "Badami Bus Station",
+     "dist_m": 899
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 89848,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "Kyalakond Hospital",
+     "dist_m": 528
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 126
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 84
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q825236",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "architecture": {
+     "value": [
+      "rock-cut architecture in India",
+      "Badami Chalukya architecture"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Badami"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/6th%20-%207th%20century%20Badami%20cave%20temples%20layout%20exterior%20annotated.jpg",
+    "summary": {
+     "text": "The Badami cave temples are a complex of Buddhist, Hindu and Jain cave temples located in Badami, a town in the Bagalkot district in northern part of Karnataka, India. The caves are important examples of Indian rock-cut architecture, especially Badami Chalukya architecture, and the earliest date from the 6th century. Badami is a modern name and was previously known as \"Vataapi\", the capital of the early Chalukya dynasty, which ruled much of Karnataka from the 6th to the 8th century. Badami is situated on the west bank of a man-made lake ringed by an earthen wall with stone steps; it is surrounded on the north and south by forts built during Early Chalukya and in later times.",
+     "url": "https://en.wikipedia.org/wiki/Badami_cave_temples",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6382538,
+   "lat": 14.39392684,
+   "lon": 75.2442636,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kedareshvara Temple, Balligavi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6382538",
+    "wikipedia": "en:Kedareshvara Temple, Balligavi"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Shimoga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Adderi",
+     "dist_m": 29585
+    },
+    "nearest_bus": {
+     "name": "Sagara Government Bus Station",
+     "dist_m": 34632
+    },
+    "nearest_airport": {
+     "name": "Shivamogga Airport",
+     "dist_m": 72041,
+     "iata": "RQY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6382538",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Shimoga district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Frontal%20view%20of%20Kedareshvara%20temple%20%28late%2011th%20century%29%20at%20Balligavi%201.JPG",
+    "summary": {
+     "text": "The Kedareshvara temple is located in the town of Balligavi, near Shikaripura in the Shimoga district of Karnataka state, India. Dotted with centres of learning (agrahara), Balligavi was an important city during the 11th - 12th century Western Chalukya rule. The term Anadi Rajadhani used in medieval inscriptions to describe this town tells a tale of great antiquity. Art historian Adam Hardy classifies the style involved in the construction of the temple as \"Later Chalukya, non mainstream, relatively close to mainstream\". He dates the temple to late 11th century, with inscriptional evidence of additions made up to 1131, by the Hoysalas during their control over the region. The building material used is soapstone. The Archaeological Survey of India classifies the style of architecture as distinctly Hoysala. The Hoysala ruling family was during this period a powerful feudatory of the imperial Western Chalukya Empire, gaining the trappings of independence only from the period of King Vishnuvardhana. The temple is protected as a monument of national importance by the Archaeological Survey of India.",
+     "url": "https://en.wikipedia.org/wiki/Kedareshvara_Temple%2C_Balligavi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6434065,
+   "lat": 12.9952,
+   "lon": 78.2948,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kotilingeshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6434065",
+    "wikipedia": "en:Kotilingeshwara"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Kolar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Coromandel",
+     "dist_m": 4560
+    },
+    "nearest_bus": {
+     "name": "KGF Bus Station",
+     "dist_m": 4813
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 67596,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Sri Raghavendra Day Care Hospital",
+     "dist_m": 3637
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6434065",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kotilingeshwara.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kotilingeshwara Temple a Hindu temple in the village of Kammasandra in Kolar district, Karnataka, India. The presiding deity of the temple is Shiva. The temple has one of the largest Shivalingams in the world.",
+     "url": "https://en.wikipedia.org/wiki/Kotilingeshwara",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6732769,
+   "lat": 15.445361111,
+   "lon": 75.967916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mahadeva Temple, Itagi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6732769",
+    "wikipedia": "en:Mahadeva Temple, Itagi"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Koppal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Banni Koppa",
+     "dist_m": 5152
+    },
+    "nearest_bus": {
+     "name": "Sri Gudneshwar Swamiya Bus Stand, Kuknoor",
+     "dist_m": 5667
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 77426,
+     "iata": "VDY"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6732769",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Koppal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20view%20showing%20lateral%20entrances%20of%20the%20Mahadeva%20Temple%20at%20Itagi%20in%20the%20Koppal%20district.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Mahadeva Temple is located in the town of Itagi in Yelburga Taluk, in the Koppal District of Karnataka state, India. It is about 7 km (4 mi) from Kuknur and 20 km (12 mi) from Lakkundi.",
+     "url": "https://en.wikipedia.org/wiki/Mahadeva_Temple%2C_Itagi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6947633,
+   "lat": 14.808055555,
+   "lon": 75.690833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mylara Lingeshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6947633",
+    "wikipedia": "en:Mylara Lingeshwara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Vijayanagara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Devaragudda",
+     "dist_m": 19858
+    },
+    "nearest_bus": {
+     "name": "Ranebennur Bus Station",
+     "dist_m": 22217
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 90014,
+     "iata": "HBX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6947633",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ballari district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mylara Lingeshwara Temple is a Hindu temple dedicated to a form of the Hindu god Shiva in Mylara, in the southwest of Hoovina Hadagali taluk, Vijayanagara district, Karnataka, India, 2 km from the Tungabhadra River.",
+     "url": "https://en.wikipedia.org/wiki/Mylara_Lingeshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6982048,
+   "lat": 15.490777777,
+   "lon": 75.989611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Navalinga Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6982048",
+    "wikipedia": "en:Navalinga Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Koppal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Talakal",
+     "dist_m": 10260
+    },
+    "nearest_bus": {
+     "name": "Sri Gudneshwar Swamiya Bus Stand, Kuknoor",
+     "dist_m": 483
+    },
+    "nearest_airport": {
+     "name": "Jindal Vijaynagar Airport",
+     "dist_m": 77435,
+     "iata": "VDY"
+    },
+    "nearest_medical": {
+     "name": "Manjunath kids hospital kuknur",
+     "dist_m": 474
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6982048",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Koppal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuknur%20Navalinga%20temples.JPG",
+    "summary": {
+     "text": "The Navalinga temple is a cluster of Hindu temples built in the 9th century, during the reign of King Amoghavarsha I or his son Krishna II of the Rashtrakuta Dynasty. The temple is located in the town of Kukkanur, 4 miles (6 km) north of Itagi in Koppal district and 25 miles (40 km) east of Gadag in Karnataka state, India. Built in the South Indian dravida style, each of the nine temples in the cluster has a linga, the universal symbol of Hindu God Shiva, and hence the name Navalinga.",
+     "url": "https://en.wikipedia.org/wiki/Navalinga_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7317726,
+   "lat": 12.636666666,
+   "lon": 77.326666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Revanasiddeshwara betta",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7317726",
+    "wikipedia": "en:Revanasiddeshwara Betta"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru South",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramanagaram",
+     "dist_m": 10475
+    },
+    "nearest_bus": {
+     "name": "Channapatna Bus Station",
+     "dist_m": 13410
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 74717,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital SRS Betta",
+     "dist_m": 634
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7317726",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Revanasiddeshwara Betta/Revanasiddeshwara Hill, is a Shaiva temple in India. It is situated 3,066 feet (935 m) above sea level, located in Avverahalli, 15 km from city of Ramanagara.",
+     "url": "https://en.wikipedia.org/wiki/Revanasiddeshwara_Betta",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7395703,
+   "lat": 13.34666667,
+   "lon": 74.74416667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Saarvajanika Nagabrahmastana Moodanidambooru, Bannanje , Udupi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7395703",
+    "wikipedia": "en:Saarvajanika Nagabrahmastana Moodanidambooru, Bannanje"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udupi",
+     "dist_m": 3108
+    },
+    "nearest_bus": {
+     "name": "Udupi City Bus Terminus",
+     "dist_m": 524
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 46118,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Manjunatha Eye Hospital",
+     "dist_m": 500
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7395703",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Saarvajanika Naga Brahmastana is an ancient Hindu temple, situated at Moodanidambooru (Bannanje) village of Udupi district in Karnataka.",
+     "url": "https://en.wikipedia.org/wiki/Saarvajanika_Nagabrahmastana_Moodanidambooru%2C_Bannanje",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503537,
+   "lat": 12.96391667,
+   "lon": 74.81,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Vishnumurthy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503537",
+    "wikipedia": "en:Shree Vishnumurthy Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dakshina Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Thokur",
+     "dist_m": 2118
+    },
+    "nearest_bus": {
+     "name": "Surathkal Bus Stand",
+     "dist_m": 3124
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 8065,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Misquith and Rao's Hospital",
+     "dist_m": 2214
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503537",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "\n\nKulai Shree Vishnumurthy Temple is located in the town of Kulai near Surathkal about 15 km north of Mangalore in the state of Karnataka, India.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Vishnumurthy_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503802,
+   "lat": 14.72333333,
+   "lon": 74.27972222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Katyayani Baneshwar Temple, Aversa",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503802",
+    "wikipedia": "en:Shri Katyayani Baneshwar Temple, Aversa"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Uttara Kannada",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Harwada",
+     "dist_m": 2894
+    },
+    "nearest_bus": {
+     "name": "Karwar Bus stand",
+     "dist_m": 18707
+    },
+    "nearest_airport": {
+     "name": "Goa International Airport",
+     "dist_m": 87440,
+     "iata": "GOI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503802",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttara Kannada District"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.shreekatyayani.org",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Katyayani Baneshwar Temple, , or the Aversa Hindu Narayani is a Hindu temple in the coastal town of Aversa near Ankola, in the Uttara Kannada district of Karnataka.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Katyayani_Baneshwar_Temple%2C_Aversa",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7508161,
+   "lat": 14.79055556,
+   "lon": 75.41083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddhesvara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7508161",
+    "wikipedia": "en:Siddhesvara Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Haveri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Haveri",
+     "dist_m": 468
+    },
+    "nearest_bus": {
+     "name": "Haveri Bus Stand",
+     "dist_m": 1421
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 72754,
+     "iata": "HBX"
+    },
+    "nearest_medical": {
+     "name": "Balehosur Clinic",
+     "dist_m": 185
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7508161",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Haveri district",
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20profile%20of%20the%20Siddhesvara%20temple%20at%20Haveri.jpg",
+    "summary": {
+     "text": "The Siddhesvara Temple is located in Haveri in Haveri district, Karnataka state, India. It is considered an ornate example of 12th-century Western Chalukyan art and is well known for the many loose sculptures of Hindu deities that exist in it. However, inscriptional evidence would suggest that the initial consecration of the temple was in the late 11th century. An exciting aspect of the temple is that it faces west instead of facing the rising sun in the east–a standard in Chalukyan constructions. Though it is currently used as a Shaiva temple dedicated to God Shiva, historians are unsure by which faith or sect the temple was consecrated initially and to which deity. Many people visit the temple for their spiritual beliefs, while evidence about temple visits can be found in Gita chapter 17, verse 23, which says otherwise. Most of the Lord Shiva sculptures are observed to be of him meditating. There are claims that he meditates on himself, whereas some proof can be found in Devi-Bhagavata Purana that Lord Shiva meditates for some other God. This uncertainty perhaps stems from the many loose sculptures of deities and the degradation of primary wall images.",
+     "url": "https://en.wikipedia.org/wiki/Siddhesvara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7586153,
+   "lat": 17.9529,
+   "lon": 77.386,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Mailar Mallanna",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7586153",
+    "wikipedia": "en:Mailar Mallanna Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bidar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Khanapur Junction",
+     "dist_m": 1172
+    },
+    "nearest_bus": {
+     "name": "KSRTC Depot",
+     "dist_m": 9525
+    },
+    "nearest_airport": {
+     "name": "Bidar Air Force Station",
+     "dist_m": 10839,
+     "iata": "IXX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7586153",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Karnataka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mailar%20Mallanna%20Bidar.JPG",
+    "summary": {
+     "text": "Sri Shiva Mailar Mallanna Temple is a Hindu temple dedicated to the god Khandoba. It is situated on the Bidar-Udgir Road, 15 km from Bidar, Karnataka, India. Said temple is located within the Vijayanagara empire; which is now South India. Some of the languages spoken during this time were Kannada, Telugu, and Tamil.",
+     "url": "https://en.wikipedia.org/wiki/Mailar_Mallanna_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7920543,
+   "lat": 12.4444,
+   "lon": 76.5678,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Venugopala Swamy Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7920543",
+    "wikipedia": "en:Venugopala Swamy Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Mandya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Krishnarajasagara",
+     "dist_m": 4822
+    },
+    "nearest_bus": {
+     "name": "Brindavan Garden Bus Station",
+     "dist_m": 2682
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 25487,
+     "iata": "MYQ"
+    },
+    "nearest_medical": {
+     "name": "Krishnarajasagara, Government Hospital",
+     "dist_m": 4156
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 92
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 176
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7920543",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mandya district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Venugopalaswamy%20temple%20Entrance.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Venugopala Swamy Temple located at Hosa Kannambadi, near Krishna Raja Sagara, is an example of Hoysala architecture in Karnataka, India. This temple was built in the 12th century AD around the same time as the Chennakesava Temple at Somanathapura, Mysore district.",
+     "url": "https://en.wikipedia.org/wiki/Venugopala_Swamy_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 8046601,
+   "lat": 16.5667,
+   "lon": 74.65,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Veerbhadra Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q8046601",
+    "wikipedia": "en:Veerabhadra Temple, Yadur"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Belagavi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Raybag",
+     "dist_m": 19123
+    },
+    "nearest_bus": {
+     "name": "Narshinhavadi Bus Stand",
+     "dist_m": 15117
+    },
+    "nearest_airport": {
+     "name": "Kolhapur Airport",
+     "dist_m": 39757,
+     "iata": "KLH"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Ankali",
+     "dist_m": 3995
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q8046601",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Belagavi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Lord%20Veerabhadra%20of%20yadur.jpg",
+    "website": "http://www.yadurkshetra.com/",
+    "summary": {
+     "text": "Veerbhadra Temple is in Chikodi Taluka of Belagavi District, Karnataka, India, approximately 94 km (58 mi) from Belgaum. It lies on the banks of the Krishna River.",
+     "url": "https://en.wikipedia.org/wiki/Veerabhadra_Temple%2C_Yadur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 8051433,
+   "lat": 13.100277777,
+   "lon": 77.581388888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Yelahanka Gate Anjaneya Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q8051433",
+    "wikipedia": "en:Yelahanka Gate Anjaneya Temple"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bengaluru Urban",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Yelahanka Junction",
+     "dist_m": 1253
+    },
+    "nearest_bus": {
+     "name": "Yelahanka New Town",
+     "dist_m": 574
+    },
+    "nearest_airport": {
+     "name": "Kempegowda International Airport",
+     "dist_m": 17317,
+     "iata": "BLR"
+    },
+    "nearest_medical": {
+     "name": "Omega Multispeciality Hospital",
+     "dist_m": 11
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 204
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q8051433",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Yelahanka Gate Anjaneya Temple is an ancient Hindu temple dedicated to Anjaneya in Avenue Road, Bangalore, India. The temple was built by Kempegowda, the founder of Bangalore. The temple was named after the Yelahanka gate of the Bangalore Fort where it was built.",
+     "url": "https://en.wikipedia.org/wiki/Yelahanka_Gate_Anjaneya_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 8052015,
+   "lat": 13.1811,
+   "lon": 74.7976,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Yelluru Shri Vishweshwara Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q8052015",
+    "wikipedia": "en:Sri Vishweshwara Temple, Yellur"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Udupi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Padubidri",
+     "dist_m": 3653
+    },
+    "nearest_bus": {
+     "name": "Mulki Bus stand",
+     "dist_m": 10099
+    },
+    "nearest_airport": {
+     "name": "Mangalore International Airport",
+     "dist_m": 26836,
+     "iata": "IXE"
+    },
+    "nearest_medical": {
+     "name": "Community Health Centre",
+     "dist_m": 4985
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q8052015",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udupi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.yelluruvishweshwara.org",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mahathobhara Yelluru Shree Vishweshwara Temple is a Hindu temple dedicated to the god Vishweshwara (Shiva) in the Yellur village of Udupi district in the state of Karnataka, India. Vishweshwara is referred to at least in 12 rock edicts and recorded by the Kaifiyaths.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Vishweshwara_Temple%2C_Yellur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 66598383,
+   "lat": 16.010583333,
+   "lon": 75.879,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Galaganatha Temples Aihole",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q66598383"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bagalkote",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guledgudda Road",
+     "dist_m": 20695
+    },
+    "nearest_bus": {
+     "name": "Guduru sc",
+     "dist_m": 8933
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 112156,
+     "iata": "HBX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q66598383",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1100-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bagalkot district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 66598395,
+   "lat": 16.010583333,
+   "lon": 75.879,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Galaganatha Temples Aihole -2",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q66598395"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Bagalkote",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Guledgudda Road",
+     "dist_m": 20695
+    },
+    "nearest_bus": {
+     "name": "Guduru sc",
+     "dist_m": 8933
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 112156,
+     "iata": "HBX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q66598395",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Hungund Taluk"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20temple%20of%20Galaganatha%20group%20%282%29.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97440577,
+   "lat": 15.423444444,
+   "lon": 75.432305555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Amritesvara temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97440577"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Dharwad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Annigeri",
+     "dist_m": 1008
+    },
+    "nearest_bus": {
+     "name": "Hulakoti Bus Station",
+     "dist_m": 11945
+    },
+    "nearest_airport": {
+     "name": "Hubballi Airport",
+     "dist_m": 38626,
+     "iata": "HBX"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97440577",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dharwad district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Amritesvara%20temple%20at%20Annigeri%2C%20Dharwad%20district%2C%20Karnataka.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97440914,
+   "lat": 11.80334203,
+   "lon": 76.85936202,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ramesvara Temple, Narasamangala",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97440914"
+   },
+   "state": "Karnataka",
+   "state_basis": "boundary",
+   "district": "Chamarajanagar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chamarajanagar",
+     "dist_m": 16641
+    },
+    "nearest_bus": {
+     "name": "Bus Stand , Terekanambhi",
+     "dist_m": 7436
+    },
+    "nearest_airport": {
+     "name": "Mysore Mandakalli Airport",
+     "dist_m": 52579,
+     "iata": "MYQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97440914",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamarajanagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rameshvara%20temple%20%289th%20century%29%20at%20Narasamangala.JPG"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
     ]
    }
   }

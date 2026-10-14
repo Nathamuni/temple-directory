@@ -1,6 +1,6 @@
 {
  "state": "Maharashtra",
- "count": 4038,
+ "count": 4105,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -227473,6 +227473,4652 @@
      "district",
      "locality",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 140249224,
+   "lat": 17.0660125,
+   "lon": 73.8057285,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kalammadevi Temple, Udgiri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q140249224"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Kolhapur District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Adavali",
+     "dist_m": 27762
+    },
+    "nearest_bus": {
+     "name": "Deorukh",
+     "dist_m": 19406
+    },
+    "nearest_airport": {
+     "name": "Ratnagiri Airport",
+     "dist_m": 50989,
+     "iata": "RTC"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q140249224",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "denomination": {
+     "value": [
+      "Hinduism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Shahuwadi taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A4%95%E0%A4%BE%E0%A4%B3%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80%20%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A5%80%E0%A4%B0.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12061085,
+   "lat": 18.990555555,
+   "lon": 72.836666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lalbaugcha Raja",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12061085",
+    "wikipedia": "en:Lalbaugcha Raja"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Mumbai City District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Currey Road",
+     "dist_m": 535
+    },
+    "nearest_bus": {
+     "name": "P.Thakre Bus Station",
+     "dist_m": 1853
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 11413,
+     "iata": "BOM"
+    },
+    "nearest_medical": {
+     "name": "Samadhan Diagnostic Centre",
+     "dist_m": 251
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12061085",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Mumbai City district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Lalbaugcha Raja is the sarvajanik (public) Ganesha idol kept at Lalbaug, a locality in Mumbai in the Indian state of Maharashtra, during the Ganesh Chaturthi festival. The idol gives darshan to the devotees for 11 days and thereafter it is immersed in the Arabian Sea at Girgaon Chowpatty on the day of Anant Chaturdashi.",
+     "url": "https://en.wikipedia.org/wiki/Lalbaugcha_Raja",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 13118648,
+   "lat": 20.33003,
+   "lon": 74.967424,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Patnadevi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q13118648",
+    "wikipedia": "en:Patnadevi"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Jalgaon District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rohini",
+     "dist_m": 10695
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Sambhajinagar Airport",
+     "dist_m": 68297,
+     "iata": "IXU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q13118648",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jalgaon"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temple%20of%20Chandika%20Devi%20-%20Patan%20-Maharashtra%20-SGR%20001.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Patanadevi is a historic and tourist place situated 18 km to the southwest of Chalisgaon, Maharashtra. It lies inside Gautala Autramghat Sanctuary and is surrounded by the high mountains of Sahyadri.",
+     "url": "https://en.wikipedia.org/wiki/Patnadevi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15198941,
+   "lat": 17.47852,
+   "lon": 73.537239,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhawani Waghjai Temple, Terav",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15198941",
+    "wikipedia": "en:Bhawani Waghjai Temple, Terav"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ratnagiri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamathe",
+     "dist_m": 2262
+    },
+    "nearest_bus": {
+     "name": "Shivajinagar Bus Stand",
+     "dist_m": 5464
+    },
+    "nearest_airport": {
+     "name": "Ratnagiri Airport",
+     "dist_m": 56183,
+     "iata": "RTC"
+    },
+    "nearest_medical": {
+     "name": "SDH, Kamathe",
+     "dist_m": 3473
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15198941",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhawani%20Waghjai%20Temple%20of%20Terav.jpg",
+    "website": "http://www.bhawaniaai.org",
+    "summary": {
+     "text": "The Shree Bhawani Waghjai Temple, Terav is a Hindu temple dedicated to the goddesses Bhawani and Waghjai. It is located in village Terav, Taluka Chiplun, Dist. Ratnagiri, Maharashtra. The original temple was built circa 1860.",
+     "url": "https://en.wikipedia.org/wiki/Bhawani_Waghjai_Temple%2C_Terav",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 15221380,
+   "lat": 17.03333333,
+   "lon": 74.66666667,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganpati Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q15221380",
+    "wikipedia": "en:Ganpati Temple, Tasgaon"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Sangli District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nandre",
+     "dist_m": 13876
+    },
+    "nearest_bus": {
+     "name": "Sangli Bus Stand",
+     "dist_m": 22878
+    },
+    "nearest_airport": {
+     "name": "Kolhapur Airport",
+     "dist_m": 57141,
+     "iata": "KLH"
+    },
+    "nearest_medical": {
+     "name": "Khwab Clinic",
+     "dist_m": 3315
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q15221380",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "The Lord Ganapati Temple is situated in the city of Tasgaon in Sangli district in the Indian state of Maharashtra. Most of the Ganapati idols have a left-sided trunk, while this temple's idols' trunk bends towards the right. The Ganapati idol with the trunk curved towards the right is said to be 'active (jagrut)’. This Ganapati is regarded as a living idol, ready to bless communities with good luck, wisdom, prosperity and happiness. The idol is embellished with solid gold, weighing 125 kilograms (276 lb).",
+     "url": "https://en.wikipedia.org/wiki/Ganpati_Temple%2C_Tasgaon",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 16902762,
+   "lat": 17.6758,
+   "lon": 74.9269,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vithal Dayaji Temple, Sulewadi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q16902762",
+    "wikipedia": "en:Vithal Dayaji Temple, Sulewadi"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Solapur District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bamani",
+     "dist_m": 37604
+    },
+    "nearest_bus": {
+     "name": "Natepute ST Stand",
+     "dist_m": 31219
+    },
+    "nearest_airport": {
+     "name": "Solapur Airport",
+     "dist_m": 106871,
+     "iata": "SSE"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Piliv",
+     "dist_m": 4030
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q16902762",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sulewadi"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sulewadi is a village situated in Malshiras tehsil and located in the Solapur district of Maharashtra, India. It is on the road to Pandharpur. The village has a population of only around 3000. The village people live quietly. Agriculture is the main occupation of the people of the village. Sorghum, maize and millet are farmed in the rainy season, the people of the village to a large extent plant these crops, as well as pepper, brinjal, tomato, and cavali.",
+     "url": "https://en.wikipedia.org/wiki/Sulewadi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17061530,
+   "lat": 17.47,
+   "lon": 73.2,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Dev Vyadeshar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17061530",
+    "wikipedia": "en:Shree Dev Vyadeshwar"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ratnagiri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Anjani",
+     "dist_m": 27029
+    },
+    "nearest_bus": {
+     "name": "Guhagar Bus Station",
+     "dist_m": 1669
+    },
+    "nearest_airport": {
+     "name": "Ratnagiri Airport",
+     "dist_m": 52535,
+     "iata": "RTC"
+    },
+    "nearest_medical": {
+     "name": "Dhete Clinic",
+     "dist_m": 1656
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17061530",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Guhagar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shri%20Vyadweshwar%2C%20Guhagar.jpg",
+    "summary": {
+     "text": "Shree Dev Vyadeshwar temple is a temple dedicated to the Hindu god Shiva. It is in Guhagar town from Ratnagiri District of Maharashtra State in India. The deity is considered as the Kuladevata (Clan-deity) of many Chitpavan families from the Konkan region.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Dev_Vyadeshwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18358247,
+   "lat": 16.074444444,
+   "lon": 73.668611111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Dev Rameshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18358247",
+    "wikipedia": "en:Shri Dev Rameshwar Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Sindhudurg",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sindhudurg",
+     "dist_m": 4365
+    },
+    "nearest_bus": {
+     "name": "Oros Bus Stand",
+     "dist_m": 6057
+    },
+    "nearest_airport": {
+     "name": "Sindhudurg Airport",
+     "dist_m": 16998,
+     "iata": "SDW"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18358247",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sindhudurg district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Dev Rameshwar Temple is located in the village Rameshwar Wadi in Devgad taluka of Sindhudurg District, Maharashtra, India. This temple is dedicated to the Hindu deity Shiva. It is a historic temple built in the 16th century. Its chief interest is the approach about 250 yards long, cut through rock fifty feet deep. The idol, a four-armed figure seated on a bull, is made of solid silver and allegedly weighs a hundred kilograms, it is in good condition at present.",
+     "url": "https://en.wikipedia.org/wiki/Shri_Dev_Rameshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 104861310,
+   "lat": 19.4165,
+   "lon": 72.9015,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tungareshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q104861310",
+    "wikipedia": "en:Tungareshwar Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Palghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Juichandra",
+     "dist_m": 6942
+    },
+    "nearest_bus": {
+     "name": "Nalasopara",
+     "dist_m": 8800
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 36513,
+     "iata": "BOM"
+    },
+    "nearest_medical": {
+     "name": "Golden Park Hospitals",
+     "dist_m": 3074
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q104861310",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Close%20View%20of%20Tungareshwar%20Temple.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Tungareshwar Temple is located in Vasai, Palghar District, Maharashtra, India. The temple is dedicated to the Hindu god Shiva, about 3 to 4 kilometers from the \"Tungareshwar Entrance Gate,\" and opens in the morning from 5:00 am to 6:00 pm. This is a Lord Shiva temple and also has a Ram Kund in the backside area. Alongside the Tungareshwar Temple, a small temple of Goddess \"Khodiyaar Mataji\". Being said about God and Goddess, Tungareshwar attracts devotees who visit both these temples at special occasions and festival seasons like \"Khodiyar Jayanti,\" which comes in around February, and \"Maha Shivratri\" in Shravana Months as per the Hindu calendar, falling between July and August every year. Bhandara takes place every year at the \"Mahashivratri Festival\" and every Monday at the Shravan month.",
+     "url": "https://en.wikipedia.org/wiki/Tungareshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107176056,
+   "lat": 20.657631,
+   "lon": 74.673651,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mankeshwar temple, Zodage",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107176056",
+    "wikipedia": "en:Mankeshwar temple, Zodage"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Nashik District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Borvihir",
+     "dist_m": 22383
+    },
+    "nearest_bus": {
+     "name": "Malegaon Bus Depot",
+     "dist_m": 18452
+    },
+    "nearest_airport": {
+     "name": "Dhule Airport",
+     "dist_m": 30649,
+     "iata": "DHL"
+    },
+    "nearest_medical": {
+     "name": "Rural Hospital Zodga",
+     "dist_m": 138
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107176056",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mankeshwar temple is an ancient Shiva temple. The temple is located adjacent to the Mumbai-Agra National Highway in the village Zodage in Nashik District of Maharashtra, India. Zodage is located 128 km from Nashik.",
+     "url": "https://en.wikipedia.org/wiki/Mankeshwar_temple%2C_Zodage",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 107723130,
+   "lat": 21.091944444,
+   "lon": 76.006111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Changdeva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q107723130",
+    "wikipedia": "en:Changdeva Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Jalgaon District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nimbhora",
+     "dist_m": 8293
+    },
+    "nearest_bus": {
+     "name": "Bus Stand Malkapur",
+     "dist_m": 31153
+    },
+    "nearest_airport": {
+     "name": "Jalgaon Airport",
+     "dist_m": 41799,
+     "iata": "JLG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q107723130",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Changdeva temple is an ancient Hindu temple situated in Muktainagar taluka of Jalgaon district in the state of Maharashtra, India. It is located near its namesake, Changdeva village. The temple is on the shore of the Purna river. It is dedicated to the 12th century Yogi Saint Changdeva Maharaj.",
+     "url": "https://en.wikipedia.org/wiki/Changdeva_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111914969,
+   "lat": 20.886448,
+   "lon": 74.4160043,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dhandai Devi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111914969",
+    "wikipedia": "en:Dhandai Devi"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Dhule District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhule",
+     "dist_m": 36590
+    },
+    "nearest_bus": {
+     "name": "Malegaon Bus Depot",
+     "dist_m": 38901
+    },
+    "nearest_airport": {
+     "name": "Dhule Airport",
+     "dist_m": 33779,
+     "iata": "DHL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111914969",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sakri Taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Adi Shakti Dhandai Devi (Mahalakshmi) Mandir is a Hindu temple located at Mhasdi near Sakri Taluka in Maharashtra, India. Here, the worship of the goddess Shree Dhandai Devi is carried on right next to the Dhandai Plane, once a center of Hinduism.",
+     "url": "https://en.wikipedia.org/wiki/Dhandai_Devi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 111992541,
+   "lat": 17.971027777,
+   "lon": 75.132111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Laxmi Narsimha Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q111992541",
+    "wikipedia": "en:Laxmi Narsimha Temple, Nira Narsingpur"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Padsali",
+     "dist_m": 27448
+    },
+    "nearest_bus": {
+     "name": "Indapur MSRTC Bus Stand",
+     "dist_m": 19580
+    },
+    "nearest_airport": {
+     "name": "Solapur Airport",
+     "dist_m": 93112,
+     "iata": "SSE"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q111992541",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Laxmi Narsimha Temple, is one of the oldest Hindu temples dedicated to Narasimha, an avatar of Vishnu, located in Nira Narsingpur, Pune district, Maharashtra. The temple is located at the confluence of Bhima river and Nira river, at the south eastern tip of Pune district, in Indapur taluka. Priests in the temple are Deshastha Madhva Brahmins and temple is under their control. They belong to Uttaradi Math and rituals in the temple are followed as per Tantra Sara Sangraha of Madhvacharya.",
+     "url": "https://en.wikipedia.org/wiki/Laxmi_Narsimha_Temple%2C_Nira_Narsingpur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118218217,
+   "lat": 20.421236,
+   "lon": 79.997657,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiva temple, Thanegaon Gadchiroli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118218217"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Gadchiroli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chicholi Buzurg",
+     "dist_m": 22779
+    },
+    "nearest_bus": {
+     "name": "MSRTC Bus Stand Bramhapuri",
+     "dist_m": 26185
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 123921,
+     "iata": "NAG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118218217",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Gadchiroli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0101923%20Shiva%20temple%20group%2C%20Thanegaon%20Gadchiroli%20Maharashtra%20046.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118225290,
+   "lat": 19.917162,
+   "lon": 79.964104,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Twin Temples, Amgaon Mahal",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118225290"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Gadchiroli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mul Marora",
+     "dist_m": 35333
+    },
+    "nearest_bus": {
+     "name": "Gadchiroli Main Bus Stand",
+     "dist_m": 30370
+    },
+    "nearest_airport": {
+     "name": "Ramagundam Airport",
+     "dist_m": 147896,
+     "iata": "RMD"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118225290",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gadchiroli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0101823%20Twin%20Temples%2C%20Amgaon%20Mahal%2C%20Gadchiroli%20Maharashtra%20037.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118304581,
+   "lat": 21.497468,
+   "lon": 80.199872,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Nagra Brick Temple, Chandanitola Gondia",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118304581"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Gondiya",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nagradham P.H.",
+     "dist_m": 354
+    },
+    "nearest_bus": {
+     "name": "Gondia Bus Stand",
+     "dist_m": 3055
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 128067,
+     "iata": "NAG"
+    },
+    "nearest_medical": {
+     "name": "Bhagat Eye & ENT Hospital",
+     "dist_m": 2756
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118304581",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gondia district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0012023%20Nagra%20Brick%20Temple%2C%20Chandanitola%20Gondia%20Maharastra%20030.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 118464959,
+   "lat": 21.399078,
+   "lon": 79.330789,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ram temples complex, Ramtek",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q118464959"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Nagpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramtek",
+     "dist_m": 3254
+    },
+    "nearest_bus": {
+     "name": "Bypass Bus Stand",
+     "dist_m": 1166
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 45487,
+     "iata": "NAG"
+    },
+    "nearest_medical": {
+     "name": "Vivekanand Hospital",
+     "dist_m": 543
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q118464959",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Nagpur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0101821%20Rama%20temples%20complex%2C%20Ramgiri%20hill%2C%20Ramtek%20Maharashtra%20031.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 2723631,
+   "lat": 19.4,
+   "lon": 74.8167,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shani Shingnapur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q2723631",
+    "wikipedia": "en:Shani Shingnapur"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ahilyanagar District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rahuri",
+     "dist_m": 14688
+    },
+    "nearest_bus": {
+     "name": "Rahuri Bus Station",
+     "dist_m": 17668
+    },
+    "nearest_airport": {
+     "name": "Shirdi Airport",
+     "dist_m": 56523,
+     "iata": "SAG"
+    },
+    "nearest_medical": {
+     "name": "Shete Hospital",
+     "dist_m": 502
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q2723631",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ahilyanagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shingnapur.jpg",
+    "deity": {
+     "values": [
+      "Shani"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shani Shingnapur or Shani Shinganapur or Shingnapur is a village in the Indian state of Maharashtra. Situated in Nevasa Taluka in Ahmednagar district, the village is known for its popular temple of Shani, the Hindu god associated with the planet (graha) Saturn. The village is 35 kilometres from the city of Ahmednagar.",
+     "url": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19571056,
+   "lat": 21.146944444,
+   "lon": 79.081388888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhonda Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19571056"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Nagpur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nagpur Junction railway station",
+     "dist_m": 932
+    },
+    "nearest_bus": {
+     "name": "Sitabuldi City Bus Stand",
+     "dist_m": 528
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 7478,
+     "iata": "NAG"
+    },
+    "nearest_medical": {
+     "name": "Dr. Mangala Ketkar",
+     "dist_m": 177
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19571056",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19809754,
+   "lat": 19.1982,
+   "lon": 75.3938,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhagwangad",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19809754"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ahilyanagar District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Amalner Bhandyache",
+     "dist_m": 30275
+    },
+    "nearest_bus": {
+     "name": "Paithan Bus Station",
+     "dist_m": 30827
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Sambhajinagar Airport",
+     "dist_m": 74073,
+     "iata": "IXU"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19809754",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Pathardi taluka"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19898343,
+   "lat": 18.739166,
+   "lon": 76.3862987,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shivleni Caves",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19898343",
+    "wikipedia": "en:Shivleni Caves"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Beed District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghatnandur",
+     "dist_m": 18724
+    },
+    "nearest_bus": {
+     "name": "Ambajogai Bus Station",
+     "dist_m": 985
+    },
+    "nearest_airport": {
+     "name": "Latur Airport",
+     "dist_m": 37320,
+     "iata": "LTU"
+    },
+    "nearest_medical": {
+     "name": "Rural Hospital, Ambajogai",
+     "dist_m": 432
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19898343",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shivleni%20Ambajogai.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Shivleni Caves in Ambajogai, Maharashtra, India are rock-cut cave monuments which date in King Udayaditya from Paramara dynasty of Malwa. Total excavations were hewn out of rock cut and carved deep inside the hill. The caves include sculptures of Hindu deities like Shiva, Saptamatrukas and Ganesha.",
+     "url": "https://en.wikipedia.org/wiki/Shivleni_Caves",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19899097,
+   "lat": 18.7603,
+   "lon": 73.0329,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Veerabhadra Devasthan, Vadhav",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19899097"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Raigad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Hamarapur",
+     "dist_m": 5538
+    },
+    "nearest_bus": {
+     "name": "Karlekhind Bus Station",
+     "dist_m": 12939
+    },
+    "nearest_airport": {
+     "name": "Navi Mumbai International Airport",
+     "dist_m": 25912,
+     "iata": "NMI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19899097",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Raigad district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shree%20Kshetra%20Veerabhadra%20Devasthan%2CVadhav%2001.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 22909031,
+   "lat": 19.25,
+   "lon": 76.45,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Sai Janmasthan Temple, Pathri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q22909031",
+    "wikipedia": "en:Sri Sai Janmasthan Temple, Pathri"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Parbhani District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Manwat Road",
+     "dist_m": 15025
+    },
+    "nearest_bus": {
+     "name": "Manwath Bus Terminal",
+     "dist_m": 6597
+    },
+    "nearest_airport": {
+     "name": "Shri Guru Gobind Singh Ji Airport",
+     "dist_m": 92303,
+     "iata": "NDC"
+    },
+    "nearest_medical": {
+     "name": "Omkar Hospital",
+     "dist_m": 1743
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q22909031",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Parbhani district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.saijanmasthanpathri.com/home.html",
+    "summary": {
+     "text": "Sri Sai Janmasthan Temple is a temple in Pathri city of Parbhani district of Maharashtra, India. It has been claimed that Pathri is the real birthplace of Sai Baba, which has been subject to controversy.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Sai_Janmasthan_Temple%2C_Pathri",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906686,
+   "lat": 19.175361111,
+   "lon": 72.873194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Wagheshwari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906686",
+    "wikipedia": "en:Wagheshwari Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Mumbai Suburban District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Goregaon",
+     "dist_m": 2744
+    },
+    "nearest_bus": {
+     "name": "Dindoshi",
+     "dist_m": 813
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 9536,
+     "iata": "BOM"
+    },
+    "nearest_medical": {
+     "name": "Shree Guru Maternity and Childrens Nursing Home - Mumbai",
+     "dist_m": 100
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906686",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Wagheshwari Temple is one of the famous temples of Mumbai situated near Gokuldham Colony in Goregaon East. It is dedicated to Hindu Goddess Bhagwati. The deity is also known as Wagheshwari Mata who is supposed to be the Goddess Parvati in her form of Goddess Durga or an incarnation of Goddess Saraswati in her form of Vagdevi",
+     "url": "https://en.wikipedia.org/wiki/Wagheshwari_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24947464,
+   "lat": 19.577985,
+   "lon": 72.747883,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shede dev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24947464"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Palghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kelve Road",
+     "dist_m": 6841
+    },
+    "nearest_bus": {
+     "name": "Virar East Bus Terminus",
+     "dist_m": 15206
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 55571,
+     "iata": "BOM"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24947464",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Palghar district",
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25584836,
+   "lat": 18.152934931,
+   "lon": 74.087346538,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mhaskoba Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25584836"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Valha",
+     "dist_m": 8426
+    },
+    "nearest_bus": {
+     "name": "Saswad Pmpml Stand",
+     "dist_m": 22158
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 50705,
+     "iata": "PNQ"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25584836",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Veer Mhaskoba"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shrinath%20temple.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28173780,
+   "lat": 16.7386353,
+   "lon": 73.4320525,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Aryadurga devi, Devihasol",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28173780",
+    "wikipedia": "en:Aryadurga devi, Devihasol"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ratnagiri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Saundal",
+     "dist_m": 20420
+    },
+    "nearest_bus": {
+     "name": "Pawas",
+     "dist_m": 19057
+    },
+    "nearest_airport": {
+     "name": "Ratnagiri Airport",
+     "dist_m": 32510,
+     "iata": "RTC"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28173780",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Aryadurga%20devi.jpg",
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Aryadurga devi, Devihasol आर्यादुर्गा देवी देवीहसोळ, is a Hindu temple situated in Devihasol village in Rajapur taluka, Maharashtra, India. It is 18 km (11 mi) from Rajapur, 52 km (32 mi) from Ratnagiri and 380 km (240 mi) from Mumbai. Many devotees come to visit this temple. The fair of Aryadurga devi and Navadurga devi (bhalavli) is also famous, occurring annually in October on the eighth day of the Hindu Navratri festival. Goddess Aryadurga is the Kuldevi of many Karahde Brahmin. Several other temples, including in the towns of Mahakali, Adivare, Marleshwar, and Ganpatipule are located nearby.",
+     "url": "https://en.wikipedia.org/wiki/Aryadurga_devi%2C_Devihasol",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 28178757,
+   "lat": 19.70092,
+   "lon": 72.779376,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sai Baba temple, Palghar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q28178757"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Palghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Palghar",
+     "dist_m": 853
+    },
+    "nearest_bus": {
+     "name": "Boisar Bus Stand",
+     "dist_m": 11434
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 68477,
+     "iata": "BOM"
+    },
+    "nearest_medical": {
+     "name": "Jeevan Jyot Eye Hospital",
+     "dist_m": 174
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q28178757",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Sai Baba"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 3520892,
+   "lat": 18.95,
+   "lon": 72.83,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mumba Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q3520892",
+    "wikipedia": "en:Mumba Devi Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Mumbai City District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Marine Lines",
+     "dist_m": 811
+    },
+    "nearest_bus": {
+     "name": "CSMT Bus Station",
+     "dist_m": 1333
+    },
+    "nearest_airport": {
+     "name": "Chhatrapati Shivaji Maharaj International Airport",
+     "dist_m": 15964,
+     "iata": "BOM"
+    },
+    "nearest_medical": {
+     "name": "Dholkawalla Maternity Home",
+     "dist_m": 499
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q3520892",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mumbadevi%20temple.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mumba Devi Temple is a Hindu temple in Mumbai, Maharashtra, India, dedicated to the goddess Mumbā, the local incarnation of the Parvati. Mumba Devi is the goddess of the city of Mumbai. The name Mumbai is derived from Mumba Devi.",
+     "url": "https://en.wikipedia.org/wiki/Mumba_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 56242029,
+   "lat": 18.319444444,
+   "lon": 76.141666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Trivikrama Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q56242029",
+    "wikipedia": "en:Trivikrama Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Dharashiv District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Thair",
+     "dist_m": 3801
+    },
+    "nearest_bus": {
+     "name": "Murud Bus Stand",
+     "dist_m": 14006
+    },
+    "nearest_airport": {
+     "name": "Latur Airport",
+     "dist_m": 35597,
+     "iata": "LTU"
+    },
+    "nearest_medical": {
+     "name": "Rural Hospital, Ter",
+     "dist_m": 542
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q56242029",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dharashiv district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Trivikram%20Temple%20Ter%20Osmanabad.jpg",
+    "summary": {
+     "text": "The Trivikrama Temple, also named Ter Temple, is a temple of Vamana in Ter, Maharashtra. Henry Cousens, followed by most later writers, believed that it was originally a Buddhist temple, however in 1957 M. S. Mate disputed this view. He explained that the apsidal plan was used for Hindu temples for nearly six centuries. The earliest is the Durga temple at Aihole in Bijapur district. The wagon-vaulted ridge roof of trivikrama temple is similar to the roof used for the Sahadeva Ratha at Mahabalipuram.",
+     "url": "https://en.wikipedia.org/wiki/Trivikrama_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6431081,
+   "lat": 16.7,
+   "lon": 74.68472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kopeshwar temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6431081",
+    "wikipedia": "en:Kopeshwar Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Kolhapur District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shedbal",
+     "dist_m": 7558
+    },
+    "nearest_bus": {
+     "name": "Narshinhavadi Bus Stand",
+     "dist_m": 9081
+    },
+    "nearest_airport": {
+     "name": "Kolhapur Airport",
+     "dist_m": 42060,
+     "iata": "KLH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6431081",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kolhapur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/KhidrapurTemple.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kopeshwar Temple is at Khidrapur, Kolhapur district, Maharashtra. It is a Hindu temple dedicated to Shiva. This temple is in Maharashtra It is also accessible from Sangli as well. It was built in the 12th century by Shilahara king Gandaraditya between 1109 and 1178 CE. It is to the east of Kolhapur, ancient & artistic on the bank of the Krishna river. Even though Silaharas were Jain kings, they built and renovated various Hindu temples, thus depicting their respect and love for all religions. Kopeshwar means angry Shiva.",
+     "url": "https://en.wikipedia.org/wiki/Kopeshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7145053,
+   "lat": 16.997436,
+   "lon": 73.294096,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Patit Pavan Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7145053",
+    "wikipedia": "en:Patit Pavan Mandir"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ratnagiri",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ratnagiri",
+     "dist_m": 6858
+    },
+    "nearest_bus": {
+     "name": "Ratnagiri Bus Depot",
+     "dist_m": 856
+    },
+    "nearest_airport": {
+     "name": "Ratnagiri Airport",
+     "dist_m": 4162,
+     "iata": "RTC"
+    },
+    "nearest_medical": {
+     "name": "Dr. Munir Maskar Hospital",
+     "dist_m": 196
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7145053",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://patitpavanmandir.org/",
+    "summary": {
+     "text": "Patit Pavan Mandir is a Hindu temple in Ratnagiri, India, built by Bhagoji Baloji Keer between 1929 and 1931 at the request of Vinayak Damodar Savarkar.",
+     "url": "https://en.wikipedia.org/wiki/Patit_Pavan_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7198305,
+   "lat": 18.979821,
+   "lon": 73.261165,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Pisharnath Mahadev Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7198305",
+    "wikipedia": "en:Pisharnath Mahadev Mandir"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Raigad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Matheran",
+     "dist_m": 1549
+    },
+    "nearest_bus": {
+     "name": "Panvel Bus Station",
+     "dist_m": 15251
+    },
+    "nearest_airport": {
+     "name": "Navi Mumbai International Airport",
+     "dist_m": 20704,
+     "iata": "NMI"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7198305",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Pisharnath Mahadev Mandir is a Shiva temple located in the hill-station of Matheran in Maharashtra, India. This temple is the oldest in Matheran and the deity Piśarnāth is the grama devata. The lingam here is swayambhū and appears in an extraordinary titled 'L' shape and is covered with sindoor. This ancient temple is located on the banks of a lake now known as \"Charlotte\". The surroundings of the temple are extremely beautiful and secluded. The place is at an altitude of about 2516 feet above sea level. Matheran itself is a very famous hill-station and is an attractive tourist spot.",
+     "url": "https://en.wikipedia.org/wiki/Pisharnath_Mahadev_Mandir",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7317731,
+   "lat": 17.26972222,
+   "lon": 74.61055556,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Revansiddha Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7317731",
+    "wikipedia": "en:Revansiddha Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Sangli District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kirloskarvadi",
+     "dist_m": 29186
+    },
+    "nearest_bus": {
+     "name": "Main Bus stop",
+     "dist_m": 11062
+    },
+    "nearest_airport": {
+     "name": "Kolhapur Airport",
+     "dist_m": 75248,
+     "iata": "KLH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7317731",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Renavi is a village in Sangli district, Maharashtra, India. The village has one primary school and one high school.",
+     "url": "https://en.wikipedia.org/wiki/Renavi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7497295,
+   "lat": 18.49154,
+   "lon": 73.89731,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shinde Chhatri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7497295",
+    "wikipedia": "en:Shinde Chhatri"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ghorpuri",
+     "dist_m": 4086
+    },
+    "nearest_bus": {
+     "name": "Indira Vasahat",
+     "dist_m": 1163
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10132,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "ARCUS HOSPITAL",
+     "dist_m": 347
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7497295",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shinde%20Chhatri%202a.jpg",
+    "summary": {
+     "text": "Shinde Chhatri at Wanawadi in Pune, India is a memorial dedicated to the 18th century Maratha military leader Mahadji Shinde who served as the commander-in-chief of the Maratha army under the Peshwas from 1760 to 1780. It is one of the most significant landmarks in the city and is reminiscent of the Maratha rule. It is a hall that marks the spot of Mahadji Shinde's cremation on 12 February 1794.",
+     "url": "https://en.wikipedia.org/wiki/Shinde_Chhatri",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503501,
+   "lat": 19.108737,
+   "lon": 74.279627,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shree Kshetra Korthan Khandoba Devastan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503501"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Ahilyanagar District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vilad",
+     "dist_m": 42680
+    },
+    "nearest_bus": {
+     "name": "Parner Bus Top",
+     "dist_m": 20878
+    },
+    "nearest_airport": {
+     "name": "Shirdi Airport",
+     "dist_m": 65452,
+     "iata": "SAG"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Nandur Pathar",
+     "dist_m": 3817
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503501",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ahilyanagar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7503796,
+   "lat": 16.00305556,
+   "lon": 73.63694444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Kaleshwar Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7503796",
+    "wikipedia": "en:Shree Kaleshwara Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Sindhudurg",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kudal",
+     "dist_m": 4668
+    },
+    "nearest_bus": {
+     "name": "Oros Bus Stand",
+     "dist_m": 14546
+    },
+    "nearest_airport": {
+     "name": "Sindhudurg Airport",
+     "dist_m": 11529,
+     "iata": "SDW"
+    },
+    "nearest_medical": {
+     "name": "Shri Siddhi Eye Hospital",
+     "dist_m": 4345
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503796",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sindhudurg district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20view%2C%20Kaleshwar%20Devasthan%2C%20Sindhudurg%2C%20Maharashtra.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Shri Kaleshwar Mandir, Shree Kaleshwara Mandira or Shree Kaleshwara Devasthana is a large Hindu temple in Nerur, Sindhudurg district in Maharashtra, India.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Kaleshwara_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7508080,
+   "lat": 17.63111111,
+   "lon": 74.7875,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddhanath Temple, Mhaswad",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7508080",
+    "wikipedia": "en:Siddhanath Temple, Mhaswad"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Satara",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Sangola",
+     "dist_m": 47668
+    },
+    "nearest_bus": {
+     "name": "Natepute ST Stand",
+     "dist_m": 30358
+    },
+    "nearest_airport": {
+     "name": "Solapur Airport",
+     "dist_m": 121523,
+     "iata": "SSE"
+    },
+    "nearest_medical": {
+     "name": "Dr. Onagiri Hospital",
+     "dist_m": 430
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7508080",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Satara district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sidhhanath%20Mhaswad.jpg",
+    "summary": {
+     "text": "The Siddhanath Temple, Mhaswad, in Maharashtra, India, is dedicated to Lord Siddhanath, an incarnation of Shiva and one of among several regional protective (Kshetrapal) gods of Maharashtra. The town of Mhaswad near Satara, approximately 56 kilometres (35 mi) from Pandharpur, is known for its annual Mhaswad Yatra fair in honour of Siddhanath. During the festival, devotees are smeared in pink gulal and carry a chariot of Shree Siddhanath.",
+     "url": "https://en.wikipedia.org/wiki/Siddhanath_Temple%2C_Mhaswad",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7508151,
+   "lat": 18.24,
+   "lon": 76.82,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Siddheshwar & Ratneshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7508151",
+    "wikipedia": "en:Siddheshwar & Ratneshwar Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Latur District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ambika Rohina",
+     "dist_m": 26036
+    },
+    "nearest_bus": {
+     "name": "बस स्थानक (Bus Stand, Shirur Anantpal)",
+     "dist_m": 10509
+    },
+    "nearest_airport": {
+     "name": "Latur Airport",
+     "dist_m": 42099,
+     "iata": "LTU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Nitur",
+     "dist_m": 4864
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7508151",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Maharashtra"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Siddheshwar, and Ratneshwar Temple is situated about 2 kilometres (1.2 mi) from Latur City of Maharashtra, India. The temple was built by King Tamradwaj.",
+     "url": "https://en.wikipedia.org/wiki/Siddheshwar_%26_Ratneshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7508582,
+   "lat": 17.34305556,
+   "lon": 74.77555556,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sidhhanath Temple, Kharsundi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7508582",
+    "wikipedia": "en:Sidhhanath Temple, Kharsundi"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Sangli District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dhalgaon",
+     "dist_m": 33547
+    },
+    "nearest_bus": {
+     "name": "Main Bus stop",
+     "dist_m": 11093
+    },
+    "nearest_airport": {
+     "name": "Kolhapur Airport",
+     "dist_m": 91225,
+     "iata": "KLH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7508582",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Sangli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Siddhanath is believed to be incarnation of Lord Shiva. Siddhanath is the patron god of Atpadi and adjacent regions, and is one of several regional protective (Kshetrapal) gods of Maharashtra. Historical temple of lord Siddhnath, a big temple built in 450 years ago. The God in this temple is reincarnation of Lord Shiva even called as NathBaba. This God had two wives - one stays with him and other wife that is the Goddess Zakabai who is staying few km away from kharsundi near Neilkarnji. The God Nathbaba can meet her once every 3 years and this condition was put by his first wife Goddess Jogeswari. So all the villagers go along with Palki of god to meet her somewhere in December. Near Kharsundi there is a place called Gohdapur where the natural spring of water is coming from ages and does not go dry, the story is that God Nathbabas Horse once saw the snake and jumped and put its feet on ground, the water started flowing there, the snake was there for restrict god from meeting his second wife.",
+     "url": "https://en.wikipedia.org/wiki/Sidhhanath_Temple%2C_Kharsundi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7852108,
+   "lat": 18.0114,
+   "lon": 76.1256,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tulja Bhavani Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7852108",
+    "wikipedia": "en:Tulja Bhavani Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Dharashiv District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dharashiv",
+     "dist_m": 28442
+    },
+    "nearest_bus": {
+     "name": "Osmanabad Bus stand",
+     "dist_m": 21372
+    },
+    "nearest_airport": {
+     "name": "Solapur Airport",
+     "dist_m": 47236,
+     "iata": "SSE"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7852108",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dharashiv district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuljabhavani%20Mandir%20Mahadwar%20%28Main%20entrance%20gate%29.jpg",
+    "summary": {
+     "text": "Shree Tulaja Bhavani Temple is a 12th century CE Hindu temple dedicated to goddess Bhavani. It was built in 12th century CE by Mahamandaleshwara Māradadeva of the Kadamb dynasty. Considered as one of the 51 Shakti Pithas, it is located on the banks of Mandakini River and Bori Dam in Yamunachala Hill of Balaghat Range of Tuljapur, which is 45 km northeast of Solapur, in Dharashiv district of Maharashtra in India.",
+     "url": "https://en.wikipedia.org/wiki/Tulja_Bhavani_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 85786888,
+   "lat": 20.50239363,
+   "lon": 75.09473027,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mudhai Devi temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q85786888",
+    "wikipedia": "en:Mudhai Devi Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Jalgaon District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vaghli",
+     "dist_m": 3234
+    },
+    "nearest_airport": {
+     "name": "Dhule Airport",
+     "dist_m": 59986,
+     "iata": "DHL"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q85786888",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Jalgaon district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Mudhai Devi temple is a temple of goddess Mudhai built as a Hemadpanti structure in village Waghali, in Chalisgaon tehsil of Jalgaon district in Khandesh region of Maharashtra, India.",
+     "url": "https://en.wikipedia.org/wiki/Mudhai_Devi_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97142914,
+   "lat": 19.240484324,
+   "lon": 73.721751602,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kukadeshwar Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97142914",
+    "wikipedia": "en:Kukdeshwar Temple"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shelu",
+     "dist_m": 46760
+    },
+    "nearest_bus": {
+     "name": "Junnar ST Stand",
+     "dist_m": 16050
+    },
+    "nearest_airport": {
+     "name": "Navi Mumbai International Airport",
+     "dist_m": 74388,
+     "iata": "NMI"
+    },
+    "nearest_medical": {
+     "name": "Amboli Clinic",
+     "dist_m": 2462
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97142914",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kukadeshwar%20Temple%2001.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kukdeshwar Temple is located in Pune District of Maharashtra, India. It is about 15 km west of Junnar and lies on the banks of Kukadi River. It is a Shiv temple noted for its beautiful sculptures and carvings. The roof of this temple is in a dilapidated state. Chavand fort, also known as Prasannagad, is approximately 3 km from Kukdeshwar temple. Nearest Town is Junnar.",
+     "url": "https://en.wikipedia.org/wiki/Kukdeshwar_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97147749,
+   "lat": 20.46330138,
+   "lon": 79.98119567,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiv Temple, Armori",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97147749"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Gadchiroli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chicholi Buzurg",
+     "dist_m": 17797
+    },
+    "nearest_bus": {
+     "name": "MSRTC Bus Stand Bramhapuri",
+     "dist_m": 21393
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 119766,
+     "iata": "NAG"
+    },
+    "nearest_medical": {
+     "name": "SDH Armori",
+     "dist_m": 847
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97147749",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Armori"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/ARMORI%20HEMANDPATI%20MANDHIR.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97147996,
+   "lat": 20.46805534,
+   "lon": 79.44468646,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Temple of Mahadev, Neri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97147996"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Chandrapur",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tempa",
+     "dist_m": 28749
+    },
+    "nearest_airport": {
+     "name": "Dr. Babasaheb Ambedkar International Airport",
+     "dist_m": 80692,
+     "iata": "NAG"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97147996",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chandrapur district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahadeva%20temple%2C%20Neri%20Chandrapur%20Maharashtra%20018.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98801442,
+   "lat": 18.530172745,
+   "lon": 73.861054004,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ahilyabai Holkar Ghat and Temple Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98801442"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 1062
+    },
+    "nearest_bus": {
+     "name": "PMPML Bus Parking",
+     "dist_m": 411
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 8300,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Kawediya Hospital",
+     "dist_m": 683
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98801442",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Holkar%20Ghat%20from%20Sangam%20Bridge%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98801447,
+   "lat": 18.50999217,
+   "lon": 73.870402542,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhavani Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98801447"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2142
+    },
+    "nearest_bus": {
+     "name": "Pulgate",
+     "dist_m": 1308
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9366,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Kamat Hospital",
+     "dist_m": 293
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98801447",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gate%20of%20Bhavani%20Mata%20Mandir%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98801444,
+   "lat": 18.521735591,
+   "lon": 73.856675512,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Baloba Munja Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98801444"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 1333
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 345
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9280,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Surya Sahyadri Hospital",
+     "dist_m": 118
+    },
+    "parking": {
+     "count": 2,
+     "nearest_m": 188
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 257
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98801444",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "1952-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Munjaba%20Temple%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98801527,
+   "lat": 18.513379731,
+   "lon": 73.856999664,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rameshwar Mandir Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98801527"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2219
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 1132
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9930,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Umarji Hospital",
+     "dist_m": 179
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 123
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98801527",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade I"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rameshwar%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802437,
+   "lat": 18.541148323,
+   "lon": 73.829100537,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ganesh Temple, Ganeshkhind",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802437"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2528
+    },
+    "nearest_bus": {
+     "name": "New Wakadewadi MSRTC Bus Stand",
+     "dist_m": 2469
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10471,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Shraddha Angal",
+     "dist_m": 72
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 233
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 249
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802437",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Parvati%20Nandan%20Ganpati%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802451,
+   "lat": 18.552758945,
+   "lon": 73.863405103,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Holkar Chatri",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802451"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2580
+    },
+    "nearest_bus": {
+     "name": "New Wakadewadi MSRTC Bus Stand",
+     "dist_m": 1557
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 6653,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "CGHS Dispensary No.2",
+     "dist_m": 1326
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802451",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802471,
+   "lat": 18.509418298,
+   "lon": 73.850741419,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narsimha Laxmi Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802471"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2577
+    },
+    "nearest_bus": {
+     "name": "Swargate MSRTC Bus Stand",
+     "dist_m": 1366
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10699,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Date Hospital",
+     "dist_m": 182
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 257
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802471",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Narsimha%20Temple%2C%20Sadashiv%20Peth.jpg",
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802469,
+   "lat": 18.521730857,
+   "lon": 73.864908539,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narpatgir Vishnu Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802469"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 1279
+    },
+    "nearest_bus": {
+     "name": "Pune Railway Station Bus Terminus",
+     "dist_m": 1037
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 8682,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Todkar Hospital",
+     "dist_m": 169
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802469",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Narpatgir%20Vishnu%20Mandir%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802488,
+   "lat": 18.509561223,
+   "lon": 73.85939941,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Panchamukhi Maruti Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802488"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2668
+    },
+    "nearest_bus": {
+     "name": "Swargate MSRTC Bus Stand",
+     "dist_m": 1069
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10091,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Naik Hospital, Pune",
+     "dist_m": 81
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 175
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802488",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Panchamukhi%20Maruti%20Mandir%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802512,
+   "lat": 18.523525621,
+   "lon": 73.850995265,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rokdoba Mandir Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802512"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 1009
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan",
+     "dist_m": 262
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9584,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Pungliya Hospital",
+     "dist_m": 95
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802512",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rokdoba%20Mandir%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802529,
+   "lat": 18.508177735,
+   "lon": 73.848325124,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Ram Mandir behind Tilak Smarak",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802529"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2733
+    },
+    "nearest_bus": {
+     "name": "Swargate PMPML Bus Stand",
+     "dist_m": 1423
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10974,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Ram Krishna Hospital, Pune",
+     "dist_m": 119
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 174
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802529",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Temple%2C%20Sadashiv%20Peth%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98802556,
+   "lat": 18.509842218,
+   "lon": 73.860334229,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vetal Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98802556"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2585
+    },
+    "nearest_bus": {
+     "name": "Swargate MSRTC Bus Stand",
+     "dist_m": 1108
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10005,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Naik Hospital, Pune",
+     "dist_m": 104
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 275
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98802556",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade II"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Vetal%20Mandir%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803742,
+   "lat": 18.509587645,
+   "lon": 73.871286752,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Balaji Mandir, Bhawani Peth",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803742"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2170
+    },
+    "nearest_bus": {
+     "name": "Pulgate",
+     "dist_m": 1206
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9353,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Vishranti Hospital",
+     "dist_m": 350
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803742",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Balaji%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803746,
+   "lat": 18.518469671,
+   "lon": 73.861727607,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bharatishwar Mahadeo Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803746"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 1769
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 987
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9176,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Samarth Hospital, Pune",
+     "dist_m": 122
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803746",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bharatishwar%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803762,
+   "lat": 18.518306785,
+   "lon": 73.861769153,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dagdi Nagoba Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803762"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 1777
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 1000
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9187,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Samarth Hospital, Pune",
+     "dist_m": 139
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803762",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dagadi%20Nagoba%20Temple%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803767,
+   "lat": 18.514663061,
+   "lon": 73.856613209,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dagdusheth Dutta Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803767"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 2070
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 984
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9851,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Umarji Hospital",
+     "dist_m": 326
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 33
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803767",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Dagdushet%20Datta%20Mandir.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803793,
+   "lat": 18.522591851,
+   "lon": 73.868160614,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gosavipura Chatri - Ramji Gosavi Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803793"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 961
+    },
+    "nearest_bus": {
+     "name": "Pune Station Bus Stand",
+     "dist_m": 727
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 8386,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Sai Samarth Hospital",
+     "dist_m": 57
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803793",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Gosavipura%20Chatri%20and%20Ramji%20Gosavi%20Mandir%2C%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803833,
+   "lat": 18.506662773,
+   "lon": 73.860793987,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maheshwari Murlidhar Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803833"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2857
+    },
+    "nearest_bus": {
+     "name": "Swargate MSRTC Bus Stand",
+     "dist_m": 769
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10255,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "dental health care",
+     "dist_m": 196
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 255
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803833",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20Maheshwari%20Murlidhar%20Mandir%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803855,
+   "lat": 18.52266197,
+   "lon": 73.856763801,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sapindya Mahadeo Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803855"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 1245
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 324
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9201,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Surya Sahyadri Hospital",
+     "dist_m": 194
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 284
+    },
+    "toilets": {
+     "count": 3,
+     "nearest_m": 218
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803855",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sapindya%20Mahadev%20Mandir%20in%20Pune.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803852,
+   "lat": 18.521141269,
+   "lon": 73.867389715,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiv Mandir in S V Union",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803852"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 1135
+    },
+    "nearest_bus": {
+     "name": "Pune Station Bus Stand",
+     "dist_m": 903
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 8561,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "KEM Hospital",
+     "dist_m": 103
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803852",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20Temple%20in%20SV%20Union%20School%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803862,
+   "lat": 18.509454988,
+   "lon": 73.8593906,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shri Ram Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803862"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pune Junction",
+     "dist_m": 2678
+    },
+    "nearest_bus": {
+     "name": "Swargate MSRTC Bus Stand",
+     "dist_m": 1057
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 10101,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Naik Hospital, Pune",
+     "dist_m": 93
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 168
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803862",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramchandraji%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Rama"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 98803878,
+   "lat": 18.521495549,
+   "lon": 73.858104777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Twashta Kasar Kali Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q98803878"
+   },
+   "state": "Maharashtra",
+   "state_basis": "boundary",
+   "district": "Pune District",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shivajinagar",
+     "dist_m": 1427
+    },
+    "nearest_bus": {
+     "name": "Manapa Bhavan PMPML Bus Station",
+     "dist_m": 494
+    },
+    "nearest_airport": {
+     "name": "Pune International Airport",
+     "dist_m": 9192,
+     "iata": "PNQ"
+    },
+    "nearest_medical": {
+     "name": "Milenkari Clinic",
+     "dist_m": 162
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 285
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q98803878",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "PMC Heritage Grade III"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pune"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Twashta%20Kasar%20Kali%20Temple%2C%20Pune.jpg",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
     ]
    }
   }

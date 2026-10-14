@@ -1,6 +1,6 @@
 {
  "state": "Uttarakhand",
- "count": 615,
+ "count": 648,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -32034,6 +32034,2145 @@
     "of": 8,
     "has": [
      "district"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 12451198,
+   "lat": 30.731444444,
+   "lon": 78.067555555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Lakhamandal temple, ruins and images",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q12451198",
+    "wikipedia": "en:Lakhamandal"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Dehradun",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dehradun",
+     "dist_m": 46494
+    },
+    "nearest_bus": {
+     "name": "Library Bus Stop",
+     "dist_m": 30179
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 60954,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q12451198",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Dehradun district",
+      "Uttarakhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052023%20Lakhamandal%20temple%20and%20ruins%2C%20Gupta%20era%20artwork%2C%20Uttarakhand%20030.jpg",
+    "summary": {
+     "text": "Lakhamandal is an ancient Hindu temple complex, situated in the Jaunsar-Bawar region of Dehradun district in the state of Uttarakhand. The temple is dedicated to lord Shiva. This temple is popular among the Shaivites, who believe that a visit to this temple shrine will end their misfortunes.",
+     "url": "https://en.wikipedia.org/wiki/Lakhamandal",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 18126525,
+   "lat": 29.623888888,
+   "lon": 79.023055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kamanda Mahadev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q18126525",
+    "wikipedia": "en:Kamanda Mahadev"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Pauri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 27746
+    },
+    "nearest_bus": {
+     "name": "UTC Bus Depot Ramnagar",
+     "dist_m": 27126
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 78804,
+     "iata": "PGH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q18126525",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttarakhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Pauri Garhwal district is a district in the Indian state of Uttarakhand. Its headquarters is in the town of Pauri. It is sometimes referred to simply as Garhwal district, though it should not be confused with the larger Garhwal region of which it is only a part.",
+     "url": "https://en.wikipedia.org/wiki/Pauri_Garhwal_district",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123964550,
+   "lat": 30.437944444,
+   "lon": 79.056583333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Basukedar Group of Temples, Uttarakhand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123964550"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Sonprayag Parking",
+     "dist_m": 21548
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 88333,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Basukedar",
+     "dist_m": 148
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123964550",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Rudraprayag district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/005222023%20Basu%20Kedar%20group%20of%20temples%2C%20Uttarakhand%20067.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123991598,
+   "lat": 29.776333333,
+   "lon": 79.430916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gujjar Deva Group of Temples, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123991598"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52363
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14671
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82747,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 2195
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123991598",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/005242023%20Gujjar%20Deva%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20040.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123995989,
+   "lat": 29.775916666,
+   "lon": 79.42925,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Ratan Deo Group of Temples, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123995989"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52234
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14622
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82708,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 2127
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123995989",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/005252023%20Ratan%20Deo%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20179.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 123997360,
+   "lat": 29.774861111,
+   "lon": 79.426972222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Badrinath Group of Temples, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q123997360"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52012
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14504
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82602,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 1999
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q123997360",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052423%20Badrinath%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20038.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124000701,
+   "lat": 29.774861111,
+   "lon": 79.428,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Mritunjaya Group of Temples, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124000701"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52068
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14504
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82597,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 2001
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124000701",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052423%20Mrityunjaya%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20194.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124001085,
+   "lat": 29.778388888,
+   "lon": 79.428055555,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kacheri Group of Temples, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124001085"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52394
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14896
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82989,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 2393
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124001085",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052523%20Kacheri%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20010.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124004386,
+   "lat": 29.777722222,
+   "lon": 79.427027777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maniyan Group of Temples, Uttarakhand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124004386"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 52277
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14822
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82920,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 2317
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124004386",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052523%20Maniyan%20group%20of%20temples%2C%20Dwarahat%20Uttarakhand%20025.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124011802,
+   "lat": 29.773583333,
+   "lon": 79.427194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bandeo Temple, Dwarahat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124011802"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Almora",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Ramnagar",
+     "dist_m": 51907
+    },
+    "nearest_bus": {
+     "name": "K.M.O.U. Station Ranikhet",
+     "dist_m": 14362
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 82459,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dwarahat Dispensary",
+     "dist_m": 1857
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124011802",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Almora district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052423%20Vandev%20temple%2C%20Dwarahat%20Uttarakhand%20075.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124018536,
+   "lat": 30.415972222,
+   "lon": 79.314083333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vaitarani Kund and Temples, Gopeshwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124018536"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Chamoli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "GOPESHWAR STATION",
+     "dist_m": 697
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 111540,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Physio for Relief Physiotherapy Centre",
+     "dist_m": 397
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124018536",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamoli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052323%20Vaitarani%20kund%20and%20group%20of%20temples%2C%20Gopeshwar%20Uttarakhand%20148.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 141174874,
+   "lat": 29.342805,
+   "lon": 79.563269,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhimeshwar Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q141174874"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Nainital",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kathgodam",
+     "dist_m": 8621
+    },
+    "nearest_bus": {
+     "name": "New Bus Station",
+     "dist_m": 10462
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 35568,
+     "iata": "PGH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q141174874",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "founded": {
+     "value": "0017-01-01",
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bhimtal"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhimtal%20-%20Marianne%20North%20-%20Bheemtal%20-%201878%20-%20WD3225.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 2669054,
+   "lat": 30.653611111,
+   "lon": 79.026111111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gauri Kund",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q2669054",
+    "wikipedia": "en:Gauri Kund"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Sonprayag Parking",
+     "dist_m": 4050
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 95872,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q2669054",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttarakhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Gauri Kund is a Hindu pilgrimage site and base camp for trek to Kedarnath Temple, in Uttarakhand, India. It is situated at an altitude of 6502 feet above mean sea level in the Garhwal Himalayas. Anekadhangavadeswarar is revered in the 7th century Tamil Saiva canonical work, the Tevaram, written by Tamil saint poets known as the nayanars and classified as Paadal Petra Sthalam, the 275 temples reverred in the canon.",
+     "url": "https://en.wikipedia.org/wiki/Gauri_Kund",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 25212547,
+   "lat": 30.33,
+   "lon": 79.006833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Hariyali Devi Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q25212547"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 73389
+    },
+    "nearest_bus": {
+     "name": "Sonprayag Parking",
+     "dist_m": 32851
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 80735,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q25212547",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttarakhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4842016,
+   "lat": 29.83666667,
+   "lon": 79.8225,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bagnath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4842016",
+    "wikipedia": "en:Bagnath Temple"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Bageshwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kathgodam",
+     "dist_m": 68771
+    },
+    "nearest_bus": {
+     "name": "bageshwar bus station",
+     "dist_m": 5133
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 95592,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Shyam Lal Shah Gangola District Hospital",
+     "dist_m": 4544
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4842016",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bageshwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Bagnath%20Temple%20at%20Bageshwar%20Uttrakhand%20-%20panoramio%20%28Cropped%29.jpg",
+    "summary": {
+     "text": "Bagnath Temple is an ancient shrine dedicated to Shiva, situated in the Bageshwar city at the confluence of Sarayu and Gomati rivers. Bagnath Temple is festooned with bells of all sizes and features impressive carvings. It is the most famous Temple in Bageshwar District. It is flooded with devotees on the occasion of Shivratri. The city of Bageshwar gets its name from this Temple.",
+     "url": "https://en.wikipedia.org/wiki/Bagnath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5071316,
+   "lat": 30.38259,
+   "lon": 78.473805,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Chandrabadani Devi",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5071316",
+    "wikipedia": "en:Chandrabadani Devi"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Tehri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 35407
+    },
+    "nearest_bus": {
+     "name": "New Tehri Bauradi Bus Station Building",
+     "dist_m": 3216
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 35158,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Bhagirathi Puram",
+     "dist_m": 467
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5071316",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Tehri Garhwal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Chandrabadni%20Mandir.jpg",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Chandrabadani is a Siddhpeeth temple located on the border of Devaprayag and Pratapnagar tehsils. The temple is located 2,277 m above sea level, at the top of the Chandrakoot mountain about 32 km north of Devaprayag. It is equidistant from both Devprayag and the Tehri Dam, making it a significant spiritual landmark in the heart of the Garhwal Himalayas.",
+     "url": "https://en.wikipedia.org/wiki/Chandrabadani_Devi",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 5210076,
+   "lat": 29.92186667,
+   "lon": 78.14584444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Daksheswara Mahadev Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q5210076",
+    "wikipedia": "en:Daksheswar Mahadev Temple"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Haridwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jwalapur",
+     "dist_m": 2521
+    },
+    "nearest_bus": {
+     "name": "Haridwar Roadways Bus Station",
+     "dist_m": 2705
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 30249,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Daksh Balaji Ortho Hospital",
+     "dist_m": 590
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5210076",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Haridwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Daksheshwar%20Mahadev%20temple%2C%20Kankhal3.JPG",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Daksheswar Mahadev or Daksha Mahadev temple is a Hindu temple dedicated to Lord Shiva, located in the town of Kankhal, about 4 km from Haridwar, Uttarakhand, India. It is named after King Daksha Prajapati, the father of Sati. Daksha is one of the fourteen Prajapatis, creator deities, who preside over procreation and are the protector of life in Hindu mythology.",
+     "url": "https://en.wikipedia.org/wiki/Daksheswar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6319448,
+   "lat": 30.550645,
+   "lon": 79.565953,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jyotir Math",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6319448",
+    "wikipedia": "en:Jyotir Math"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Chamoli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Badrinath & Govindghat",
+     "dist_m": 430
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 138669,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6319448",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Uttarāmnāya Śrī Jyotish Pītham or JyotirMath is one amongst the four cardinal pīthams believed by it's tradition to be established by the Ādi Śaṅkara 2500 years ago to preserve Hinduism and Advaita Vedānta, the doctrine of nonduality. Located in the city of Joshimath, Chamoli district, Uttarakhand, India, it is the uttarāmnāya matha or Northern Āmnāya Pītham, amongst the four Chaturamnay Peethams - Kalady Kerala, alleged birthplace of Adi Shankara with the others being the Sringeri Śārada Pīṭhaṃ (Karnataka) in the South, Dvārakā Śāradā Pītham in the West and Purī Govardhanmaṭha Pīṭhaṃ in the east. Its appointees bear the title of Shankaracharya. It is the headquarters of Giri, Parvata & Sagara sects of the Dasnami Sampradaya. Their Vedantic mantra or Mahavakya is Ayamātmānam brahma, and according to tradition it holds authority over Atharva Veda. The head of the matha is called Shankaracharya, a title which is derived from Adi Shankara.",
+     "url": "https://en.wikipedia.org/wiki/Jyotir_Math",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 55637148,
+   "lat": 30.067533,
+   "lon": 78.2800841,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Virbhadra Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q55637148",
+    "wikipedia": "en:Virbhadra Temple"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Dehradun",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Virbhadra",
+     "dist_m": 2794
+    },
+    "nearest_bus": {
+     "name": "GMVN Bus Stand",
+     "dist_m": 5244
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 16789,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Seema dental college and hospital",
+     "dist_m": 334
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55637148",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "\nVirbhadra Temple is dedicated to Lord Shiva, located at Virbhadra Town near Rishikesh, Uttarakhand. It is a 1,300-year-old temple, where Virbhadra, an avatar of Lord Shiva is worshiped. Night long jagran and special poojas are held on the occasion of Shivratri & Sawaan. A mela is also held to coincide with the Mahashivratri festival. Virbhadra Temple Myths and Legends Virabhadra is an avatar of Lord Shiva who was created by him in anger. The story in Hindu mythology describes that when Goddess Uma (Sati) felt insulted by her father Daksh Prajapati at Kankhal, Haridwar for not inviting her husband Lord Shiva for Yagya, she jumped into the Yagya Kund to immolate herself for her husband's dishonor. When Lord Shiva heard this news he became angry, pulled out his hair and thrashed on the ground. Consequently, Lord Virbhadra was born.",
+     "url": "https://en.wikipedia.org/wiki/Virbhadra_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6433940,
+   "lat": 30.28,
+   "lon": 78.98,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Koteshwar Mahadev",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6433940",
+    "wikipedia": "en:Koteshwar Mahadev"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 69244
+    },
+    "nearest_bus": {
+     "name": "GOPESHWAR STATION",
+     "dist_m": 35461
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 77328,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Jankalyan Hospital, Rudraprayag",
+     "dist_m": 496
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6433940",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttarakhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Koteshwar Mahadev Temple is a Hindu temple dedicated to lord Shiva, and is located approximately 3 kilometres (3,000 m) from the centre of the Rudraprayag district of Uttarakhand, a little above the Alaknanda River.",
+     "url": "https://en.wikipedia.org/wiki/Koteshwar_Mahadev",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6796681,
+   "lat": 29.95,
+   "lon": 78.16194444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maya Devi Temple, Haridwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6796681",
+    "wikipedia": "en:Maya Devi Temple, Haridwar"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Haridwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Haridwar",
+     "dist_m": 786
+    },
+    "nearest_bus": {
+     "name": "Haridwar Roadways Bus Station",
+     "dist_m": 956
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 26991,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Government Mela Hospital",
+     "dist_m": 427
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6796681",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Haridwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20to%20Mayadevi%20temple%2C%20Haridwar.JPG",
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Maya Devi Temple, Haridwar is a Hindu temple dedicated to goddess Maya in the holy city of Haridwar of Uttarakhand state in India. It is believed that the heart and navel of goddess Sati fell in the region where the temple stands today and thus it is sometimes referred to as a Shakta pitha.",
+     "url": "https://en.wikipedia.org/wiki/Maya_Devi_Temple%2C_Haridwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7377510,
+   "lat": 30.53333333,
+   "lon": 79.33333333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rudranath",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7377510",
+    "wikipedia": "en:Rudranath"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Chamoli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "GOPESHWAR STATION",
+     "dist_m": 13763
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 116840,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7377510",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Chamoli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Rudranath%20temple.jpg",
+    "summary": {
+     "text": "Rudranath Temple is a Hindu temple dedicated to Shiva, located in the Garhwal Himalayan mountains in Uttarakhand, India. Located at 3,600 metres (11,800 ft) above sea level, this natural rock temple is situated within a dense forest of rhododendron dwarfs and Alpine pastures. The temple is the fourth temple to be visited in the Panch Kedar pilgrimage circuit, comprising five Shiva temples in the Garhwal region visited in a strict order starting with Kedarnath at an altitude of 3,583 m (11,755 ft), the Tungnath (तुंगनाथ)(3,680 m or 12,070 ft), Rudranath (रुद्रनाथ), Madhyamaheshwar (मध्यमहेश्वर) and Kalpeshwar (कल्पेश्वर).",
+     "url": "https://en.wikipedia.org/wiki/Rudranath",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 8048118,
+   "lat": 31.0167,
+   "lon": 78.45,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Yamunotri Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q8048118",
+    "wikipedia": "en:Yamunotri Temple"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Uttarkashi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus station",
+     "dist_m": 27346
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 95219,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q8048118",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Uttarkashi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamunotri%20temple%20and%20ashram.jpg",
+    "summary": {
+     "text": "Yamunotri Temple is a Hindu temple, in the western region of Garhwal Himalayas at an altitude of 3,291 metres (10,797 ft) in Uttarkashi district, Uttarakhand, India. It is dedicated to Yamuna and has a black marble idol of her. The temple has been destroyed twice by snow and floods before being rebuilt. It is part of the Char Dham pilgrimage circuit.",
+     "url": "https://en.wikipedia.org/wiki/Yamunotri_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97062998,
+   "lat": 30.146305555,
+   "lon": 78.705138888,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Vaishnav Group of Temples, Deval",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97062998"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Pauri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 40381
+    },
+    "nearest_bus": {
+     "name": "Devprayag",
+     "dist_m": 10442
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 50595,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97062998",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pauri Garhwal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052123%20Vaishnava%20Group%20of%20Temples%2C%20Deval%20Uttarakhand%20332.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063001,
+   "lat": 30.148111111,
+   "lon": 78.986916666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiv Temple Group, Paithani",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063001"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Pauri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kotdwara",
+     "dist_m": 63397
+    },
+    "nearest_bus": {
+     "name": "Devprayag",
+     "dist_m": 37535
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 77580,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063001",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Pauri Garhwal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Paithani%20Shiv%20Mandir.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063006,
+   "lat": 30.539277777,
+   "lon": 79.081722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Damyanti Temple, Hyun",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063006"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Sonprayag Parking",
+     "dist_m": 12400
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 94600,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063006",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rudraprayag district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20distant%20view%20of%20Damyanti%20Temple%2C%20Hyun%20Uttarakhand.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063004,
+   "lat": 30.544194444,
+   "lon": 79.072833333,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Narayankoti Group of Temples, Uttarakhand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063004"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Rudraprayag",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Sonprayag Parking",
+     "dist_m": 11441
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 94046,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063004",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Rudraprayag district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052323%20Narayankoti%20group%20of%20Hindu%20temples%2C%20Uttarakhand%20101.jpg",
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063010,
+   "lat": 30.233,
+   "lon": 79.257777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Govind Group of Temples, Simli",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063010"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Chamoli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "GOPESHWAR STATION",
+     "dist_m": 20529
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 103519,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "D.R Memorial Ortho Physio Care",
+     "dist_m": 4552
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063010",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamoli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052423%20Govind%20group%20of%20temples%2C%20Simli%20Uttarakhand%20021.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063011,
+   "lat": 30.09061294,
+   "lon": 79.458960494,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kulsari Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063011"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Chamoli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "GOPESHWAR STATION",
+     "dist_m": 38068
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 117604,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Dinesh Joshi Medikose, Tharali",
+     "dist_m": 4438
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063011",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Chamoli district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kulsari%20Temple%20In%20Chamoli%20Uttarakhand.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063014,
+   "lat": 30.227777777,
+   "lon": 78.769166666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Raj Rajeshwari Temple, Ranihat Uttarakhand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063014"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Tehri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 48177
+    },
+    "nearest_bus": {
+     "name": "Devprayag",
+     "dist_m": 18824
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 56608,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Chaudhary Hospital",
+     "dist_m": 1225
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063014",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Tehri Garhwal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052223%20Raj%20Rajeshwari%20Group%20of%20Temples%2C%20Ranihat%20Uttarakhand%20009.jpg",
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063013,
+   "lat": 30.22806,
+   "lon": 78.76926,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Surya Group of Temples, Ranihat",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063013"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Tehri Garhwal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rishikesh",
+     "dist_m": 48194
+    },
+    "nearest_bus": {
+     "name": "Devprayag",
+     "dist_m": 18847
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 56620,
+     "iata": "DED"
+    },
+    "nearest_medical": {
+     "name": "Chaudhary Hospital",
+     "dist_m": 1239
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063013",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Tehri Garhwal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Surya"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97063017,
+   "lat": 30.84125,
+   "lon": 78.26,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jamdagni Temple, Thaan",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97063017"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Uttarkashi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dehradun",
+     "dist_m": 62472
+    },
+    "nearest_bus": {
+     "name": "Uttarkashi Bus Stand",
+     "dist_m": 21116
+    },
+    "nearest_airport": {
+     "name": "Dehradun Airport",
+     "dist_m": 72568,
+     "iata": "DED"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97063017",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Uttarkashi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/0052023%20Jamadagni%20group%20of%20temples%2C%20Thaan%20Uttarakhand%20010.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 97923250,
+   "lat": 29.906666666,
+   "lon": 79.610861111,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Tallihat group of temples and Katyuri mound, Uttarakhand",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q97923250"
+   },
+   "state": "Uttarakhand",
+   "state_basis": "boundary",
+   "district": "Bageshwar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kathgodam",
+     "dist_m": 71438
+    },
+    "nearest_bus": {
+     "name": "bageshwar bus station",
+     "dist_m": 18574
+    },
+    "nearest_airport": {
+     "name": "Pantnagar Airport",
+     "dist_m": 98070,
+     "iata": "PGH"
+    },
+    "nearest_medical": {
+     "name": "Surya Diagnostic Centre",
+     "dist_m": 523
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q97923250",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bageshwar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Narayan%20Temple%20Side%20View.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
     ]
    }
   }

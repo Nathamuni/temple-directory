@@ -1,6 +1,6 @@
 {
  "state": "Jharkhand",
- "count": 518,
+ "count": 531,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -26293,6 +26293,821 @@
      "name",
      "district",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 106390410,
+   "lat": 24.244722222,
+   "lon": 86.701944444,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Pathrol Kali Temple, Madhupur",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q106390410",
+    "wikipedia": "en:Pathrol Kali Temple, Madhupur"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Deoghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Joramow Railway Station",
+     "dist_m": 4578
+    },
+    "nearest_airport": {
+     "name": "Deoghar International Airport",
+     "dist_m": 22407,
+     "iata": "DGH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q106390410",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Maa Pathrol Kali Temple is a hindu temple located in Madhupur, Deoghar in the Santhal Parganas division of the state of Jharkhand, India. It is roughly 7 km from the Madhupur Town. The temple consists of a shrine dedicated to Goddess Kali. It is one of the oldest and sacred temple in Madhupur which was built by Raja Digvijay Singh about 6 to 7 centuries ago. Worship is held every day from Monday to Sunday. Animals are sacrificed as part of worship. There are nine more temple close to the main temple. An Annual fair is held every year during the month of Kartik where thousands and thousands, of Pilgrims and devotees gather here for the worship and to witness the fair.",
+     "url": "https://en.wikipedia.org/wiki/Pathrol_Kali_Temple%2C_Madhupur",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 112221381,
+   "lat": 22.640497222,
+   "lon": 86.336527777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Rankini Temple, Jadugora",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q112221381",
+    "wikipedia": "en:Rankini Temple, Jadugora"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "East Singhbhum",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rakha Mines",
+     "dist_m": 4201
+    },
+    "nearest_bus": {
+     "name": "Mango Bus Stand",
+     "dist_m": 23270
+    },
+    "nearest_airport": {
+     "name": "Jamshedpur Airport",
+     "dist_m": 25784,
+     "iata": "IXW"
+    },
+    "nearest_medical": {
+     "name": "Jadugoda Hospital",
+     "dist_m": 1808
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q112221381",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Rankini Mandir, also known as Kapadgadi Ghat Rankini Mandir, is a temple situated in Rohinibera village of Bansila Gram Panchayat in Potka block, near Jadugora, Jamshedpur in Jharkhand in India. It is located near the Hata-Jadugora State Highway. The stone that is the murthi is believed to be a physical incarnation of Goddess Rankini. It is widely believed that during ancient times, people travelling through the dense forest used to worship at the Rankini Devi temple for their protection and well being.",
+     "url": "https://en.wikipedia.org/wiki/Rankini_Temple%2C_Jadugora",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 114608011,
+   "lat": 23.116666666,
+   "lon": 84.766666666,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kapilnath Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q114608011",
+    "wikipedia": "en:Kapilnath Temple"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Gumla",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bakaspur",
+     "dist_m": 24479
+    },
+    "nearest_airport": {
+     "name": "Ranchi Birsa Munda Airport",
+     "dist_m": 60805,
+     "iata": "IXR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q114608011",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "Kapilnath Temple near Navratangarh, is a 17th-century temple dedicated to Shiva in Gumla district of Jharkhand. It was built by king Ram Shah in 1643 CE. Many people come to worship daily and in Shivratri festival.",
+     "url": "https://en.wikipedia.org/wiki/Kapilnath_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 120644044,
+   "lat": 24.483055555,
+   "lon": 86.7,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Naulakha Temple, Deoghar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q120644044",
+    "wikipedia": "en:Naulakha Temple, Deoghar"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Deoghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Baidyanathdham",
+     "dist_m": 986
+    },
+    "nearest_airport": {
+     "name": "Deoghar International Airport",
+     "dist_m": 4096,
+     "iata": "DGH"
+    },
+    "nearest_medical": {
+     "name": "Maa Lalita Hospital and Research Center Pvt Ltd",
+     "dist_m": 287
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q120644044",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Deoghar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Naulakha%20Temple.jpg",
+    "summary": {
+     "text": "The Naulakha Temple is a Hindu temple located in Deoghar, Jharkhand, India. It is dedicated to the Hindu deities Radha and Krishna.",
+     "url": "https://en.wikipedia.org/wiki/Naulakha_Temple%2C_Deoghar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 124302320,
+   "lat": 22.787157,
+   "lon": 86.22407,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Birla Mandir",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q124302320"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "East Singhbhum",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Salgajhari",
+     "dist_m": 3161
+    },
+    "nearest_bus": {
+     "name": "Mango Bus Stand",
+     "dist_m": 3377
+    },
+    "nearest_airport": {
+     "name": "Jamshedpur Airport",
+     "dist_m": 6340,
+     "iata": "IXW"
+    },
+    "nearest_medical": {
+     "name": "Tinplate Hospital",
+     "dist_m": 828
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q124302320",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "East Singhbhum district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Birla%20Temple%20Jamshedpur.jpg"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24906194,
+   "lat": 24.33388889,
+   "lon": 86.01777778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Jharkhand Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24906194",
+    "wikipedia": "en:Jharkhand Dham"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Giridih",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Rema",
+     "dist_m": 8441
+    },
+    "nearest_airport": {
+     "name": "Dhanbad Airport",
+     "dist_m": 69270,
+     "iata": "DBD"
+    },
+    "nearest_medical": {
+     "name": "Health Care Clinic",
+     "dist_m": 4902
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24906194",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Jharkhand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Jharkhand%20Dham.jpg",
+    "summary": {
+     "text": "Jharkhand Dham is a temple of the Hindu god Shiva and pilgrimage center near Dhanwar in Giridih District, Jharkhand, India.",
+     "url": "https://en.wikipedia.org/wiki/Jharkhand_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24931314,
+   "lat": 23.046111111,
+   "lon": 85.682777777,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Maa Dewri Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24931314",
+    "wikipedia": "en:Maa Dewri Temple"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Ranchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Tiraldih",
+     "dist_m": 27054
+    },
+    "nearest_airport": {
+     "name": "Ranchi Birsa Munda Airport",
+     "dist_m": 47543,
+     "iata": "IXR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24931314",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Ranchi district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Maa Dewri Temple is an ancient temple, situated in Diuri village, Tamar near Ranchi in Jharkhand in India. The main attraction of the temple is, 700 year old murti of 16-armed village deity Maa Dewri. It is an ancient temple and was renovated few years back. The ancient temple was constructed by interlocking stones without using chalk or binding material. The temple was earlier known as Dewri Diri, meaning sacred stone of Diuri village.",
+     "url": "https://en.wikipedia.org/wiki/Maa_Dewri_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24951870,
+   "lat": 23.748671,
+   "lon": 86.26389,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Gayatri Gyan Mandir , Mahuda",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24951870",
+    "wikipedia": "en:Gayatri Gyan Mandir, Mahuda"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Dhanbad",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mahuda",
+     "dist_m": 568
+    },
+    "nearest_bus": {
+     "name": "Dhanbad Bus Stand",
+     "dist_m": 18198
+    },
+    "nearest_airport": {
+     "name": "Dhanbad Airport",
+     "dist_m": 18957,
+     "iata": "DBD"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital ,Kharkharee",
+     "dist_m": 4121
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24951870",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Dhanbad district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "Gayatri Gyan Mandir is a Hindu temple located at Washery Colony, near Mahuda Junction railway station, Mahuda, Dhanbad, Jharkhand, India. Here the goddess Gayatri is worshipped. It is a temple located in Baghmara census town in Dhanbad. The temple campus is located near Mahuda Bazaar. Mahadeo Mandir is also nearest to it.",
+     "url": "https://en.wikipedia.org/wiki/Gayatri_Gyan_Mandir%2C_Mahuda",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 38251027,
+   "lat": 24.12722222,
+   "lon": 86.74472222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Karneshwar Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q38251027",
+    "wikipedia": "en:Karneshwar Dham"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Deoghar",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Madankata Railway Station",
+     "dist_m": 5896
+    },
+    "nearest_airport": {
+     "name": "Deoghar International Airport",
+     "dist_m": 35747,
+     "iata": "DGH"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q38251027",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Deoghar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Karneshwar Dham, also known as Karneshwar Shiv Mandir is one of the ancient temples in Karon, the most sacred abodes of Shiva named after Karna, a key antagonist of the Hindu epic Mahabharata. Karneshwar is located in Karon in the Deoghar district of the state of Jharkhand, India. It is a temple complex consisting of the main temple of Baba Karneshwar, where the Shivalinga is installed, and 27 other temples.",
+     "url": "https://en.wikipedia.org/wiki/Karneshwar_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4902076,
+   "lat": 22.19916667,
+   "lon": 85.83777778,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhringesvara Siva Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4902076",
+    "wikipedia": "en:Bhringesvara Siva Temple"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "West Singhbhum",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kendposi",
+     "dist_m": 14506
+    },
+    "nearest_bus": {
+     "name": "Chaibasa Bus Stand",
+     "dist_m": 39499
+    },
+    "nearest_airport": {
+     "name": "Jamshedpur Airport",
+     "dist_m": 76342,
+     "iata": "IXW"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4902076",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "denomination": {
+     "value": [
+      "Hinduism"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Bhubaneswar"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Bhringeswara Shiva temple is an 8th century Hindu temple situated on the foothills of Dhauli and the left bank of the Daya River, in the southeastern outskirts of Bhubaneswar(India) in the village Khatuapada. The temple is facing towards west and the presiding deity is a circular yoni pitha with a hole at the centre. The temple is made of light grey sandstone. The temple is renovated one from bottom to the top by employing the earlier materials. This temple is now under the protection of Odisha State Archaeology.",
+     "url": "https://en.wikipedia.org/wiki/Bhringesvara_Siva_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 41460554,
+   "lat": 23.45381087,
+   "lon": 84.74677154,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Khakhparta temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q41460554"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Lohardaga",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Lohardaga",
+     "dist_m": 4154
+    },
+    "nearest_airport": {
+     "name": "Ranchi Birsa Munda Airport",
+     "dist_m": 60621,
+     "iata": "IXR"
+    },
+    "nearest_medical": {
+     "name": "Hannah Clinic",
+     "dist_m": 3833
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q41460554",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Lohardaga district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.asiranchi.org/khekparta.html"
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 41477374,
+   "lat": 23.146582,
+   "lon": 85.694345,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Haradih temples",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q41477374"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Ranchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Torang",
+     "dist_m": 21799
+    },
+    "nearest_bus": {
+     "name": "Transport Department",
+     "dist_m": 39150
+    },
+    "nearest_airport": {
+     "name": "Ranchi Birsa Munda Airport",
+     "dist_m": 42483,
+     "iata": "IXR"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q41477374",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Haradih"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 7586284,
+   "lat": 23.65,
+   "lon": 86.17,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Sri Sri Kalika Maharani Temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q7586284",
+    "wikipedia": "en:Sri Sri Kalika Maharani Temple"
+   },
+   "state": "Jharkhand",
+   "state_basis": "boundary",
+   "district": "Bokaro",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chas Road",
+     "dist_m": 6178
+    },
+    "nearest_bus": {
+     "name": "Dhanbad Bus Stand",
+     "dist_m": 31817
+    },
+    "nearest_airport": {
+     "name": "Dhanbad Airport",
+     "dist_m": 33067,
+     "iata": "DBD"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital,Chirachas",
+     "dist_m": 221
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7586284",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Bokaro district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalika%20Ma%20Idol%20Gif.gif",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Sri Sri Kalika Maharani Temple is a Hindu temple in Bokaro in the state of Jharkhand, India is a Hindu temple at Chira Chas, built by Aashiyaan Estate Developers. The temple is spread over half an acre and is dedicated to Goddess Kali. The mini township of Kalika Vihar is named after this temple.",
+     "url": "https://en.wikipedia.org/wiki/Sri_Sri_Kalika_Maharani_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
     ]
    }
   }

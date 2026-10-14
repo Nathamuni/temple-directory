@@ -1,6 +1,6 @@
 {
  "state": "Haryana",
- "count": 379,
+ "count": 388,
  "copyright": "© OpenStreetMap contributors, ODbL 1.0",
  "elements": [
   {
@@ -20922,6 +20922,613 @@
      "district",
      "locality",
      "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 17069835,
+   "lat": 28.113333333,
+   "lon": 76.014722222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Shiv Shani Mandir, Dhori",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q17069835"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Mahendragarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Amarpur Jorasi",
+     "dist_m": 12200
+    },
+    "nearest_bus": {
+     "name": "ISBT Narnaul",
+     "dist_m": 11613
+    },
+    "nearest_airport": {
+     "name": "Hisar Airport",
+     "dist_m": 121204,
+     "iata": "HSS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q17069835",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva",
+      "Shani"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 126163316,
+   "lat": 29.503469388,
+   "lon": 77.016687473,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Guru Brahmanand Ashram, Kaimla",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q126163316"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Karnal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kohand",
+     "dist_m": 4735
+    },
+    "nearest_bus": {
+     "name": "Panipat Bus Stand",
+     "dist_m": 12595
+    },
+    "nearest_airport": {
+     "name": "Sarsawa Airport",
+     "dist_m": 65832,
+     "iata": "SWN"
+    },
+    "nearest_medical": {
+     "name": "Cygnus Mata Kalawati Charitable Hospital",
+     "dist_m": 4852
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q126163316",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Guru Brahmanand"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kaimla"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Guru%20Brahmanand%20Ashram%2C%20Kaimla.jpg"
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 19892371,
+   "lat": 29.6742,
+   "lon": 76.2548,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kalayat Ancient Bricks Temple Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q19892371",
+    "wikipedia": "en:Kalayat Ancient Bricks Temple Complex"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Kaithal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kalayat",
+     "dist_m": 2626
+    },
+    "nearest_bus": {
+     "name": "Kalayat bus station",
+     "dist_m": 301
+    },
+    "nearest_airport": {
+     "name": "Hisar Airport",
+     "dist_m": 73259,
+     "iata": "HSS"
+    },
+    "nearest_medical": {
+     "name": "Jagdewa Clinic",
+     "dist_m": 249
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q19892371",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "Monument of National Importance"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Kaithal district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Brick%20Temple%20Complex%2C%20Kalayat%2C%20Kaithal%2C%20Haryana%2C%20India%2011.jpg",
+    "summary": {
+     "text": "The Kalayat Ancient Brick Temple Complex is a ruined brick temple complex north of Delhi, is located in Kalayat town in Kaithal district of the state of Haryana, India. It comprises the several Hindu temples, including two ancient temples dating from the 8th century. This temple constitutes an important point in the series of 48 kos parikrama of Kurukshetra. Tradition avers that the temples are associated with the Shalivahana.",
+     "url": "https://en.wikipedia.org/wiki/Kalayat_Ancient_Bricks_Temple_Complex",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 24950558,
+   "lat": 28.422,
+   "lon": 76.99,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Eklavya temple",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q24950558",
+    "wikipedia": "en:Ekalavya Temple"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Gurugram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Basai Dhankot",
+     "dist_m": 4787
+    },
+    "nearest_bus": {
+     "name": "Gurugram Bus Stand",
+     "dist_m": 6337
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 47991,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "S.R.S. Hospital and Critical Care Unit",
+     "dist_m": 2087
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q24950558",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Gurgaon"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "summary": {
+     "text": "The Ekalavya temple is the only Hindu temple in the world dedicated to Ekalavya of the Mahabharata. It is located in the Khandsa village of Gurugram, Haryana, India. It is built atop the spot where Ekalavya cut his thumb and offered it to Guru Drona as Guru Dakshina. His thumb was buried in this location and a temple was built on top of it to honor this great hero.",
+     "url": "https://en.wikipedia.org/wiki/Ekalavya_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4694243,
+   "lat": 29.55444444,
+   "lon": 75.99972222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Agroha Dham",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4694243",
+    "wikipedia": "en:Agroha Dham"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Jind",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dharodi",
+     "dist_m": 10923
+    },
+    "nearest_bus": {
+     "name": "Kalayat bus station",
+     "dist_m": 28001
+    },
+    "nearest_airport": {
+     "name": "Hisar Airport",
+     "dist_m": 47960,
+     "iata": "HSS"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4694243",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Hisar district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "website": "http://www.agroha.com/",
+    "summary": {
+     "text": "Agroha is a Hindu temple complex in Agroha city of Hisar District of Haryana state of India. Construction started in 1976 and was completed in 1984. The main temple is dedicated to the Hindu goddess Mahalakshmi. The temple complex is located adjacent to the Agroha Mound and near Maharaja Agrasen Medical College.",
+     "url": "https://en.wikipedia.org/wiki/Agroha_Dham",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history",
+     "contact"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 4901750,
+   "lat": 30.7925,
+   "lon": 76.91222222,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Bhima Devi Temple Complex",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q4901750",
+    "wikipedia": "en:Bhima Devi Temple Site Museum"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Panchkula",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Surajpur",
+     "dist_m": 2502
+    },
+    "nearest_bus": {
+     "name": "Pinjore",
+     "dist_m": 1154
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 35537,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Khera Hospital",
+     "dist_m": 748
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 79
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q4901750",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "heritage": {
+     "value": [
+      "State Protected Monument"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "located_in": {
+     "value": [
+      "Panchkula district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Bhima Devi Temple Complex, nicknamed Khajuraho of North India for its erotic sculptures, comprises the restored ruins of an ancient Hindu temple dating from between 8th and 11th century AD, together with the adjacent 17th-century Pinjore gardens, located in Pinjore town in Panchkula district of the state of Haryana, India. The old temple was destroyed by Islamic invaders and the present 8-11th CE temple is likely built on the same place under the old name, and the nearby ancient baoli still has old Hindu pillars. Bhimadevi belongs to the Shakti tradition that was derived from the Buddhist tantric goddess. Further, in the Devi Mahatmya it is said that in the Western Himalayas of Himachal Pradesh, Bhimadevi appeared in an enormous form of Bhimarupa and gave protection to the sages. The site was worked upon extensively by the team of Speaking Archaeologically from 2017 to 2019, with preliminary survey beginning as early as in 2015 and the report was published as the Speaking Archaeologically Journal Volume III:Bhima Devi Project Edition in 2020.",
+     "url": "https://en.wikipedia.org/wiki/Bhima_Devi_Temple_Site_Museum",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6373564,
+   "lat": 29.98,
+   "lon": 76.58,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Kartikeya Temple, Pehowa",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6373564",
+    "wikipedia": "en:Kartikeya Temple, Pehowa"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Kurukshetra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Pehowa Road",
+     "dist_m": 11377
+    },
+    "nearest_bus": {
+     "name": "Dhand Bus Station",
+     "dist_m": 11941
+    },
+    "nearest_airport": {
+     "name": "Sarsawa Airport",
+     "dist_m": 79613,
+     "iata": "SWN"
+    },
+    "nearest_medical": {
+     "name": "City Clinic",
+     "dist_m": 212
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6373564",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Kurukshetra district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "deity": {
+     "values": [
+      "Murugan"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "Kartikeya Temple is a Hindu temple in Pehowa township of the North Indian state of Haryana is one of the oldest Karthikeya temple in North India. Kartikeya is a popular Hindu deity in India and is worshiped across the length and breadth of the country. Like most Hindu deities, He is known by many other names, including Murugan, Senthil, Saravaṇa, Arumugam or Shanmukha, Kumāra, Guha, Skanda.",
+     "url": "https://en.wikipedia.org/wiki/Kartikeya_Temple%2C_Pehowa",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 6770550,
+   "lat": 30.1785,
+   "lon": 76.8617,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Markandeshwar",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q6770550",
+    "wikipedia": "en:Markandeshwar"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Kurukshetra",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shahabad Markanda",
+     "dist_m": 1403
+    },
+    "nearest_bus": {
+     "name": "Old Bus Stand",
+     "dist_m": 22970
+    },
+    "nearest_airport": {
+     "name": "Sarsawa Airport",
+     "dist_m": 56490,
+     "iata": "SWN"
+    },
+    "nearest_medical": {
+     "name": "Mohindru Hospital",
+     "dist_m": 1047
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q6770550",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "summary": {
+     "text": "The Markandeshwar Mahadev temple is a Shiva temple, located in the town of Shahabad Markanda, which is situated in the Kurukshetra district of Haryana in North India. \nThe name Markandeshwar is associated with Maharishi Markandeya, a great devotee of Shiva.",
+     "url": "https://en.wikipedia.org/wiki/Markandeshwar",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "wikidata",
+   "id": 96418345,
+   "lat": 28.47,
+   "lon": 77.022,
+   "coord_source": "wikidata",
+   "tags": {
+    "name": "Dronacharya Temple, Gurugram",
+    "religion": "hindu",
+    "amenity": "place_of_worship",
+    "wikidata": "Q96418345",
+    "wikipedia": "en:Dronacharya Temple, Gurugram"
+   },
+   "state": "Haryana",
+   "state_basis": "boundary",
+   "district": "Gurugram",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Gurgaon",
+     "dist_m": 2372
+    },
+    "nearest_bus": {
+     "name": "Gurugram Bus Stand",
+     "dist_m": 1129
+    },
+    "nearest_airport": {
+     "name": "Hindon Airport",
+     "dist_m": 42177,
+     "iata": "HDO"
+    },
+    "nearest_medical": {
+     "name": "Sparsh Hospital, Gurgaon",
+     "dist_m": 69
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q96418345",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "summary": {
+     "text": "The Dronacharya Temple is one of the only Hindu temples in India that is dedicated to Dronacharya, the teacher of the Pandavas and Kauravas in the Mahabharata. It is located in the Bhim Nagar village of Gurugram, Haryana, India.",
+     "url": "https://en.wikipedia.org/wiki/Dronacharya_Temple%2C_Gurugram",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
     ]
    }
   }
