@@ -1,0 +1,389 @@
+{
+ "state": "Manipur",
+ "count": 7,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3778757757,
+   "lat": 24.7581129,
+   "lon": 93.9794549,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Ibudhou Pureiromba",
+    "religion": "hindu"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Imphal East",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 11525
+    },
+    "nearest_bus": {
+     "name": "Moreh shared taxi",
+     "dist_m": 5679
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 8380,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "Robins Lisa Hack Hospitals",
+     "dist_m": 4220
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5469297021,
+   "lat": 24.2417268,
+   "lon": 94.306134,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name:en": "Hindu temple",
+    "religion": "hindu"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Tengnoupal",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 73209
+    },
+    "nearest_bus": {
+     "name": "Bus Station to Imphal 130¥",
+     "dist_m": 400
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 70823,
+     "iata": "IMF"
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6516579167,
+   "lat": 24.8120133,
+   "lon": 93.9423728,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bir Tikendrajit Temple",
+    "religion": "hindu"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Imphal East",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 9423
+    },
+    "nearest_bus": {
+     "name": "Nagaland State Transportation",
+     "dist_m": 443
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 7571,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "Maipakpi Maternity and Child Hospital",
+     "dist_m": 390
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6516579179,
+   "lat": 24.7956986,
+   "lon": 93.9434469,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mahabali Temple",
+    "religion": "hindu"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Imphal East",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 8625
+    },
+    "nearest_bus": {
+     "name": "Moreh shared taxi",
+     "dist_m": 269
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 6318,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "Advanced Hospital",
+     "dist_m": 390
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 662370597,
+   "center": {
+    "lat": 24.62011755,
+    "lon": 93.75981594999999
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Vishnu Temple",
+    "religion": "hindu",
+    "wikidata": "Q56218537"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Bishnupur district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 19229
+    },
+    "nearest_bus": {
+     "name": "Vans towards Imphal",
+     "dist_m": 13415
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 20646,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "District Hospital, Bishnupur",
+     "dist_m": 1337
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 665563325,
+   "center": {
+    "lat": 24.79780285,
+    "lon": 93.94844635000001
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shree Govindajee Temple",
+    "religion": "hindu",
+    "wikidata": "Q7503489"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Imphal East",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 9182
+    },
+    "nearest_bus": {
+     "name": "Moreh shared taxi",
+     "dist_m": 820
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 6853,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "Advanced Hospital",
+     "dist_m": 244
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7503489",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Imphal East district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Shree%20Govindaji%20temple%2C%20Manipur.jpg",
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    },
+    "summary": {
+     "text": "Shree Govindajee Temple is a Meitei Hindu temple, dedicated to Hindu deities Radha Krishna (Govindaji). It is the largest Vaishnava temple in Imphal district of Manipur, India. It was originally built in 1846 during the reign of Maharaja Nara Singh and later rebuilt by Maharaja Chandrakriti in 1876.",
+     "url": "https://en.wikipedia.org/wiki/Shree_Govindajee_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1051582970,
+   "center": {
+    "lat": 24.76591775,
+    "lon": 93.89208805
+   },
+   "tags": {
+    "addr:city": "Imphal",
+    "addr:postcode": "795140",
+    "addr:street": "Changangei Mayai Leikai Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Takhelchangbam Bamon Laishang",
+    "religion": "hindu"
+   },
+   "state": "Manipur",
+   "state_basis": "boundary",
+   "district": "Imphal West",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Imphal",
+     "dist_m": 2694
+    },
+    "nearest_bus": {
+     "name": "Bus to Churachandpur",
+     "dist_m": 5620
+    },
+    "nearest_airport": {
+     "name": "Bir Tikendrajit International Airport",
+     "dist_m": 969,
+     "iata": "IMF"
+    },
+    "nearest_medical": {
+     "name": "Dr. Basanta Clinic",
+     "dist_m": 3584
+    },
+    "address": "Changangei Mayai Leikai Road, Imphal, Imphal West, Manipur – 795140"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  }
+ ]
+}

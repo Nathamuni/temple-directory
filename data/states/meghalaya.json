@@ -1,0 +1,672 @@
+{
+ "state": "Meghalaya",
+ "count": 13,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3538192337,
+   "lat": 25.571377,
+   "lon": 91.9004146,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Ram Krishna Mission",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 57932
+    },
+    "nearest_bus": {
+     "name": "SRGT Parking Lot",
+     "dist_m": 1592
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 16620,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "Heal and Smile Dental & Medical Centre",
+     "dist_m": 332
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 276
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 4905254763,
+   "lat": 25.2109717,
+   "lon": 91.7412136,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mahadeva Temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Shahbazpur",
+     "dist_m": 67381
+    },
+    "nearest_bus": {
+     "name": "Sumo station",
+     "dist_m": 6662
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 59703,
+     "iata": "SHL"
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5351785122,
+   "lat": 25.7087127,
+   "lon": 91.9228448,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Lum Sohpet Bneng",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "Ri-Bhoi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 42543
+    },
+    "nearest_bus": {
+     "name": "ISBT",
+     "dist_m": 9142
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 5531,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "ICAR Hospital",
+     "dist_m": 3574
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 9717205938,
+   "lat": 25.5789961,
+   "lon": 91.8679087,
+   "tags": {
+    "addr:city": "Shillong, Meghalaya",
+    "addr:postcode": "793002",
+    "addr:street": "Barapathar Rd",
+    "amenity": "place_of_worship",
+    "name": "Barapathar Shiv Temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 57441
+    },
+    "nearest_bus": {
+     "name": "Dawki - Guwahati bus stand",
+     "dist_m": 1078
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 17697,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "R.P. Chest Hospital",
+     "dist_m": 265
+    },
+    "address": "Barapathar Rd, Shillong, Meghalaya, East Khasi Hills, Meghalaya – 793002"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10895796565,
+   "lat": 25.5781678,
+   "lon": 91.884041,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bharat Sevashram Sangha",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 57334
+    },
+    "nearest_bus": {
+     "name": "MTC Bus station",
+     "dist_m": 129
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 16815,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "Bansara Eye Care",
+     "dist_m": 608
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 240
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 153
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12794611392,
+   "lat": 25.2006423,
+   "lon": 90.2234503,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Radha Krishna Mandir, Hindu temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand at Dobasipara",
+     "dist_m": 34178
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 109287,
+     "iata": "RUP"
+    },
+    "nearest_medical": {
+     "name": "Christian Mission Hospital",
+     "dist_m": 3868
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12811458724,
+   "lat": 25.2176821,
+   "lon": 90.1392403,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bura Vastu Mandir, Hindu temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand at Dobasipara",
+     "dist_m": 33167
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 105296,
+     "iata": "RUP"
+    },
+    "nearest_medical": {
+     "name": "Christian Mission Hospital",
+     "dist_m": 4968
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "name"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12811530100,
+   "lat": 25.2171778,
+   "lon": 90.1391701,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kali Mandir, Hindu temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand at Dobasipara",
+     "dist_m": 33223
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 105349,
+     "iata": "RUP"
+    },
+    "nearest_medical": {
+     "name": "Christian Mission Hospital",
+     "dist_m": 4954
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12814060532,
+   "lat": 25.1827683,
+   "lon": 90.2876943,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Askipara Mondir, Hindu temple",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand at Dobasipara",
+     "dist_m": 36879
+    },
+    "nearest_airport": {
+     "name": "Rupsi Airport",
+     "dist_m": 113194,
+     "iata": "RUP"
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "name"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13895850848,
+   "lat": 26.1133063,
+   "lon": 91.835227,
+   "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2026-05-30",
+    "name": "Ganesh Mandir",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "Ri-Bhoi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Narengi",
+     "dist_m": 7652
+    },
+    "nearest_bus": {
+     "name": "Tezpur 200rupees",
+     "dist_m": 1189
+    },
+    "nearest_airport": {
+     "name": "Lokpriya Gopinath Bordoloi International Airport",
+     "dist_m": 24953,
+     "iata": "GAU"
+    },
+    "nearest_medical": {
+     "name": "Dr. Chakravarty Pathological Lab and Clinic",
+     "dist_m": 2301
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 344537991,
+   "center": {
+    "lat": 25.56989685,
+    "lon": 91.87132600000001
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "Rilbong Sports Club and Puja Mandap",
+    "name": "Rilbong Durga Pujo Mandap",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 58398
+    },
+    "nearest_bus": {
+     "name": "Dawki - Guwahati bus stand",
+     "dist_m": 687
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 18298,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "Military Hospital",
+     "dist_m": 160
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1057514338,
+   "center": {
+    "lat": 25.578972800000003,
+    "lon": 91.86791980000001
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 57443
+    },
+    "nearest_bus": {
+     "name": "Dawki - Guwahati bus stand",
+     "dist_m": 1075
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 17698,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "R.P. Chest Hospital",
+     "dist_m": 263
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1172691727,
+   "center": {
+    "lat": 25.56928985,
+    "lon": 91.90017839999999
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Assam Sanatan Dharmasabha",
+    "religion": "hindu"
+   },
+   "state": "Meghalaya",
+   "state_basis": "boundary",
+   "district": "East Khasi Hills",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kamalajari",
+     "dist_m": 58165
+    },
+    "nearest_bus": {
+     "name": "SRGT Parking Lot",
+     "dist_m": 1765
+    },
+    "nearest_airport": {
+     "name": "Shillong Airport",
+     "dist_m": 16837,
+     "iata": "SHL"
+    },
+    "nearest_medical": {
+     "name": "Heal and Smile Dental & Medical Centre",
+     "dist_m": 234
+    },
+    "parking": {
+     "count": 3,
+     "nearest_m": 70
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+  "version": 1,
+  "note": "Field areas for every temple profile. Nothing here is pre-filled except values the dataset already holds (map: path). A value is only shown as filled when it has a source and a date.",
+  "sources": {
+    "official": "Official temple website, notice board or published order",
+    "endowment": "State endowment board / devasthanam / trust records",
+    "asi": "Archaeological Survey of India or state archaeology department",
+    "osm": "OpenStreetMap tag",
+    "osm_computed": "Computed from OpenStreetMap features near the temple (straight-line distance, mapped features only)",
+    "wikidata": "Wikidata item",
+    "wikipedia": "Wikipedia article",
+    "published": "Book, journal, district gazetteer or inscription survey",
+    "visit": "First-hand visit by a member, with the date"
+  },
+  "groups": [
+    {
+      "key": "record",
+      "label": "Record details (correct these if wrong)",
+      "fields": [
+        {
+          "key": "temple_name",
+          "label": "Temple name",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm",
+            "published",
+            "visit"
+          ],
+          "map": [
+            "name"
+          ]
+        },
+        {
+          "key": "deity",
+          "label": "Presiding deity",
+          "type": "text",
+          "sources": [
+            "official",
+            "published",
+            "wikipedia",
+            "visit"
+          ],
+          "map": [
+            "deity"
+          ]
+        },
+        {
+          "key": "state",
+          "label": "State",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "state"
+          ]
+        },
+        {
+          "key": "district",
+          "label": "District",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "district"
+          ]
+        },
+        {
+          "key": "locality",
+          "label": "Locality, town or village",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "locality"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "visiting",
+      "label": "Visiting",
+      "fields": [
+        {
+          "key": "darshan_timings",
+          "label": "Darshan timings by day and season",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment",
+            "visit"
+          ],
+          "map": [
+            "tags.opening_hours"
+          ]
+        },
+        {
+          "key": "pooja_schedule",
+          "label": "Daily pooja schedule",
+          "type": "text",
+          "sources": [
+            "osm",
+            "official",
+            "endowment",
+            "published",
+            "visit"
+          ],
+          "map": [
+            "tags.service_times"
+          ]
+        },
+        {
+          "key": "entry_fee",
+          "label": "Entry fee",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment",
+            "visit"
+          ],
+          "map": [
+            "tags.fee"
+          ]
+        },
+        {
+          "key": "special_darshan",
+          "label": "Special darshan and booking",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment"
+          ]
+        },
+        {
+          "key": "dress_code",
+          "label": "Dress code",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "footwear",
+          "label": "Footwear and belongings",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "photography",
+          "label": "Photography and phones",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "best_time",
+          "label": "Best time to visit",
+          "type": "text",
+          "sources": [
+            "official",
+            "published",
+            "visit"
+          ]
+        },
+        {
+          "key": "booking_url",
+          "label": "Official booking page",
+          "type": "url",
+          "sources": [
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "festivals",
+      "label": "Festivals and rituals",
+      "fields": [
+        {
+          "key": "major_festivals",
+          "label": "Major festivals",
+          "type": "list",
+          "sources": [
+            "official",
+            "published",
+            "wikipedia",
+            "visit"
+          ]
+        },
+        {
+          "key": "festival_dates",
+          "label": "Festival dates this year",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment"
+          ]
+        },
+        {
+          "key": "offerings",
+          "label": "Common offerings",
+          "type": "text",
+          "sources": [
+            "official",
+            "published",
+            "visit"
+          ]
+        },
+        {
+          "key": "prasadam",
+          "label": "Prasadam",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "annadanam",
+          "label": "Free meal (annadanam) timings",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment",
+            "visit"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "access",
+      "label": "Getting there",
+      "fields": [
+        {
+          "key": "address",
+          "label": "Full address",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "computed.address"
+          ]
+        },
+        {
+          "key": "pincode",
+          "label": "PIN code",
+          "type": "text",
+          "sources": [
+            "osm",
+            "official"
+          ],
+          "map": [
+            "tags.addr:postcode"
+          ]
+        },
+        {
+          "key": "landmark",
+          "label": "Landmark",
+          "type": "text",
+          "sources": [
+            "visit",
+            "official"
+          ]
+        },
+        {
+          "key": "nearest_rail",
+          "label": "Nearest railway station",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "visit"
+          ],
+          "map": [
+            "computed.nearest_rail"
+          ]
+        },
+        {
+          "key": "nearest_bus",
+          "label": "Nearest bus stand",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "visit"
+          ],
+          "map": [
+            "computed.nearest_bus"
+          ]
+        },
+        {
+          "key": "nearest_airport",
+          "label": "Nearest airport",
+          "type": "text",
+          "sources": [
+            "osm_computed"
+          ],
+          "map": [
+            "computed.nearest_airport"
+          ]
+        },
+        {
+          "key": "parking",
+          "label": "Parking",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "visit"
+          ],
+          "map": [
+            "computed.parking"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "facilities",
+      "label": "Facilities",
+      "fields": [
+        {
+          "key": "toilets",
+          "label": "Toilets",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "tags.toilets",
+            "computed.toilets"
+          ]
+        },
+        {
+          "key": "drinking_water",
+          "label": "Drinking water",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "tags.drinking_water",
+            "computed.water"
+          ]
+        },
+        {
+          "key": "wheelchair",
+          "label": "Wheelchair access",
+          "type": "text",
+          "sources": [
+            "osm",
+            "visit"
+          ],
+          "map": [
+            "tags.wheelchair"
+          ]
+        },
+        {
+          "key": "cloakroom",
+          "label": "Cloakroom and lockers",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "accommodation",
+          "label": "Pilgrim lodging (dharamshala)",
+          "type": "text",
+          "sources": [
+            "official",
+            "endowment",
+            "visit"
+          ]
+        },
+        {
+          "key": "food",
+          "label": "Food and water on site",
+          "type": "text",
+          "sources": [
+            "official",
+            "visit"
+          ]
+        },
+        {
+          "key": "medical",
+          "label": "Nearest hospital or clinic",
+          "type": "text",
+          "sources": [
+            "osm_computed",
+            "visit"
+          ],
+          "map": [
+            "computed.nearest_medical"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "governance",
+      "label": "Governance and contact",
+      "fields": [
+        {
+          "key": "managing_body",
+          "label": "Managing body",
+          "type": "text",
+          "sources": [
+            "endowment",
+            "official",
+            "wikidata"
+          ],
+          "map": [
+            "tags.operator",
+            "operatorBody"
+          ]
+        },
+        {
+          "key": "official_website",
+          "label": "Official website",
+          "type": "url",
+          "sources": [
+            "official",
+            "osm",
+            "wikidata"
+          ],
+          "map": [
+            "tags.website",
+            "tags.contact:website"
+          ]
+        },
+        {
+          "key": "phone",
+          "label": "Phone",
+          "type": "text",
+          "sources": [
+            "official",
+            "osm"
+          ],
+          "map": [
+            "tags.phone",
+            "tags.contact:phone"
+          ]
+        },
+        {
+          "key": "email",
+          "label": "Email",
+          "type": "text",
+          "sources": [
+            "official"
+          ],
+          "map": [
+            "tags.email",
+            "tags.contact:email"
+          ]
+        },
+        {
+          "key": "donation_page",
+          "label": "Official donation page",
+          "type": "url",
+          "sources": [
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "history",
+      "label": "History and architecture",
+      "fields": [
+        {
+          "key": "built_period",
+          "label": "Built (century or year)",
+          "type": "text",
+          "sources": [
+            "asi",
+            "published",
+            "wikidata",
+            "wikipedia"
+          ],
+          "map": [
+            "founded",
+            "tags.start_date"
+          ]
+        },
+        {
+          "key": "dynasty",
+          "label": "Dynasty or patron",
+          "type": "text",
+          "sources": [
+            "asi",
+            "published",
+            "wikipedia"
+          ]
+        },
+        {
+          "key": "architecture",
+          "label": "Architectural style",
+          "type": "text",
+          "sources": [
+            "asi",
+            "wikidata",
+            "published"
+          ],
+          "map": [
+            "architecture",
+            "tags.building:architecture",
+            "tags.architecture"
+          ]
+        },
+        {
+          "key": "inscriptions",
+          "label": "Inscriptions",
+          "type": "text",
+          "sources": [
+            "asi",
+            "published"
+          ]
+        },
+        {
+          "key": "legend",
+          "label": "Legend (sthala purana)",
+          "type": "text",
+          "sources": [
+            "published",
+            "official"
+          ]
+        },
+        {
+          "key": "renovations",
+          "label": "Renovation history",
+          "type": "text",
+          "sources": [
+            "official",
+            "asi",
+            "published"
+          ]
+        },
+        {
+          "key": "heritage",
+          "label": "Heritage status",
+          "type": "text",
+          "sources": [
+            "asi",
+            "wikidata",
+            "osm"
+          ],
+          "map": [
+            "heritage"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "classification",
+      "label": "Classification",
+      "fields": [
+        {
+          "key": "tradition",
+          "label": "Tradition (Shaiva, Vaishnava, Shakta, Smarta…)",
+          "type": "text",
+          "sources": [
+            "published",
+            "official",
+            "osm"
+          ],
+          "map": [
+            "tradition"
+          ]
+        },
+        {
+          "key": "circuits",
+          "label": "Pilgrim circuit or listing",
+          "type": "list",
+          "sources": [
+            "wikidata",
+            "published"
+          ],
+          "map": [
+            "circuits"
+          ]
+        },
+        {
+          "key": "temple_type",
+          "label": "Type (ancient temple, shrine, math, modern…)",
+          "type": "text",
+          "sources": [
+            "published",
+            "visit"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "upkeep",
+      "label": "Cleanliness and upkeep",
+      "fields": [
+        {
+          "key": "waste_bins",
+          "label": "Waste bins and collection",
+          "type": "text",
+          "sources": [
+            "visit",
+            "official"
+          ]
+        },
+        {
+          "key": "tank_upkeep",
+          "label": "Tank or river-ghat upkeep",
+          "type": "text",
+          "sources": [
+            "visit",
+            "official"
+          ]
+        },
+        {
+          "key": "cleanup_drives",
+          "label": "Cleanup drives (dates and groups)",
+          "type": "text",
+          "sources": [
+            "visit",
+            "official"
+          ]
+        },
+        {
+          "key": "upkeep_owner",
+          "label": "Who maintains the surroundings",
+          "type": "text",
+          "sources": [
+            "endowment",
+            "official",
+            "visit"
+          ]
+        }
+      ]
+    }
+  ]
+}

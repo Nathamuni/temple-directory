@@ -1,0 +1,1379 @@
+{
+ "state": "Sikkim",
+ "count": 21,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 4559873290,
+   "lat": 27.1526576,
+   "lon": 88.3413348,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Siddheshwara Dham, solophok, namchi",
+    "name:en": "Siddheshwara Dham, solophok, namchi",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14908
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2612
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26016,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2381
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 99
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chardham%2Cnear_Peling%2CSikkim.jpg/960px-Chardham%2Cnear_Peling%2CSikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chardham%2Cnear_Peling%2CSikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Chardham,near Peling,Sikkim.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Chardham,near_Peling,Sikkim.jpg",
+     "credit": "AnjanMondal1992",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 10,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786043156,
+   "lat": 27.1526046,
+   "lon": 88.3408906,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Omkāresvar Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14880
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2652
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26060,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2419
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 81
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 67,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786063054,
+   "lat": 27.1521877,
+   "lon": 88.3413025,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Dwarka Mai Temple",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14862
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2645
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26037,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2415
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 140
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 59,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064153,
+   "lat": 27.1522365,
+   "lon": 88.3411585,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sai Temple",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14859
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2653
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26049,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2423
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 129
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 62,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064154,
+   "lat": 27.1530452,
+   "lon": 88.3407645,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Setubandha Rāmesvaram",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14916
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2635
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26054,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2401
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 31
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 90,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064155,
+   "lat": 27.1529063,
+   "lon": 88.3413375,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sri Tryambakesvara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14932
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2596
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26006,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2364
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 81
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 36,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064156,
+   "lat": 27.1526667,
+   "lon": 88.3414733,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Ghusmesvara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14916
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2600
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26003,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2369
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 108
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 9,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064353,
+   "lat": 27.1527564,
+   "lon": 88.3407026,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Baidyanātha Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14885
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2657
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26071,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2424
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 61
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 86,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064354,
+   "lat": 27.1529057,
+   "lon": 88.340682,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bhīmasankara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14898
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2650
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26067,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2416
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 44
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 92,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064355,
+   "lat": 27.1531071,
+   "lon": 88.3409506,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sri Nāgesvara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14931
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2615
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26035,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2382
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 37
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 79,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064356,
+   "lat": 27.1531346,
+   "lon": 88.3412266,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Visvesvara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14948
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2591
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26008,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2358
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 61
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 63,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064357,
+   "lat": 27.1520336,
+   "lon": 88.3421814,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kirateshvara Mangkhim",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14893
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2585
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 25961,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2358
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 207
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 93,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5786064653,
+   "lat": 27.1527907,
+   "lon": 88.3415503,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kedāresvara Jyotirlinga",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14932
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2586
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 25991,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2355
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 106
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 15,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6946990599,
+   "lat": 27.2935962,
+   "lon": 88.5908356,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 43110
+    },
+    "nearest_bus": {
+     "name": "Southwest jeep stand",
+     "dist_m": 4505
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 6773,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Ayurvedic Health Center OPD",
+     "dist_m": 1916
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 269
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 7210947208,
+   "lat": 27.3174619,
+   "lon": 88.5960451,
+   "tags": {
+    "addr:street": "NH10",
+    "amenity": "place_of_worship",
+    "description": "A hindu temple opposite to hdfc atm.",
+    "name": "Hanuman mandir",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 45274
+    },
+    "nearest_bus": {
+     "name": "Southwest jeep stand",
+     "dist_m": 2049
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 9453,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Sikkim Manipal Institute of Medical Sciences",
+     "dist_m": 152
+    },
+    "address": "NH10, Gangtok, Sikkim"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 11387330669,
+   "lat": 27.3816839,
+   "lon": 88.6917496,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Temple",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chalsa",
+     "dist_m": 56537
+    },
+    "nearest_bus": {
+     "name": "Vajra stand",
+     "dist_m": 8882
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 19454,
+     "iata": "PYG"
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 129776905,
+   "center": {
+    "lat": 27.3479692,
+    "lon": 88.62871659999999
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "check_date": "2025-10-06",
+    "name": "Hanuman Tok",
+    "religion": "hindu",
+    "wikidata": "Q5651365"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 49950
+    },
+    "nearest_bus": {
+     "name": "Vajra stand",
+     "dist_m": 1639
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 13417,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Dental Clinic",
+     "dist_m": 1981
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 123
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 105
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5651365",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "East Sikkim district"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanuman%20Tok%20temple%20in%20Sikkim%2016.jpg",
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gazalina_chrysolopha_58142537.jpg/960px-Gazalina_chrysolopha_58142537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gazalina_chrysolopha_58142537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Gazalina chrysolopha 58142537.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Gazalina_chrysolopha_58142537.jpg",
+     "credit": "Rohit",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 15,
+     "title_match": false
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    },
+    "summary": {
+     "text": "Hanuman Tok is a Hindu temple complex which is located in the upper reaches of Gangtok, the capital of the Indian state of Sikkim. The temple is dedicated to lord Hanuman, and maintained by the Indian army. In 1950, a bureaucrat, Appaji Pant, built the temple over the stone. Later the Indian Army acquired the land around Hanuman Tok and inherited the temple along with it.",
+     "url": "https://en.wikipedia.org/wiki/Hanuman_Tok",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 5,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 129838723,
+   "center": {
+    "lat": 27.34161275,
+    "lon": 88.6213353
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Ganesh Tok",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 48935
+    },
+    "nearest_bus": {
+     "name": "Vajra stand",
+     "dist_m": 818
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 12536,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Dental Clinic",
+     "dist_m": 974
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 38
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 55
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg/960px-Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Bird's eye view of Gangtok City from Ganeshtok.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg",
+     "credit": "Subhrajyoti07",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 10,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 342022238,
+   "center": {
+    "lat": 27.3301902,
+    "lon": 88.6131476
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Thakurbari Hindu Temple",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gangtok",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 47475
+    },
+    "nearest_bus": {
+     "name": "Advanced ticket to Darjeeling namchi ravangla south&west sikkim",
+     "dist_m": 158
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 11109,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Dr. Sumit Periwal Child Care Clinic",
+     "dist_m": 55
+    },
+    "parking": {
+     "count": 2,
+     "nearest_m": 139
+    },
+    "toilets": {
+     "count": 5,
+     "nearest_m": 66
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7709430",
+     "basis": "spatial_name",
+     "distance_m": 11
+    },
+    "founded": {
+     "value": "1935-01-01",
+     "source": "wikidata",
+     "basis": "spatial_name"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Thakurbari%20Temple%2C%20in%20Gangtok%2005.jpg",
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    },
+    "summary": {
+     "text": "Thakurbari Temple is a Hindu temple located in Gangtok, Sikkim, India, in the heart of the town. It is one of the oldest Hindu temples in Sikkim built on land donated by the erstwhile Chogyal of Sikkim in 1935. The temple houses almost all major deities and has emerged as an important center of convergence for the Hindu community of Gangtok.",
+     "url": "https://en.wikipedia.org/wiki/Thakurbari_Temple%2C_Gangtok",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 478551464,
+   "center": {
+    "lat": 27.1528227,
+    "lon": 88.34098865
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "artwork_type": "statue",
+    "building": "temple",
+    "name": "Shiva",
+    "name:ne": "शिव मन्दिर",
+    "religion": "hindu",
+    "tourism": "artwork"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Namchi",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 14906
+    },
+    "nearest_bus": {
+     "name": "Prepaid taxi",
+     "dist_m": 2630
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 26042,
+     "iata": "PYG"
+    },
+    "nearest_medical": {
+     "name": "Government General Hospital Blood Bank - Namchi",
+     "dist_m": 2397
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 63
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
+     "credit": "Rickyurs",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 60,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1251549116,
+   "center": {
+    "lat": 27.283515,
+    "lon": 88.083277
+   },
+   "tags": {
+    "building": "temple",
+    "religion": "hindu"
+   },
+   "state": "Sikkim",
+   "state_basis": "boundary",
+   "district": "Gyalshing",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Darjeeling",
+     "dist_m": 32572
+    },
+    "nearest_bus": {
+     "name": "Shared jeeps in this parking garage",
+     "dist_m": 25929
+    },
+    "nearest_airport": {
+     "name": "Pakyong Airport",
+     "dist_m": 50258,
+     "iata": "PYG"
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  }
+ ]
+}

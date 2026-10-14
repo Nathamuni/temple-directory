@@ -1,0 +1,28 @@
+# One command to run everything locally:  docker compose up --build   ->  http://localhost:8080
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_PASSWORD: temple
+      POSTGRES_DB: temple_directory
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d temple_directory"]
+      interval: 5s
+      retries: 20
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    environment:
+      DATABASE_URL: postgres://postgres:temple@db:5432/temple_directory
+      PORT: "8080"
+      BASE_URL: http://localhost:8080
+      NODE_ENV: development     # local only
+      DEV_LINKS: "1"            # local only: enables the dummy admin button. Not available when NODE_ENV=production.
+volumes:
+  pgdata:

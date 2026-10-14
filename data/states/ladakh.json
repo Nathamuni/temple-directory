@@ -1,0 +1,118 @@
+{
+ "state": "Ladakh",
+ "count": 2,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 2418801957,
+   "lat": 34.2788412,
+   "lon": 77.6046477,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiva Temple",
+    "religion": "hindu"
+   },
+   "state": "Ladakh",
+   "state_basis": "boundary",
+   "district": "Leh district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "New Bus Stand",
+     "dist_m": 13707
+    },
+    "nearest_airport": {
+     "name": "Leh Kushok Bakula Rimpochee Airport",
+     "dist_m": 16844,
+     "iata": "IXL"
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 25
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg/960px-Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Mountain biking Ladahk, India 43037992 624b2b553f.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Mountain_biking_Ladahk,_India_43037992_624b2b553f.jpg",
+     "credit": "Steve Evans from India and USA",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0",
+     "distance_m": 9,
+     "title_match": false
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12465668181,
+   "lat": 34.5240063,
+   "lon": 76.1426085,
+   "tags": {
+    "addr:city": "Kargil",
+    "amenity": "place_of_worship",
+    "name": "Platue Nath Baba Mandir",
+    "religion": "hindu"
+   },
+   "state": "Ladakh",
+   "state_basis": "boundary",
+   "district": "Kargil district",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Kargil bus station",
+     "dist_m": 3373
+    },
+    "nearest_airport": {
+     "name": "Leh Kushok Bakula Rimpochee Airport",
+     "dist_m": 135942,
+     "iata": "IXL"
+    },
+    "nearest_medical": {
+     "name": "Qamar Ali Akhoon Memorial Hospital Kargil",
+     "dist_m": 376
+    },
+    "address": "Kargil, Kargil district, Ladakh"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "state": "Nagaland",
+ "count": 3,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 2724465813,
+   "lat": 26.3187531,
+   "lon": 94.5118133,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Durga Mandir",
+    "religion": "hindu"
+   },
+   "state": "Nagaland",
+   "state_basis": "boundary",
+   "district": "Mokokchung",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mariani Junction",
+     "dist_m": 42297
+    },
+    "nearest_bus": {
+     "name": "NST Bus Station",
+     "dist_m": 1124
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 56684,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Assamrifle Hospital",
+     "dist_m": 266
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2724832260,
+   "lat": 26.3241791,
+   "lon": 94.517395,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Lakshmi Narayan Mandir",
+    "religion": "hindu"
+   },
+   "state": "Nagaland",
+   "state_basis": "boundary",
+   "district": "Mokokchung",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mariani Junction",
+     "dist_m": 42040
+    },
+    "nearest_bus": {
+     "name": "NST Bus Station",
+     "dist_m": 392
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 56532,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Doctor's Clinic & Mediciner",
+     "dist_m": 40
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 245
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2724837363,
+   "lat": 26.3238858,
+   "lon": 94.5145572,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiv Mandir",
+    "religion": "hindu"
+   },
+   "state": "Nagaland",
+   "state_basis": "boundary",
+   "district": "Mokokchung",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mariani Junction",
+     "dist_m": 41929
+    },
+    "nearest_bus": {
+     "name": "NST Bus Station",
+     "dist_m": 676
+    },
+    "nearest_airport": {
+     "name": "Jorhat Rowriah Airport",
+     "dist_m": 56388,
+     "iata": "JRH"
+    },
+    "nearest_medical": {
+     "name": "Doctor's Clinic & Mediciner",
+     "dist_m": 322
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 263
+    },
+    "water": {
+     "count": 1,
+     "nearest_m": 220
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  }
+ ]
+}

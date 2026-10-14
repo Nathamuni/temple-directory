@@ -1,0 +1,7 @@
+node_modules
+tools
+docs
+.git
+.env
+*.log
+temple-directory-single-file.html

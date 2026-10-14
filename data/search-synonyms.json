@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "note": "Words that mean the same thing for search. Add a line to teach the search a new alias. Matching is by word prefix, lower-case, accents ignored.",
+  "deities": {
+    "Vishnu": ["vishnu", "perumal", "narayana", "narayan", "balaji", "venkateswara", "venkatesh", "ranganatha", "ranganathar", "vittal", "vithoba", "vaikuntha"],
+    "Shiva": ["shiva", "siva", "sivan", "mahadev", "mahadeva", "eshwar", "ishwar", "eswara", "nataraja", "shivalayam", "lingam"],
+    "Ganesha": ["ganesha", "ganesh", "ganapati", "ganapathi", "vinayaka", "vinayagar", "pillaiyar"],
+    "Hanuman": ["hanuman", "anjaneya", "anjaneyar", "maruti", "bajrang"],
+    "Murugan": ["murugan", "subramanya", "subrahmanya", "karthikeya", "kartikeya", "skanda", "kumaraswamy"],
+    "Krishna": ["krishna", "gopal", "govind", "iskcon", "radha"],
+    "Rama": ["rama", "ram", "raghunath", "sita"],
+    "Durga": ["durga"],
+    "Kali": ["kali", "kalika"],
+    "Lakshmi": ["lakshmi", "laxmi"],
+    "Saraswati": ["saraswati", "sarasvati"],
+    "Ayyappa": ["ayyappa", "ayyappan", "sabarimala"],
+    "Jagannath": ["jagannath", "jagannatha"],
+    "Narasimha": ["narasimha", "narasimhar"],
+    "Surya": ["surya"],
+    "Shani": ["shani", "sani"],
+    "Sai Baba": ["sai", "shirdi"],
+    "Amman": ["amman", "mariamman", "mariyamman"],
+    "Devi": ["devi", "bhagavathy", "bhagavati", "bhagwati", "mata", "amba"]
+  },
+  "places": {
+    "chennai": ["madras"], "bengaluru": ["bangalore"], "mumbai": ["bombay"], "kolkata": ["calcutta"],
+    "thiruvananthapuram": ["trivandrum"], "kochi": ["cochin"], "puducherry": ["pondicherry"],
+    "varanasi": ["benares", "banaras", "kashi"], "prayagraj": ["allahabad"], "tirupati": ["tirumala"],
+    "kanchipuram": ["kanchi", "conjeevaram"], "mysuru": ["mysore"], "vadodara": ["baroda"], "pune": ["poona"],
+    "gurugram": ["gurgaon"], "visakhapatnam": ["vizag", "vishakhapatnam"], "kozhikode": ["calicut"],
+    "thrissur": ["trichur"], "mangaluru": ["mangalore"], "tiruchirappalli": ["trichy", "tiruchi"],
+    "odisha": ["orissa"], "tiruvannamalai": ["thiruvannamalai"], "rameswaram": ["rameshwaram"]
+  },
+  "facilities": {
+    "toilets": { "label": "Toilets nearby", "words": ["toilet", "toilets", "restroom", "washroom", "lavatory"] },
+    "water": { "label": "Drinking water nearby", "words": ["drinking water", "water"] },
+    "parking": { "label": "Parking nearby", "words": ["parking", "car park"] },
+    "hospital": { "label": "Hospital or clinic within 1 km", "words": ["hospital", "clinic", "medical", "doctor"] },
+    "rail": { "label": "Railway station within 3 km", "words": ["railway", "railway station", "train", "station"] },
+    "bus": { "label": "Bus stand within 1 km", "words": ["bus", "bus stand", "bus station"] },
+    "airport": { "label": "Airport within 30 km", "words": ["airport"] },
+    "wheelchair": { "label": "Wheelchair access mapped", "words": ["wheelchair", "accessible", "ramp"] },
+    "photo": { "label": "Has a photograph", "words": ["photo", "photos", "photograph", "picture"] }
+  }
+}

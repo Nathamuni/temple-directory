@@ -1,0 +1,896 @@
+{
+ "state": "Andaman and Nicobar Islands",
+ "count": 17,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 293684642,
+   "lat": 11.66345,
+   "lon": 92.74826,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Radhakrishna",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Aberdeen Bazaar Bus Station",
+     "dist_m": 818
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 3260,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Rekha's Ayurvedic Hospital",
+     "dist_m": 148
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 293684645,
+   "lat": 11.663,
+   "lon": 92.74643,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Radhakrishna",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Aberdeen Bazaar Bus Station",
+     "dist_m": 666
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 3098,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Rekha's Ayurvedic Hospital",
+     "dist_m": 119
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 293692112,
+   "lat": 11.66763,
+   "lon": 92.7424,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shri Veer Hanuman Temple",
+    "religion": "hindu",
+    "wheelchair": "no"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Aberdeen Bazaar Bus Station",
+     "dist_m": 183
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 3312,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Rekha's Ayurvedic Hospital",
+     "dist_m": 648
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Sri_Veer_Hanuman_Temple%2C_Port_Blair_vrvbaan042k24_%282%29.jpg/960px-Sri_Veer_Hanuman_Temple%2C_Port_Blair_vrvbaan042k24_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Veer_Hanuman_Temple%2C_Port_Blair_vrvbaan042k24_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Sri Veer Hanuman Temple, Port Blair vrvbaan042k24 (2).jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Sri_Veer_Hanuman_Temple,_Port_Blair_vrvbaan042k24_(2).jpg",
+     "credit": "Vinayaraj",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 16,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 4104900203,
+   "lat": 11.839018,
+   "lon": 92.6544935,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mariamman Kovil",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand private buses",
+     "dist_m": 20763
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 23503,
+     "iata": "IXZ"
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 115
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Amman (Tamil goddess)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg/960px-Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Jirkatang check post vrvbaan042k24 (29).jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Jirkatang_check_post_vrvbaan042k24_(29).jpg",
+     "credit": "Vinayaraj",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 8,
+     "title_match": false
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13980225095,
+   "lat": 11.6760794,
+   "lon": 92.7476586,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Baba Lokenath Mandir",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Bus stand private buses",
+     "dist_m": 1047
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 4407,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "G B Pant Hospital, Port Blair",
+     "dist_m": 96
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 140
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 267
+    },
+    "water": {
+     "count": 2,
+     "nearest_m": 132
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13987987071,
+   "lat": 12.0095505,
+   "lon": 92.9779217,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Radha Krishna",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Radhanagar beach",
+     "dist_m": 3716
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 49131,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Health Centre",
+     "dist_m": 2968
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13995431953,
+   "lat": 11.9621333,
+   "lon": 93.0154653,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Radhanagar beach",
+     "dist_m": 7237
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 47404,
+     "iata": "IXZ"
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg/960px-Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Vernal Hanging-Parrot Loriculus vernalis from Andaman.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg",
+     "credit": "Manojk",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 48,
+     "title_match": false
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13996695832,
+   "lat": 12.0413557,
+   "lon": 92.9824086,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shri Shri radha krishna",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Radhanagar beach",
+     "dist_m": 6899
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 52373,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Health Centre",
+     "dist_m": 1750
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Sri_Radha_Krishna_temple_Havelock_vrvbaan042k24_%2812%29.jpg/960px-Sri_Radha_Krishna_temple_Havelock_vrvbaan042k24_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Sri_Radha_Krishna_temple_Havelock_vrvbaan042k24_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Sri Radha Krishna temple Havelock vrvbaan042k24 (12).jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Sri_Radha_Krishna_temple_Havelock_vrvbaan042k24_(12).jpg",
+     "credit": "Vinayaraj",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 34,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13997755610,
+   "lat": 12.3647408,
+   "lon": 92.9232239,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Rangat Bus Station",
+     "dist_m": 15609
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 83221,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Govt Medical Centre",
+     "dist_m": 803
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14004449788,
+   "lat": 12.505973,
+   "lon": 92.9088113,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shri Kandhanmalai Velayudhaswamy",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Rangat Bus Station",
+     "dist_m": 868
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 98168,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 976
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 73
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14004487272,
+   "lat": 12.5054871,
+   "lon": 92.9115878,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shri Hanuman Mandir",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Rangat Bus Station",
+     "dist_m": 562
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 98176,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital",
+     "dist_m": 986
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 259
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14006221518,
+   "lat": 11.6314834,
+   "lon": 92.6662058,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Garacharma Bus Station",
+     "dist_m": 4489
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 6950,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Community Health Centre",
+     "dist_m": 4650
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14006231478,
+   "lat": 12.1621819,
+   "lon": 92.7781272,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Radhanagar beach",
+     "dist_m": 27340
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 58224,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "PRIMARY HEALTH CENTER",
+     "dist_m": 1633
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14008296369,
+   "lat": 11.6387872,
+   "lon": 92.7241551,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sarveshwara Mahadeva mandir",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Austinabad Bus Station",
+     "dist_m": 1393
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 602,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Chakraborty Hospital",
+     "dist_m": 741
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14014560453,
+   "lat": 11.6070497,
+   "lon": 92.6977305,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "South Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Garacharma Bus Station",
+     "dist_m": 897
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 5087,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Community Health Centre",
+     "dist_m": 1330
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 987939889,
+   "center": {
+    "lat": 12.838801,
+    "lon": 92.8528684
+   },
+   "tags": {
+    "addr:postcode": "744204",
+    "addr:village": "Tugapur",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Samaddar's Maa Kali Temple",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Rangat Bus Station",
+     "dist_m": 37761
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 133892,
+     "iata": "IXZ"
+    },
+    "address": "Tugapur, North and Middle Andaman, Andaman and Nicobar Islands – 744204"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1157152070,
+   "center": {
+    "lat": 13.2437535,
+    "lon": 92.971519
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Shri Ganesh temple",
+    "religion": "hindu"
+   },
+   "state": "Andaman and Nicobar Islands",
+   "state_basis": "boundary",
+   "district": "North and Middle Andaman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_bus": {
+     "name": "Diglipur bus stand",
+     "dist_m": 315
+    },
+    "nearest_airport": {
+     "name": "Veer Savarkar International Airport",
+     "dist_m": 180176,
+     "iata": "IXZ"
+    },
+    "nearest_medical": {
+     "name": "Dr. Nikhil's Multi Speciality Hospital",
+     "dist_m": 439
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  }
+ ]
+}

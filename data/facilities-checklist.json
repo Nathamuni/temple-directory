@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "note": "Things a temple should have and keep in order. Visitors rate each item 1-5 stars, comment and upvote. Item keys are stable and must never be renamed.",
+  "groups": [
+    {"key": "cleanliness", "label": "Cleanliness", "items": [
+      {"key": "dustbins", "label": "Dustbins present and used", "hint": "Are bins placed around the temple and are they actually used?"},
+      {"key": "clean-floors", "label": "Clean floors and premises", "hint": "Corridors, prakaram and entrance free of litter and spills."},
+      {"key": "puja-waste", "label": "Flower and puja-waste disposal", "hint": "Garlands, leaves, coconut shells and oil collected and removed."},
+      {"key": "tank-water", "label": "Temple tank or water body", "hint": "Water clean, no floating waste or algae. Skip if the temple has none."},
+      {"key": "drainage", "label": "Drainage and wash areas", "hint": "No standing water, bad smell or blocked drains."}
+    ]},
+    {"key": "water-sanitation", "label": "Water and sanitation", "items": [
+      {"key": "drinking-water", "label": "Drinking water", "hint": "Safe water available for visitors."},
+      {"key": "toilets", "label": "Toilets", "hint": "Available, usable and kept clean."}
+    ]},
+    {"key": "access-comfort", "label": "Access and comfort", "items": [
+      {"key": "footwear-stand", "label": "Footwear stand", "hint": "A safe, organised place to leave footwear."},
+      {"key": "shade-shelter", "label": "Shade and queue shelter", "hint": "Cover from sun and rain while waiting."},
+      {"key": "ramp-access", "label": "Ramp and accessibility", "hint": "Step-free path for wheelchairs, elders and prams."},
+      {"key": "lighting", "label": "Lighting", "hint": "Enough light in the complex and approach road at night."}
+    ]},
+    {"key": "safety-info", "label": "Safety and information", "items": [
+      {"key": "signage-rules", "label": "Signage and rules", "hint": "Clear boards for timings, rules and directions."},
+      {"key": "first-aid", "label": "First aid", "hint": "A first-aid point or trained help."},
+      {"key": "security-crowd", "label": "Security and crowd management", "hint": "Orderly queues and a safe crowd at busy times."}
+    ]}
+  ]
+}

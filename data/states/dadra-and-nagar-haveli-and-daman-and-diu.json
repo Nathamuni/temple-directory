@@ -1,0 +1,777 @@
+{
+ "state": "Dadra and Nagar Haveli and Daman and Diu",
+ "count": 14,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 3296282217,
+   "lat": 20.7050687,
+   "lon": 70.97889,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Diu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Delvada",
+     "dist_m": 10043
+    },
+    "nearest_bus": {
+     "name": "Diu",
+     "dist_m": 1475
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 6006,
+     "iata": "DIU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Diu",
+     "dist_m": 1165
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 209
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3296282226,
+   "lat": 20.7075235,
+   "lon": 70.966674,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Gangeshwar Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Diu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Delvada",
+     "dist_m": 10725
+    },
+    "nearest_bus": {
+     "name": "Diu",
+     "dist_m": 1925
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 4708,
+     "iata": "DIU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Diu",
+     "dist_m": 1494
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600579322,
+   "lat": 20.4126742,
+   "lon": 72.8316267,
+   "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2024-08-20",
+    "name": "samudra dev mandir",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Vapi",
+     "dist_m": 9111
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 821
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 2273,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital (CHC)",
+     "dist_m": 482
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600579328,
+   "lat": 20.4185666,
+   "lon": 72.8318712,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "SatyaNarayan Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagwada",
+     "dist_m": 8955
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 682
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 1690,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Jimeet Dental Clinic",
+     "dist_m": 155
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600579330,
+   "lat": 20.4207057,
+   "lon": 72.8326624,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Jalaram temple, Nani Daman",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagwada",
+     "dist_m": 8832
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 716
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 1449,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Ashok Hospital",
+     "dist_m": 197
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600601959,
+   "lat": 20.4151078,
+   "lon": 72.8342656,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mahalakshmi Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagwada",
+     "dist_m": 8794
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 447
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 1915,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Sai Sarvoday Hospital",
+     "dist_m": 112
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600601960,
+   "lat": 20.4182147,
+   "lon": 72.8335521,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "vishwakarma temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagwada",
+     "dist_m": 8791
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 503
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 1633,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Jimeet Dental Clinic",
+     "dist_m": 47
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3600617264,
+   "lat": 20.4164953,
+   "lon": 72.8356764,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bhidbhanjan Mahadev Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Daman",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bagwada",
+     "dist_m": 8615
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 260
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 1719,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Sai Sarvoday Hospital",
+     "dist_m": 113
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3670935498,
+   "lat": 20.731119,
+   "lon": 70.9121417,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kalikamala Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Diu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Delvada",
+     "dist_m": 14289
+    },
+    "nearest_bus": {
+     "name": "Vanakbara",
+     "dist_m": 4017
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 2109,
+     "iata": "DIU"
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3905281773,
+   "lat": 20.7053912,
+   "lon": 70.9566135,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Diu",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Delvada",
+     "dist_m": 11663
+    },
+    "nearest_bus": {
+     "name": "Diu",
+     "dist_m": 2932
+    },
+    "nearest_airport": {
+     "name": "Diu Airport",
+     "dist_m": 3738,
+     "iata": "DIU"
+    },
+    "nearest_medical": {
+     "name": "Government Hospital, Diu",
+     "dist_m": 2514
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q100321322",
+     "basis": "spatial_close",
+     "distance_m": 2
+    },
+    "name_en": {
+     "value": "Gangeshwar Mahadev Temple",
+     "source": "wikidata",
+     "basis": "spatial_close"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    },
+    "summary": {
+     "text": "Gangeshwar Mahadev Temple or simply Gangeshwar Temple is a Hindu temple dedicated to Lord Shiva (Mahadeva) located at seashore of Fudam village just 3 km away from Diu in the union territory of DNDD. The view of the temple is unique set on the Arabian Sea. This is basically a cave temple situated in the midst of the rocks on the seashore. Once pilgrims enter the cave Lord Ganesha, Lord Vishnu, and Goddess Lakshmi can be sight then five shivalingas could visible in different sizes in middle of the sea water, this is the very significant feature of the temple and above the rock the Shiva Linga Seshanag was carved to look out for the Shiva Linga. These lingas are generally submerged in the sea during high tides and only during the low tides chance to visible. This temple is also known as 'Seashore Temple' as Shiva Linga is situated on the seashore.",
+     "url": "https://en.wikipedia.org/wiki/Gangeshwar_Mahadev_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 13190070849,
+   "lat": 20.2683598,
+   "lon": 73.0092208,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sai Baba Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Dadra and Nagar Haveli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karambeli",
+     "dist_m": 12475
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 24304
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 25202,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Shri Vinoba Bhave Civil Hospital",
+     "dist_m": 292
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 29
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Sai Baba"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 481402145,
+   "center": {
+    "lat": 20.269994099999998,
+    "lon": 72.98339525
+   },
+   "tags": {
+    "addr:city": "Silvassa",
+    "addr:postcode": "396230",
+    "amenity": "place_of_worship",
+    "name": "Swami Narayan Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Dadra and Nagar Haveli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhilad",
+     "dist_m": 10039
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 22269
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 23268,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "True Care Multispeciality Hospital",
+     "dist_m": 1319
+    },
+    "address": "Silvassa, Dadra and Nagar Haveli, Dadra and Nagar Haveli and Daman and Diu – 396230"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 624175506,
+   "center": {
+    "lat": 20.26953745,
+    "lon": 72.98266135
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "height": "18",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Dadra and Nagar Haveli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bhilad",
+     "dist_m": 9966
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 22254
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 23258,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "True Care Multispeciality Hospital",
+     "dist_m": 1406
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 969542533,
+   "center": {
+    "lat": 20.2825389,
+    "lon": 72.9936754
+   },
+   "tags": {
+    "addr:city": "Silvassa",
+    "addr:postcode": "396230",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "hindu",
+    "name": "Balaji Temple",
+    "religion": "hindu"
+   },
+   "state": "Dadra and Nagar Haveli and Daman and Diu",
+   "state_basis": "boundary",
+   "district": "Dadra and Nagar Haveli",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Karambeli",
+     "dist_m": 10359
+    },
+    "nearest_bus": {
+     "name": "Nani Daman Bus Depot",
+     "dist_m": 22043
+    },
+    "nearest_airport": {
+     "name": "Daman Airport",
+     "dist_m": 22941,
+     "iata": "NMB"
+    },
+    "nearest_medical": {
+     "name": "Shayona Hospital",
+     "dist_m": 422
+    },
+    "address": "Silvassa, Dadra and Nagar Haveli, Dadra and Nagar Haveli and Daman and Diu – 396230"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  }
+ ]
+}

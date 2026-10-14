@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "note": "What a temple or its surroundings can need, in temple terms. Used by the server (validation), the needs board and the report form. Keys are stable; add new ones, never rename. 'legacy' maps older keys to current ones.",
+  "categories": [
+    {"key": "tank", "label": "Temple tank (pushkarini / kulam) and water body", "hint": "Algae, floating waste, sewage inflow or bad smell. Say if devotees bathe or perform rituals in it."},
+    {"key": "puja-waste", "label": "Flower, puja and prasadam waste", "hint": "Garlands, leaves, coconut shells, oil, banana leaves and prasadam packaging that are not collected."},
+    {"key": "litter", "label": "Litter in the prakaram and halls", "hint": "Rubbish in the circumambulation path, corridors, mandapams or the entrance."},
+    {"key": "sanitation", "label": "Toilets and washing areas for devotees", "hint": "Missing, locked, dirty or without water; foot-washing and drainage areas."},
+    {"key": "drinking", "label": "Drinking water for devotees", "hint": "No safe drinking water, broken taps or dirty containers."},
+    {"key": "structure", "label": "Gopuram, sculpture and mandapam repair", "hint": "Cracks, leaks, broken stone, peeling paint on sculptures, damaged pillars or roofs."},
+    {"key": "comfort", "label": "Footwear stand, shade and queue shelter", "hint": "Unsafe footwear arrangements, hot floors, no cover from sun or rain in the queue."},
+    {"key": "access", "label": "Access for elders and wheelchairs", "hint": "No ramp, steep steps, slippery floors, no seating for the elderly."},
+    {"key": "safety", "label": "Lighting, safety and crowd control", "hint": "Dark corridors, exposed wiring, blocked exits, unmanaged queues on festival days."},
+    {"key": "surroundings", "label": "Approach road, parking and surroundings", "hint": "Garbage near the temple, encroachment, parking chaos, damaged road or ghat steps."},
+    {"key": "air", "label": "Smoke, soot and noise", "hint": "Heavy lamp or camphor soot, burning waste, loudspeakers or crackers."},
+    {"key": "other", "label": "Other", "hint": "Anything else the temple or devotees need."}
+  ],
+  "areas": [
+    "Gopuram / main entrance",
+    "Prakaram (circumambulation path)",
+    "Mandapam / inner halls",
+    "Queue near the sanctum",
+    "Temple tank (pushkarini / kulam)",
+    "River ghat or bathing area",
+    "Footwear stand",
+    "Prasadam counter / kitchen",
+    "Annadanam hall",
+    "Flower and puja-material stalls",
+    "Parking area",
+    "Approach road",
+    "Surroundings within 200 m",
+    "Other"
+  ],
+  "legacy": {"water": "tank", "encroach": "surroundings"}
+}

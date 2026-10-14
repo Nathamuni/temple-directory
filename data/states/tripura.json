@@ -1,0 +1,1797 @@
+{
+ "state": "Tripura",
+ "count": 31,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 2681633112,
+   "lat": 23.8443365,
+   "lon": 91.2818086,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Radha Madhav Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 4492
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 98
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6544,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Devlok Hospital",
+     "dist_m": 375
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2681636030,
+   "lat": 23.8343402,
+   "lon": 91.2835296,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Laxminarayanbari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 3521
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 1203
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7512,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Laxmi Clinic",
+     "dist_m": 88
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2681636031,
+   "lat": 23.8343908,
+   "lon": 91.2817136,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Durgabari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 3655
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 1192
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7397,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Life Line Nursing Home and Research Centre",
+     "dist_m": 75
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Durga"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2681636033,
+   "lat": 23.8362125,
+   "lon": 91.2805159,
+   "tags": {
+    "addr:city": "Agartala, Tripura",
+    "addr:postcode": "799001",
+    "addr:street": "Near Rajbari Lake Garden",
+    "amenity": "place_of_worship",
+    "name": "Jagannathbari",
+    "name:hi": "जगन्नाथ बारी",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 3884
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 1005
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7162,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Life Line Nursing Home and Research Centre",
+     "dist_m": 210
+    },
+    "address": "Near Rajbari Lake Garden, Agartala, Tripura, West Tripura, Tripura – 799001"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2681636034,
+   "lat": 23.8361625,
+   "lon": 91.2846295,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kalibari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 3597
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 1021
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7422,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Laxmi Clinic",
+     "dist_m": 194
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 169
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2681670256,
+   "lat": 23.8484637,
+   "lon": 91.2809548,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiva Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 4920
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 399
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6149,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Devlok Hospital",
+     "dist_m": 842
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2683038547,
+   "lat": 23.8424553,
+   "lon": 91.2767559,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Meher Kalibari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 4651
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 636
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6377,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Devlok Hospital",
+     "dist_m": 627
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3701327730,
+   "lat": 24.3170788,
+   "lon": 92.0670941,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiva",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "North Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panisagar",
+     "dist_m": 9662
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 6123,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "District Hospital, Unakoti",
+     "dist_m": 3689
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 147
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg/960px-Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Gigantic Ganesha, Unakoti, Tripura.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Gigantic_Ganesha,_Unakoti,_Tripura.jpg",
+     "credit": "Kanad Sanyal",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 22,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3701327731,
+   "lat": 24.3168906,
+   "lon": 92.0662827,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Rock Cut Ganesha",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "North Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panisagar",
+     "dist_m": 9723
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 6038,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "District Hospital, Unakoti",
+     "dist_m": 3605
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 149
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Ganesha"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg/960px-Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Close wing, mud puddling of Euploea core (Cramer, (1780)) - Common Crow.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Close_wing,_mud_puddling_of_Euploea_core_(Cramer,_(1780))_-_Common_Crow.jpg",
+     "credit": "Sumanbhowmik1992",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 46,
+     "title_match": false
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5311742526,
+   "lat": 23.8351914,
+   "lon": 91.2632218,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sri Sri Ramakrishna Saradeshwari Math",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nischintapur",
+     "dist_m": 4618
+    },
+    "nearest_bus": {
+     "name": "Nagerjala Bus Stand",
+     "dist_m": 1225
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6385,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "IGM Civil Hospital",
+     "dist_m": 1387
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5311742587,
+   "lat": 23.8360996,
+   "lon": 91.2626351,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiv-Shani-Kali Mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Nischintapur",
+     "dist_m": 4678
+    },
+    "nearest_bus": {
+     "name": "Nagerjala Bus Stand",
+     "dist_m": 1342
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6269,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "IGM Civil Hospital",
+     "dist_m": 1480
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva",
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5395583572,
+   "lat": 23.7799325,
+   "lon": 91.2765856,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agartala",
+     "dist_m": 1458
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 332
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 12626,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Niramoy",
+     "dist_m": 265
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5403911643,
+   "lat": 23.8291653,
+   "lon": 91.269667,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiva Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Agartala",
+     "dist_m": 4132
+    },
+    "nearest_bus": {
+     "name": "Nagerjala Bus Stand",
+     "dist_m": 490
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7266,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "IGM Civil Hospital",
+     "dist_m": 668
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5951169846,
+   "lat": 23.8272913,
+   "lon": 91.2916157,
+   "tags": {
+    "addr:city": "Agartala",
+    "addr:postcode": "799004",
+    "amenity": "place_of_worship",
+    "name": "Modern Club Shiv Mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 2387
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 2195
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 8636,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Venkataeswara Hospitals",
+     "dist_m": 627
+    },
+    "address": "Agartala, West Tripura, Tripura – 799004"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6746975508,
+   "lat": 23.8283594,
+   "lon": 91.3759152,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "baladev mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jirania",
+     "dist_m": 5600
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 9702
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 15448,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Sub-Centre ,Old Agartala",
+     "dist_m": 3624
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6754560843,
+   "lat": 23.858215,
+   "lon": 91.2894615,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "shani mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 5515
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 1630
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6133,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Govinda Ballav Panth Hospital, West Tripura",
+     "dist_m": 278
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shani"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6759130491,
+   "lat": 23.8413065,
+   "lon": 91.345141,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Chaturdash Devta Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 5077
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 6405
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 12003,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Sub-Centre ,Old Agartala",
+     "dist_m": 219
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q5087990",
+     "basis": "spatial_name",
+     "distance_m": 10
+    },
+    "located_in": {
+     "value": [
+      "West Tripura District"
+     ],
+     "source": "wikidata",
+     "basis": "spatial_name"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/CHATURDASH%20DEVTA%20TEMPLE%2CTRIPURA.jpg",
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    },
+    "summary": {
+     "text": "Chaturdasha Temple is a Hindu temple in Agartala, Tripura, India, and features the Tripuri dome patterned after the roofs of village huts in Tripura. The dome is surmounted by a stupa-like structure which reveals traces of Buddhist influence. This temple was built in honour of fourteen deities, together called the Chaturdasha Devata. Devotees visit the temple for the kharchi festival.",
+     "url": "https://en.wikipedia.org/wiki/Chaturdasha_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 6949007784,
+   "lat": 23.8339044,
+   "lon": 91.3642437,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "trinath temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 6299
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 8427
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 14111,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Primary Health Sub-Centre ,Old Agartala",
+     "dist_m": 2287
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 7021481310,
+   "lat": 24.3168337,
+   "lon": 92.0659392,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Group of Sivalinga",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "North Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panisagar",
+     "dist_m": 9751
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 6003,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "District Hospital, Unakoti",
+     "dist_m": 3571
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 165
+    }
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Group_puddling_of_Pachliopta_aristolochiae_%28Fabricius%2C_1775%29_-_Common_Rose_WLB.jpg/960px-Group_puddling_of_Pachliopta_aristolochiae_%28Fabricius%2C_1775%29_-_Common_Rose_WLB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Group_puddling_of_Pachliopta_aristolochiae_%28Fabricius%2C_1775%29_-_Common_Rose_WLB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Group puddling of Pachliopta aristolochiae (Fabricius, 1775) - Common Rose WLB.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Group_puddling_of_Pachliopta_aristolochiae_(Fabricius,_1775)_-_Common_Rose_WLB.jpg",
+     "credit": "Sumanbhowmik1992",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 76,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 7021481311,
+   "lat": 24.3153564,
+   "lon": 92.0657587,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kalyanasundaramurty",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "North Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Panisagar",
+     "dist_m": 9689
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 5963,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "District Hospital, Unakoti",
+     "dist_m": 3494
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 139
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 9249953817,
+   "lat": 23.5354299,
+   "lon": 91.4880323,
+   "tags": {
+    "addr:postcode": "799105",
+    "amenity": "place_of_worship",
+    "name": "Sri Sri Jagannath Seva Mandir",
+    "opening_hours": "24/7",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Gomati",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur",
+     "dist_m": 2890
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 34359
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 46708,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Tripura Sundari Sub divisional Hospital",
+     "dist_m": 970
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity",
+     "hours"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 9901033681,
+   "lat": 23.8376185,
+   "lon": 91.281897,
+   "tags": {
+    "addr:city": "Agartala, Tripura",
+    "addr:postcode": "799001",
+    "addr:street": "Beside Ujjayanta Palace",
+    "amenity": "place_of_worship",
+    "name": "Ummaheshwar Temple",
+    "name:hi": "उम्महेश्वर मंदिर",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 3902
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 833
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7122,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Life Line Nursing Home and Research Centre",
+     "dist_m": 373
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 206
+    },
+    "address": "Beside Ujjayanta Palace, Agartala, Tripura, West Tripura, Tripura – 799001"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10255186924,
+   "lat": 23.7401832,
+   "lon": 91.1597645,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Kasba Kali Bari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "nearest_boundary_5km",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kasba",
+     "dist_m": 428
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 12854
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 18303,
+     "iata": "IXA"
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q55615720",
+     "basis": "spatial_name",
+     "distance_m": 6
+    },
+    "located_in": {
+     "value": [
+      "Sepahijala district"
+     ],
+     "source": "wikidata",
+     "basis": "spatial_name"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kasbeswari%20Kali%20Mata.jpg",
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kamalasagar_kali_temple_%28view_from_left%29.jpg/960px-Kamalasagar_kali_temple_%28view_from_left%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kamalasagar_kali_temple_%28view_from_left%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Kamalasagar kali temple (view from left).jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Kamalasagar_kali_temple_(view_from_left).jpg",
+     "credit": "শক্তিশেল",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 23,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    },
+    "summary": {
+     "text": "Kasbeswari Kali Mata or Kamalasagar Kali Temple was built on a hill-top by Maharaja Dhanya Manikya in the late 15th century. It is situated just beside the Bangladesh border, The lake, Kamalasagar, in front of this temple rightly enhances its beauty.",
+     "url": "https://en.wikipedia.org/wiki/Kasbeswari_Kali_Mata",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "deity",
+     "photo",
+     "history"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10290990631,
+   "lat": 23.8440509,
+   "lon": 91.2768078,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Shiva Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 4781
+    },
+    "nearest_bus": {
+     "name": "Radhanagar Bus Terminus",
+     "dist_m": 571
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 6240,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Devlok Hospital",
+     "dist_m": 688
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10587050960,
+   "lat": 23.522332,
+   "lon": 91.6574695,
+   "tags": {
+    "addr:city": "Amarpur, Tripura",
+    "addr:postcode": "799101",
+    "addr:street": "Near Amarpur Nagar Panchayat",
+    "amenity": "place_of_worship",
+    "name": "Mangalchandi Temple",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Gomati",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur",
+     "dist_m": 18154
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 58918,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Amarpur Sub divisional Hospital",
+     "dist_m": 974
+    },
+    "address": "Near Amarpur Nagar Panchayat, Amarpur, Tripura, Gomati, Tripura – 799101"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10587067248,
+   "lat": 23.4904484,
+   "lon": 91.2796483,
+   "tags": {
+    "addr:city": "Sonamura, Tripura",
+    "addr:postcode": "799131",
+    "addr:street": "Near Kabi Nazrul Mahavidyalaya",
+    "amenity": "place_of_worship",
+    "name": "Shyamamayee Kali Mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Sipahijala",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Bishramganj",
+     "dist_m": 14487
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 31979
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 44410,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Sonamura Gramin Hospital",
+     "dist_m": 1819
+    },
+    "address": "Near Kabi Nazrul Mahavidyalaya, Sonamura, Tripura, Sipahijala, Tripura – 799131"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10587129405,
+   "lat": 24.3841341,
+   "lon": 92.181694,
+   "tags": {
+    "addr:city": "Dharmanagar, Tripura",
+    "addr:postcode": "799250",
+    "addr:street": "Near Government Degree College",
+    "amenity": "place_of_worship",
+    "name": "Buddha Mandir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "North Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Dharmanagar",
+     "dist_m": 1974
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 19546,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "Apollo Clinic",
+     "dist_m": 2120
+    },
+    "address": "Near Government Degree College, Dharmanagar, Tripura, North Tripura, Tripura – 799250"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 14014893477,
+   "lat": 24.1292994,
+   "lon": 92.007112,
+   "tags": {
+    "addr:city": "Kumarghat",
+    "addr:district": "Unakoti",
+    "addr:housenumber": "East Kanchanbari",
+    "addr:postcode": "799264",
+    "addr:street": "Nutan Bazar",
+    "amenity": "place_of_worship",
+    "name": "Kali Mondir",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Unakoti",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Kumarghat",
+     "dist_m": 3761
+    },
+    "nearest_airport": {
+     "name": "Kailashahar Airport",
+     "dist_m": 19963,
+     "iata": "IXH"
+    },
+    "nearest_medical": {
+     "name": "Kumarghat Rural Hospital (CHC)",
+     "dist_m": 4990
+    },
+    "address": "East Kanchanbari, Nutan Bazar, Kumarghat, Unakoti, Tripura – 799264"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Kali"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 261058862,
+   "center": {
+    "lat": 23.54388225,
+    "lon": 91.50093435
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Gomati",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur",
+     "dist_m": 4284
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 34473
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 46660,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "Tripura Sundari Sub divisional Hospital",
+     "dist_m": 909
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 361004666,
+   "center": {
+    "lat": 23.82917045,
+    "lon": 91.27283445
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Melarmaath Kalibari",
+    "religion": "hindu"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "West Tripura",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Jogendranagar",
+     "dist_m": 4033
+    },
+    "nearest_bus": {
+     "name": "Nagerjala Bus Stand",
+     "dist_m": 676
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 7410,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "IGM Civil Hospital",
+     "dist_m": 368
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 656848966,
+   "center": {
+    "lat": 23.5090553,
+    "lon": 91.4980003
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Tripura Sundari Temple",
+    "religion": "hindu",
+    "wikidata": "Q7843873",
+    "wikimedia_commons": "Category:Tripura Sundari Temple (Udaipur, Tripura)",
+    "wikipedia": "en:Tripura Sundari Temple"
+   },
+   "state": "Tripura",
+   "state_basis": "boundary",
+   "district": "Gomati",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Udaipur",
+     "dist_m": 1855
+    },
+    "nearest_bus": {
+     "name": "Paribahan Bhavan",
+     "dist_m": 37306
+    },
+    "nearest_airport": {
+     "name": "Maharaja Bir Bikram Airport",
+     "dist_m": 49729,
+     "iata": "IXA"
+    },
+    "nearest_medical": {
+     "name": "District Integrated AYUSH Hospital, Gomati",
+     "dist_m": 2691
+    }
+   },
+   "enrich": {
+    "wikidata": {
+     "qid": "Q7843873",
+     "basis": "wikidata_link",
+     "distance_m": 0
+    },
+    "located_in": {
+     "value": [
+      "Udaipur"
+     ],
+     "source": "wikidata",
+     "basis": "wikidata_link"
+    },
+    "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/TRIPURESHWARI%20TEMPLE.jpg",
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tripura_Sundari_Temple_or_Tripureswari_Temple.jpg/960px-Tripura_Sundari_Temple_or_Tripureswari_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tripura_Sundari_Temple_or_Tripureswari_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Tripura Sundari Temple or Tripureswari Temple.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Tripura_Sundari_Temple_or_Tripureswari_Temple.jpg",
+     "credit": "Apurv013",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "distance_m": 71,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    },
+    "summary": {
+     "text": "Tripura Sundari Temple is a Hindu temple of the Goddess Tripura Sundari, better known locally as Devi Tripureshwari the third mahavidya and main form of Parvati. The temple is situated in the ancient city of Udaipur, about 55 km from Agartala, Tripura and can be reached by train and road from Agartala. It is believed to be one of the holiest Hindu shrines in this part of the country and witnesses the highest number of visitors for a temple in North-East India, after Kamakhya Temple in Assam. The state of Tripura is named after this temple. Popularly known as Matabari, the shrine is set upon a small hillock that resembles the hump of a tortoise (Kurma). This shape called Kurmapṛṣṭhākṛti is considered the holiest possible site for a Shakti temple, hence also bestowing the name of Kurma Pīṭha. The Goddess is served by traditional Brahmin priests.",
+     "url": "https://en.wikipedia.org/wiki/Tripura_Sundari_Temple",
+     "source": "Wikipedia (CC BY-SA 4.0)"
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "photo",
+     "history"
+    ]
+   }
+  }
+ ]
+}

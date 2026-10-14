@@ -1,0 +1,1621 @@
+{
+ "state": "Chandigarh",
+ "count": 28,
+ "copyright": "© OpenStreetMap contributors, ODbL 1.0",
+ "elements": [
+  {
+   "type": "node",
+   "id": 1819784687,
+   "lat": 30.7118132,
+   "lon": 76.791435,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sai Baba Temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 3064
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 2910
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48962,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "ESI Civil Dispensary Sector- 29",
+     "dist_m": 103
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 94
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Sai Baba"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 1819791196,
+   "lat": 30.7177626,
+   "lon": 76.7918668,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 3318
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 2342
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48382,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "ESI Civil Dispensary Sector- 29",
+     "dist_m": 757
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 1822506043,
+   "lat": 30.7421484,
+   "lon": 76.7950924,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Hindu Temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 5111
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1689
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 45953,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Chd City Hospital",
+     "dist_m": 94
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 287
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 2210744748,
+   "lat": 30.7434582,
+   "lon": 76.726682,
+   "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "Rupee",
+    "name": "Shiv Mandir, Sector 39",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 8703
+    },
+    "nearest_bus": {
+     "name": "Mohali ISBT",
+     "dist_m": 2357
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 49821,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Dr. Kalia Cosmetic Surgery Clinic",
+     "dist_m": 666
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 114
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 3615211796,
+   "lat": 30.6976554,
+   "lon": 76.757991,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Santoshi Mata Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 3936
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 43",
+     "dist_m": 2435
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 52039,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Kapoor's Kidney and Urostone Centre Pvt.Ltd.",
+     "dist_m": 704
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 4720111034,
+   "lat": 30.7135916,
+   "lon": 76.7550573,
+   "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "hindu",
+    "name": "Neem tree",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 5496
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 43",
+     "dist_m": 1038
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50751,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Chaitanya Hospital",
+     "dist_m": 327
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 258
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 246
+    },
+    "water": {
+     "count": 1,
+     "nearest_m": 270
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 5365402008,
+   "lat": 30.7214356,
+   "lon": 76.7823889,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "math mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4306
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1620
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48540,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Dispensary",
+     "dist_m": 261
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 9306783892,
+   "lat": 30.7763753,
+   "lon": 76.8128707,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Bhawani Mata Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Surajpur",
+     "dist_m": 7384
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 5555
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 41859,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Pandey Clinic",
+     "dist_m": 1237
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10595985392,
+   "lat": 30.7244237,
+   "lon": 76.7280963,
+   "tags": {
+    "addr:city": "Chandigarh, Punjab",
+    "addr:postcode": "160055",
+    "addr:street": "Near ESI Dispensary",
+    "amenity": "place_of_worship",
+    "name": "Shri Radhe Krishna Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 6591
+    },
+    "nearest_bus": {
+     "name": "CTU Local Bus Station 43",
+     "dist_m": 1667
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 51361,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Babe Ke Hospital And IMT",
+     "dist_m": 418
+    },
+    "address": "Near ESI Dispensary, Chandigarh, Punjab, Chandigarh, Chandigarh – 160055"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Krishna"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10596005747,
+   "lat": 30.7332344,
+   "lon": 76.7186937,
+   "tags": {
+    "addr:city": "Chandigarh, Punjab",
+    "addr:postcode": "160055",
+    "addr:street": "Near Urban Primary Health Centre",
+    "amenity": "place_of_worship",
+    "name": "Kaali Mata Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 7741
+    },
+    "nearest_bus": {
+     "name": "Mohali ISBT",
+     "dist_m": 1227
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 51181,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "RHTC Palsora",
+     "dist_m": 186
+    },
+    "address": "Near Urban Primary Health Centre, Chandigarh, Punjab, Chandigarh, Chandigarh – 160055"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Devi (goddess, unspecified)"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10596054039,
+   "lat": 30.7816717,
+   "lon": 76.7599844,
+   "tags": {
+    "addr:city": "Chandigarh, Punjab",
+    "addr:postcode": "160014",
+    "addr:street": "Near Government High School",
+    "amenity": "place_of_worship",
+    "name": "Narmadeshwar Mahadev Shiv Temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 10615
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 5425
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 44526,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Mann Medical Clinic",
+     "dist_m": 1354
+    },
+    "address": "Near Government High School, Chandigarh, Punjab, Chandigarh, Chandigarh – 160014"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10596069285,
+   "lat": 30.7466493,
+   "lon": 76.7727825,
+   "tags": {
+    "addr:city": "Chandigarh, Punjab",
+    "addr:postcode": "160015",
+    "addr:street": "Near Sukhiqbal Dental Center",
+    "amenity": "place_of_worship",
+    "name": "Sanatan Dharm Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 6791
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1355
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 46786,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Abhivan Medicare Kidney and Dialysis Center",
+     "dist_m": 234
+    },
+    "address": "Near Sukhiqbal Dental Center, Chandigarh, Punjab, Chandigarh, Chandigarh – 160015"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 10596160568,
+   "lat": 30.6803615,
+   "lon": 76.7959192,
+   "tags": {
+    "addr:city": "Chandigarh, Punjab",
+    "addr:postcode": "160003",
+    "addr:street": "Near Children Park",
+    "amenity": "place_of_worship",
+    "name": "Shri Dera Thakur Dwara",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 3441
+    },
+    "nearest_bus": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 3339
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 51731,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Dispesary",
+     "dist_m": 391
+    },
+    "address": "Near Children Park, Chandigarh, Punjab, Chandigarh, Chandigarh – 160003"
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 11064290971,
+   "lat": 30.7132514,
+   "lon": 76.7788455,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Prachin Hanuman Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4256
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 2499
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 49485,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Dr. Chandan Trikha Homeopathic Hospital",
+     "dist_m": 147
+    }
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 3,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12596982040,
+   "lat": 30.7349002,
+   "lon": 76.7691523,
+   "tags": {
+    "addr:city": "Chandigarh",
+    "addr:district": "Chandigarh",
+    "addr:housenumber": "17 g ,sector- 22 d",
+    "addr:postcode": "160022",
+    "amenity": "place_of_worship",
+    "name": "Jai Shiv Triveni Temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 6184
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 953
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48043,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Government Pet Hospital",
+     "dist_m": 309
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 193
+    },
+    "toilets": {
+     "count": 2,
+     "nearest_m": 48
+    },
+    "address": "17 g ,sector- 22 d, Chandigarh, Chandigarh, Chandigarh – 160022"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597032795,
+   "lat": 30.7343478,
+   "lon": 76.7607789,
+   "tags": {
+    "addr:city": "Chandigarh",
+    "addr:district": "chandigarh",
+    "addr:housenumber": "PQM6+MF Hare Krishna dham, ISKCON Temple, Dakshin Marg, 36B, Sector-36B",
+    "addr:postcode": "160036",
+    "addr:street": "Dakshin Marg",
+    "amenity": "place_of_worship",
+    "name": "Isckon temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 6815
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1755
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48569,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "ESI Civil Dispensary, Sector-23",
+     "dist_m": 285
+    },
+    "toilets": {
+     "count": 1,
+     "nearest_m": 153
+    },
+    "address": "PQM6+MF Hare Krishna dham, ISKCON Temple, Dakshin Marg, 36B, Sector-36B, Dakshin Marg, Chandigarh, Chandigarh, Chandigarh – 160036"
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Krishna_Shrine_-_panoramio.jpg/960px-Krishna_Shrine_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Krishna_Shrine_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "Krishna Shrine - panoramio.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:Krishna_Shrine_-_panoramio.jpg",
+     "credit": "ソキ",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "distance_m": 105,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597187788,
+   "lat": 30.7040375,
+   "lon": 76.7763343,
+   "tags": {
+    "addr:city": "Chandigarh",
+    "addr:district": "CHANDIGARH",
+    "addr:housenumber": "PQ3G+JH4, Chandi Path, 31D, Sector 31, Chandigarh, 160030",
+    "addr:postcode": "160030",
+    "addr:street": "Chandi Path",
+    "amenity": "place_of_worship",
+    "name": "Sri Jagannath Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4319
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3533
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50472,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Mental Health Institute",
+     "dist_m": 111
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 299
+    },
+    "address": "PQ3G+JH4, Chandi Path, 31D, Sector 31, Chandigarh, 160030, Chandi Path, Chandigarh, Chandigarh, Chandigarh – 160030"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Jagannath"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597190274,
+   "lat": 30.7034833,
+   "lon": 76.7767945,
+   "tags": {
+    "addr:city": "Chandigarh",
+    "addr:district": "CHANDIGARH",
+    "addr:housenumber": "3411, Chandi Path, 31D, Sector 31, Chandigarh, 160030",
+    "addr:postcode": "160030",
+    "addr:street": "Chandi Path",
+    "amenity": "place_of_worship",
+    "name": "Karthik Mandir, Chandigarh",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4272
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3592
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50499,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Air Force Hospital",
+     "dist_m": 70
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 224
+    },
+    "address": "3411, Chandi Path, 31D, Sector 31, Chandigarh, 160030, Chandi Path, Chandigarh, Chandigarh, Chandigarh – 160030"
+   },
+   "enrich": {
+    "nearby_photo": {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/A_statue_in_chandigarh_Japanese_Garden.jpg/960px-A_statue_in_chandigarh_Japanese_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A_statue_in_chandigarh_Japanese_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "caption": "A statue in chandigarh Japanese Garden.jpg",
+     "source": "https://commons.wikimedia.org/wiki/File:A_statue_in_chandigarh_Japanese_Garden.jpg",
+     "credit": "Pankajkukreti03",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "distance_m": 139,
+     "title_match": true
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": true
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "photo"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597194460,
+   "lat": 30.7208358,
+   "lon": 76.7814837,
+   "tags": {
+    "addr:city": "CHANDIGARH",
+    "addr:district": "Chandigarh",
+    "addr:housenumber": "PQCJ+CHF, Sukhna Path, 20C, Sector 20, Chandigarh, 160020",
+    "addr:postcode": "160020",
+    "addr:street": "Road A1",
+    "amenity": "place_of_worship",
+    "name": "Shree Gugga Madi Sankat Mochan Hanuman Temple, 20C Chandigarh",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4349
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1672
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48644,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Dispensary",
+     "dist_m": 240
+    },
+    "address": "PQCJ+CHF, Sukhna Path, 20C, Sector 20, Chandigarh, 160020, Road A1, CHANDIGARH, Chandigarh, Chandigarh – 160020"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Hanuman"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597194461,
+   "lat": 30.7209948,
+   "lon": 76.7807146,
+   "tags": {
+    "addr:city": "CHANDIGARH",
+    "addr:district": "Chandigarh",
+    "addr:housenumber": "PQCJ+87X, Sector 20D, Sector 20, Chandigarh, 160002",
+    "addr:postcode": "160020",
+    "addr:street": "Road A1",
+    "amenity": "place_of_worship",
+    "name": "Shri Laxmi Narayan Temple",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4422
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1646
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48671,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Civil Dispensary",
+     "dist_m": 188
+    },
+    "address": "PQCJ+87X, Sector 20D, Sector 20, Chandigarh, 160002, Road A1, CHANDIGARH, Chandigarh, Chandigarh – 160020"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Vishnu",
+      "Lakshmi"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12597200153,
+   "lat": 30.7037805,
+   "lon": 76.776579,
+   "tags": {
+    "addr:city": "Chandigarh",
+    "addr:district": "CHANDIGARH",
+    "addr:housenumber": "PQ3G+GJ8, 31D, Sector 31, Chandigarh, 160030",
+    "addr:postcode": "160030",
+    "addr:street": "Chandi Path",
+    "amenity": "place_of_worship",
+    "name": "Shiv Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4294
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3560
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50483,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Air Force Hospital",
+     "dist_m": 99
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 263
+    },
+    "address": "PQ3G+GJ8, 31D, Sector 31, Chandigarh, 160030, Chandi Path, Chandigarh, Chandigarh, Chandigarh – 160030"
+   },
+   "enrich": {
+    "deity": {
+     "values": [
+      "Shiva"
+     ],
+     "source": "name_keyword",
+     "basis": "INFERRED_from_name"
+    },
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 4,
+    "of": 8,
+    "has": [
+     "name",
+     "district",
+     "locality",
+     "deity"
+    ]
+   }
+  },
+  {
+   "type": "node",
+   "id": 12749607203,
+   "lat": 30.7035356,
+   "lon": 76.7766698,
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4284
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3587
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50501,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Air Force Hospital",
+     "dist_m": 82
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 235
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 113779376,
+   "center": {
+    "lat": 30.76661285,
+    "lon": 76.77393355
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 8485
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3469
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 44961,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Superintended Hospital Engineer Building",
+     "dist_m": 220
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 260209339,
+   "center": {
+    "lat": 30.69991245,
+    "lon": 76.76662795
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Sanatan Dharm Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 4573
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 43",
+     "dist_m": 2782
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 51367,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Dabur Dhanwantry Hospital",
+     "dist_m": 49
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 452587303,
+   "center": {
+    "lat": 30.7458894,
+    "lon": 76.7722871
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 6762
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1303
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 46883,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Abhivan Medicare Kidney and Dialysis Center",
+     "dist_m": 327
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 469353067,
+   "center": {
+    "lat": 30.7361907,
+    "lon": 76.75158975
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "name": "Sanatam Dharam Mandir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Mohali",
+     "dist_m": 7890
+    },
+    "nearest_bus": {
+     "name": "CTU Local Bus Station 43",
+     "dist_m": 2256
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 48940,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Neeraj Eye Hospital",
+     "dist_m": 239
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 209
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 481002382,
+   "center": {
+    "lat": 30.725866000000003,
+    "lon": 76.7895726
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Madir",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4029
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 1486
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 47749,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Oxford Heart and Multispeciality Hospital",
+     "dist_m": 322
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 2,
+    "of": 8,
+    "has": [
+     "name",
+     "district"
+    ]
+   }
+  },
+  {
+   "type": "way",
+   "id": 1360772597,
+   "center": {
+    "lat": 30.70404955,
+    "lon": 76.7764044
+   },
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "religion": "hindu"
+   },
+   "state": "Chandigarh",
+   "state_basis": "boundary",
+   "district": "Chandigarh",
+   "district_basis": "boundary:admin_level=5",
+   "computed": {
+    "nearest_rail": {
+     "name": "Chandigarh Railway Station",
+     "dist_m": 4312
+    },
+    "nearest_bus": {
+     "name": "Chandigarh ISBT, Sector 17",
+     "dist_m": 3532
+    },
+    "nearest_airport": {
+     "name": "Shimla Airport",
+     "dist_m": 50467,
+     "iata": "SLV"
+    },
+    "nearest_medical": {
+     "name": "Mental Health Institute",
+     "dist_m": 117
+    },
+    "parking": {
+     "count": 1,
+     "nearest_m": 297
+    }
+   },
+   "enrich": {
+    "photo_search": {
+     "radius_m": 150,
+     "found": false
+    }
+   },
+   "completeness": {
+    "score": 1,
+    "of": 8,
+    "has": [
+     "district"
+    ]
+   }
+  }
+ ]
+}

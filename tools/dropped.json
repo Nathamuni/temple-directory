@@ -1,0 +1,106 @@
+[
+ {
+  "type": "node",
+  "id": 4544316572,
+  "lat": 27.0874055,
+  "lon": 93.6112614,
+  "name": "Hanuman Mandir, Ganga market",
+  "addr:state": null
+ },
+ {
+  "type": "node",
+  "id": 5130352203,
+  "lat": 24.3618013,
+  "lon": 88.6254514,
+  "name": "Kali Mandir কালী মন্দির",
+  "addr:state": null
+ },
+ {
+  "type": "node",
+  "id": 5132738798,
+  "lat": 24.3738187,
+  "lon": 88.5612274,
+  "name": "Temple",
+  "addr:state": null
+ },
+ {
+  "type": "node",
+  "id": 5346900469,
+  "lat": 24.3676395,
+  "lon": 88.5855143,
+  "name": "Sri Sri Kali Mondir",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 357366475,
+  "lat": 27.103517099999998,
+  "lon": 93.69439985,
+  "name": "Kali Bari",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 357366847,
+  "lat": 27.103294599999998,
+  "lon": 93.69400965,
+  "name": "Nyadir Namlo",
+  "addr:state": null
+ },
+ {
+  "type": "relation",
+  "id": 5329742,
+  "lat": 27.1033834,
+  "lon": 93.69422954999999,
+  "name": "Kristi Kendra (Naam Ghar)",
+  "addr:state": null
+ },
+ {
+  "type": "relation",
+  "id": 5329743,
+  "lat": 27.10321905,
+  "lon": 93.6944693,
+  "name": "Shiv Mandir",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 528070185,
+  "lat": 24.3676262,
+  "lon": 88.58556155,
+  "name": "Sri Sri Kali Mondir",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 1056366260,
+  "lat": 24.3603593,
+  "lon": 88.61065835,
+  "name": "Ponchoboti Crematorium & Temple\t,Rajshahi",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 1058254719,
+  "lat": 24.36880015,
+  "lon": 88.5973558,
+  "name": "Rajarhata Shib Mondir, Rajshahi",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 1460879103,
+  "lat": 24.28959785,
+  "lon": 70.78130519999999,
+  "name": "Baba Ramdev Mandir, Kasbo",
+  "addr:state": null
+ },
+ {
+  "type": "way",
+  "id": 1460879104,
+  "lat": 24.289543899999998,
+  "lon": 70.7810279,
+  "name": "Baba Ramdev Mandir, Kasbo",
+  "addr:state": null
+ }
+]

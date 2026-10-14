@@ -1,36 +1,28 @@
-# Render blueprint — deploys the full directory, editorial half included.
-#
-# The app writes JSON files at request time (a contributor submitting a draft,
-# an admin approving a request or publishing an entry). Render replaces the
-# application directory on every deploy, so those writes must land on the
-# mounted disk below rather than inside the repo. DATA_DIR points there and the
-# app seeds it from the committed data the first time it boots.
-#
-# Deploy: push this repo to GitHub, then Render → New → Blueprint → pick the repo.
+# Render Blueprint: one web service (this Dockerfile) + one Postgres. In Render: New > Blueprint > connect this repo.
+# Plan names and free-tier limits change; check Render's current pricing before choosing a plan for real use.
+databases:
+  - name: temple-directory-db
+    databaseName: temple_directory
+    plan: free
+
 services:
   - type: web
-    name: temple-directory
-    runtime: node
-    plan: starter # A disk requires a paid instance; free instances have no persistent storage.
-    buildCommand: npm ci && npm run build
-    startCommand: npm start
-    healthCheckPath: /
-    disk:
-      name: temple-data
-      mountPath: /var/data
-      sizeGB: 1
+    name: global-temple-directory
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
     envVars:
-      - key: DATA_DIR
-        value: /var/data
-      - key: NODE_VERSION
-        value: "22"
-      # Generated once by Render and kept; rotating it logs everyone out.
-      - key: SESSION_SECRET
-        generateValue: true
-      # Set these in the Render dashboard. The app refuses to start in
-      # production without them, so the repo's development defaults can
-      # never be live credentials.
-      - key: ADMIN_PASSWORD
-        sync: false
-      - key: CONTRIBUTOR_PASSWORD
-        sync: false
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: temple-directory-db
+          property: connectionString
+      - key: BASE_URL
+        sync: false        # set to your public URL, e.g. https://global-temple-directory.onrender.com
+      # Email verification is switched off for now (sign-in = name + email, stored, not checked). These are only needed
+      # if you re-enable it (see server/routes/auth.js):
+      #   ADMIN_EMAILS, MAIL_API_KEY, MAIL_FROM
+      # Dummy admin: OFF in production. Setting ALLOW_DEV_ADMIN=1 lets ANY visitor become an admin (private/demo sites only).
+      # - key: ALLOW_DEV_ADMIN
+      #   value: "1"
