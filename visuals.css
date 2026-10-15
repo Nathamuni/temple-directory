@@ -29,3 +29,4 @@
 @media (prefers-reduced-motion:reduce){
   .hero-slide{transition:none}
 }
+.hero-photos .hero-slide[data-id]{cursor:pointer}

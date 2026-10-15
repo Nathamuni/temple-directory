@@ -48,3 +48,6 @@ ol.hs-list li{display:list-item;border-top:0;padding-top:0}
 .hs-try button:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
 .hs-count{font-size:14px;color:var(--muted)}
 .hs-count strong{font:400 15px Georgia,serif;color:var(--ink)}
+
+article.card:has(a[href^="#temple/"]){cursor:pointer}
+article.card:has(a[href^="#temple/"]):hover{box-shadow:0 6px 20px rgba(60,30,10,.14)}

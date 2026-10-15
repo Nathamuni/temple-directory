@@ -9,7 +9,7 @@ let geo={},geoDirty=false,hero={i:0,timer:null};
 /* ---------- hero: real photographs of the curated temples ---------- */
 const heroPhotos=()=>seeds.map(s=>({temple:s,im:templeMedia(s).profile})).filter(x=>x.im&&validURL(x.im.url));
 function heroMarkup(list){
-  const slides=list.map((x,k)=>`<figure class="hero-slide${k===0?' on':''}" data-k="${k}" aria-hidden="${k===0?'false':'true'}"><img src="${esc(x.im.url)}" alt="${esc(x.im.caption||x.temple.name)}" ${k===0?'fetchpriority="high"':'loading="lazy"'} referrerpolicy="no-referrer"><figcaption><strong>${esc(x.temple.name)}</strong><span>${esc(x.temple.state)} · Photo: ${esc(x.im.credit||'Wikimedia Commons')}, ${x.im.license_url?`<a href="${esc(safeUrl(x.im.license_url))}" target="_blank" rel="noopener noreferrer">${esc(x.im.license)}</a>`:esc(x.im.license||'')}${x.im.source?` · <a href="${esc(safeUrl(x.im.source))}" target="_blank" rel="noopener noreferrer">Source</a>`:''}</span></figcaption></figure>`).join('');
+  const slides=list.map((x,k)=>`<figure class="hero-slide${k===0?' on':''}" data-k="${k}" data-id="${esc(x.temple.id)}" aria-hidden="${k===0?'false':'true'}"><img src="${esc(x.im.url)}" alt="${esc(x.im.caption||x.temple.name)}" ${k===0?'fetchpriority="high"':'loading="lazy"'} referrerpolicy="no-referrer"><figcaption><strong>${esc(x.temple.name)}</strong><span>${esc(x.temple.state)} · Photo: ${esc(x.im.credit||'Wikimedia Commons')}, ${x.im.license_url?`<a href="${esc(safeUrl(x.im.license_url))}" target="_blank" rel="noopener noreferrer">${esc(x.im.license)}</a>`:esc(x.im.license||'')}${x.im.source?` · <a href="${esc(safeUrl(x.im.source))}" target="_blank" rel="noopener noreferrer">Source</a>`:''}</span></figcaption></figure>`).join('');
   const dots=list.map((x,k)=>`<button type="button" class="hero-dot${k===0?' on':''}" data-k="${k}" aria-label="Show ${esc(x.temple.name)}" aria-pressed="${k===0}"></button>`).join('');
   return `<div class="hero-slides">${slides}</div><div class="hero-dots" role="group" aria-label="Featured temples">${dots}</div>`;
 }
@@ -24,7 +24,7 @@ function mountHero(){
   const box=document.querySelector('.hero-art'),list=heroPhotos();
   if(!box||list.length<2)return;
   box.classList.add('hero-photos');box.innerHTML=heroMarkup(list);hero.i=0;
-  box.addEventListener('click',e=>{const b=e.target.closest('.hero-dot');if(b){showSlide(box,+b.dataset.k);clearInterval(hero.timer)}});
+  box.addEventListener('click',e=>{if(!e.target.closest('a,.hero-dot')){const s=e.target.closest('.hero-slide');if(s&&s.dataset.id){location.hash='#temple/'+encodeURIComponent(s.dataset.id);return}}const b=e.target.closest('.hero-dot');if(b){showSlide(box,+b.dataset.k);clearInterval(hero.timer)}});
   const first=box.querySelector('.hero-slide img');
   first?.addEventListener('error',()=>{clearInterval(hero.timer);box.classList.remove('hero-photos');box.innerHTML='<p class="hero-fallback">Temple photographs could not be loaded. Check your connection.</p>'});
   if(!REDUCED){

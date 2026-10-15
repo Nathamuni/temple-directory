@@ -19,3 +19,11 @@ contribute=function(){
   });
 };
 })();
+
+// Whole card opens the temple, not just the small "Explore temple" link.
+document.addEventListener('click', e => {
+  const card = e.target.closest && e.target.closest('article.card');
+  if (!card || e.target.closest('a,button,select,input,label,textarea')) return;
+  const link = card.querySelector('a[href^="#temple/"]');
+  if (link) location.hash = link.getAttribute('href');
+});
