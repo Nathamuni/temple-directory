@@ -16,7 +16,7 @@ Plain Postgres (12+), no extensions, no ORM. The whole schema is `db/migrations/
 `field_values` (value + `source_type` + `source_ref` + `checked_on`; one `current` row per temple and field), `needs_reports`, `notes`. Each has `approval`: `approved` | `pending` | `rejected` (+ `reject_reason`).
 
 ## Approval switch
-`settings.require_approval` (default `false` = bypass). Off: volunteer changes are `approved` immediately. On: they are `pending`, visible only to their author and admins, until an admin approves (publishes) or rejects them with a reason. Admin edits are always published directly. Ratings, comments and upvotes never need approval.
+`settings.require_approval` (default `true` = approval on; an admin can switch it off for bypass). Off: volunteer changes are `approved` immediately. On: they are `pending`, visible only to their author and admins, until an admin approves (publishes) or rejects them with a reason. Admin edits are always published directly. Ratings, comments and upvotes never need approval.
 
 ## Audit log
 `edits` records every volunteer write and admin action (`create`, `update`, `submit`, `approve`, `reject`, `hide`, `restore`, `revert`) with `before` / `after` JSON and `revert_of`. An admin can revert any change that went live.

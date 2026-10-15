@@ -97,6 +97,7 @@ test('simple sign-in (name + email, no verification), then volunteer edits go li
   const email = `vol-${stamp}@example.com`;
   assert.equal((await V('POST', '/api/auth/sign-in', { email: 'nope', displayName: 'Asha' })).status, 400);
   assert.equal((await V('POST', '/api/auth/sign-in', { email, displayName: 'A' })).status, 400, 'name too short');
+  await ADMIN('POST', '/api/auth/dev-admin', {}); await ADMIN('POST', '/api/admin/settings', { requireApproval: false }); // default is approval ON
   let r = await V('POST', '/api/auth/sign-in', { email, displayName: 'Asha Volunteer' });
   assert.equal(r.status, 200);
   const me = await V('GET', '/api/me');

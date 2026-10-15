@@ -91,7 +91,7 @@ detail=async function(id){
   if(!schema){anchor.insertAdjacentHTML('beforebegin',`<section id="profile-fields"><h2>Profile fields</h2><p class="notice">The field list could not be loaded (${esc(schemaError||'unknown error')}).</p></section>`);return}
   anchor.insertAdjacentHTML('beforebegin',section(t,vol));
   const upd=[...document.querySelectorAll('.detail-head .actions .btn')].find(b=>/suggest an update|correct these details/i.test(b.textContent));
-  if(upd){upd.textContent='Correct these details';upd.onclick=()=>{const sec=document.querySelector('#profile-fields');sec.querySelector('.pf-group')?.setAttribute('open','');sec.scrollIntoView()}}
+  if(upd){upd.textContent='Correct these details';upd.onclick=()=>{if(!window.requireVolunteer())return;const sec=document.querySelector('#profile-fields');sec.querySelector('.pf-group')?.setAttribute('open','');sec.scrollIntoView()}}
   document.querySelector('.section-nav')?.insertAdjacentHTML('beforeend',`<a href="#temple/${esc(t.id)}" onclick="event.preventDefault();document.querySelector('#profile-fields').scrollIntoView()">Profile fields</a>`);
 };
 })();

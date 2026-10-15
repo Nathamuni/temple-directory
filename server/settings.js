@@ -1,11 +1,11 @@
 import { q } from './db.js';
 
 // require_approval: false = bypass (volunteer changes go live at once). Cached briefly; changed only by an admin.
-let cache = { at: 0, value: false };
+let cache = { at: 0, value: true };
 export async function requireApproval() {
   if (Date.now() - cache.at < 3000) return cache.value;
   const r = await q("SELECT value FROM settings WHERE key = 'require_approval'");
-  cache = { at: Date.now(), value: r.rows[0]?.value === true };
+  cache = { at: Date.now(), value: r.rows[0] ? r.rows[0].value === true : true };
   return cache.value;
 }
 export async function setRequireApproval(value, userId) {
