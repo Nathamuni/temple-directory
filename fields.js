@@ -91,7 +91,15 @@ detail=async function(id){
   if(!schema){anchor.insertAdjacentHTML('beforebegin',`<section id="profile-fields"><h2>Profile fields</h2><p class="notice">The field list could not be loaded (${esc(schemaError||'unknown error')}).</p></section>`);return}
   anchor.insertAdjacentHTML('beforebegin',section(t,vol));
   const upd=[...document.querySelectorAll('.detail-head .actions .btn')].find(b=>/suggest an update|correct these details/i.test(b.textContent));
-  if(upd){upd.textContent='Correct these details';upd.onclick=()=>{if(!window.requireVolunteer())return;const sec=document.querySelector('#profile-fields');sec.querySelector('.pf-group')?.setAttribute('open','');sec.scrollIntoView()}}
+  const sec=document.querySelector('#profile-fields');
+  sec.querySelectorAll('.pf-group').forEach((d,i)=>{if(schema.groups[i])d.dataset.g=schema.groups[i].key});
+  // Jump to a profile group (after sign-in) and open it so the "Add a value" forms are one click away.
+  window.pfEdit=key=>{if(!window.requireVolunteer())return;const g=sec.querySelector(`.pf-group[data-g="${key}"]`)||sec.querySelector('.pf-group');g.setAttribute('open','');g.scrollIntoView({block:'start'})};
+  if(upd){upd.textContent='✎ Edit this temple';upd.title='Sign in, then add or correct details';upd.onclick=()=>window.pfEdit('record')}
+  // Small "Edit" link beside each major section heading, pointing at the matching field group.
+  const MAP={'at a glance':'record','history and significance':'history','festivals':'festivals','cleanliness and facilities inside the temple':'facilities','practices and participation':'visiting'};
+  document.querySelectorAll('main h2, #app h2').forEach(h=>{const k=MAP[h.textContent.trim().toLowerCase()];if(!k||h.querySelector('.pf-edit-link'))return;
+    const a=document.createElement('a');a.href='#';a.className='pf-edit-link';a.textContent='✎ Edit';a.onclick=e=>{e.preventDefault();window.pfEdit(k)};h.appendChild(a)});
   document.querySelector('.section-nav')?.insertAdjacentHTML('beforeend',`<a href="#temple/${esc(t.id)}" onclick="event.preventDefault();document.querySelector('#profile-fields').scrollIntoView()">Profile fields</a>`);
 };
 })();

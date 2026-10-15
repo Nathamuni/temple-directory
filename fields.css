@@ -31,3 +31,4 @@
 select#temple,#temple-find{max-width:100%;width:100%}
 .pf-signin{font-size:13px;color:var(--green);text-decoration:underline;text-underline-offset:3px;width:max-content}
 .pf-signin:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+.pf-edit-link{margin-left:12px;font:600 .8rem/1 system-ui,sans-serif;color:#2f4a3a;text-decoration:underline;white-space:nowrap}
