@@ -17,7 +17,7 @@ function stats(){
     const c=t.computed||{},g=t.tags||{};if(c.toilets||(g.toilets&&g.toilets!=='no'))nearby.toilets++;if(c.water||g.drinking_water==='yes')nearby.water++;if(c.parking)nearby.parking++;if(g.wheelchair&&g.wheelchair!=='no')nearby.wheelchair++;
   }
   const top=m=>[...m].filter(([k])=>k&&!/not recorded/i.test(k)).sort((a,b)=>b[1]-a[1]);
-  cache={key,countries:top(countries),states:top(states),deities:top(deities),nearby,total:all.length};
+  cache={key,countries:top(countries),states:top(states),deities:top(deities),nearby,total:nationalRecords.length||all.length};
   return cache;
 }
 const chips=(list,kind,limit,all)=>`<div class="hs-chips">${list.slice(0,all?list.length:limit).map(([k,n])=>`<button type="button" class="hs-chip" data-kind="${kind}" data-v="${esc(k)}">${esc(k)} <span>${n.toLocaleString()}</span></button>`).join('')}</div>${!all&&list.length>limit?`<button type="button" class="textbtn" data-more="${kind}">Show all ${list.length}</button>`:''}`;
