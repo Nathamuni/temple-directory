@@ -2063,30 +2063,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Road_near_Nirmand%2C_Himachal_Pradesh.jpg/960px-Road_near_Nirmand%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Road_near_Nirmand%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Road near Nirmand, Himachal Pradesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Road_near_Nirmand,_Himachal_Pradesh.jpg",
-     "credit": "Ms Sarah Welch",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2289,30 +2277,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Sri_Ganesha_in_The_Temle_-_panoramio.jpg/960px-Sri_Ganesha_in_The_Temle_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sri_Ganesha_in_The_Temle_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Ganesha in The Temle - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Ganesha_in_The_Temle_-_panoramio.jpg",
-     "credit": "Андрей Коваль",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 6,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -4427,28 +4403,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hide_and_seek_%287394107038%29.jpg/960px-Hide_and_seek_%287394107038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hide_and_seek_%287394107038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hide and seek (7394107038).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hide_and_seek_(7394107038).jpg",
-     "credit": "Ryan from Toronto, Canada",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4502,30 +4466,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hide_and_seek_%287394107038%29.jpg/960px-Hide_and_seek_%287394107038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hide_and_seek_%287394107038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hide and seek (7394107038).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hide_and_seek_(7394107038).jpg",
-     "credit": "Ryan from Toronto, Canada",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -4950,30 +4902,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kali_Bari_Shimla%2C_Himacha_Pradesh%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kali_Bari_Shimla%2C_Himacha_Pradesh%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kali Bari Shimla, Himacha Pradesh, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kali_Bari_Shimla,_Himacha_Pradesh,_India_-_panoramio.jpg",
-     "credit": "Debnath2003",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 11,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -5016,29 +4956,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "B Balaji, Hanuman Statue in Chinmaya Tapovan, Sidhbari.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:B_Balaji,_Hanuman_Statue_in_Chinmaya_Tapovan,_Sidhbari.jpg",
-     "credit": "B Balaji",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 60,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -5465,28 +5393,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Derek_Blackadder_India_2005_%2828120023%29.jpg/500px-Derek_Blackadder_India_2005_%2828120023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Derek_Blackadder_India_2005_%2828120023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Derek Blackadder India 2005 (28120023).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Derek_Blackadder_India_2005_(28120023).jpg",
-     "credit": "Derek Blackadder from Cobourg, ON, Canada",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 13,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -8430,28 +8346,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Landscape_with_mountains_and_rocks_in_Khir_Ganga%2C_Himachal_Pradesh.jpg/960px-Landscape_with_mountains_and_rocks_in_Khir_Ganga%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Landscape_with_mountains_and_rocks_in_Khir_Ganga%2C_Himachal_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Landscape with mountains and rocks in Khir Ganga, Himachal Pradesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Landscape_with_mountains_and_rocks_in_Khir_Ganga,_Himachal_Pradesh.jpg",
-     "credit": "YUVRAJ ANAND",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -11765,30 +11669,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beauty_of_sun.jpg/960px-Beauty_of_sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Beauty_of_sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Beauty of sun.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Beauty_of_sun.jpg",
-     "credit": "Jaspritk",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 32,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -11833,30 +11725,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Indrunaag_dharamshala.jpg/960px-Indrunaag_dharamshala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Indrunaag_dharamshala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Indrunaag dharamshala.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Indrunaag_dharamshala.jpg",
-     "credit": "Sood76",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -24021,28 +23901,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Manikaran_from_Manali_vrtmrgmpksk_%2825%29.jpg/960px-Manikaran_from_Manali_vrtmrgmpksk_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Manikaran_from_Manali_vrtmrgmpksk_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Manikaran from Manali vrtmrgmpksk (25).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Manikaran_from_Manali_vrtmrgmpksk_(25).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25674,29 +25542,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tibet_Museum_%28Dharamsala%29.jpg/960px-Tibet_Museum_%28Dharamsala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tibet_Museum_%28Dharamsala%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tibet Museum (Dharamsala).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tibet_Museum_(Dharamsala).jpg",
-     "credit": "Bernard Gagnon",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -26072,30 +25928,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Interior_of_The_Fat_Teapot.jpg/960px-Interior_of_The_Fat_Teapot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Interior_of_The_Fat_Teapot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Interior of The Fat Teapot.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Interior_of_The_Fat_Teapot.jpg",
-     "credit": "Contrapunctus-1",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -26564,28 +26408,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "B Balaji, Hanuman Statue in Chinmaya Tapovan, Sidhbari.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:B_Balaji,_Hanuman_Statue_in_Chinmaya_Tapovan,_Sidhbari.jpg",
-     "credit": "B Balaji",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 106,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -26628,28 +26460,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/B_Balaji%2C_Hanuman_Statue_in_Chinmaya_Tapovan%2C_Sidhbari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "B Balaji, Hanuman Statue in Chinmaya Tapovan, Sidhbari.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:B_Balaji,_Hanuman_Statue_in_Chinmaya_Tapovan,_Sidhbari.jpg",
-     "credit": "B Balaji",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 46,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

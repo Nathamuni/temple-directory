@@ -45,29 +45,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg/960px-20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "20191209 Posąg w Świątyni Maa Jwalamukhi Devi w Dźodhpurze 1628 7702.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg",
-     "credit": "Jakub Hałun",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 66,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -152,28 +140,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Woman_with_a_pink_scarf_and_a_baby%2C_Rajasthan_%286358621701%29.jpg/960px-Woman_with_a_pink_scarf_and_a_baby%2C_Rajasthan_%286358621701%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Woman_with_a_pink_scarf_and_a_baby%2C_Rajasthan_%286358621701%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Woman with a pink scarf and a baby, Rajasthan (6358621701).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Woman_with_a_pink_scarf_and_a_baby,_Rajasthan_(6358621701).jpg",
-     "credit": "Christopher Michel",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -261,30 +237,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Rajasthan_%286363968891%29.jpg/960px-Rajasthan_%286363968891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Rajasthan_%286363968891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rajasthan (6363968891).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rajasthan_(6363968891).jpg",
-     "credit": "Christopher Michel",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -686,28 +650,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Jaisalmer_Ganesh_Prol_sign.jpg/960px-Jaisalmer_Ganesh_Prol_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jaisalmer_Ganesh_Prol_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jaisalmer Ganesh Prol sign.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jaisalmer_Ganesh_Prol_sign.jpg",
-     "credit": "Doris Antony, Berlin",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 16,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -761,30 +713,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1996_-216-35A_Jaisalmer_%282238186726%29.jpg/960px-1996_-216-35A_Jaisalmer_%282238186726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1996_-216-35A_Jaisalmer_%282238186726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "1996 -216-35A Jaisalmer (2238186726).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:1996_-216-35A_Jaisalmer_(2238186726).jpg",
-     "credit": "Dan Lundberg",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 12,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2101,30 +2041,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Udaipur_2.jpg/960px-Udaipur_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Udaipur_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Udaipur 2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Udaipur_2.jpg",
-     "credit": "Ganesh Mohan T",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -5496,30 +5424,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Jai_Nathan_Vyas_statue.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Jai_Nathan_Vyas_statue.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jai Nathan Vyas statue.jpeg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jai_Nathan_Vyas_statue.jpeg",
-     "credit": "Charan Gill",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 8,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -8287,29 +8203,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20191212_Auto_rickshaws%2C_Bikaner_1547_8243.jpg/960px-20191212_Auto_rickshaws%2C_Bikaner_1547_8243.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/20191212_Auto_rickshaws%2C_Bikaner_1547_8243.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "20191212 Auto rickshaws, Bikaner 1547 8243.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:20191212_Auto_rickshaws,_Bikaner_1547_8243.jpg",
-     "credit": "Jakub Hałun",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -8692,29 +8596,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Khatu_Shyam_Ji_-_panoramio.jpg/960px-Khatu_Shyam_Ji_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Khatu_Shyam_Ji_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Khatu Shyam Ji - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Khatu_Shyam_Ji_-_panoramio.jpg",
-     "credit": "Indrapal Jangid",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 27,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -9321,28 +9213,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sarga_suli.jpg/960px-Sarga_suli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sarga_suli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sarga suli.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sarga_suli.jpg",
-     "credit": "Poojaojha3100",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -13237,29 +13117,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Behror_oldbustand_circle_shahidmarg.jpg/960px-Behror_oldbustand_circle_shahidmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Behror_oldbustand_circle_shahidmarg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Behror oldbustand circle shahidmarg.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Behror_oldbustand_circle_shahidmarg.jpg",
-     "credit": "Lalitjoshi789",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 2,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -13994,28 +13862,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Shantinatha_jinalaya.jpg/960px-Shantinatha_jinalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Shantinatha_jinalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shantinatha jinalaya.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shantinatha_jinalaya.jpg",
-     "credit": "Capankajsmilyo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -16661,28 +16517,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg/960px-20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "20191209 Posąg w Świątyni Maa Jwalamukhi Devi w Dźodhpurze 1628 7702.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg",
-     "credit": "Jakub Hałun",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 119,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21545,29 +21389,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/JantarMantarDevice1.jpg/960px-JantarMantarDevice1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/JantarMantarDevice1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JantarMantarDevice1.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JantarMantarDevice1.jpg",
-     "credit": "BluesyPete",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 75,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21685,29 +21517,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Laghu_Samrat_Yantra%2C_Jantar_Mantar_2.jpg/960px-Laghu_Samrat_Yantra%2C_Jantar_Mantar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Laghu_Samrat_Yantra%2C_Jantar_Mantar_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Laghu Samrat Yantra, Jantar Mantar 2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Laghu_Samrat_Yantra,_Jantar_Mantar_2.jpg",
-     "credit": "Srilakshmi1991",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 30,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25523,28 +25343,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg/960px-20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "20191209 Posąg w Świątyni Maa Jwalamukhi Devi w Dźodhpurze 1628 7702.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:20191209_Pos%C4%85g_w_%C5%9Awi%C4%85tyni_Maa_Jwalamukhi_Devi_w_D%C5%BAodhpurze_1628_7702.jpg",
-     "credit": "Jakub Hałun",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -32880,28 +32688,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/JantarMantarDevice2.jpg/960px-JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JantarMantarDevice2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JantarMantarDevice2.jpg",
-     "credit": "BluesyPete",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 45,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -32946,28 +32742,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/JantarMantarDevice2.jpg/960px-JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JantarMantarDevice2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JantarMantarDevice2.jpg",
-     "credit": "BluesyPete",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 52,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -33012,28 +32796,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/JantarMantarDevice2.jpg/960px-JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/JantarMantarDevice2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JantarMantarDevice2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JantarMantarDevice2.jpg",
-     "credit": "BluesyPete",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 129,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -33233,30 +33005,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Aishwarya_Baheti%2C_Mumbai.jpg/960px-Aishwarya_Baheti%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Aishwarya_Baheti%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aishwarya Baheti, Mumbai.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aishwarya_Baheti,_Mumbai.jpg",
-     "credit": "Aishwarya Baheti, Mumbai",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 143,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -33619,28 +33379,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shop_in_Bundi_-_panoramio.jpg/960px-Shop_in_Bundi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shop_in_Bundi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shop in Bundi - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shop_in_Bundi_-_panoramio.jpg",
-     "credit": "Richard Horvath",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -33740,28 +33488,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SamadhisvaraMahadevTemple.jpg/960px-SamadhisvaraMahadevTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/SamadhisvaraMahadevTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "SamadhisvaraMahadevTemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:SamadhisvaraMahadevTemple.jpg",
-     "credit": "Apex noob",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 27,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -38257,28 +37993,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/A_hunting_place_where_both_side_are_water_lack_and_when_old_time_big_cat_come_to_drink_water_king_and_quin_shot_them.only_for_enjoy_for_few_hours.it_a_big_reason_in_India_for_tiger_populations_gone_less._-_panoramio.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/A_hunting_place_where_both_side_are_water_lack_and_when_old_time_big_cat_come_to_drink_water_king_and_quin_shot_them.only_for_enjoy_for_few_hours.it_a_big_reason_in_India_for_tiger_populations_gone_less._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A hunting place where both side are water lack and when old time big cat come to drink water king and quin shot them.only for enjoy for few hours.it a big reason in India for tiger populations gone less. - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_hunting_place_where_both_side_are_water_lack_and_when_old_time_big_cat_come_to_drink_water_king_and_quin_shot_them.only_for_enjoy_for_few_hours.it_a_big_reason_in_India_for_tiger_populations_gone_less._-_panoramio.jpg",
-     "credit": "pradeep kumar chatte…",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 7,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -38992,28 +38716,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Pushkar-53.jpg/960px-Pushkar-53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pushkar-53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Pushkar-53.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Pushkar-53.jpg",
-     "credit": "Immanuelle",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -39920,29 +39632,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/JantarMantarDevice1.jpg/960px-JantarMantarDevice1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/JantarMantarDevice1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JantarMantarDevice1.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JantarMantarDevice1.jpg",
-     "credit": "BluesyPete",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 77,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -41218,29 +40918,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Pushkar.in_East_-_panoramio.jpg/960px-Pushkar.in_East_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pushkar.in_East_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Pushkar.in East - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Pushkar.in_East_-_panoramio.jpg",
-     "credit": "SINHA",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -45296,30 +44984,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ratan_Singh_Ka_Mahal.jpg/960px-Ratan_Singh_Ka_Mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ratan_Singh_Ka_Mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ratan Singh Ka Mahal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ratan_Singh_Ka_Mahal.jpg",
-     "credit": "Abhishek Khanna",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 5,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -50362,30 +50038,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/SamadhisvaraMahadevTemple.jpg/960px-SamadhisvaraMahadevTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/SamadhisvaraMahadevTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "SamadhisvaraMahadevTemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:SamadhisvaraMahadevTemple.jpg",
-     "credit": "Apex noob",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -54026,28 +53690,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/These_stair_go_to_heaven.i_don%27t_want_to_tray_these_now.but_if_any_body_want_to_tray_these_now_then_he-she_can_come_here._-Jokes%40_-_panoramio.jpg/960px-These_stair_go_to_heaven.i_don%27t_want_to_tray_these_now.but_if_any_body_want_to_tray_these_now_then_he-she_can_come_here._-Jokes%40_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/These_stair_go_to_heaven.i_don%27t_want_to_tray_these_now.but_if_any_body_want_to_tray_these_now_then_he-she_can_come_here._-Jokes%40_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "These stair go to heaven.i don't want to tray these now.but if any body want to tray these now then he-she can come here. -Jokes@ - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:These_stair_go_to_heaven.i_don%27t_want_to_tray_these_now.but_if_any_body_want_to_tray_these_now_then_he-she_can_come_here._-Jokes@_-_panoramio.jpg",
-     "credit": "pradeep kumar chatte…",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -57668,28 +57320,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bundi-Garh_Palace-Chhatra_Mahal-Adoration_of_Vishnu_krishna_Kali_and_Narasimha-20131015.jpg/960px-Bundi-Garh_Palace-Chhatra_Mahal-Adoration_of_Vishnu_krishna_Kali_and_Narasimha-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bundi-Garh_Palace-Chhatra_Mahal-Adoration_of_Vishnu_krishna_Kali_and_Narasimha-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bundi-Garh Palace-Chhatra Mahal-Adoration of Vishnu krishna Kali and Narasimha-20131015.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bundi-Garh_Palace-Chhatra_Mahal-Adoration_of_Vishnu_krishna_Kali_and_Narasimha-20131015.jpg",
-     "credit": "Daniel VILLAFRUELA",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 131,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -57894,28 +57534,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bundi-Sadar_Bazaar-Chogan_Gate_VMF-20131015.jpg/960px-Bundi-Sadar_Bazaar-Chogan_Gate_VMF-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bundi-Sadar_Bazaar-Chogan_Gate_VMF-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bundi-Sadar Bazaar-Chogan Gate VMF-20131015.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bundi-Sadar_Bazaar-Chogan_Gate_VMF-20131015.jpg",
-     "credit": "Daniel VILLAFRUELA",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -58031,29 +57659,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bundi-Sadar_Bazaar-Jewellery_Quarter-20131015.jpg/960px-Bundi-Sadar_Bazaar-Jewellery_Quarter-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bundi-Sadar_Bazaar-Jewellery_Quarter-20131015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bundi-Sadar Bazaar-Jewellery Quarter-20131015.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bundi-Sadar_Bazaar-Jewellery_Quarter-20131015.jpg",
-     "credit": "Daniel VILLAFRUELA",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

@@ -476,30 +476,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Grey_Langur_monkey_in_Rishikesh.jpg/960px-Grey_Langur_monkey_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Grey_Langur_monkey_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Grey Langur monkey in Rishikesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Grey_Langur_monkey_in_Rishikesh.jpg",
-     "credit": "McKay Savage from Chennai, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -582,29 +570,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Atri_muni_cave.jpg/960px-Atri_muni_cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Atri_muni_cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Atri muni cave.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Atri_muni_cave.jpg",
-     "credit": "Sonu.bisht007",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 88,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -771,30 +747,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Lord_Shiva_Statue_-_panoramio.jpg/960px-The_Lord_Shiva_Statue_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Lord_Shiva_Statue_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The Lord Shiva Statue - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_Lord_Shiva_Statue_-_panoramio.jpg",
-     "credit": "Neil Satyam",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 33,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2234,28 +2198,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_street_in_Rishikesh.jpg/960px-A_street_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_street_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A street in Rishikesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_street_in_Rishikesh.jpg",
-     "credit": "Aleksandr Zykov from Russia",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -2296,28 +2248,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/A_street_in_Rishikesh.jpg/960px-A_street_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/A_street_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A street in Rishikesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_street_in_Rishikesh.jpg",
-     "credit": "Aleksandr Zykov from Russia",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 20,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -2638,28 +2578,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg/960px-India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "India - Rishikesh - 017 - monkey family hanging out on Shivanand Jhula (2091401482).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_(2091401482).jpg",
-     "credit": "McKay Savage from London, UK",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 119,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -2802,28 +2730,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg/960px-India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "India - Rishikesh - 017 - monkey family hanging out on Shivanand Jhula (2091401482).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_(2091401482).jpg",
-     "credit": "McKay Savage from London, UK",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 114,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -3416,30 +3332,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildlife_institute_of_India_Board.jpg/960px-Wildlife_institute_of_India_Board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wildlife_institute_of_India_Board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Wildlife institute of India Board.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Wildlife_institute_of_India_Board.jpg",
-     "credit": "Gannu03",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -4468,29 +4372,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/..._about_Vyas_Gufa_%287756766052%29.jpg/960px-..._about_Vyas_Gufa_%287756766052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/..._about_Vyas_Gufa_%287756766052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "... about Vyas Gufa (7756766052).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:..._about_Vyas_Gufa_(7756766052).jpg",
-     "credit": "Dinesh Valke from Thane, India",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 8,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -7077,30 +6969,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Eastern_bank_of_Lakshman_Jhula%2C_Rishikesh.jpg/960px-Eastern_bank_of_Lakshman_Jhula%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Eastern_bank_of_Lakshman_Jhula%2C_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Eastern bank of Lakshman Jhula, Rishikesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Eastern_bank_of_Lakshman_Jhula,_Rishikesh.jpg",
-     "credit": "McKay Savage from Chennai, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -8507,29 +8387,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Winterline%21_%2816025688700%29.jpg/960px-Winterline%21_%2816025688700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Winterline%21_%2816025688700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Winterline! (16025688700).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Winterline!_(16025688700).jpg",
-     "credit": "Ashish Gupta from Noida, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -16208,29 +16076,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/View_from_Brahmadhungi%2C_Binsar_wildlife_sanctuary_20160520.jpg/960px-View_from_Brahmadhungi%2C_Binsar_wildlife_sanctuary_20160520.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/View_from_Brahmadhungi%2C_Binsar_wildlife_sanctuary_20160520.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "View from Brahmadhungi, Binsar wildlife sanctuary 20160520.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:View_from_Brahmadhungi,_Binsar_wildlife_sanctuary_20160520.jpg",
-     "credit": "Rohit Gosain",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -17249,29 +17105,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Moila_Tibba_DSC_8475_%2833261256356%29.jpg/960px-Moila_Tibba_DSC_8475_%2833261256356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Moila_Tibba_DSC_8475_%2833261256356%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Moila Tibba DSC 8475 (33261256356).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Moila_Tibba_DSC_8475_(33261256356).jpg",
-     "credit": "Ashish Gupta from Noida, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 9,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20300,29 +20144,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/..._about_Bhim-pul_%287756754360%29.jpg/960px-..._about_Bhim-pul_%287756754360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/..._about_Bhim-pul_%287756754360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "... about Bhim-pul (7756754360).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:..._about_Bhim-pul_(7756754360).jpg",
-     "credit": "Dinesh Valke from Thane, India",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20352,29 +20184,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Viewing_Mana_village_%287756762296%29.jpg/960px-Viewing_Mana_village_%287756762296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Viewing_Mana_village_%287756762296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Viewing Mana village (7756762296).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Viewing_Mana_village_(7756762296).jpg",
-     "credit": "Dinesh Valke from Thane, India",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23195,28 +23015,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Chandi_Devi_Udankhtola%2C_Haridwar.JPG/960px-Chandi_Devi_Udankhtola%2C_Haridwar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Chandi_Devi_Udankhtola%2C_Haridwar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Chandi Devi Udankhtola, Haridwar.JPG",
-     "source": "https://commons.wikimedia.org/wiki/File:Chandi_Devi_Udankhtola,_Haridwar.JPG",
-     "credit": "World8115",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 59,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23492,30 +23300,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg/960px-India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_%282091401482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "India - Rishikesh - 017 - monkey family hanging out on Shivanand Jhula (2091401482).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:India_-_Rishikesh_-_017_-_monkey_family_hanging_out_on_Shivanand_Jhula_(2091401482).jpg",
-     "credit": "McKay Savage from London, UK",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 65,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -23559,30 +23355,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/The_meeting_of_heaven_and_earth.jpg/960px-The_meeting_of_heaven_and_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_meeting_of_heaven_and_earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The meeting of heaven and earth.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_meeting_of_heaven_and_earth.jpg",
-     "credit": "Manas Pant",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 3,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -23814,29 +23598,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Reflection_on_Lake_Hemkunt.jpg/960px-Reflection_on_Lake_Hemkunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Reflection_on_Lake_Hemkunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Reflection on Lake Hemkunt.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Reflection_on_Lake_Hemkunt.jpg",
-     "credit": "Mahendra Vaswani",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 5,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -24493,29 +24265,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Flora_fauna_Uttarakhand.jpg/960px-Flora_fauna_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flora_fauna_Uttarakhand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Flora fauna Uttarakhand.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Flora_fauna_Uttarakhand.jpg",
-     "credit": "SND Nature",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25301,29 +25061,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Grey_Langur_monkey_in_Rishikesh.jpg/960px-Grey_Langur_monkey_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Grey_Langur_monkey_in_Rishikesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Grey Langur monkey in Rishikesh.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Grey_Langur_monkey_in_Rishikesh.jpg",
-     "credit": "McKay Savage from Chennai, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 29,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25783,30 +25531,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Shiva%27s_Abode.jpg/960px-Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva's Abode.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva%27s_Abode.jpg",
-     "credit": "Hira Naaz",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -25853,31 +25589,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Shiva%27s_Abode.jpg/960px-Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva's Abode.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva%27s_Abode.jpg",
-     "credit": "Hira Naaz",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -25945,17 +25669,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/JageshwarTemple-Garud-Uttarakhand-8.jpg/960px-JageshwarTemple-Garud-Uttarakhand-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/JageshwarTemple-Garud-Uttarakhand-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JageshwarTemple-Garud-Uttarakhand-8.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JageshwarTemple-Garud-Uttarakhand-8.jpg",
-     "credit": "VishalGirishBoob",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -26008,28 +25721,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/JageshwarTemple-Garud-Uttarakhand-6.jpg/960px-JageshwarTemple-Garud-Uttarakhand-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/JageshwarTemple-Garud-Uttarakhand-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JageshwarTemple-Garud-Uttarakhand-6.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JageshwarTemple-Garud-Uttarakhand-6.jpg",
-     "credit": "VishalGirishBoob",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 5,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -26078,30 +25779,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/JageshwarTemple-Garud-Uttarakhand-8.jpg/960px-JageshwarTemple-Garud-Uttarakhand-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/JageshwarTemple-Garud-Uttarakhand-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "JageshwarTemple-Garud-Uttarakhand-8.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:JageshwarTemple-Garud-Uttarakhand-8.jpg",
-     "credit": "VishalGirishBoob",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -31652,28 +31341,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Shiva%27s_Abode.jpg/960px-Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shiva%27s_Abode.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva's Abode.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva%27s_Abode.jpg",
-     "credit": "Hira Naaz",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

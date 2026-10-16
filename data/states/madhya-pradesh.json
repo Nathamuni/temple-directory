@@ -911,29 +911,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Le_joueur_de_fl%C3%BBte_de_Mandu_%28Inde%29_the_bansuri_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Le_joueur_de_fl%C3%BBte_de_Mandu_%28Inde%29_the_bansuri_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Le joueur de flûte de Mandu (Inde) the bansuri player.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Le_joueur_de_fl%C3%BBte_de_Mandu_(Inde)_the_bansuri_player.jpg",
-     "credit": "Jean-Pierre Dalbéra from Paris, France",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -11096,29 +11084,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Rajwada_Mahal%2C_currently_in_construction_as_of_July_2019.jpg/960px-Rajwada_Mahal%2C_currently_in_construction_as_of_July_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rajwada_Mahal%2C_currently_in_construction_as_of_July_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rajwada Mahal, currently in construction as of July 2019.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rajwada_Mahal,_currently_in_construction_as_of_July_2019.jpg",
-     "credit": "NikhilP99",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 42,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -29353,28 +29329,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Shivaji_statue_Bhopal.jpg/960px-Shivaji_statue_Bhopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shivaji_statue_Bhopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shivaji statue Bhopal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shivaji_statue_Bhopal.jpg",
-     "credit": "Suyash Dwivedi",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 99,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -30137,30 +30101,18 @@
     "address": "Mahatma Gandhi Marg, Indore, Indore, Madhya Pradesh"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Krishnapura_Chhatri_-_Ganesha.jpg/960px-Krishnapura_Chhatri_-_Ganesha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Krishnapura_Chhatri_-_Ganesha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishnapura Chhatri - Ganesha.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishnapura_Chhatri_-_Ganesha.jpg",
-     "credit": "Bernard Gagnon",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -31588,30 +31540,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Khajuraho%2C_Devi_Jagadamba_%286307112830%29.jpg/960px-Khajuraho%2C_Devi_Jagadamba_%286307112830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Khajuraho%2C_Devi_Jagadamba_%286307112830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Khajuraho, Devi Jagadamba (6307112830).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Khajuraho,_Devi_Jagadamba_(6307112830).jpg",
-     "credit": "Arian Zwegers",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 141,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -41136,31 +41076,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/BISON_LODGE_MUSEUM%2C_pachmari_03.jpg/960px-BISON_LODGE_MUSEUM%2C_pachmari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/BISON_LODGE_MUSEUM%2C_pachmari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "BISON LODGE MUSEUM, pachmari 03.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:BISON_LODGE_MUSEUM,_pachmari_03.jpg",
-     "credit": "The open draft",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -41213,31 +41141,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/PSX_20191009_191251.jpg/960px-PSX_20191009_191251.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/PSX_20191009_191251.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PSX 20191009 191251.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PSX_20191009_191251.jpg",
-     "credit": "Naveensingh18",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -42538,28 +42454,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Jiwaji_chowk_night.jpg/960px-Jiwaji_chowk_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jiwaji_chowk_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jiwaji chowk night.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jiwaji_chowk_night.jpg",
-     "credit": "Faneshwar13",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

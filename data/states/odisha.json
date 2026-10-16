@@ -182,30 +182,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Templ_-_panoramio.jpg/960px-Templ_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Templ_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Templ - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Templ_-_panoramio.jpg",
-     "credit": "SergeiBuls",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -975,30 +963,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bhubaneswar_railway_station_entry_%26_exit_%28January_2019%29_2.jpg/960px-Bhubaneswar_railway_station_entry_%26_exit_%28January_2019%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bhubaneswar_railway_station_entry_%26_exit_%28January_2019%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bhubaneswar railway station entry & exit (January 2019) 2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bhubaneswar_railway_station_entry_%26_exit_(January_2019)_2.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1976,30 +1952,18 @@
     "address": "banpur road, Banpur, Khordha, Odisha"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/DakhshyaPrajapatiBanapurImg2.jpg/960px-DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DakhshyaPrajapatiBanapurImg2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DakhshyaPrajapatiBanapurImg2.jpg",
-     "credit": "ExplorerAKS",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -2931,28 +2895,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/DakhshyaPrajapatiBanapurImg2.jpg/960px-DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DakhshyaPrajapatiBanapurImg2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DakhshyaPrajapatiBanapurImg2.jpg",
-     "credit": "ExplorerAKS",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4101,17 +4053,6 @@
      "basis": "spatial_name"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Samlei%20Gudi%20%28Samaleswari%20Temple%29.jpg",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/People_ringing_bells_at_Samleshwari_Temple.jpg/960px-People_ringing_bells_at_Samleshwari_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/People_ringing_bells_at_Samleshwari_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "People ringing bells at Samleshwari Temple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:People_ringing_bells_at_Samleshwari_Temple.jpg",
-     "credit": "Chanilim714",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 5,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -5168,31 +5109,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunabeda-2_Templ_1_-_panoramio.jpg/960px-Sunabeda-2_Templ_1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunabeda-2_Templ_1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sunabeda-2 Templ 1 - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sunabeda-2_Templ_1_-_panoramio.jpg",
-     "credit": "SergeiBuls",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -8248,29 +8177,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/PHOTO_OF_GOREKHANATH.jpg/960px-PHOTO_OF_GOREKHANATH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/PHOTO_OF_GOREKHANATH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PHOTO OF GOREKHANATH.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PHOTO_OF_GOREKHANATH.jpg",
-     "credit": "Banojmahala",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -12874,29 +12791,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Bidyut_marg_in_Bhubaneswar_%28January_2019%29.jpg/960px-Bidyut_marg_in_Bhubaneswar_%28January_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bidyut_marg_in_Bhubaneswar_%28January_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bidyut marg in Bhubaneswar (January 2019).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bidyut_marg_in_Bhubaneswar_(January_2019).jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "photo",
      "hours"
     ]
    }
@@ -13679,30 +13584,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png/960px-Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Madhav Sundar Gajapati Narayana Deo,Prasanta Kihshore Ray with Neeti Ray and Gopinath Gajapati.png",
-     "source": "https://commons.wikimedia.org/wiki/File:Madhav_Sundar_Gajapati_Narayana_Deo,Prasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png",
-     "credit": "Adityanag2002",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 25,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -14955,28 +14848,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Odia_Wikisource_10th_Birthday_8.jpg/960px-Odia_Wikisource_10th_Birthday_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Odia_Wikisource_10th_Birthday_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Odia Wikisource 10th Birthday 8.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Odia_Wikisource_10th_Birthday_8.jpg",
-     "credit": "Athulvis",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -15311,29 +15192,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/A_bridge_on_old_Jagannath_Sadak_near_Bhubaneswar.jpg/960px-A_bridge_on_old_Jagannath_Sadak_near_Bhubaneswar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A_bridge_on_old_Jagannath_Sadak_near_Bhubaneswar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A bridge on old Jagannath Sadak near Bhubaneswar.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_bridge_on_old_Jagannath_Sadak_near_Bhubaneswar.jpg",
-     "credit": "Bikash Ojha",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 134,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -18256,30 +18125,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sree_Chaitanya_Gaudiya_Math%2C_Puri.jpg/960px-Sree_Chaitanya_Gaudiya_Math%2C_Puri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sree_Chaitanya_Gaudiya_Math%2C_Puri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sree Chaitanya Gaudiya Math, Puri.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sree_Chaitanya_Gaudiya_Math,_Puri.jpg",
-     "credit": "Bernard Gagnon",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -20669,29 +20526,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunabeda-2_Templ_1_-_panoramio.jpg/960px-Sunabeda-2_Templ_1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sunabeda-2_Templ_1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sunabeda-2 Templ 1 - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sunabeda-2_Templ_1_-_panoramio.jpg",
-     "credit": "SergeiBuls",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21173,30 +21018,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sakshi_gopal.jpg/960px-Sakshi_gopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sakshi_gopal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sakshi gopal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sakshi_gopal.jpg",
-     "credit": "Subramanyam parinam",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -21391,28 +21224,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/DakhshyaPrajapatiBanapurImg2.jpg/960px-DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/DakhshyaPrajapatiBanapurImg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DakhshyaPrajapatiBanapurImg2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DakhshyaPrajapatiBanapurImg2.jpg",
-     "credit": "ExplorerAKS",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 20,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23320,29 +23141,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sabara_Srikhetra_11.jpg/960px-Sabara_Srikhetra_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sabara_Srikhetra_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sabara Srikhetra 11.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sabara_Srikhetra_11.jpg",
-     "credit": "Prateek Pattanaik",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23906,29 +23715,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bali_Yatra_2013_-_Panoramic_View_-_panoramio.jpg/960px-Bali_Yatra_2013_-_Panoramic_View_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bali_Yatra_2013_-_Panoramic_View_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bali Yatra 2013 - Panoramic View - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bali_Yatra_2013_-_Panoramic_View_-_panoramio.jpg",
-     "credit": "danish Ahmed",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 27,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -41257,29 +41054,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png/960px-Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Madhav_Sundar_Gajapati_Narayana_Deo%2CPrasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Madhav Sundar Gajapati Narayana Deo,Prasanta Kihshore Ray with Neeti Ray and Gopinath Gajapati.png",
-     "source": "https://commons.wikimedia.org/wiki/File:Madhav_Sundar_Gajapati_Narayana_Deo,Prasanta_Kihshore_Ray_with_Neeti_Ray_and_Gopinath_Gajapati.png",
-     "credit": "Adityanag2002",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

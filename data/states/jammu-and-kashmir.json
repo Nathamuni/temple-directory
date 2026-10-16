@@ -385,28 +385,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mughal_architecture_of_Jhelum_spring_and_Mughal_garden%2CVerinag_Kashmir.jpg/960px-Mughal_architecture_of_Jhelum_spring_and_Mughal_garden%2CVerinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mughal_architecture_of_Jhelum_spring_and_Mughal_garden%2CVerinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mughal architecture of Jhelum spring and Mughal garden,Verinag Kashmir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mughal_architecture_of_Jhelum_spring_and_Mughal_garden,Verinag_Kashmir.jpg",
-     "credit": "KahkashaaN",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -3620,30 +3608,18 @@
     "address": "Katra, Reasi district, Jammu and Kashmir"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Vaishno_Devi%2C_Katra%2C_J%26K.jpg/960px-Vaishno_Devi%2C_Katra%2C_J%26K.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vaishno_Devi%2C_Katra%2C_J%26K.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaishno Devi, Katra, J&K.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaishno_Devi,_Katra,_J%26K.jpg",
-     "credit": "Porus stationery",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 97,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -3681,29 +3657,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Vaishno_Devi_Bhabon_-_panoramio.jpg/960px-Vaishno_Devi_Bhabon_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vaishno_Devi_Bhabon_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaishno Devi Bhabon - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaishno_Devi_Bhabon_-_panoramio.jpg",
-     "credit": "Tapan   Kumar   Debn…",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 29,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4660,29 +4624,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Naranag_kangan.jpg/960px-Naranag_kangan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Naranag_kangan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Naranag kangan.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Naranag_kangan.jpg",
-     "credit": "Saleeqa.zaz",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4719,28 +4671,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Army_in_Pahalgam_%2814658998326%29.jpg/960px-Army_in_Pahalgam_%2814658998326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Army_in_Pahalgam_%2814658998326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Army in Pahalgam (14658998326).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Army_in_Pahalgam_(14658998326).jpg",
-     "credit": "BOMBMAN from Mumbai, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4778,29 +4718,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%28344%29.jpg/960px-Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%28344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%28344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Srinagar to Pahalgam - vrvvkbjk2k23iph (344).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_(344).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 28,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4916,28 +4844,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A_gate_inside_Hari_Parbat_fort.jpg/960px-A_gate_inside_Hari_Parbat_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/A_gate_inside_Hari_Parbat_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A gate inside Hari Parbat fort.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_gate_inside_Hari_Parbat_fort.jpg",
-     "credit": "Tamjeed Ahmed",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4983,30 +4899,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Octagon_of_Jhelum_spring%2C_Verinag_Kashmir.jpg/960px-Octagon_of_Jhelum_spring%2C_Verinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Octagon_of_Jhelum_spring%2C_Verinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Octagon of Jhelum spring, Verinag Kashmir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Octagon_of_Jhelum_spring,_Verinag_Kashmir.jpg",
-     "credit": "KahkashaaN",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -5053,30 +4957,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mughal_architecture_of_Jhelum_spring_%2CVerinag_Kashmir.jpg/960px-Mughal_architecture_of_Jhelum_spring_%2CVerinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mughal_architecture_of_Jhelum_spring_%2CVerinag_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mughal architecture of Jhelum spring ,Verinag Kashmir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mughal_architecture_of_Jhelum_spring_,Verinag_Kashmir.jpg",
-     "credit": "KahkashaaN",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -5114,29 +5006,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Srinagar_Ghats.jpg/960px-Srinagar_Ghats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Srinagar_Ghats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Srinagar Ghats.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Srinagar_Ghats.jpg",
-     "credit": "Unpetitprole",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -9392,29 +9272,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Army_in_Pahalgam_%2814658998326%29.jpg/960px-Army_in_Pahalgam_%2814658998326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Army_in_Pahalgam_%2814658998326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Army in Pahalgam (14658998326).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Army_in_Pahalgam_(14658998326).jpg",
-     "credit": "BOMBMAN from Mumbai, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

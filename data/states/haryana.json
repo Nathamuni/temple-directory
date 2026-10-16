@@ -3826,30 +3826,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Kurukshetra_Shri_Krishna_Arjun_chariot.jpg/960px-Kurukshetra_Shri_Krishna_Arjun_chariot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kurukshetra_Shri_Krishna_Arjun_chariot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kurukshetra Shri Krishna Arjun chariot.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kurukshetra_Shri_Krishna_Arjun_chariot.jpg",
-     "credit": "Tsevang",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 43,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -4002,29 +3990,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Kurukshetra_Shri_Krishna_Arjun_chariot.jpg/960px-Kurukshetra_Shri_Krishna_Arjun_chariot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kurukshetra_Shri_Krishna_Arjun_chariot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kurukshetra Shri Krishna Arjun chariot.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kurukshetra_Shri_Krishna_Arjun_chariot.jpg",
-     "credit": "Tsevang",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 89,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4180,29 +4156,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Jyotisar-Kurukshetra-India.jpg/960px-Jyotisar-Kurukshetra-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jyotisar-Kurukshetra-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jyotisar-Kurukshetra-India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jyotisar-Kurukshetra-India.jpg",
-     "credit": "Nalbarian",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -5518,30 +5482,18 @@
     "address": "Near Railway Crossing, KARMAN, Palwal, Haryana – 121106"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hanuman_Ji.jpg/960px-Hanuman_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hanuman_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hanuman Ji.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hanuman_Ji.jpg",
-     "credit": "Capt.lalit",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -7814,30 +7766,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/OP_Jindal_at_Nalwa%2C_Hisar%2C_Haryana_3.jpg/960px-OP_Jindal_at_Nalwa%2C_Hisar%2C_Haryana_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/OP_Jindal_at_Nalwa%2C_Hisar%2C_Haryana_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "OP Jindal at Nalwa, Hisar, Haryana 3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:OP_Jindal_at_Nalwa,_Hisar,_Haryana_3.jpg",
-     "credit": "PhaNyaIn",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -8724,29 +8664,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Man_dressed_as_a_Naga_Warrior.jpg/960px-Man_dressed_as_a_Naga_Warrior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Man_dressed_as_a_Naga_Warrior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Man dressed as a Naga Warrior.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Man_dressed_as_a_Naga_Warrior.jpg",
-     "credit": "Rodrick rajive lal",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 21,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -15731,30 +15659,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dance_Performance_at_Gurgaon_DLF_Phase_3_Durga_Puja_in_2014_3.jpg/960px-Dance_Performance_at_Gurgaon_DLF_Phase_3_Durga_Puja_in_2014_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dance_Performance_at_Gurgaon_DLF_Phase_3_Durga_Puja_in_2014_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dance Performance at Gurgaon DLF Phase 3 Durga Puja in 2014 3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dance_Performance_at_Gurgaon_DLF_Phase_3_Durga_Puja_in_2014_3.jpg",
-     "credit": "Slyronit",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 119,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -16236,30 +16152,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kurukshetra_pond.jpg/960px-Kurukshetra_pond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Kurukshetra_pond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kurukshetra pond.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kurukshetra_pond.jpg",
-     "credit": "Prince Singh Saini",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 86,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -17476,30 +17380,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kurukshetra_pond.jpg/960px-Kurukshetra_pond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Kurukshetra_pond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kurukshetra pond.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kurukshetra_pond.jpg",
-     "credit": "Prince Singh Saini",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 119,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

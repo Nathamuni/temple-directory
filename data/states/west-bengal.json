@@ -475,30 +475,18 @@
     "address": "Madanmohanj para, Dinhata, Cooch Behar, West Bengal – 736135"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Durga_Puja_in_Dinhata_4.jpg/960px-Durga_Puja_in_Dinhata_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Durga_Puja_in_Dinhata_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Puja in Dinhata 4.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Puja_in_Dinhata_4.jpg",
-     "credit": "Mr. Rasel Hasan",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 41,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -1912,29 +1900,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg/960px-Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premise of Sribas Angan at Mayapur in Nadia District, West Bengal,India 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District,_West_Bengal,India_01.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -2829,30 +2805,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Calcutta_Riverside%2C_Batanagar.jpg/960px-Calcutta_Riverside%2C_Batanagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Calcutta_Riverside%2C_Batanagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Calcutta Riverside, Batanagar.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Calcutta_Riverside,_Batanagar.jpg",
-     "credit": "Monish700061",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -6558,29 +6522,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Shree_Krishna_Apartment_-_1093_Purbachal_Main_Road_-_Kolkata_20170616171145.jpg/960px-Shree_Krishna_Apartment_-_1093_Purbachal_Main_Road_-_Kolkata_20170616171145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Shree_Krishna_Apartment_-_1093_Purbachal_Main_Road_-_Kolkata_20170616171145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shree Krishna Apartment - 1093 Purbachal Main Road - Kolkata 20170616171145.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shree_Krishna_Apartment_-_1093_Purbachal_Main_Road_-_Kolkata_20170616171145.jpg",
-     "credit": "Biswarup Ganguly",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 43,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -6809,31 +6761,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/DurgaPujaKolkata462020.jpg/960px-DurgaPujaKolkata462020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/DurgaPujaKolkata462020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata462020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata462020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 41,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -6990,30 +6930,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/DurgaPuja602020.jpg/960px-DurgaPuja602020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/DurgaPuja602020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja602020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja602020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7125,31 +7053,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Lockdown_2020_in_West_Bengal_3.jpg/960px-Lockdown_2020_in_West_Bengal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lockdown_2020_in_West_Bengal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Lockdown 2020 in West Bengal 3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Lockdown_2020_in_West_Bengal_3.jpg",
-     "credit": "Apurv013",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7677,30 +7593,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/View_R.jpg/960px-View_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "View R.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:View_R.jpg",
-     "credit": "THE ROSE CONFECTIONERY",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -9815,29 +9719,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg/960px-Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District%2C_West_Bengal%2CIndia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premise of Sribas Angan at Mayapur in Nadia District, West Bengal,India 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premise_of_Sribas_Angan_at_Mayapur_in_Nadia_District,_West_Bengal,India_01.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -10167,29 +10059,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Premise_of_Shree_Chaitanya_Math_at_Mayapur%2C_Nadia_district%2C_West_Bengal%2C_India_19.jpg/960px-Premise_of_Shree_Chaitanya_Math_at_Mayapur%2C_Nadia_district%2C_West_Bengal%2C_India_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Premise_of_Shree_Chaitanya_Math_at_Mayapur%2C_Nadia_district%2C_West_Bengal%2C_India_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premise of Shree Chaitanya Math at Mayapur, Nadia district, West Bengal, India 19.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premise_of_Shree_Chaitanya_Math_at_Mayapur,_Nadia_district,_West_Bengal,_India_19.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -18717,28 +18597,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Aluabari_Road_Junction_Station_Master_room.jpg/960px-Aluabari_Road_Junction_Station_Master_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aluabari_Road_Junction_Station_Master_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aluabari Road Junction Station Master room.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aluabari_Road_Junction_Station_Master_room.jpg",
-     "credit": "Kollol Ghosh",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 20,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -18787,28 +18655,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Railways%281%29.jpg/960px-Railways%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Railways%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Railways(1).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Railways(1).jpg",
-     "credit": "Kollol Ghosh",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -19717,29 +19573,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/DurgaPuja2017_-_Procession_of_Durga_Idol_immersion_06.jpg/960px-DurgaPuja2017_-_Procession_of_Durga_Idol_immersion_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/DurgaPuja2017_-_Procession_of_Durga_Idol_immersion_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja2017 - Procession of Durga Idol immersion 06.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja2017_-_Procession_of_Durga_Idol_immersion_06.jpg",
-     "credit": "Indrajit Das",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 110,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20206,29 +20050,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_29.jpg/960px-Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga in a Panadal at Kolkata 29.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_29.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 2,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20267,29 +20099,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_34.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 34.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_34.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 13,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20446,30 +20266,18 @@
     "address": "103, Ultadanga Main Rd, Kolkata, Kolkata, West Bengal – 700067"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mjt_line_under_bnxr_line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mjt_line_under_bnxr_line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mjt line under bnxr line.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mjt_line_under_bnxr_line.jpg",
-     "credit": "Ashis Mitra",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -20802,29 +20610,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Durga_Puja2019_-_Durga_Idol_of_Ramtanu_Bose_Lane_in_Kolkata_05.jpg/960px-Durga_Puja2019_-_Durga_Idol_of_Ramtanu_Bose_Lane_in_Kolkata_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Durga_Puja2019_-_Durga_Idol_of_Ramtanu_Bose_Lane_in_Kolkata_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Puja2019 - Durga Idol of Ramtanu Bose Lane in Kolkata 05.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Puja2019_-_Durga_Idol_of_Ramtanu_Bose_Lane_in_Kolkata_05.jpg",
-     "credit": "Tarunsamanta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 105,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20863,29 +20659,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/PXL_20241011_093822607.LONG_EXPOSURE-08.COVER_Durga_Puja_at_Darjipara_Mitra_House_Kolkata.jpg/960px-PXL_20241011_093822607.LONG_EXPOSURE-08.COVER_Durga_Puja_at_Darjipara_Mitra_House_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/PXL_20241011_093822607.LONG_EXPOSURE-08.COVER_Durga_Puja_at_Darjipara_Mitra_House_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PXL 20241011 093822607.LONG EXPOSURE-08.COVER Durga Puja at Darjipara Mitra House Kolkata.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PXL_20241011_093822607.LONG_EXPOSURE-08.COVER_Durga_Puja_at_Darjipara_Mitra_House_Kolkata.jpg",
-     "credit": "Sourabh.biswas003",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 82,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -20986,29 +20770,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_19.jpg/960px-Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga in a Panadal at Kolkata 19.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_19.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21353,29 +21125,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Chalta_Bagan_Durga_Puja_2019_%28cropped%29.jpg/960px-Chalta_Bagan_Durga_Puja_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Chalta_Bagan_Durga_Puja_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Chalta Bagan Durga Puja 2019 (cropped).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Chalta_Bagan_Durga_Puja_2019_(cropped).jpg",
-     "credit": "Subhrajyoti07",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 25,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21638,29 +21398,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_11.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 11.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_11.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -21996,29 +21744,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 13.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 74,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -22647,29 +22383,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Netaji_Bhavan_metro_station_platform.jpg/960px-Netaji_Bhavan_metro_station_platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Netaji_Bhavan_metro_station_platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Netaji Bhavan metro station platform.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Netaji_Bhavan_metro_station_platform.jpg",
-     "credit": "Rupturestriker",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -22760,29 +22484,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg/960px-Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Front gate of main building of Asutosh College, Kolkata (old campus at Hazra).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Front_gate_of_main_building_of_Asutosh_College,_Kolkata_(old_campus_at_Hazra).jpg",
-     "credit": "P.Shiladitya",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 9,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -22825,29 +22537,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Jogamaya_Devi_College.jpg/960px-Jogamaya_Devi_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jogamaya_Devi_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jogamaya Devi College.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jogamaya_Devi_College.jpg",
-     "credit": "Anupamdutta73",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 81,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23242,29 +22942,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Crash_heart_alok.jpg/960px-Crash_heart_alok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Crash_heart_alok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Crash heart alok.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Crash_heart_alok.jpg",
-     "credit": "Alok Baidya",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23303,29 +22991,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Divine_Durga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Divine_Durga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Divine Durga.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Divine_Durga.jpg",
-     "credit": "ShubhamDe",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 6,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23493,30 +23169,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/South_Point_High_School_2.jpg/960px-South_Point_High_School_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/South_Point_High_School_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "South Point High School 2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:South_Point_High_School_2.jpg",
-     "credit": "Anupamdutta73",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 28,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -23562,29 +23226,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/DurgaPuja2017_-_Ekdalia_Evergreen_Club_04.jpg/960px-DurgaPuja2017_-_Ekdalia_Evergreen_Club_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/DurgaPuja2017_-_Ekdalia_Evergreen_Club_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja2017 - Ekdalia Evergreen Club 04.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja2017_-_Ekdalia_Evergreen_Club_04.jpg",
-     "credit": "Indrajit Das",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 149,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23691,29 +23343,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Panorama_of_Kolkata_from_Goriahut_2012-02-27_07-00-00.jpg/960px-Panorama_of_Kolkata_from_Goriahut_2012-02-27_07-00-00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Panorama_of_Kolkata_from_Goriahut_2012-02-27_07-00-00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Panorama of Kolkata from Goriahut 2012-02-27 07-00-00.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Kolkata_from_Goriahut_2012-02-27_07-00-00.jpg",
-     "credit": "User:Ne0Freedom",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23813,29 +23453,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Durga_Puja_Festival_-_Kolkata_October_2022.jpg/960px-Durga_Puja_Festival_-_Kolkata_October_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Durga_Puja_Festival_-_Kolkata_October_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Puja Festival - Kolkata October 2022.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Puja_Festival_-_Kolkata_October_2022.jpg",
-     "credit": "Pramanikshreya",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23874,29 +23502,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/DurgaPuja2017_-_Pandal_of_Desapriya_Park_05.jpg/960px-DurgaPuja2017_-_Pandal_of_Desapriya_Park_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/DurgaPuja2017_-_Pandal_of_Desapriya_Park_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja2017 - Pandal of Desapriya Park 05.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja2017_-_Pandal_of_Desapriya_Park_05.jpg",
-     "credit": "Indrajit Das",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 11,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -23991,30 +23607,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Img_mob_1.jpg/960px-Img_mob_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Img_mob_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Img mob 1.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Img_mob_1.jpg",
-     "credit": "Kinjal bose 78",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -24240,30 +23844,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_46.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 46.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_46.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 30,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -24303,29 +23895,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_47.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 47.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_47.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 137,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -24418,29 +23998,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_44.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 44.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_44.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -24483,29 +24051,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_43.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 43.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_43.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -24789,29 +24345,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg/960px-Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Glimpses of Durga Puja and The Artistic Pandal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg",
-     "credit": "Sudiptasarkarcr7",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 145,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -24899,29 +24443,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg/960px-Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Glimpses of Durga Puja and The Artistic Pandal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Glimpses_of_Durga_Puja_and_The_Artistic_Pandal.jpg",
-     "credit": "Sudiptasarkarcr7",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25665,29 +25197,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_39.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 39.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_39.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 115,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25843,30 +25363,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_46.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_46.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 46.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_46.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -26384,29 +25892,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_29.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 29.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_29.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 30,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -26452,30 +25948,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_23.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 23.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_23.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -26816,29 +26300,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_21.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 21.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_21.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -26975,29 +26447,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_13.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 13.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_13.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 89,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -27134,29 +26594,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_15.jpg/960px-Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Idol_of_Goddess_Durga_%28Ceremonial_Worship%29_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga (Ceremonial Worship) 15.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_(Ceremonial_Worship)_15.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -27244,29 +26692,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Folklore_and_Feminism_Workshop_2026.13.jpg/960px-Folklore_and_Feminism_Workshop_2026.13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Folklore_and_Feminism_Workshop_2026.13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Folklore and Feminism Workshop 2026.13.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Folklore_and_Feminism_Workshop_2026.13.jpg",
-     "credit": "SNettime",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 30,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -27948,29 +27384,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/DurgaPujaKolkata432020.jpg/960px-DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata432020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata432020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -28155,29 +27579,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/DurgaPuja512020.jpg/960px-DurgaPuja512020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/DurgaPuja512020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja512020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja512020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 66,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -28314,29 +27726,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/DurgaPujaKolkata302020.jpg/960px-DurgaPujaKolkata302020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/DurgaPujaKolkata302020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata302020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata302020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -28504,30 +27904,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/SitalaTemple.jpg/960px-SitalaTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/SitalaTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "SitalaTemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:SitalaTemple.jpg",
-     "credit": "Anindya2018",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 76,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -28737,29 +28125,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Barisha_club_Durga_Puja_2016_Sumita_RoyDutta21.jpg/960px-Barisha_club_Durga_Puja_2016_Sumita_RoyDutta21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Barisha_club_Durga_Puja_2016_Sumita_RoyDutta21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Barisha club Durga Puja 2016 Sumita RoyDutta21.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Barisha_club_Durga_Puja_2016_Sumita_RoyDutta21.jpg",
-     "credit": "Sumita Roy Dutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 121,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -28847,29 +28223,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/DurgaPujaKolkata022020.jpg/960px-DurgaPujaKolkata022020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/DurgaPujaKolkata022020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata022020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata022020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 145,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -29275,29 +28639,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shanti_Rani_Primary_School.jpg/960px-Shanti_Rani_Primary_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Shanti_Rani_Primary_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shanti Rani Primary School.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shanti_Rani_Primary_School.jpg",
-     "credit": "Anupamdutta73",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -29628,29 +28980,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/DurgaPujaKolkata422020.jpg/960px-DurgaPujaKolkata422020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DurgaPujaKolkata422020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata422020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata422020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 6,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -29689,29 +29029,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/DurgaPujaKolkata052020.jpg/960px-DurgaPujaKolkata052020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/DurgaPujaKolkata052020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata052020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata052020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 25,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -29750,29 +29078,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/DurgaPujaKolkata342020.jpg/960px-DurgaPujaKolkata342020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/DurgaPujaKolkata342020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata342020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata342020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -30055,29 +29371,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/DurgaPujaKolkata222020.jpg/960px-DurgaPujaKolkata222020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/DurgaPujaKolkata222020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata222020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata222020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -30116,29 +29420,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ajoy_Sanhati_Club_Durga_Puja_2019.jpg/960px-Ajoy_Sanhati_Club_Durga_Puja_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ajoy_Sanhati_Club_Durga_Puja_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ajoy Sanhati Club Durga Puja 2019.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ajoy_Sanhati_Club_Durga_Puja_2019.jpg",
-     "credit": "Subhrajyoti07",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -30177,29 +29469,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/DurgaPujaKolkata152020.jpg/960px-DurgaPujaKolkata152020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/DurgaPujaKolkata152020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata152020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata152020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 30,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -31517,30 +30797,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Barisha_Girls%27_High_School.jpg/960px-Barisha_Girls%27_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Barisha_Girls%27_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Barisha Girls' High School.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Barisha_Girls%27_High_School.jpg",
-     "credit": "Badshah165",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -31827,29 +31095,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Malaviya_Vidyalaya.jpg/960px-Malaviya_Vidyalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Malaviya_Vidyalaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Malaviya Vidyalaya.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Malaviya_Vidyalaya.jpg",
-     "credit": "Aster 72000",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -32624,30 +31880,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Nawab_Bari_Burdwan_3.jpg/960px-Nawab_Bari_Burdwan_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nawab_Bari_Burdwan_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nawab Bari Burdwan 3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nawab_Bari_Burdwan_3.jpg",
-     "credit": "Amin Sk Abdul",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -33374,31 +32618,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Road_side_Tree.jpg/960px-Road_side_Tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Road_side_Tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Road side Tree.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Road_side_Tree.jpg",
-     "credit": "Jim Cartar",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -34094,29 +33326,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/DurgaPuja2017_-_Pandal_of_Tala_Baroari_03.jpg/960px-DurgaPuja2017_-_Pandal_of_Tala_Baroari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/DurgaPuja2017_-_Pandal_of_Tala_Baroari_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPuja2017 - Pandal of Tala Baroari 03.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPuja2017_-_Pandal_of_Tala_Baroari_03.jpg",
-     "credit": "Indrajit Das",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 113,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -36171,30 +35391,18 @@
     "address": "90, Cossipore Road, North 24 Parganas, West Bengal"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Udyan_Bati_Interior.jpg/960px-Udyan_Bati_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Udyan_Bati_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Udyan Bati Interior.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Udyan_Bati_Interior.jpg",
-     "credit": "DeepanjanGhosh",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "photo",
      "contact"
     ]
    }
@@ -36614,29 +35822,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg/960px-Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga being worshipped in a Panadal at Kolkata 13.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_being_worshipped_in_a_Panadal_at_Kolkata_13.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 59,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -37090,30 +36286,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gangapur_Choumatha_at_evening.jpg/960px-Gangapur_Choumatha_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Gangapur_Choumatha_at_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Gangapur Choumatha at evening.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Gangapur_Choumatha_at_evening.jpg",
-     "credit": "Projjalm",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -42067,29 +41251,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg/960px-Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premises of Yogipitha at Mayapur In Nadia district, West Bengal, India 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premises_of_Yogipitha_at_Mayapur_In_Nadia_district,_West_Bengal,_India_01.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -42129,29 +41301,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg/960px-Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premises of Yogipitha at Mayapur In Nadia district, West Bengal, India 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premises_of_Yogipitha_at_Mayapur_In_Nadia_district,_West_Bengal,_India_01.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -43837,28 +42997,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shiva_linga_%2832891%29.jpg/960px-Shiva_linga_%2832891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shiva_linga_%2832891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva linga (32891).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_linga_(32891).jpg",
-     "credit": "WikiForRay",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 3,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -43895,28 +43043,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Shiva_linga_%2832891%29.jpg/960px-Shiva_linga_%2832891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shiva_linga_%2832891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva linga (32891).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_linga_(32891).jpg",
-     "credit": "WikiForRay",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 56,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -44473,29 +43609,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg/960px-Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Premises_of_Yogipitha_at_Mayapur_In_Nadia_district%2C_West_Bengal%2C_India_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Premises of Yogipitha at Mayapur In Nadia district, West Bengal, India 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Premises_of_Yogipitha_at_Mayapur_In_Nadia_district,_West_Bengal,_India_01.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -44698,29 +43822,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg/960px-Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sant Gouriya Math at Mayapur in Nadia district, West Bengal, India 06.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sant_Gouriya_Math_at_Mayapur_in_Nadia_district,_West_Bengal,_India_06.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -45190,29 +44302,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/BALADEV_SUBHADRA_JAGANNATH%2C_MAYAPURDHAM.jpg/960px-BALADEV_SUBHADRA_JAGANNATH%2C_MAYAPURDHAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/BALADEV_SUBHADRA_JAGANNATH%2C_MAYAPURDHAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "BALADEV SUBHADRA JAGANNATH, MAYAPURDHAM.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:BALADEV_SUBHADRA_JAGANNATH,_MAYAPURDHAM.jpg",
-     "credit": "Vinit sunil patil",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -45658,30 +44758,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg/960px-Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Front_gate_of_main_building_of_Asutosh_College%2C_Kolkata_%28old_campus_at_Hazra%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Front gate of main building of Asutosh College, Kolkata (old campus at Hazra).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Front_gate_of_main_building_of_Asutosh_College,_Kolkata_(old_campus_at_Hazra).jpg",
-     "credit": "P.Shiladitya",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 2,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -48358,31 +47446,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/DurgaPujaKolkata432020.jpg/960px-DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata432020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata432020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -48434,31 +47510,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/DurgaPujaKolkata462020.jpg/960px-DurgaPujaKolkata462020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/DurgaPujaKolkata462020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata462020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata462020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 127,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -48567,31 +47631,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Poddar_Nagar_Girl_High_School.jpg/960px-Poddar_Nagar_Girl_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Poddar_Nagar_Girl_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Poddar Nagar Girl High School.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Poddar_Nagar_Girl_High_School.jpg",
-     "credit": "Anupamdutta73",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 364,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -49191,29 +48243,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_Strand%2C_Chandannagar.jpg/960px-The_Strand%2C_Chandannagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Strand%2C_Chandannagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The Strand, Chandannagar.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_Strand,_Chandannagar.jpg",
-     "credit": "Anupamdutta73",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -51777,30 +50817,18 @@
     "address": "Dhullian, Murshidabad, West Bengal"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Durga_Puja_at_Dhuliyan_Rajbari_Barotaraf_section_in_Murshidabad_district_01.jpg/960px-Durga_Puja_at_Dhuliyan_Rajbari_Barotaraf_section_in_Murshidabad_district_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Durga_Puja_at_Dhuliyan_Rajbari_Barotaraf_section_in_Murshidabad_district_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Puja at Dhuliyan Rajbari Barotaraf section in Murshidabad district 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Puja_at_Dhuliyan_Rajbari_Barotaraf_section_in_Murshidabad_district_01.jpg",
-     "credit": "Subrata Ghose",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 99,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -52064,28 +51092,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg/960px-Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Swananda Sukhada Kunja at Nabadwip in Nadia district, West Bengal, India 07.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district,_West_Bengal,_India_07.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 21,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -52125,28 +51141,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg/960px-Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district%2C_West_Bengal%2C_India_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Swananda Sukhada Kunja at Nabadwip in Nadia district, West Bengal, India 07.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Swananda_Sukhada_Kunja_at_Nabadwip_in_Nadia_district,_West_Bengal,_India_07.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -52391,30 +51395,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg/960px-Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sant_Gouriya_Math_at_Mayapur_in_Nadia_district%2C_West_Bengal%2C_India_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sant Gouriya Math at Mayapur in Nadia district, West Bengal, India 06.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sant_Gouriya_Math_at_Mayapur_in_Nadia_district,_West_Bengal,_India_06.jpg",
-     "credit": "Amitabha Gupta",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -55225,31 +54217,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/DurgaPujaKolkata432020.jpg/960px-DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/DurgaPujaKolkata432020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DurgaPujaKolkata432020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DurgaPujaKolkata432020.jpg",
-     "credit": "RajaDutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 141,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -55477,30 +54457,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/View_R.jpg/960px-View_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/View_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "View R.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:View_R.jpg",
-     "credit": "THE ROSE CONFECTIONERY",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -55767,28 +54735,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/PXL_20251002_120310194_Durga_Puja_Bisarjan_Vasan_and_BIjoya_Devi_Baran_at_Bongaon_01.jpg/960px-PXL_20251002_120310194_Durga_Puja_Bisarjan_Vasan_and_BIjoya_Devi_Baran_at_Bongaon_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/PXL_20251002_120310194_Durga_Puja_Bisarjan_Vasan_and_BIjoya_Devi_Baran_at_Bongaon_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PXL 20251002 120310194 Durga Puja Bisarjan Vasan and BIjoya Devi Baran at Bongaon 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PXL_20251002_120310194_Durga_Puja_Bisarjan_Vasan_and_BIjoya_Devi_Baran_at_Bongaon_01.jpg",
-     "credit": "Sourabh.biswas003",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 81,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -55828,28 +54784,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/PXL_20241007_170802427.MP_Durga_Puja_Pandal_Lighting_and_deity_at_Bongaon_West_Bengal_India_34.jpg/960px-PXL_20241007_170802427.MP_Durga_Puja_Pandal_Lighting_and_deity_at_Bongaon_West_Bengal_India_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/PXL_20241007_170802427.MP_Durga_Puja_Pandal_Lighting_and_deity_at_Bongaon_West_Bengal_India_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PXL 20241007 170802427.MP Durga Puja Pandal Lighting and deity at Bongaon West Bengal India 34.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PXL_20241007_170802427.MP_Durga_Puja_Pandal_Lighting_and_deity_at_Bongaon_West_Bengal_India_34.jpg",
-     "credit": "Sourabh.biswas003",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -56143,30 +55087,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bhog%2Cdecorated_sweets_and_food_in_Shakta_rash_5.jpg/960px-Bhog%2Cdecorated_sweets_and_food_in_Shakta_rash_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bhog%2Cdecorated_sweets_and_food_in_Shakta_rash_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bhog,decorated sweets and food in Shakta rash 5.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bhog,decorated_sweets_and_food_in_Shakta_rash_5.jpg",
-     "credit": "বাক্যবাগীশ",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 13,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -60974,30 +59906,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Krishnath_College.jpg/960px-Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishnath College.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishnath_College.jpg",
-     "credit": "Tushar Singha",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 86,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -61045,30 +59965,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Krishnath_College.jpg/960px-Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishnath College.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishnath_College.jpg",
-     "credit": "Tushar Singha",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 99,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -61109,29 +60017,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Krishnath_College.jpg/960px-Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Krishnath_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishnath College.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishnath_College.jpg",
-     "credit": "Tushar Singha",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 110,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -65058,31 +63954,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Nakdikeshwari_Idol.jpg/960px-Nakdikeshwari_Idol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nakdikeshwari_Idol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nakdikeshwari Idol.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nakdikeshwari_Idol.jpg",
-     "credit": "Indraprakashinfo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -68692,30 +67576,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_15.jpg/960px-Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Idol of Goddess Durga in a Panadal at Kolkata 15.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Idol_of_Goddess_Durga_in_a_Panadal_at_Kolkata_15.jpg",
-     "credit": "M_Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -68982,29 +67854,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/PANCHATATVA%2C_MAYAPUR_DHAM.jpg/960px-PANCHATATVA%2C_MAYAPUR_DHAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/PANCHATATVA%2C_MAYAPUR_DHAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PANCHATATVA, MAYAPUR DHAM.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PANCHATATVA,_MAYAPUR_DHAM.jpg",
-     "credit": "Vinit sunil patil",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -70095,28 +68955,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/People_roaming_in_108_Shiv_Mandir.jpg/960px-People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "People roaming in 108 Shiv Mandir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:People_roaming_in_108_Shiv_Mandir.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 1,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -70420,28 +69268,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -73605,28 +72441,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/People_roaming_in_108_Shiv_Mandir.jpg/960px-People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "People roaming in 108 Shiv Mandir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:People_roaming_in_108_Shiv_Mandir.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -73670,28 +72494,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/People_roaming_in_108_Shiv_Mandir.jpg/960px-People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "People roaming in 108 Shiv Mandir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:People_roaming_in_108_Shiv_Mandir.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75295,28 +74107,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 20,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75360,28 +74160,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 17,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75425,28 +74213,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75490,28 +74266,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 13,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75555,28 +74319,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75620,28 +74372,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 13,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75685,28 +74425,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75750,28 +74478,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75815,28 +74531,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75880,28 +74584,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -75945,28 +74637,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76010,28 +74690,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76075,28 +74743,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 16,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76140,28 +74796,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 19,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76205,28 +74849,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76270,28 +74902,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 26,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76335,28 +74955,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76400,28 +75008,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76465,28 +75061,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76530,28 +75114,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Shiva_Parvati_stone_sculpture.jpg/960px-Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shiva_Parvati_stone_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shiva Parvati stone sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shiva_Parvati_stone_sculpture.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -76920,28 +75492,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/People_roaming_in_108_Shiv_Mandir.jpg/960px-People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/People_roaming_in_108_Shiv_Mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "People roaming in 108 Shiv Mandir.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:People_roaming_in_108_Shiv_Mandir.jpg",
-     "credit": "Oishaniii",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 3,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

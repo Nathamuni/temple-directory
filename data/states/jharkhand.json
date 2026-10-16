@@ -6160,17 +6160,6 @@
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Temples%20at%20Deorgag%2C%20Santal%20Parhanas%2C%20Bihar%20-%20William%20Hodges%2C%201782%20-%20BL%20Foster%20396.jpg",
     "website": "http://www.babadham.org/",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Baidyanath.jpg/960px-Baidyanath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Baidyanath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Baidyanath.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Baidyanath.jpg",
-     "credit": "Flashthomsom",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -13561,28 +13550,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Station_night_DTO.jpg/960px-Station_night_DTO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Station_night_DTO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Station night DTO.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Station_night_DTO.jpg",
-     "credit": "Vimal chand",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -19213,28 +19190,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Samar_kumar_from_delhi.jpg/960px-Samar_kumar_from_delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Samar_kumar_from_delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Samar kumar from delhi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Samar_kumar_from_delhi.jpg",
-     "credit": "Samarkumar32",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

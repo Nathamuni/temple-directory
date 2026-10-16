@@ -431,30 +431,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg/960px-Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gigantic_Ganesha%2C_Unakoti%2C_Tripura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Gigantic Ganesha, Unakoti, Tripura.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Gigantic_Ganesha,_Unakoti,_Tripura.jpg",
-     "credit": "Kanad Sanyal",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -499,30 +487,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg/960px-Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Close_wing%2C_mud_puddling_of_Euploea_core_%28Cramer%2C_%281780%29%29_-_Common_Crow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Close wing, mud puddling of Euploea core (Cramer, (1780)) - Common Crow.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Close_wing,_mud_puddling_of_Euploea_core_(Cramer,_(1780))_-_Common_Crow.jpg",
-     "credit": "Sumanbhowmik1992",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

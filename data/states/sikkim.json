@@ -49,30 +49,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chardham%2Cnear_Peling%2CSikkim.jpg/960px-Chardham%2Cnear_Peling%2CSikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chardham%2Cnear_Peling%2CSikkim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Chardham,near Peling,Sikkim.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Chardham,near_Peling,Sikkim.jpg",
-     "credit": "AnjanMondal1992",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -114,29 +102,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 67,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -178,29 +154,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 59,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -242,29 +206,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 62,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -306,29 +258,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 90,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -370,29 +310,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -434,29 +362,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 9,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -498,29 +414,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 86,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -562,29 +466,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 92,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -626,29 +518,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 79,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -690,29 +570,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 63,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -754,29 +622,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 93,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -818,29 +674,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -1065,17 +909,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gazalina_chrysolopha_58142537.jpg/960px-Gazalina_chrysolopha_58142537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Gazalina_chrysolopha_58142537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Gazalina chrysolopha 58142537.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Gazalina_chrysolopha_58142537.jpg",
-     "credit": "Rohit",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -1150,30 +983,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg/960px-Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bird's eye view of Gangtok City from Ganeshtok.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bird%27s_eye_view_of_Gangtok_City_from_Ganeshtok.jpg",
-     "credit": "Subhrajyoti07",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1304,30 +1125,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg/960px-The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_statue_of_Shiva_at_Char_dham%2C_Namchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The statue of Shiva at Char dham, Namchi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_statue_of_Shiva_at_Char_dham,_Namchi.jpg",
-     "credit": "Rickyurs",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 60,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

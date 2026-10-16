@@ -34,6 +34,26 @@ wd_extra = _opt("wikidata-extra.json")      # {qid: {circuits: [...], operator: 
 wd = json.loads((cache / "wikidata-temples.json").read_text())
 by_q = {w["qid"]: w for w in wd}
 
+
+# ---- nearby Commons photo guard: a geotagged file only counts when its TITLE says it is a temple (or carries the
+# temple's own name). Deity words alone are not enough ("VISHNUPRASAD" is a person), and distance alone is never enough.
+import re as _re
+_TEMPLE_WORD = _re.compile(r"\b(temple|temples|mandir|mandiram|kovil|koil|gopuram|gopura|gudi|devalayam|devasthan|devasthanam|shrine|kshetra|alayam|vimana|ratha|rath|mutt|matha|ashram|ashrama)\b", _re.I)
+_PERSON = _re.compile(r"selfie|portrait|\bme\b|\bmyself\b|profile|\bpeople\b|wedding|family|group photo|\bboy\b|\bgirl\b|\bman\b|\bwoman\b", _re.I)
+_GENERIC = {"temple", "mandir", "shri", "sree", "swamy", "swami", "unnamed", "hindu", "devi", "kovil", "koil", "mandiram", "sivan", "shiva", "vishnu", "hanuman", "ganesh", "ganesha", "krishna", "amman", "perumal", "murugan", "durga"}
+
+
+def photo_is_temple(ph, tags):
+    cap = (ph.get("caption") or "")
+    if _PERSON.search(cap):
+        return False
+    if _TEMPLE_WORD.search(cap):
+        return True
+    name = (tags.get("name:en") or tags.get("name") or "").lower()
+    toks = {w for w in _re.findall(r"[a-z]{5,}", name) if w not in _GENERIC}
+    low = cap.lower()
+    return any(w in low for w in toks)
+
 # ---------------------------------------------------------------- helpers
 GENERIC = re.compile(r"\b(sri|shri|sree|temple|mandir|mandiram|kovil|koil|devasthanam|devalayam|devalaya|"
                      r"kshetram|kshetra|ksetram|gudi|of|the|and|hindu|shrine|devi|swamy|swami|temples)\b", re.I)
@@ -228,7 +248,7 @@ for i, e in enumerate(elements):
         body = (ex.get("operator") or []) + (ex.get("owner") or [])
         if body:
             en["operator"] = {"value": body, "source": "wikidata", "basis": en["wikidata"]["basis"]}
-    if k in photos:
+    if k in photos and photo_is_temple(photos[k], t):
         en["nearby_photo"] = photos[k]
     if k in searched:
         en["photo_search"] = {"radius_m": 150, "found": k in photos}

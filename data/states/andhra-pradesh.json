@@ -3319,28 +3319,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Stone_Plaque_of_Vetapalem_Library_Foundation_Stone.jpg/960px-Stone_Plaque_of_Vetapalem_Library_Foundation_Stone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Stone_Plaque_of_Vetapalem_Library_Foundation_Stone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Stone Plaque of Vetapalem Library Foundation Stone.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Stone_Plaque_of_Vetapalem_Library_Foundation_Stone.jpg",
-     "credit": "Pranayraj1985",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4560,30 +4548,18 @@
     "address": "visakhapatnam, Visakhapatnam, Andhra Pradesh"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Sri_Ramakrishna_Paramahamsa%2C_Srimati_Sarada_Devi%2C_Sri_Vivekananda_Swamy_%28Portraits%29.jpg/960px-Sri_Ramakrishna_Paramahamsa%2C_Srimati_Sarada_Devi%2C_Sri_Vivekananda_Swamy_%28Portraits%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sri_Ramakrishna_Paramahamsa%2C_Srimati_Sarada_Devi%2C_Sri_Vivekananda_Swamy_%28Portraits%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Ramakrishna Paramahamsa, Srimati Sarada Devi, Sri Vivekananda Swamy (Portraits).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Ramakrishna_Paramahamsa,_Srimati_Sarada_Devi,_Sri_Vivekananda_Swamy_(Portraits).jpg",
-     "credit": "డా. గన్నవరపు నరసింహమూర్తి",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 16,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "photo",
      "contact"
     ]
    }
@@ -5125,29 +5101,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%E0%B0%A8%E0%B1%80%E0%B0%A1_%E0%B0%97%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%B0%E0%B0%82.jpg/960px-%E0%B0%A8%E0%B1%80%E0%B0%A1_%E0%B0%97%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%B0%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%E0%B0%A8%E0%B1%80%E0%B0%A1_%E0%B0%97%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%B0%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "నీడ గడియారం.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%B0%A8%E0%B1%80%E0%B0%A1_%E0%B0%97%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%B0%E0%B0%82.jpg",
-     "credit": "Ch Maheswara Raju",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -5452,29 +5416,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Nedunuri_Krishnamurthy_Statue_at_RK_Beach_Visakhapatnam_31_%28cropped%29.jpg/960px-Nedunuri_Krishnamurthy_Statue_at_RK_Beach_Visakhapatnam_31_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nedunuri_Krishnamurthy_Statue_at_RK_Beach_Visakhapatnam_31_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nedunuri Krishnamurthy Statue at RK Beach Visakhapatnam 31 (cropped).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nedunuri_Krishnamurthy_Statue_at_RK_Beach_Visakhapatnam_31_(cropped).jpg",
-     "credit": "Kasyap",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 133,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -6281,30 +6233,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PEACE_MEMORIAL_HALL%2C_Court_Road%2C_Ananthapuramu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PEACE_MEMORIAL_HALL%2C_Court_Road%2C_Ananthapuramu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PEACE MEMORIAL HALL, Court Road, Ananthapuramu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PEACE_MEMORIAL_HALL,_Court_Road,_Ananthapuramu.jpg",
-     "credit": "Arhav08",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7348,30 +7288,18 @@
     "address": "Tirumala Bypass Road, Tirupati, Tirupati, Andhra Pradesh – 517501"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kapileswara_SWAMY.jpg/960px-Kapileswara_SWAMY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kapileswara_SWAMY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kapileswara SWAMY.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kapileswara_SWAMY.jpg",
-     "credit": "Kssk1967",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 21,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -11544,30 +11472,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Undavalli_village.jpg/960px-Undavalli_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Undavalli_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Undavalli village.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Undavalli_village.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -11660,28 +11576,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Visakhapatnam_oil_refinary.jpg/960px-Visakhapatnam_oil_refinary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Visakhapatnam_oil_refinary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Visakhapatnam oil refinary.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Visakhapatnam_oil_refinary.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -17426,28 +17330,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pantaloons_under_construction_in_RRPet%2C_Eluru.jpg/960px-Pantaloons_under_construction_in_RRPet%2C_Eluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pantaloons_under_construction_in_RRPet%2C_Eluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Pantaloons under construction in RRPet, Eluru.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Pantaloons_under_construction_in_RRPet,_Eluru.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 21,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -19373,30 +19265,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/A_ticket_counter_in_vijayawada_main_bus_stand.jpg/960px-A_ticket_counter_in_vijayawada_main_bus_stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/A_ticket_counter_in_vijayawada_main_bus_stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A ticket counter in vijayawada main bus stand.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_ticket_counter_in_vijayawada_main_bus_stand.jpg",
-     "credit": "Karrthikuuuuu",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -25760,28 +25640,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Public_speech_during_a_community_gathering_with_Hanuman_statue_in_the_background%2C_India.jpg/960px-Public_speech_during_a_community_gathering_with_Hanuman_statue_in_the_background%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Public_speech_during_a_community_gathering_with_Hanuman_statue_in_the_background%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Public speech during a community gathering with Hanuman statue in the background, India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Public_speech_during_a_community_gathering_with_Hanuman_statue_in_the_background,_India.jpg",
-     "credit": "See source",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 101,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25819,28 +25687,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ntrcircle.Vijayawada.jpg/960px-Ntrcircle.Vijayawada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ntrcircle.Vijayawada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ntrcircle.Vijayawada.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ntrcircle.Vijayawada.jpg",
-     "credit": "Vamsi Matta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -30426,30 +30282,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tanveer_at_Day_0_of_TTT_2019_18.jpg/960px-Tanveer_at_Day_0_of_TTT_2019_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tanveer_at_Day_0_of_TTT_2019_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tanveer at Day 0 of TTT 2019 18.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tanveer_at_Day_0_of_TTT_2019_18.jpg",
-     "credit": "Tarunsamanta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -31874,31 +31718,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sri_Satyasai_Brindavanam%2C_Bankers_colony%2C_Srikakulam.jpg/960px-Sri_Satyasai_Brindavanam%2C_Bankers_colony%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sri_Satyasai_Brindavanam%2C_Bankers_colony%2C_Srikakulam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Satyasai Brindavanam, Bankers colony, Srikakulam.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Satyasai_Brindavanam,_Bankers_colony,_Srikakulam.jpg",
-     "credit": "K.Venkataramana",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -43127,31 +42959,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/NAD_Junction_terrace.jpg/960px-NAD_Junction_terrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/NAD_Junction_terrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "NAD Junction terrace.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:NAD_Junction_terrace.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -44251,28 +44071,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sainik_School_Korukonda_main_gate.jpg/960px-Sainik_School_Korukonda_main_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sainik_School_Korukonda_main_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sainik School Korukonda main gate.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sainik_School_Korukonda_main_gate.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -49372,29 +49180,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kailasagiri_Ropeway.jpg/960px-Kailasagiri_Ropeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kailasagiri_Ropeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kailasagiri Ropeway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kailasagiri_Ropeway.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 5,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -53223,28 +53019,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/CMR_Central%2C_Visakhapatnam_%2846693%29.jpg/960px-CMR_Central%2C_Visakhapatnam_%2846693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/CMR_Central%2C_Visakhapatnam_%2846693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "CMR Central, Visakhapatnam (46693).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:CMR_Central,_Visakhapatnam_(46693).jpg",
-     "credit": "EnrichIndegi",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -53487,28 +53271,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rampachodavaram_road_sign.jpg/960px-Rampachodavaram_road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rampachodavaram_road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rampachodavaram road sign.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rampachodavaram_road_sign.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -62746,28 +62518,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rajamahendravaram_Kotipalli_bus_station.jpg/960px-Rajamahendravaram_Kotipalli_bus_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rajamahendravaram_Kotipalli_bus_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rajamahendravaram Kotipalli bus station.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rajamahendravaram_Kotipalli_bus_station.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -66488,28 +66248,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Group_of_archaeologists_at_Jagatipadu_Buddhist_site_in_Dubbakavanipeta.jpg/960px-Group_of_archaeologists_at_Jagatipadu_Buddhist_site_in_Dubbakavanipeta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Group_of_archaeologists_at_Jagatipadu_Buddhist_site_in_Dubbakavanipeta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Group of archaeologists at Jagatipadu Buddhist site in Dubbakavanipeta.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Group_of_archaeologists_at_Jagatipadu_Buddhist_site_in_Dubbakavanipeta.jpg",
-     "credit": "Adityamadhav83",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 9,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -68518,28 +68266,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_photo_of_Shivalayam_in_Duggirala.jpg/960px-Aerial_photo_of_Shivalayam_in_Duggirala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Aerial_photo_of_Shivalayam_in_Duggirala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial photo of Shivalayam in Duggirala.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Shivalayam_in_Duggirala.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 50,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -68950,30 +68686,18 @@
     "address": "vijayawada, Guntur, Andhra Pradesh – 522501"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Upper_portion_of_Anantasayana_Vishnu.jpg/960px-Upper_portion_of_Anantasayana_Vishnu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Upper_portion_of_Anantasayana_Vishnu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Upper portion of Anantasayana Vishnu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Upper_portion_of_Anantasayana_Vishnu.jpg",
-     "credit": "Challapramod",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 54,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -69427,28 +69151,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Smart_pole_in_Vizag.jpg/960px-Smart_pole_in_Vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Smart_pole_in_Vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Smart pole in Vizag.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Smart_pole_in_Vizag.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -69541,28 +69253,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Book_shops_at_Surya_bagh_vizag.jpg/960px-Book_shops_at_Surya_bagh_vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Book_shops_at_Surya_bagh_vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Book shops at Surya bagh vizag.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Book_shops_at_Surya_bagh_vizag.jpg",
-     "credit": "రవిచంద్ర",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -69866,30 +69566,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Govt_High_School_in_Denderu.jpg/960px-Govt_High_School_in_Denderu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Govt_High_School_in_Denderu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Govt High School in Denderu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Govt_High_School_in_Denderu.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -69991,30 +69679,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Auto_rickshaws_at_Hanumanthuwaka%2C_Vizag.jpg/960px-Auto_rickshaws_at_Hanumanthuwaka%2C_Vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Auto_rickshaws_at_Hanumanthuwaka%2C_Vizag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Auto rickshaws at Hanumanthuwaka, Vizag.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Auto_rickshaws_at_Hanumanthuwaka,_Vizag.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 63,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -80447,30 +80123,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_03.jpg/960px-Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Monolithic Ganesha, Biccavolu, Andhra Pradesh - 03.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Monolithic_Ganesha,_Biccavolu,_Andhra_Pradesh_-_03.jpg",
-     "credit": "G.N. Subrahmanyam",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 16,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -80515,30 +80179,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg/960px-Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Monolithic Ganesha, Biccavolu, Andhra Pradesh - 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Monolithic_Ganesha,_Biccavolu,_Andhra_Pradesh_-_01.jpg",
-     "credit": "G.N. Subrahmanyam",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 27,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -80583,30 +80235,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg/960px-Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monolithic_Ganesha%2C_Biccavolu%2C_Andhra_Pradesh_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Monolithic Ganesha, Biccavolu, Andhra Pradesh - 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Monolithic_Ganesha,_Biccavolu,_Andhra_Pradesh_-_01.jpg",
-     "credit": "G.N. Subrahmanyam",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -85513,28 +85153,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Beautiful_Sunrise_at_Tyda.jpg/960px-Beautiful_Sunrise_at_Tyda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Beautiful_Sunrise_at_Tyda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Beautiful Sunrise at Tyda.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Sunrise_at_Tyda.jpg",
-     "credit": "Kalyanmurthy_Hyd",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -86757,30 +86385,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Papikondalu_Hills.jpg/960px-Papikondalu_Hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Papikondalu_Hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Papikondalu Hills.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Papikondalu_Hills.jpg",
-     "credit": "Lavu2445",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -99841,29 +99457,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tirupati_night_view.jpg/960px-Tirupati_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tirupati_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tirupati night view.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tirupati_night_view.jpg",
-     "credit": "Ganesh boddu",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -100231,28 +99835,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Oxygen_Towers_Under_Construction_in_Seethammadhaara.jpg/960px-Oxygen_Towers_Under_Construction_in_Seethammadhaara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Oxygen_Towers_Under_Construction_in_Seethammadhaara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Oxygen Towers Under Construction in Seethammadhaara.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Oxygen_Towers_Under_Construction_in_Seethammadhaara.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -102759,30 +102351,18 @@
     "address": "Gogulamma Thalli Temple, Beside Ayodhyalanka Gram Panchayat, Achanta, Konaseema, Andhra Pradesh – 534266"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ravichettu-3.jpg/960px-Ravichettu-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ravichettu-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ravichettu-3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ravichettu-3.jpg",
-     "credit": "Pdp79892",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 6,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -103095,17 +102675,6 @@
      "basis": "spatial_name"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Srisailam-temple-entrance.jpg",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/View_of_Krishna_River_while_boating.jpg/960px-View_of_Krishna_River_while_boating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/View_of_Krishna_River_while_boating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "View of Krishna River while boating.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:View_of_Krishna_River_while_boating.jpg",
-     "credit": "Kedar98",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 17,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -103278,30 +102847,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mallikarjuna_Swamy.jpg/960px-Mallikarjuna_Swamy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mallikarjuna_Swamy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mallikarjuna Swamy.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mallikarjuna_Swamy.jpg",
-     "credit": "Kuldeepsingh Mahawar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 64,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -103449,29 +103006,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mantralayam_.Ragavendra_Swamy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mantralayam_.Ragavendra_Swamy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mantralayam .Ragavendra Swamy.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mantralayam_.Ragavendra_Swamy.jpg",
-     "credit": "Aishwarya av",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 63,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -107621,17 +107166,6 @@
      "basis": "wikidata_link"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Swami%20Pushkarni%20of%20Tirumala%20at%20Daytime.jpg",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Swamy_Pushkarini_in_Tirumala_.jpg/960px-Swamy_Pushkarini_in_Tirumala_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Swamy_Pushkarini_in_Tirumala_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Swamy Pushkarini in Tirumala .jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Swamy_Pushkarini_in_Tirumala_.jpg",
-     "credit": "Srilakshmi1991",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 39,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -107945,30 +107479,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/A_board_showing_the_life_history_of_Hathiram_Bhavaji_at_tirumal_hills.jpg/960px-A_board_showing_the_life_history_of_Hathiram_Bhavaji_at_tirumal_hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/A_board_showing_the_life_history_of_Hathiram_Bhavaji_at_tirumal_hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A board showing the life history of Hathiram Bhavaji at tirumal hills.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_board_showing_the_life_history_of_Hathiram_Bhavaji_at_tirumal_hills.jpg",
-     "credit": "K.Venkataramana",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -110483,30 +110005,18 @@
     "address": "saibaba temple, JS Raju Road, NTR, Andhra Pradesh"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Artist_MS_Murthy_statue.jpg/960px-Artist_MS_Murthy_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Artist_MS_Murthy_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Artist MS Murthy statue.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Artist_MS_Murthy_statue.jpg",
-     "credit": "Kalasagary",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -112686,30 +112196,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ghantasala_venkateswararao_statue_in_Guntur.jpg/960px-Ghantasala_venkateswararao_statue_in_Guntur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ghantasala_venkateswararao_statue_in_Guntur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ghantasala venkateswararao statue in Guntur.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ghantasala_venkateswararao_statue_in_Guntur.jpg",
-     "credit": "రహ్మానుద్దీన్",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 89,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -115587,28 +115085,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Veenam_Veeranna.jpg/960px-Veenam_Veeranna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Veenam_Veeranna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Veenam Veeranna.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Veenam_Veeranna.jpg",
-     "credit": "Pavan santhosh.s",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 20,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -115647,28 +115133,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sculpture_depicting_govu_vatsa_and_gowthama_legend.jpg/960px-Sculpture_depicting_govu_vatsa_and_gowthama_legend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sculpture_depicting_govu_vatsa_and_gowthama_legend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sculpture depicting govu vatsa and gowthama legend.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sculpture_depicting_govu_vatsa_and_gowthama_legend.jpg",
-     "credit": "Pavan santhosh.s",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -115853,29 +115327,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Veenam_Veeranna.jpg/960px-Veenam_Veeranna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Veenam_Veeranna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Veenam Veeranna.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Veenam_Veeranna.jpg",
-     "credit": "Pavan santhosh.s",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -117558,29 +117020,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bus_stand_3.jpg/960px-Bus_stand_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bus_stand_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bus stand 3.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bus_stand_3.jpg",
-     "credit": "KOLLEPARARUTVIK",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -121276,29 +120726,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Krishna_river_vijayawada%5EAP_-_panoramio_%281%29.jpg/960px-Krishna_river_vijayawada%5EAP_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Krishna_river_vijayawada%5EAP_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishna river vijayawada^AP - panoramio (1).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishna_river_vijayawada%5EAP_-_panoramio_(1).jpg",
-     "credit": "rajaraman sundaram",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 71,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -121867,28 +121305,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Krishna_river_vijayawada%5EAP_-_panoramio.jpg/960px-Krishna_river_vijayawada%5EAP_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Krishna_river_vijayawada%5EAP_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishna river vijayawada^AP - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishna_river_vijayawada%5EAP_-_panoramio.jpg",
-     "credit": "rajaraman sundaram",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 42,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -123167,30 +122593,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg/960px-Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Interior view of Buddhist Rock cut Cave at Sitanagaram.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg",
-     "credit": "Adityamadhav83",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 13,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -123239,30 +122653,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg/960px-Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Interior view of Buddhist Rock cut Cave at Sitanagaram.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Buddhist_Rock_cut_Cave_at_Sitanagaram.jpg",
-     "credit": "Adityamadhav83",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -124148,30 +123550,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanuman_-_Hindu_deity.jpg/960px-Hanuman_-_Hindu_deity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hanuman_-_Hindu_deity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hanuman - Hindu deity.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hanuman_-_Hindu_deity.jpg",
-     "credit": "PVRMurty1944",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 22,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -124211,28 +123601,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanuman_-_Hindu_deity.jpg/960px-Hanuman_-_Hindu_deity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hanuman_-_Hindu_deity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hanuman - Hindu deity.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hanuman_-_Hindu_deity.jpg",
-     "credit": "PVRMurty1944",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 124,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -127100,29 +126478,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/OldBhaktaKannappaTemple.jpg/960px-OldBhaktaKannappaTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/OldBhaktaKannappaTemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "OldBhaktaKannappaTemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:OldBhaktaKannappaTemple.jpg",
-     "credit": "రవిచంద్ర",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 9,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -129119,29 +128485,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Terek_Sandpiper_Xenus_cinereus_from_East_Godavari_District_JEG5364.jpg/960px-Terek_Sandpiper_Xenus_cinereus_from_East_Godavari_District_JEG5364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Terek_Sandpiper_Xenus_cinereus_from_East_Godavari_District_JEG5364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Terek Sandpiper Xenus cinereus from East Godavari District JEG5364.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Terek_Sandpiper_Xenus_cinereus_from_East_Godavari_District_JEG5364.jpg",
-     "credit": "PJeganathan",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -130017,30 +129371,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg/960px-Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial view of Kothavalsa Kirandul Line and Vizag Araku highway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -130088,30 +129430,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg/960px-Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial view of Kothavalsa Kirandul Line and Vizag Araku highway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -130152,29 +129482,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg/960px-Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial view of Kothavalsa Kirandul Line and Vizag Araku highway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -132207,30 +131525,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg/960px-Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial view of Kothavalsa Kirandul Line and Vizag Araku highway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -132270,28 +131576,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg/960px-Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Aerial view of Kothavalsa Kirandul Line and Vizag Araku highway.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kothavalsa_Kirandul_Line_and_Vizag_Araku_highway.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -132575,29 +131869,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Vetukuru_Tribal_welfare_school.jpg/960px-Vetukuru_Tribal_welfare_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vetukuru_Tribal_welfare_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vetukuru Tribal welfare school.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vetukuru_Tribal_welfare_school.jpg",
-     "credit": "Saiphani02",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -135429,30 +134711,18 @@
     "address": "Mamidipalem, Ongole, Prakasam, Andhra Pradesh – 523001"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ongole_town_view_from_Ongole_konda_%28hill%29.jpg/960px-Ongole_town_view_from_Ongole_konda_%28hill%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ongole_town_view_from_Ongole_konda_%28hill%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ongole town view from Ongole konda (hill).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ongole_town_view_from_Ongole_konda_(hill).jpg",
-     "credit": "Serijarla",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 42,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -135971,29 +135241,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bhimavaram_RTC_bus_station2.jpg/960px-Bhimavaram_RTC_bus_station2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bhimavaram_RTC_bus_station2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bhimavaram RTC bus station2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bhimavaram_RTC_bus_station2.jpg",
-     "credit": "Kalasagary",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -138340,30 +137598,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Handloom_circle.jpg/960px-Handloom_circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Handloom_circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Handloom circle.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Handloom_circle.jpg",
-     "credit": "TejoKiran9",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -150390,28 +149636,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bullock_cart_race_in_Talari.jpg/960px-Bullock_cart_race_in_Talari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bullock_cart_race_in_Talari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bullock cart race in Talari.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bullock_cart_race_in_Talari.jpg",
-     "credit": "Gsrinivasarao4",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 50,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -158447,29 +157681,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Udayagiri_Fort_-_Sri_Potti_Sriramulu_Nellore_District%2C_Andhra_Pradesh%2C_India_08_46_13_370000.jpeg/960px-The_Udayagiri_Fort_-_Sri_Potti_Sriramulu_Nellore_District%2C_Andhra_Pradesh%2C_India_08_46_13_370000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Udayagiri_Fort_-_Sri_Potti_Sriramulu_Nellore_District%2C_Andhra_Pradesh%2C_India_08_46_13_370000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "The Udayagiri Fort - Sri Potti Sriramulu Nellore District, Andhra Pradesh, India 08 46 13 370000.jpeg",
-     "source": "https://commons.wikimedia.org/wiki/File:The_Udayagiri_Fort_-_Sri_Potti_Sriramulu_Nellore_District,_Andhra_Pradesh,_India_08_46_13_370000.jpeg",
-     "credit": "Shagil Muzhappilangad",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 5,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -164143,30 +163365,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg/960px-%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "లక్ష్మీనరసింహస్వామి ఆలయం.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%B0%B2%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AE%E0%B1%80%E0%B0%A8%E0%B0%B0%E0%B0%B8%E0%B0%BF%E0%B0%82%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%AE%E0%B0%BF_%E0%B0%86%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg",
-     "credit": "Vadanagiri bhaskar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

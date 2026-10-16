@@ -44,30 +44,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Duliajan_Kalibari.jpeg/960px-Duliajan_Kalibari.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Duliajan_Kalibari.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Duliajan Kalibari.jpeg",
-     "source": "https://commons.wikimedia.org/wiki/File:Duliajan_Kalibari.jpeg",
-     "credit": "অজয় দাস",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 32,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1918,30 +1906,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Durga_puja_decoration_in_guwahati.jpg/960px-Durga_puja_decoration_in_guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Durga_puja_decoration_in_guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga puja decoration in guwahati.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_puja_decoration_in_guwahati.jpg",
-     "credit": "Akashdoley13",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2140,30 +2116,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Durga_puja_decoration_in_guwahati.jpg/960px-Durga_puja_decoration_in_guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Durga_puja_decoration_in_guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga puja decoration in guwahati.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_puja_decoration_in_guwahati.jpg",
-     "credit": "Akashdoley13",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 101,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -5489,30 +5453,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Book_Donation_Day_Celebration_at_Nakachari_College%2C_Jorhat_%E2%80%93_Assam_%2810%29.jpg/960px-Book_Donation_Day_Celebration_at_Nakachari_College%2C_Jorhat_%E2%80%93_Assam_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Book_Donation_Day_Celebration_at_Nakachari_College%2C_Jorhat_%E2%80%93_Assam_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Book Donation Day Celebration at Nakachari College, Jorhat – Assam (10).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Book_Donation_Day_Celebration_at_Nakachari_College,_Jorhat_%E2%80%93_Assam_(10).jpg",
-     "credit": "কুমুদ ঘোষ",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 29,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -9819,28 +9771,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sree_Sree_Mahaprabhu_Sukreshwar_Devalay%2C_Guwahati%2CAssam%2CIndia.jpg/960px-Sree_Sree_Mahaprabhu_Sukreshwar_Devalay%2C_Guwahati%2CAssam%2CIndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sree_Sree_Mahaprabhu_Sukreshwar_Devalay%2C_Guwahati%2CAssam%2CIndia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sree Sree Mahaprabhu Sukreshwar Devalay, Guwahati,Assam,India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sree_Sree_Mahaprabhu_Sukreshwar_Devalay,_Guwahati,Assam,India.jpg",
-     "credit": "Nilotpal Hazarika123",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 9,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -10181,29 +10121,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Durga_Puja_idol.jpg/960px-Durga_Puja_idol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Durga_Puja_idol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Puja idol.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Puja_idol.jpg",
-     "credit": "Bhabatirtha Goswami",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -11186,17 +11114,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rumi_Borah.jpg/960px-Rumi_Borah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Rumi_Borah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rumi Borah.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rumi_Borah.jpg",
-     "credit": "Nayan j Nath",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -11701,30 +11618,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sibasagar_Shiva_Doul_04.jpg/960px-Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sibasagar Shiva Doul 04.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sibasagar_Shiva_Doul_04.jpg",
-     "credit": "Nayan j Nath",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 75,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -11792,17 +11697,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Vishnu_dol.jpg/960px-Vishnu_dol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vishnu_dol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vishnu dol.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vishnu_dol.jpg",
-     "credit": "Aateesh Bangia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -11862,30 +11756,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sibasagar_Shiva_Doul_04.jpg/960px-Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sibasagar Shiva Doul 04.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sibasagar_Shiva_Doul_04.jpg",
-     "credit": "Nayan j Nath",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 18,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -11959,17 +11841,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sibasagar_Shiva_Doul_04.jpg/960px-Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sibasagar_Shiva_Doul_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sibasagar Shiva Doul 04.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sibasagar_Shiva_Doul_04.jpg",
-     "credit": "Nayan j Nath",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 93,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -12033,29 +11904,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Dighalipukhuri%2C_Guwahati.jpg/960px-Dighalipukhuri%2C_Guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Dighalipukhuri%2C_Guwahati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dighalipukhuri, Guwahati.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dighalipukhuri,_Guwahati.jpg",
-     "credit": "অজয় দাস",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -14420,28 +14279,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bougainvillea_59.jpg/960px-Bougainvillea_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bougainvillea_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bougainvillea 59.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bougainvillea_59.jpg",
-     "credit": "পাপৰি বৰা",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

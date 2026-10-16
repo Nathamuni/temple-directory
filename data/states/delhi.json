@@ -155,28 +155,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Amritsar_New_Delhi_Shatabdi_Express.jpg/960px-Amritsar_New_Delhi_Shatabdi_Express.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Amritsar_New_Delhi_Shatabdi_Express.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Amritsar New Delhi Shatabdi Express.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Amritsar_New_Delhi_Shatabdi_Express.jpg",
-     "credit": "DoctorSee",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -273,29 +261,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Salimgarh_Fort_Second_Entrance_MG_Road_Side.jpg/960px-Salimgarh_Fort_Second_Entrance_MG_Road_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Salimgarh_Fort_Second_Entrance_MG_Road_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Salimgarh Fort Second Entrance MG Road Side.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Salimgarh_Fort_Second_Entrance_MG_Road_Side.jpg",
-     "credit": "Yskab",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -869,30 +845,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hindi_Wikimedians_meetup_2019.jpg/960px-Hindi_Wikimedians_meetup_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hindi_Wikimedians_meetup_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hindi Wikimedians meetup 2019.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hindi_Wikimedians_meetup_2019.jpg",
-     "credit": "हिंदुस्थान वासी",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1181,28 +1145,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Little_square_and_mosque_courtyard%2C_Pahar_Ganj%2C_Delhi%2C_11-2009_-_panoramio.jpg/960px-Little_square_and_mosque_courtyard%2C_Pahar_Ganj%2C_Delhi%2C_11-2009_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Little_square_and_mosque_courtyard%2C_Pahar_Ganj%2C_Delhi%2C_11-2009_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Little square and mosque courtyard, Pahar Ganj, Delhi, 11-2009 - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Little_square_and_mosque_courtyard,_Pahar_Ganj,_Delhi,_11-2009_-_panoramio.jpg",
-     "credit": "David M.",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -1759,30 +1711,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Minto_Road_Kalibari%2C_Delhi%2C_Durga_Puja_in_2017.jpg/960px-Minto_Road_Kalibari%2C_Delhi%2C_Durga_Puja_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Minto_Road_Kalibari%2C_Delhi%2C_Durga_Puja_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Minto Road Kalibari, Delhi, Durga Puja in 2017.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Minto_Road_Kalibari,_Delhi,_Durga_Puja_in_2017.jpg",
-     "credit": "Slyronit",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 39,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1835,30 +1775,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/E-Rikshaw_on_a_Delhi_road.jpg/960px-E-Rikshaw_on_a_Delhi_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/E-Rikshaw_on_a_Delhi_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "E-Rikshaw on a Delhi road.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:E-Rikshaw_on_a_Delhi_road.jpg",
-     "credit": "ArmouredCyborg",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2550,30 +2478,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marigold_Seller_%285552441478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marigold_Seller_%285552441478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Marigold Seller (5552441478).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Marigold_Seller_(5552441478).jpg",
-     "credit": "Koshy Koshy from Faridabad, Haryana, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 28,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2794,30 +2710,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Roshanara_Tomb.jpg/960px-Roshanara_Tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Roshanara_Tomb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Roshanara Tomb.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Roshanara_Tomb.jpg",
-     "credit": "कृष्ण कान्त शर्मा",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 32,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7467,31 +7371,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Yashendra2797.jpg/960px-Yashendra2797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Yashendra2797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Yashendra2797.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Yashendra2797.jpg",
-     "credit": "Yashendra2797",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7889,29 +7781,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dalan_and_semi-enclosed_room_over_Naubat_Khana_of_Zafar_Mahal_%283703695314%29.jpg/960px-Dalan_and_semi-enclosed_room_over_Naubat_Khana_of_Zafar_Mahal_%283703695314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dalan_and_semi-enclosed_room_over_Naubat_Khana_of_Zafar_Mahal_%283703695314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dalan and semi-enclosed room over Naubat Khana of Zafar Mahal (3703695314).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dalan_and_semi-enclosed_room_over_Naubat_Khana_of_Zafar_Mahal_(3703695314).jpg",
-     "credit": "Varun Shiv Kapur from New Delhi, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 50,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -8222,28 +8102,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/PXL_20231130_100229750_Rajon_Ki_Baoli_Mehrauli_Archeological_Pk_Trl%2C_Mehrauli_Village%2C_Mehrauli%2C_New_Delhi%2C_Delhi_110030_15.jpg/960px-PXL_20231130_100229750_Rajon_Ki_Baoli_Mehrauli_Archeological_Pk_Trl%2C_Mehrauli_Village%2C_Mehrauli%2C_New_Delhi%2C_Delhi_110030_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PXL_20231130_100229750_Rajon_Ki_Baoli_Mehrauli_Archeological_Pk_Trl%2C_Mehrauli_Village%2C_Mehrauli%2C_New_Delhi%2C_Delhi_110030_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "PXL 20231130 100229750 Rajon Ki Baoli Mehrauli Archeological Pk Trl, Mehrauli Village, Mehrauli, New Delhi, Delhi 110030 15.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:PXL_20231130_100229750_Rajon_Ki_Baoli_Mehrauli_Archeological_Pk_Trl,_Mehrauli_Village,_Mehrauli,_New_Delhi,_Delhi_110030_15.jpg",
-     "credit": "Sourabh.biswas003",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -8589,30 +8457,18 @@
     "address": "F-321, Old MB Road, Lado Sarai ,new Delhi, South Delhi, Delhi – 110030"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Acharya_Mukti_Bhurtel.jpg/960px-Acharya_Mukti_Bhurtel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Acharya_Mukti_Bhurtel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Acharya Mukti Bhurtel.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Acharya_Mukti_Bhurtel.jpg",
-     "credit": "Acharya Mukti Bhurtel",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 6,
+    "score": 5,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "photo",
      "contact",
      "hours"
     ]
@@ -10006,30 +9862,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Humayun%27s_Tomb_in_New_Delhi%2C_India.jpg/960px-Humayun%27s_Tomb_in_New_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Humayun%27s_Tomb_in_New_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Humayun's Tomb in New Delhi, India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb_in_New_Delhi,_India.jpg",
-     "credit": "Shivansh Mishra 017",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -13435,28 +13279,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Enlightenment_%2868659669%29.jpeg/960px-Enlightenment_%2868659669%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Enlightenment_%2868659669%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Enlightenment (68659669).jpeg",
-     "source": "https://commons.wikimedia.org/wiki/File:Enlightenment_(68659669).jpeg",
-     "credit": "Shashwat S",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -13880,28 +13712,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Merchant_selling_namkeen_snacks%2C_Khan_Market%2C_Delhi.jpg/960px-Merchant_selling_namkeen_snacks%2C_Khan_Market%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Merchant_selling_namkeen_snacks%2C_Khan_Market%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Merchant selling namkeen snacks, Khan Market, Delhi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Merchant_selling_namkeen_snacks,_Khan_Market,_Delhi.jpg",
-     "credit": "LASZLO ILYES from Cleveland, Ohio, USA",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 17,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -14872,30 +14692,18 @@
     "address": "Street Number 3, Mandoli Extension, Mandoli, Delhi, New Delhi, Delhi, New Delhi, South Delhi, Delhi – 110093"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg/960px-Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dr Ambedkar Colony, Chhattarpur, New Delhi, Delhi 110030, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dr_Ambedkar_Colony,_Chhattarpur,_New_Delhi,_Delhi_110030,_India_-_panoramio.jpg",
-     "credit": "akash dwivedi",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 47,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -18083,30 +17891,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1996_-231-8_Old_Delhi_%282233421629%29.jpg/960px-1996_-231-8_Old_Delhi_%282233421629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1996_-231-8_Old_Delhi_%282233421629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "1996 -231-8 Old Delhi (2233421629).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:1996_-231-8_Old_Delhi_(2233421629).jpg",
-     "credit": "Dan Lundberg",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -18359,30 +18155,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1996_-231-8_Old_Delhi_%282233421629%29.jpg/960px-1996_-231-8_Old_Delhi_%282233421629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1996_-231-8_Old_Delhi_%282233421629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "1996 -231-8 Old Delhi (2233421629).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:1996_-231-8_Old_Delhi_(2233421629).jpg",
-     "credit": "Dan Lundberg",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -18634,30 +18418,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dios_hind%C3%BA_Hanuman.jpg/960px-Dios_hind%C3%BA_Hanuman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Dios_hind%C3%BA_Hanuman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dios hindú Hanuman.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dios_hind%C3%BA_Hanuman.jpg",
-     "credit": "Especandel",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 126,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -22386,30 +22158,18 @@
     "address": "Dharam Marg,Arya Samaj Road, B-2 Janak Puri, New Delhi,, West Delhi, Delhi – 110058"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_1.jpg/960px-Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Guru Singh Sabha Gurudwara, Janakpuri - 1.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Guru_Singh_Sabha_Gurudwara,_Janakpuri_-_1.jpg",
-     "credit": "Kuldeepburjbhalaike",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 20,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -22453,30 +22213,18 @@
     "address": "Dharam Marg, Block B-2,Janak Puri, New Delhi,, West Delhi, Delhi – 110058"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_2.jpg/960px-Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sri_Guru_Singh_Sabha_Gurudwara%2C_Janakpuri_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Guru Singh Sabha Gurudwara, Janakpuri - 2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Guru_Singh_Sabha_Gurudwara,_Janakpuri_-_2.jpg",
-     "credit": "Kuldeepburjbhalaike",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "photo",
      "hours"
     ]
    }
@@ -23179,30 +22927,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chittaranjan_Park%2C_Kalibari%2C_Delhi_Durga_Puja_in_2017.jpg/960px-Chittaranjan_Park%2C_Kalibari%2C_Delhi_Durga_Puja_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chittaranjan_Park%2C_Kalibari%2C_Delhi_Durga_Puja_in_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Chittaranjan Park, Kalibari, Delhi Durga Puja in 2017.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Chittaranjan_Park,_Kalibari,_Delhi_Durga_Puja_in_2017.jpg",
-     "credit": "Slyronit",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 42,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -23246,28 +22982,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg/960px-Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dr_Ambedkar_Colony%2C_Chhattarpur%2C_New_Delhi%2C_Delhi_110030%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dr Ambedkar Colony, Chhattarpur, New Delhi, Delhi 110030, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dr_Ambedkar_Colony,_Chhattarpur,_New_Delhi,_Delhi_110030,_India_-_panoramio.jpg",
-     "credit": "akash dwivedi",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 2,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -25994,30 +25718,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Slight_Light_%28Unsplash%29.jpg/960px-Slight_Light_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Slight_Light_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Slight Light (Unsplash).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Slight_Light_(Unsplash).jpg",
-     "credit": "Hans Vivek rickyzden",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -32178,28 +31890,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marigold_Seller_%285552441478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marigold_Seller_%285552441478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Marigold Seller (5552441478).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Marigold_Seller_(5552441478).jpg",
-     "credit": "Koshy Koshy from Faridabad, Haryana, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 23,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -35283,28 +34983,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jagannath_International_Management_School%2C_Kalkaji%2C_New_Delhi_-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jagannath_International_Management_School%2C_Kalkaji%2C_New_Delhi_-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jagannath International Management School, Kalkaji, New Delhi -19.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jagannath_International_Management_School,_Kalkaji,_New_Delhi_-19.jpg",
-     "credit": "Navneetvishwas",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 105,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -36027,30 +35715,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hare_krishna_Travel_harmonium.jpg/960px-Hare_krishna_Travel_harmonium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hare_krishna_Travel_harmonium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hare krishna Travel harmonium.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hare_krishna_Travel_harmonium.jpg",
-     "credit": "Hare Krishna Musical Store",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 137,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -36948,29 +36624,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Manish_Sisodia_2020.jpg/960px-Manish_Sisodia_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Manish_Sisodia_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Manish Sisodia 2020.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Manish_Sisodia_2020.jpg",
-     "credit": "Banswalhemant",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -37583,30 +37247,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg/960px-Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Manohar Bikaneri Krishna Nagar Delhi IMG 20200102 192235 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg",
-     "credit": "Sumita Roy Dutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 53,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -37650,29 +37302,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg/960px-Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Manohar Bikaneri Krishna Nagar Delhi IMG 20200102 192235 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Manohar_Bikaneri_Krishna_Nagar_Delhi_IMG_20200102_192235_01.jpg",
-     "credit": "Sumita Roy Dutta",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 51,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -38276,28 +37916,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_chandelier_at_Hauz_Khas_Village%2C_Delhi.jpg/960px-A_chandelier_at_Hauz_Khas_Village%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/A_chandelier_at_Hauz_Khas_Village%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "A chandelier at Hauz Khas Village, Delhi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:A_chandelier_at_Hauz_Khas_Village,_Delhi.jpg",
-     "credit": "Slyronit",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

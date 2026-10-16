@@ -313,28 +313,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pepsi.jpg/960px-Pepsi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pepsi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Pepsi.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Pepsi.jpg",
-     "credit": "Rashid Jorvee",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 37,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -1963,30 +1951,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Agra_187_-_roadside_life_%2840906952094%29.jpg/960px-Agra_187_-_roadside_life_%2840906952094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Agra_187_-_roadside_life_%2840906952094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Agra 187 - roadside life (40906952094).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Agra_187_-_roadside_life_(40906952094).jpg",
-     "credit": "juggadery",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -2959,30 +2935,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Marqueteur_de_pierres_dures_%28Agra%29_%288522973306%29.jpg/960px-Marqueteur_de_pierres_dures_%28Agra%29_%288522973306%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Marqueteur_de_pierres_dures_%28Agra%29_%288522973306%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Marqueteur de pierres dures (Agra) (8522973306).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Marqueteur_de_pierres_dures_(Agra)_(8522973306).jpg",
-     "credit": "Jean-Pierre Dalbéra from Paris, France",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -3124,29 +3088,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Agra_-_uptown_-_panoramio_-_BlackNose.jpg/960px-Agra_-_uptown_-_panoramio_-_BlackNose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Agra_-_uptown_-_panoramio_-_BlackNose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Agra - uptown - panoramio - BlackNose.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Agra_-_uptown_-_panoramio_-_BlackNose.jpg",
-     "credit": "BlackNose",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -6223,30 +6175,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Shakumbharimaa.jpg/960px-Shakumbharimaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Shakumbharimaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Shakumbharimaa.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Shakumbharimaa.jpg",
-     "credit": "Neil Sagri",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -7701,28 +7641,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Ram_Nagar_Fort_10_%2826744384319%29.jpg/960px-Ram_Nagar_Fort_10_%2826744384319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ram_Nagar_Fort_10_%2826744384319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ram Nagar Fort 10 (26744384319).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ram_Nagar_Fort_10_(26744384319).jpg",
-     "credit": "juggadery",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 5,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -7759,28 +7687,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Ramnagar_Fort%2C_Ramnagar%2C_Varanasi%2C_Uttar_Pradesh_02_%28cropped%29.jpg/960px-Ramnagar_Fort%2C_Ramnagar%2C_Varanasi%2C_Uttar_Pradesh_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ramnagar_Fort%2C_Ramnagar%2C_Varanasi%2C_Uttar_Pradesh_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ramnagar Fort, Ramnagar, Varanasi, Uttar Pradesh 02 (cropped).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ramnagar_Fort,_Ramnagar,_Varanasi,_Uttar_Pradesh_02_(cropped).jpg",
-     "credit": "Paramanu Sarkar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -9476,29 +9392,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sangam_Ghat_during_2025_Maha_Kumbh%2C_Prayagraj.jpg/960px-Sangam_Ghat_during_2025_Maha_Kumbh%2C_Prayagraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sangam_Ghat_during_2025_Maha_Kumbh%2C_Prayagraj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sangam Ghat during 2025 Maha Kumbh, Prayagraj.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sangam_Ghat_during_2025_Maha_Kumbh,_Prayagraj.jpg",
-     "credit": "Charlie4404",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -9859,29 +9763,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Radha_Krishna_in_Bhandirvan.jpg/960px-Radha_Krishna_in_Bhandirvan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Radha_Krishna_in_Bhandirvan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Radha Krishna in Bhandirvan.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Radha_Krishna_in_Bhandirvan.jpg",
-     "credit": "Kridha20",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 61,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -10470,30 +10362,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Varanasi%2C_Shiva_%286299212261%29.jpg/960px-Varanasi%2C_Shiva_%286299212261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Varanasi%2C_Shiva_%286299212261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Varanasi, Shiva (6299212261).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Varanasi,_Shiva_(6299212261).jpg",
-     "credit": "Arian Zwegers",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 107,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -11829,29 +11709,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/This_is_one_of_the_ghats_of_varanasi%2C_i.e._Shooltankeshwar.jpg/960px-This_is_one_of_the_ghats_of_varanasi%2C_i.e._Shooltankeshwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/This_is_one_of_the_ghats_of_varanasi%2C_i.e._Shooltankeshwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "This is one of the ghats of varanasi, i.e. Shooltankeshwar.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:This_is_one_of_the_ghats_of_varanasi,_i.e._Shooltankeshwar.jpg",
-     "credit": "KALA&WHITE",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -11896,30 +11764,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mapillary_%28skysign%29_2026-02-18_03H52M25S758_%282213334905866643_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg/960px-Mapillary_%28skysign%29_2026-02-18_03H52M25S758_%282213334905866643_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mapillary_%28skysign%29_2026-02-18_03H52M25S758_%282213334905866643_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mapillary (skysign) 2026-02-18 03H52M25S758 (2213334905866643 at HKDsNAl2bxTtPujqrQ1Vef).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mapillary_(skysign)_2026-02-18_03H52M25S758_(2213334905866643_at_HKDsNAl2bxTtPujqrQ1Vef).jpg",
-     "credit": "skysign",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -12382,30 +12238,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/BSB._Recital_02_%282719917739%29.jpg/960px-BSB._Recital_02_%282719917739%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/BSB._Recital_02_%282719917739%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "BSB. Recital 02 (2719917739).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:BSB._Recital_02_(2719917739).jpg",
-     "credit": "Naquib Hossain from Montreal, Philadelphia, Dhaka",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -13427,29 +13271,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Yamuna_River_-_panoramio.jpg/960px-Yamuna_River_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Yamuna_River_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Yamuna River - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Yamuna_River_-_panoramio.jpg",
-     "credit": "Alexey Komarov",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -17080,29 +16912,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/RasraKundNathBabaTemple.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/RasraKundNathBabaTemple.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "RasraKundNathBabaTemple.webp",
-     "source": "https://commons.wikimedia.org/wiki/File:RasraKundNathBabaTemple.webp",
-     "credit": "GajodharShukla",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 90,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -18821,31 +18641,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Fgjoydxhj.jpg/960px-Fgjoydxhj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fgjoydxhj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Fgjoydxhj.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Fgjoydxhj.jpg",
-     "credit": "अंगद",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -18887,30 +18695,18 @@
     "address": "New Colony, Robertsganj, Uttar Pradesh 231216, Robertsganj, Sonbhadra, Uttar Pradesh – 231216"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Fgjoydxhj.jpg/960px-Fgjoydxhj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fgjoydxhj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Fgjoydxhj.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Fgjoydxhj.jpg",
-     "credit": "अंगद",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -19706,31 +19502,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Allahabad%2C_Triveni_Sangam_30_-_devotional_accessories_%2827387582519%29.jpg/960px-Allahabad%2C_Triveni_Sangam_30_-_devotional_accessories_%2827387582519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Allahabad%2C_Triveni_Sangam_30_-_devotional_accessories_%2827387582519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Allahabad, Triveni Sangam 30 - devotional accessories (27387582519).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Allahabad,_Triveni_Sangam_30_-_devotional_accessories_(27387582519).jpg",
-     "credit": "juggadery",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -29721,30 +29505,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Durga_Ghat_%286025378153%29.jpg/960px-Durga_Ghat_%286025378153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Durga_Ghat_%286025378153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Ghat (6025378153).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Ghat_(6025378153).jpg",
-     "credit": "Ryan from Toronto, Canada",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 49,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -29789,30 +29561,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Durga_Ghat_%286025378153%29.jpg/960px-Durga_Ghat_%286025378153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Durga_Ghat_%286025378153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Durga Ghat (6025378153).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Durga_Ghat_(6025378153).jpg",
-     "credit": "Ryan from Toronto, Canada",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 39,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -34072,28 +33832,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mapillary_%28skysign%29_2026-02-18_03H44M31S758_%2826012355498395941_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg/960px-Mapillary_%28skysign%29_2026-02-18_03H44M31S758_%2826012355498395941_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mapillary_%28skysign%29_2026-02-18_03H44M31S758_%2826012355498395941_at_HKDsNAl2bxTtPujqrQ1Vef%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mapillary (skysign) 2026-02-18 03H44M31S758 (26012355498395941 at HKDsNAl2bxTtPujqrQ1Vef).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mapillary_(skysign)_2026-02-18_03H44M31S758_(26012355498395941_at_HKDsNAl2bxTtPujqrQ1Vef).jpg",
-     "credit": "skysign",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 35,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -40520,30 +40268,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chhole_Bhature_served_in_North_India.jpg/960px-Chhole_Bhature_served_in_North_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Chhole_Bhature_served_in_North_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Chhole Bhature served in North India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Chhole_Bhature_served_in_North_India.jpg",
-     "credit": "Ravi Dwivedi",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -42327,30 +42063,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hanuman_Niketan_Door.jpg/960px-Hanuman_Niketan_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hanuman_Niketan_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Hanuman Niketan Door.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Hanuman_Niketan_Door.jpg",
-     "credit": "21GauriGuptaa",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -45024,30 +44748,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/UDHAV_kUND_-_panoramio_%281%29.jpg/960px-UDHAV_kUND_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/UDHAV_kUND_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "UDHAV kUND - panoramio (1).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:UDHAV_kUND_-_panoramio_(1).jpg",
-     "credit": "Gyanendra_Singh_Chau…",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 4,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -45143,29 +44855,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Radha_Kund_-_panoramio.jpg/960px-Radha_Kund_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Radha_Kund_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Radha Kund - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Radha_Kund_-_panoramio.jpg",
-     "credit": "Gyanendra_Singh_Chau…",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -45368,29 +45068,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Celebrating_the_festival_of_colors_28.jpg/960px-Celebrating_the_festival_of_colors_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Celebrating_the_festival_of_colors_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Celebrating the festival of colors 28.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Celebrating_the_festival_of_colors_28.jpg",
-     "credit": "Azimronnie",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 10,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -45486,29 +45174,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Barsana_%286292408890%29.jpg/960px-Barsana_%286292408890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Barsana_%286292408890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Barsana (6292408890).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Barsana_(6292408890).jpg",
-     "credit": "Prateek Rungta from Delhi, India",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 24,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -47393,28 +47069,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/River_ganga_05.jpg/960px-River_ganga_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/River_ganga_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "River ganga 05.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:River_ganga_05.jpg",
-     "credit": "DDwivedi2003",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -50485,29 +50149,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Jaypee_Institute_of_Information_Technology.jpg/960px-Jaypee_Institute_of_Information_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jaypee_Institute_of_Information_Technology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jaypee Institute of Information Technology.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jaypee_Institute_of_Information_Technology.jpg",
-     "credit": "Jmanan088",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 30,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -52056,28 +51708,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Avin_chaudhary.jpg/960px-Avin_chaudhary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Avin_chaudhary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Avin chaudhary.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Avin_chaudhary.jpg",
-     "credit": "AVIN CHAUDHARY",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 28,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -55526,28 +55166,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kusum_Sarovar_-Mathura_-Uttar_Pradesh_-PXL_20210217_100805681.jpg/960px-Kusum_Sarovar_-Mathura_-Uttar_Pradesh_-PXL_20210217_100805681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kusum_Sarovar_-Mathura_-Uttar_Pradesh_-PXL_20210217_100805681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kusum Sarovar -Mathura -Uttar Pradesh -PXL 20210217 100805681.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kusum_Sarovar_-Mathura_-Uttar_Pradesh_-PXL_20210217_100805681.jpg",
-     "credit": "Aman.arch",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -57439,28 +57067,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ramakrishna_Mission%2C_Vrindaban%2C_Uttar_Pradesh%2C_India_%2833491991584%29.jpg/960px-Ramakrishna_Mission%2C_Vrindaban%2C_Uttar_Pradesh%2C_India_%2833491991584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ramakrishna_Mission%2C_Vrindaban%2C_Uttar_Pradesh%2C_India_%2833491991584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ramakrishna Mission, Vrindaban, Uttar Pradesh, India (33491991584).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ramakrishna_Mission,_Vrindaban,_Uttar_Pradesh,_India_(33491991584).jpg",
-     "credit": "Ontheway Advice",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 127,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -69954,30 +69570,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Man_Mandir_Ghat_%288512674068%29.jpg/960px-Man_Mandir_Ghat_%288512674068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Man_Mandir_Ghat_%288512674068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Man Mandir Ghat (8512674068).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Man_Mandir_Ghat_(8512674068).jpg",
-     "credit": "Ed Johnson from San Francisco, USA",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 80,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -70025,30 +69629,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Man_Mandir_Ghat_%288512674068%29.jpg/960px-Man_Mandir_Ghat_%288512674068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Man_Mandir_Ghat_%288512674068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Man Mandir Ghat (8512674068).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Man_Mandir_Ghat_(8512674068).jpg",
-     "credit": "Ed Johnson from San Francisco, USA",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 68,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

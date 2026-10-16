@@ -300,29 +300,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Nangai_Arthanareeswarar2.jpg/960px-Nangai_Arthanareeswarar2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nangai_Arthanareeswarar2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nangai Arthanareeswarar2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nangai_Arthanareeswarar2.jpg",
-     "credit": "Sree1959",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -1012,29 +1000,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sri_Ramakrishna_Math%2C_Chennai_%288746963529%29.jpg/960px-Sri_Ramakrishna_Math%2C_Chennai_%288746963529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sri_Ramakrishna_Math%2C_Chennai_%288746963529%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sri Ramakrishna Math, Chennai (8746963529).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sri_Ramakrishna_Math,_Chennai_(8746963529).jpg",
-     "credit": "Aleksandr Zykov from Russia",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 100,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -1086,30 +1062,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Murugan_Idli_Shop_Nanganallur_Chennai.jpg/960px-Murugan_Idli_Shop_Nanganallur_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Murugan_Idli_Shop_Nanganallur_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Murugan Idli Shop Nanganallur Chennai.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Murugan_Idli_Shop_Nanganallur_Chennai.jpg",
-     "credit": "SnapMeUp",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 123,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1156,30 +1120,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Murugan_Idli_Shop_Nanganallur_Chennai.jpg/960px-Murugan_Idli_Shop_Nanganallur_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Murugan_Idli_Shop_Nanganallur_Chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Murugan Idli Shop Nanganallur Chennai.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Murugan_Idli_Shop_Nanganallur_Chennai.jpg",
-     "credit": "SnapMeUp",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 111,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -1933,30 +1885,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Airport_Road_-_panoramio.jpg/960px-Airport_Road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Airport_Road_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Airport Road - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Airport_Road_-_panoramio.jpg",
-     "credit": "Binoy J S",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -3383,29 +3323,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D.jpg/960px-%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "ஶ்ரீகுபேரர் திருக்கோயில்.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B0%E0%AF%8D_%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D.jpg",
-     "credit": "TNSE Dr.M.GANESAN TVR",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 27,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -4686,17 +4614,6 @@
      "basis": "wikidata_link",
      "distance_m": 0
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/TV_tower_Rameswaram.JPG/960px-TV_tower_Rameswaram.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TV_tower_Rameswaram.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "TV tower Rameswaram.JPG",
-     "source": "https://commons.wikimedia.org/wiki/File:TV_tower_Rameswaram.JPG",
-     "credit": "Vensatry",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 5,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -5920,17 +5837,6 @@
      ],
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
-    },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 17,
-     "title_match": true
     },
     "photo_search": {
      "radius_m": 150,
@@ -7578,29 +7484,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thirunageswaram.jpg/960px-Thirunageswaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Thirunageswaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thirunageswaram.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thirunageswaram.jpg",
-     "credit": "Janapriya rajeswaran",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 17,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -7744,29 +7638,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Anuvavi_Koil1.jpg/960px-Anuvavi_Koil1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Anuvavi_Koil1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Anuvavi Koil1.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Anuvavi_Koil1.jpg",
-     "credit": "Shabsel Driftr",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 28,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -8602,30 +8484,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bhavani_River_Mettupalayam_Tamil_Nadu_Aug25_A7CR_06404.jpg/960px-Bhavani_River_Mettupalayam_Tamil_Nadu_Aug25_A7CR_06404.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bhavani_River_Mettupalayam_Tamil_Nadu_Aug25_A7CR_06404.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bhavani River Mettupalayam Tamil Nadu Aug25 A7CR 06404.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bhavani_River_Mettupalayam_Tamil_Nadu_Aug25_A7CR_06404.jpg",
-     "credit": "Timothy A. Gonsalves",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 118,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -9214,30 +9084,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bollard_RS_Puram.jpg/960px-Bollard_RS_Puram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bollard_RS_Puram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Bollard RS Puram.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Bollard_RS_Puram.jpg",
-     "credit": "Nkb 21",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -10367,29 +10225,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Nandhi_Rock.jpg/960px-Nandhi_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Nandhi_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nandhi Rock.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nandhi_Rock.jpg",
-     "credit": "Surya NM",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -14001,30 +13847,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Rajiv_Gandhi_IT_Expressway%28OMR%29.jpg/960px-Rajiv_Gandhi_IT_Expressway%28OMR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rajiv_Gandhi_IT_Expressway%28OMR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rajiv Gandhi IT Expressway(OMR).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rajiv_Gandhi_IT_Expressway(OMR).jpg",
-     "credit": "Nazeem Fasil",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -14199,31 +14033,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/BEE_ON_FLOWER%5ECHENNAI_-_panoramio.jpg/960px-BEE_ON_FLOWER%5ECHENNAI_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/BEE_ON_FLOWER%5ECHENNAI_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "BEE ON FLOWER^CHENNAI - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:BEE_ON_FLOWER%5ECHENNAI_-_panoramio.jpg",
-     "credit": "rajaraman sundaram",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -14704,30 +14526,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28166%29.jpg/960px-Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Morappur views ttkcvrvb122k23pxl (166).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_(166).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 39,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -14837,29 +14647,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28178%29.jpg/960px-Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Morappur views ttkcvrvb122k23pxl (178).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_(178).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 50,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -15296,30 +15094,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28189%29.jpg/960px-Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28189%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28189%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Morappur views ttkcvrvb122k23pxl (189).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_(189).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -16071,30 +15857,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nangai_Arthanareeswarar_%28_%E0%AE%A8%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%85%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AE%B0%E0%AF%8D%29.jpg/960px-Nangai_Arthanareeswarar_%28_%E0%AE%A8%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%85%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AE%B0%E0%AF%8D%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nangai_Arthanareeswarar_%28_%E0%AE%A8%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%85%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AE%B0%E0%AF%8D%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nangai Arthanareeswarar ( நங்கை அர்த்தநாரீசுவரர்).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nangai_Arthanareeswarar_(_%E0%AE%A8%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%85%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AE%B0%E0%AF%8D).jpg",
-     "credit": "Sree1959",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -16435,30 +16209,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tiger_Cave_complex%2C_Mahabalipuram_%2850968531523%29.jpg/960px-Tiger_Cave_complex%2C_Mahabalipuram_%2850968531523%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tiger_Cave_complex%2C_Mahabalipuram_%2850968531523%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tiger Cave complex, Mahabalipuram (50968531523).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tiger_Cave_complex,_Mahabalipuram_(50968531523).jpg",
-     "credit": "Lodo from Moscow, Russia",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 3,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -23911,30 +23673,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Kallanai_Dam%2C_Grand_Anicut_ttkcvrvb122k23iph_%2880%29.jpg/960px-Kallanai_Dam%2C_Grand_Anicut_ttkcvrvb122k23iph_%2880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kallanai_Dam%2C_Grand_Anicut_ttkcvrvb122k23iph_%2880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kallanai Dam, Grand Anicut ttkcvrvb122k23iph (80).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kallanai_Dam,_Grand_Anicut_ttkcvrvb122k23iph_(80).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 1,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -30673,30 +30423,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nallamudi_Pooncholai_-_panoramio_%281%29.jpg/960px-Nallamudi_Pooncholai_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nallamudi_Pooncholai_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nallamudi Pooncholai - panoramio (1).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nallamudi_Pooncholai_-_panoramio_(1).jpg",
-     "credit": "Jaseem Hamza",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 37,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -31006,30 +30744,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Templesilhouette.jpg/960px-Templesilhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Templesilhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Templesilhouette.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Templesilhouette.jpg",
-     "credit": "AdhiRajamanickam",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 7,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -31560,30 +31286,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E0%B4%8F%E0%B4%B4%E0%B5%82%E0%B4%B0%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BB_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg/960px-%E0%B4%8F%E0%B4%B4%E0%B5%82%E0%B4%B0%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BB_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/%E0%B4%8F%E0%B4%B4%E0%B5%82%E0%B4%B0%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BB_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "ഏഴൂരമ്മൻ ക്ഷേത്രം.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%8F%E0%B4%B4%E0%B5%82%E0%B4%B0%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BB_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg",
-     "credit": "Sree1959",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -36413,30 +36127,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/India_Trip_2008_%283173236024%29.jpg/960px-India_Trip_2008_%283173236024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/India_Trip_2008_%283173236024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "India Trip 2008 (3173236024).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:India_Trip_2008_(3173236024).jpg",
-     "credit": "Flying Cloud from Australia",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -40280,30 +39982,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/NAVAVEERARGAL_INTEMPLE.jpg/960px-NAVAVEERARGAL_INTEMPLE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/NAVAVEERARGAL_INTEMPLE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "NAVAVEERARGAL INTEMPLE.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:NAVAVEERARGAL_INTEMPLE.jpg",
-     "credit": "Jagadeeswarann99",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -40446,30 +40136,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Roadway_shop.jpg/960px-Roadway_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Roadway_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Roadway shop.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Roadway_shop.jpg",
-     "credit": "ராஜலட்சுமி ராஜேந்திரன்",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -40571,30 +40249,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Church_Parsonage%2C_Kannadasan_Nagar%2CChennai_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Church_Parsonage%2C_Kannadasan_Nagar%2CChennai_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Church Parsonage, Kannadasan Nagar,Chennai - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Church_Parsonage,_Kannadasan_Nagar,Chennai_-_panoramio.jpg",
-     "credit": "Pastor Sam",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -42710,31 +42376,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kanjamalai_R.F.%2C_Tamil_Nadu%2C_India_-_panoramio.jpg/960px-Kanjamalai_R.F.%2C_Tamil_Nadu%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kanjamalai_R.F.%2C_Tamil_Nadu%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanjamalai R.F., Tamil Nadu, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanjamalai_R.F.,_Tamil_Nadu,_India_-_panoramio.jpg",
-     "credit": "RAJUKHAN SR RAJESH",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 26,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -47812,29 +47466,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 54,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -51412,31 +51054,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Motel_Pallava_%2824875477%29.jpg/960px-Motel_Pallava_%2824875477%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Motel_Pallava_%2824875477%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Motel Pallava (24875477).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Motel_Pallava_(24875477).jpg",
-     "credit": "C/N N/G from Chennai, India",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -51780,30 +51410,18 @@
      "source": "wikidata",
      "basis": "spatial_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ginger_curry.jpg/960px-Ginger_curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ginger_curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ginger curry.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ginger_curry.jpg",
-     "credit": "Mithra hemanth",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -57864,31 +57482,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 90,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -58487,29 +58093,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 85,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -59959,30 +59553,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Streets_views_of_Tamilnadu_2K22TNKAN_%2825%29.jpg/960px-Streets_views_of_Tamilnadu_2K22TNKAN_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Streets_views_of_Tamilnadu_2K22TNKAN_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Streets views of Tamilnadu 2K22TNKAN (25).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Streets_views_of_Tamilnadu_2K22TNKAN_(25).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -62441,30 +62023,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 83,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -62569,30 +62139,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 128,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -62638,30 +62196,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 72,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -65110,30 +64656,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg/960px-Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Streets views of Tamilnadu 2K22TNKAN (44).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Streets_views_of_Tamilnadu_2K22TNKAN_(44).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -67329,30 +66863,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Silk Handloom at Kanchipuram, Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Silk_Handloom_at_Kanchipuram,_Tamil_Nadu.jpg",
-     "credit": "Arupparia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -76448,28 +75970,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Madhurai_Central_Railway_Station%2C_Thaminadu.jpg/960px-Madhurai_Central_Railway_Station%2C_Thaminadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Madhurai_Central_Railway_Station%2C_Thaminadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Madhurai Central Railway Station, Thaminadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Madhurai_Central_Railway_Station,_Thaminadu.jpg",
-     "credit": "Shagil Kannur",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 4,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -78249,30 +77759,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kanchikamachitemple.jpg/960px-Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanchikamachitemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanchikamachitemple.jpg",
-     "credit": "Arraja77",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 110,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -80231,29 +79729,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Srivanchiyam_panorama_%282%29.jpg/960px-Srivanchiyam_panorama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Srivanchiyam_panorama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Srivanchiyam panorama (2).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Srivanchiyam_panorama_(2).jpg",
-     "credit": "Ssriram mt",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 27,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -80341,29 +79827,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Srivanchiyam_%289%29.jpg/960px-Srivanchiyam_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Srivanchiyam_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Srivanchiyam (9).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Srivanchiyam_(9).jpg",
-     "credit": "Ssriram mt",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -80402,29 +79876,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Srivanchiyam_panorama_%282%29.jpg/960px-Srivanchiyam_panorama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Srivanchiyam_panorama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Srivanchiyam panorama (2).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Srivanchiyam_panorama_(2).jpg",
-     "credit": "Ssriram mt",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 16,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -80665,29 +80127,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dolmens%2C_Vilpatti_15.jpg/960px-Dolmens%2C_Vilpatti_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dolmens%2C_Vilpatti_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dolmens, Vilpatti 15.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dolmens,_Vilpatti_15.jpg",
-     "credit": "A.Logananth",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -85748,28 +85198,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Paruvadha_malai_shivan.jpg/960px-Paruvadha_malai_shivan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paruvadha_malai_shivan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Paruvadha malai shivan.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Paruvadha_malai_shivan.jpg",
-     "credit": "Dineshbabudb",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -85802,28 +85240,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Paruvadha_malai_shivan.jpg/960px-Paruvadha_malai_shivan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Paruvadha_malai_shivan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Paruvadha malai shivan.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Paruvadha_malai_shivan.jpg",
-     "credit": "Dineshbabudb",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -89447,30 +88873,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/St.Joseph%27s_Cathedral_Church_dindigul_car_procession-4.jpg/960px-St.Joseph%27s_Cathedral_Church_dindigul_car_procession-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/St.Joseph%27s_Cathedral_Church_dindigul_car_procession-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "St.Joseph's Cathedral Church dindigul car procession-4.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:St.Joseph%27s_Cathedral_Church_dindigul_car_procession-4.jpg",
-     "credit": "SAHAYA RAJAN S",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -89515,30 +88929,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/DGL_SKC.jpg/960px-DGL_SKC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DGL_SKC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DGL SKC.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DGL_SKC.jpg",
-     "credit": "Karthikeyanvirus",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 33,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -90246,28 +89648,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Manimuthaaru_falls-2-tirunelveli-India.jpg/960px-Manimuthaaru_falls-2-tirunelveli-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Manimuthaaru_falls-2-tirunelveli-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Manimuthaaru falls-2-tirunelveli-India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Manimuthaaru_falls-2-tirunelveli-India.jpg",
-     "credit": "Yercaud-elango",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -100096,31 +99486,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Moringa_olefera_kolathur_chennai.jpg/960px-Moringa_olefera_kolathur_chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Moringa_olefera_kolathur_chennai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Moringa olefera kolathur chennai.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Moringa_olefera_kolathur_chennai.jpg",
-     "credit": "Elangovan Ellai",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -110116,28 +109494,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Om_angalaparameshwari_amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Om_angalaparameshwari_amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Om angalaparameshwari amman.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Om_angalaparameshwari_amman.jpg",
-     "credit": "Advcravikumar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 130,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -111690,28 +111056,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Thanjavur_district_views_-_Thanjavur_and_Kumbhakonam_ttkcvrvb122k23pxl_%28314%29.jpg/960px-Thanjavur_district_views_-_Thanjavur_and_Kumbhakonam_ttkcvrvb122k23pxl_%28314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Thanjavur_district_views_-_Thanjavur_and_Kumbhakonam_ttkcvrvb122k23pxl_%28314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thanjavur district views - Thanjavur and Kumbhakonam ttkcvrvb122k23pxl (314).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thanjavur_district_views_-_Thanjavur_and_Kumbhakonam_ttkcvrvb122k23pxl_(314).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -117941,31 +117295,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kuniyamuthur_panaroma_view.jpg/960px-Kuniyamuthur_panaroma_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kuniyamuthur_panaroma_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kuniyamuthur panaroma view.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kuniyamuthur_panaroma_view.jpg",
-     "credit": "User:Durai.velumani",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 50,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -124847,28 +124189,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%2838%29.jpg/960px-Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%2838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%2838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Morappur views ttkcvrvb122k23pxl (38).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_(38).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 12,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -125584,28 +124914,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg/960px-Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Chidambaram views ttkcvrvb122k23pxl (43).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_(43).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 37,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -125643,28 +124961,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg/960px-Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_%2843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Chidambaram views ttkcvrvb122k23pxl (43).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Chidambaram_views_ttkcvrvb122k23pxl_(43).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -125954,28 +125260,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Swaminatha_Nagar%2C_Valayapettai_Agraharam%2C_Kumbakonam%2C_Tamil_Nadu_612001%2C_India_-_panoramio_%283%29.jpg/960px-Swaminatha_Nagar%2C_Valayapettai_Agraharam%2C_Kumbakonam%2C_Tamil_Nadu_612001%2C_India_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Swaminatha_Nagar%2C_Valayapettai_Agraharam%2C_Kumbakonam%2C_Tamil_Nadu_612001%2C_India_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Swaminatha Nagar, Valayapettai Agraharam, Kumbakonam, Tamil Nadu 612001, India - panoramio (3).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Swaminatha_Nagar,_Valayapettai_Agraharam,_Kumbakonam,_Tamil_Nadu_612001,_India_-_panoramio_(3).jpg",
-     "credit": "Saminathan Suresh",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -131319,28 +130613,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/DGL_SKC_front_view.jpg/960px-DGL_SKC_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/DGL_SKC_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "DGL SKC front view.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:DGL_SKC_front_view.jpg",
-     "credit": "Karthikeyanvirus",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 19,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -138805,29 +138087,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28180%29.jpg/960px-Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_%28180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kumbakonam To Morappur views ttkcvrvb122k23pxl (180).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kumbakonam_To_Morappur_views_ttkcvrvb122k23pxl_(180).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 42,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -140046,29 +139316,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Balcony%2C_circa_7th_Century_AD_%2825054061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Balcony%2C_circa_7th_Century_AD_%2825054061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Balcony, circa 7th Century AD (25054061).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Balcony,_circa_7th_Century_AD_(25054061).jpg",
-     "credit": "C/N N/G from Chennai, India",
-     "license": "CC BY-SA 2.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-     "distance_m": 45,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -141660,28 +140918,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kovilpatti_railway_station_13-09-2026.jpg/960px-Kovilpatti_railway_station_13-09-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kovilpatti_railway_station_13-09-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kovilpatti railway station 13-09-2026.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kovilpatti_railway_station_13-09-2026.jpg",
-     "credit": "My Kovilpatti Saravanakumar",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 92,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -141724,28 +140970,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kovilpatti_railway_station_13-09-2026.jpg/960px-Kovilpatti_railway_station_13-09-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kovilpatti_railway_station_13-09-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kovilpatti railway station 13-09-2026.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kovilpatti_railway_station_13-09-2026.jpg",
-     "credit": "My Kovilpatti Saravanakumar",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 115,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -145308,29 +144542,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kanchikamachitemple.jpg/960px-Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanchikamachitemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanchikamachitemple.jpg",
-     "credit": "Arraja77",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 121,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -145376,30 +144598,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kanchikamachitemple.jpg/960px-Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanchikamachitemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanchikamachitemple.jpg",
-     "credit": "Arraja77",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 111,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -145717,30 +144927,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -147775,30 +146973,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ginger_curry.jpg/960px-Ginger_curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ginger_curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ginger curry.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ginger_curry.jpg",
-     "credit": "Mithra hemanth",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -147893,30 +147079,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 93,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -147955,29 +147129,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Silk Handloom at Kanchipuram, Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Silk_Handloom_at_Kanchipuram,_Tamil_Nadu.jpg",
-     "credit": "Arupparia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 22,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -148342,29 +147504,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Silk Handloom at Kanchipuram, Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Silk_Handloom_at_Kanchipuram,_Tamil_Nadu.jpg",
-     "credit": "Arupparia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -148914,30 +148064,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 106,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -149464,30 +148602,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 120,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -149582,29 +148708,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Silk Handloom at Kanchipuram, Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Silk_Handloom_at_Kanchipuram,_Tamil_Nadu.jpg",
-     "credit": "Arupparia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -149873,30 +148987,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vanilla_chocolate_cake.jpg/960px-Vanilla_chocolate_cake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vanilla_chocolate_cake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vanilla chocolate cake.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vanilla_chocolate_cake.jpg",
-     "credit": "Mithra hemanth",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -151686,29 +150788,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tanjore_Paintings_Venkateshwara.jpg/960px-Tanjore_Paintings_Venkateshwara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tanjore_Paintings_Venkateshwara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tanjore Paintings Venkateshwara.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tanjore_Paintings_Venkateshwara.jpg",
-     "credit": "Iramuthusamy",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 83,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -151908,28 +150998,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Road_Side.jpg/960px-Road_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Road_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Road Side.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Road_Side.jpg",
-     "credit": "Vairavamoorthy",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 41,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -155047,30 +154125,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 119,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -156685,30 +155751,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg/960px-Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Silk_Handloom_at_Kanchipuram%2C_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Silk Handloom at Kanchipuram, Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Silk_Handloom_at_Kanchipuram,_Tamil_Nadu.jpg",
-     "credit": "Arupparia",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -157102,29 +156156,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg/960px-Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vaikunda_Perumal_Sannidi_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vaikunda Perumal Sannidi Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vaikunda_Perumal_Sannidi_Street.jpg",
-     "credit": "IM3847",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 115,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -158707,30 +157749,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Streets_views_of_Tamilnadu_2K22TNKAN_%2836%29.jpg/960px-Streets_views_of_Tamilnadu_2K22TNKAN_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Streets_views_of_Tamilnadu_2K22TNKAN_%2836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Streets views of Tamilnadu 2K22TNKAN (36).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Streets_views_of_Tamilnadu_2K22TNKAN_(36).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 25,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -166955,17 +165985,6 @@
      "basis": "wikidata_link"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Kumarakottam%20Temple%20towers.jpg",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kanchikamachitemple.jpg/960px-Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kanchikamachitemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanchikamachitemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanchikamachitemple.jpg",
-     "credit": "Arraja77",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 110,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -167682,30 +166701,18 @@
     "address": "Thirukazhukundram, Chengalpattu, Tamil Nadu"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Thirukazhukundram_%2827%29.jpg/960px-Thirukazhukundram_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thirukazhukundram_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thirukazhukundram (27).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thirukazhukundram_(27).jpg",
-     "credit": "Ssriram mt",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 1,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -171427,31 +170434,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Sankarankovil.jpg/960px-Sankarankovil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sankarankovil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sankarankovil.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sankarankovil.jpg",
-     "credit": "2",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 58,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 7,
+    "score": 6,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
      "deity",
-     "photo",
      "contact",
      "hours"
     ]
@@ -172146,17 +171141,6 @@
      "basis": "wikidata_link"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Thirunageswaram%20gopuram.JPG",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Thirunageswaram.jpg/960px-Thirunageswaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Thirunageswaram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thirunageswaram.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thirunageswaram.jpg",
-     "credit": "Janapriya rajeswaran",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 60,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -172284,17 +171268,6 @@
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Uppliyappan%20Kovil.jpg",
     "website": "http://www.oppiliappan.org",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg/960px-Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thirunageswaram, Tamil Nadu 612204, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thirunageswaram,_Tamil_Nadu_612204,_India_-_panoramio.jpg",
-     "credit": "Shankaran Murugan",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 47,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -175034,30 +174007,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%81_%E0%B0%A6%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%BF%E0%B0%A3%E0%B0%BE%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B0%BF_%E0%B0%97%E0%B1%81%E0%B0%A1%E0%B0%BF.jpg/960px-%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%81_%E0%B0%A6%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%BF%E0%B0%A3%E0%B0%BE%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B0%BF_%E0%B0%97%E0%B1%81%E0%B0%A1%E0%B0%BF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%81_%E0%B0%A6%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%BF%E0%B0%A3%E0%B0%BE%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B0%BF_%E0%B0%97%E0%B1%81%E0%B0%A1%E0%B0%BF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "గురు దక్షిణామూర్తి గుడి.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%81_%E0%B0%A6%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%BF%E0%B0%A3%E0%B0%BE%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B0%BF_%E0%B0%97%E0%B1%81%E0%B0%A1%E0%B0%BF.jpg",
-     "credit": "Vadanagiri bhaskar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -175993,17 +174954,6 @@
      "basis": "spatial_name"
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mylapore%20Hindu%20Permanent%20Fund%20Nithi%20Ltd.%2C.jpg",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Old_House_at_Kabaleeswarar_Tank_East_Street.jpg/960px-Old_House_at_Kabaleeswarar_Tank_East_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Old_House_at_Kabaleeswarar_Tank_East_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Old House at Kabaleeswarar Tank East Street.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Old_House_at_Kabaleeswarar_Tank_East_Street.jpg",
-     "credit": "Jaisakthivel unom",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 23,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -176255,30 +175205,18 @@
     "address": "Sivaganga Road, Chennai District, Tamil Nadu"
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Swimming_Swans_04.jpg/960px-Swimming_Swans_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Swimming_Swans_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Swimming Swans 04.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Swimming_Swans_04.jpg",
-     "credit": "Moneycomes2you",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 30,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "locality",
-     "photo"
+     "locality"
     ]
    }
   },
@@ -177056,31 +175994,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/View_from_Chennai_Street_104746.jpg/960px-View_from_Chennai_Street_104746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/View_from_Chennai_Street_104746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "View from Chennai Street 104746.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:View_from_Chennai_Street_104746.jpg",
-     "credit": "Rameshng",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 23,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -177494,28 +176420,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gochen_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gochen_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Gochen Library.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Gochen_Library.jpg",
-     "credit": "Jaisakthivel unom",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -179411,28 +178325,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mapillary_%285291998897551111%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H49M31S000.jpg/960px-Mapillary_%285291998897551111%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H49M31S000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mapillary_%285291998897551111%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H49M31S000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mapillary (5291998897551111, cTBMieFQabLmSgXz190hqu) (roadroid) 2021-09-15 05H49M31S000.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mapillary_(5291998897551111,_cTBMieFQabLmSgXz190hqu)_(roadroid)_2021-09-15_05H49M31S000.jpg",
-     "credit": "roadroid",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -179956,29 +178858,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Nangai_Arthanareeswarar2.jpg/960px-Nangai_Arthanareeswarar2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Nangai_Arthanareeswarar2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nangai Arthanareeswarar2.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nangai_Arthanareeswarar2.jpg",
-     "credit": "Sree1959",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -185089,31 +183979,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E0%B0%B6%E0%B1%8B%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B0%B0%E0%B1%8D_%E0%B0%AF%E0%B1%8B%E0%B0%97_%E0%B0%86%E0%B0%82%E0%B0%9C%E0%B0%A8%E0%B1%87%E0%B0%AF_%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg/960px-%E0%B0%B6%E0%B1%8B%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B0%B0%E0%B1%8D_%E0%B0%AF%E0%B1%8B%E0%B0%97_%E0%B0%86%E0%B0%82%E0%B0%9C%E0%B0%A8%E0%B1%87%E0%B0%AF_%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%E0%B0%B6%E0%B1%8B%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B0%B0%E0%B1%8D_%E0%B0%AF%E0%B1%8B%E0%B0%97_%E0%B0%86%E0%B0%82%E0%B0%9C%E0%B0%A8%E0%B1%87%E0%B0%AF_%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "శోలింగర్ యోగ ఆంజనేయ దేవాలయం.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:%E0%B0%B6%E0%B1%8B%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B0%B0%E0%B1%8D_%E0%B0%AF%E0%B1%8B%E0%B0%97_%E0%B0%86%E0%B0%82%E0%B0%9C%E0%B0%A8%E0%B1%87%E0%B0%AF_%E0%B0%A6%E0%B1%87%E0%B0%B5%E0%B0%BE%E0%B0%B2%E0%B0%AF%E0%B0%82.jpg",
-     "credit": "Vadanagiri bhaskar",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 24,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 6,
+    "score": 5,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
      "deity",
-     "photo",
      "contact"
     ]
    }
@@ -187086,31 +185964,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/MORUR_AMMAN_HISTORY.jpg/960px-MORUR_AMMAN_HISTORY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/MORUR_AMMAN_HISTORY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "MORUR AMMAN HISTORY.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:MORUR_AMMAN_HISTORY.jpg",
-     "credit": "Sasisamy",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 38,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -187208,30 +186074,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sankari_Tippu_sultan_Fort-_%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF_%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_._-_panoramio.jpg/960px-Sankari_Tippu_sultan_Fort-_%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF_%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sankari_Tippu_sultan_Fort-_%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF_%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sankari Tippu sultan Fort- சங்ககிரி திப்புசுல்தான் கோட்டை . - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sankari_Tippu_sultan_Fort-_%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF_%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88_._-_panoramio.jpg",
-     "credit": "JayakanthanG",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 46,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -187623,30 +186477,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Sangagiri_Fort.jpg/960px-Sangagiri_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Sangagiri_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Sangagiri Fort.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Sangagiri_Fort.jpg",
-     "credit": "Swethasakthivel",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 44,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -189175,17 +188017,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Thiruneermalai_Panoramic_view_from_hill_top_looking_South.jpg/960px-Thiruneermalai_Panoramic_view_from_hill_top_looking_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Thiruneermalai_Panoramic_view_from_hill_top_looking_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thiruneermalai Panoramic view from hill top looking South.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thiruneermalai_Panoramic_view_from_hill_top_looking_South.jpg",
-     "credit": "Salemjones",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 49,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -189197,13 +188028,12 @@
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "deity",
-     "photo",
      "history"
     ]
    }
@@ -192761,17 +191591,6 @@
     },
     "image_commons": "http://commons.wikimedia.org/wiki/Special:FilePath/Uppliyappan%20Kovil.jpg",
     "website": "http://www.oppiliappan.org",
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg/960px-Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thirunageswaram%2C_Tamil_Nadu_612204%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thirunageswaram, Tamil Nadu 612204, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thirunageswaram,_Tamil_Nadu_612204,_India_-_panoramio.jpg",
-     "credit": "Shankaran Murugan",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 55,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -193203,30 +192022,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/OMR_S_Deepak_AIADMK.jpg/960px-OMR_S_Deepak_AIADMK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/OMR_S_Deepak_AIADMK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "OMR S Deepak AIADMK.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:OMR_S_Deepak_AIADMK.jpg",
-     "credit": "Omrsdeepak29",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 29,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -196920,29 +195727,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/TV_tower_Rameswaram.JPG/960px-TV_tower_Rameswaram.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TV_tower_Rameswaram.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "TV tower Rameswaram.JPG",
-     "source": "https://commons.wikimedia.org/wiki/File:TV_tower_Rameswaram.JPG",
-     "credit": "Vensatry",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 8,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -197329,17 +196124,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Ramanujar_Nagar%2C_Sriperumbudur%2C_Tamil_Nadu_602105%2C_India_-_panoramio_%281%29.jpg/960px-Ramanujar_Nagar%2C_Sriperumbudur%2C_Tamil_Nadu_602105%2C_India_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ramanujar_Nagar%2C_Sriperumbudur%2C_Tamil_Nadu_602105%2C_India_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ramanujar Nagar, Sriperumbudur, Tamil Nadu 602105, India - panoramio (1).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ramanujar_Nagar,_Sriperumbudur,_Tamil_Nadu_602105,_India_-_panoramio_(1).jpg",
-     "credit": "Saminathan Suresh",
-     "license": "CC BY-SA 3.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-     "distance_m": 4,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -197603,28 +196387,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ulagalanda_Perumal.jpg/960px-Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ulagalanda_Perumal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ulagalanda Perumal.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ulagalanda_Perumal.jpg",
-     "credit": "Luistxo",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 14,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -198616,17 +197388,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mannarguditemple.jpg/960px-Mannarguditemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mannarguditemple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mannarguditemple.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mannarguditemple.jpg",
-     "credit": "Arraja77",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 118,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -199605,28 +198366,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Thiruvengadu%2C_Tamil_Nadu_609114%2C_India_-_panoramio.jpg/960px-Thiruvengadu%2C_Tamil_Nadu_609114%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Thiruvengadu%2C_Tamil_Nadu_609114%2C_India_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thiruvengadu, Tamil Nadu 609114, India - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thiruvengadu,_Tamil_Nadu_609114,_India_-_panoramio.jpg",
-     "credit": "Shankaran Murugan",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -200525,30 +199274,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tharangambadi_Fort.jpg/960px-Tharangambadi_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tharangambadi_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tharangambadi Fort.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tharangambadi_Fort.jpg",
-     "credit": "Avinash R1",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -201330,30 +200067,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Persicaria_capitata-2-roadside-yercaud-salem-India.jpg/960px-Persicaria_capitata-2-roadside-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Persicaria_capitata-2-roadside-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Persicaria capitata-2-roadside-yercaud-salem-India.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Persicaria_capitata-2-roadside-yercaud-salem-India.jpg",
-     "credit": "Yercaud-elango",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 18,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -204497,28 +203222,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Nanguneri_Setruthamarai_Kulam_JEG1772.jpg/960px-Nanguneri_Setruthamarai_Kulam_JEG1772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Nanguneri_Setruthamarai_Kulam_JEG1772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Nanguneri Setruthamarai Kulam JEG1772.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Nanguneri_Setruthamarai_Kulam_JEG1772.jpg",
-     "credit": "PJeganathan",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -205417,31 +204130,19 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rathi_Sculpture.jpg/960px-Rathi_Sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rathi_Sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Rathi Sculpture.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Rathi_Sculpture.jpg",
-     "credit": "Balurbala",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 5,
+    "score": 4,
     "of": 8,
     "has": [
      "name",
      "district",
      "locality",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -210143,29 +208844,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Thripparappu_Sivalayam_01.jpg/960px-Thripparappu_Sivalayam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Thripparappu_Sivalayam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Thripparappu Sivalayam 01.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Thripparappu_Sivalayam_01.jpg",
-     "credit": "Manukrishnan80",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 34,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -210419,30 +209108,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cute_street_puppy.jpg/960px-Cute_street_puppy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cute_street_puppy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Cute street puppy.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Cute_street_puppy.jpg",
-     "credit": "Monikaa Baskar",
-     "license": "CC0",
-     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "distance_m": 38,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -212336,29 +211013,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/INTRICATE_STONE_CARVING%2CAVUDIARKOIL%2CTAMILNADU_-_panoramio.jpg/960px-INTRICATE_STONE_CARVING%2CAVUDIARKOIL%2CTAMILNADU_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/INTRICATE_STONE_CARVING%2CAVUDIARKOIL%2CTAMILNADU_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "INTRICATE STONE CARVING,AVUDIARKOIL,TAMILNADU - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:INTRICATE_STONE_CARVING,AVUDIARKOIL,TAMILNADU_-_panoramio.jpg",
-     "credit": "rajaraman sundaram",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 30,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -214520,29 +213185,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Perungulam_mayakoothan_temple-profile_image-tuticorin_district-tamilnadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Perungulam_mayakoothan_temple-profile_image-tuticorin_district-tamilnadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Perungulam mayakoothan temple-profile image-tuticorin district-tamilnadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Perungulam_mayakoothan_temple-profile_image-tuticorin_district-tamilnadu.jpg",
-     "credit": "Moramachandran",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 62,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -218196,28 +216849,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tiruvanaikovil%2C_Thiruchirappalli.jpg/960px-Tiruvanaikovil%2C_Thiruchirappalli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tiruvanaikovil%2C_Thiruchirappalli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Tiruvanaikovil, Thiruchirappalli.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Tiruvanaikovil,_Thiruchirappalli.jpg",
-     "credit": "Dineshkumar Nallaveerappan",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 20,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -219438,28 +218079,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg/960px-Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Streets_views_of_Tamilnadu_2K22TNKAN_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Streets views of Tamilnadu 2K22TNKAN (44).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Streets_views_of_Tamilnadu_2K22TNKAN_(44).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -239035,17 +237664,6 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ottapanaa_sudalamadan_saami%2C_chirumalarji%2C%2C_kallikulam_Tirunelveli_Tamil_Nadu.jpg/960px-Ottapanaa_sudalamadan_saami%2C_chirumalarji%2C%2C_kallikulam_Tirunelveli_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ottapanaa_sudalamadan_saami%2C_chirumalarji%2C%2C_kallikulam_Tirunelveli_Tamil_Nadu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Ottapanaa sudalamadan saami, chirumalarji,, kallikulam Tirunelveli Tamil Nadu.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Ottapanaa_sudalamadan_saami,_chirumalarji,,_kallikulam_Tirunelveli_Tamil_Nadu.jpg",
-     "credit": "Sujithshivam511",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 11,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -239389,28 +238007,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/NAVAVEERARGAL_INTEMPLE.jpg/960px-NAVAVEERARGAL_INTEMPLE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/NAVAVEERARGAL_INTEMPLE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "NAVAVEERARGAL INTEMPLE.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:NAVAVEERARGAL_INTEMPLE.jpg",
-     "credit": "Jagadeeswarann99",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 4,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -243407,17 +242013,6 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cheranmahadevi_Ammainathar_Temple7.jpg/960px-Cheranmahadevi_Ammainathar_Temple7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cheranmahadevi_Ammainathar_Temple7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Cheranmahadevi Ammainathar Temple7.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Cheranmahadevi_Ammainathar_Temple7.jpg",
-     "credit": "Booradleyp1",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 19,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
@@ -246841,28 +245436,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Mapillary_%285097885270333187%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H57M17S000.jpg/960px-Mapillary_%285097885270333187%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H57M17S000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mapillary_%285097885270333187%2C_cTBMieFQabLmSgXz190hqu%29_%28roadroid%29_2021-09-15_05H57M17S000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mapillary (5097885270333187, cTBMieFQabLmSgXz190hqu) (roadroid) 2021-09-15 05H57M17S000.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mapillary_(5097885270333187,_cTBMieFQabLmSgXz190hqu)_(roadroid)_2021-09-15_05H57M17S000.jpg",
-     "credit": "roadroid",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 15,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -250420,30 +249003,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Door_is_open_everyday.jpg/960px-Door_is_open_everyday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Door_is_open_everyday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Door is open everyday.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Door_is_open_everyday.jpg",
-     "credit": "GOPIKUPPURAJ",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 18,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -252615,28 +251186,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Varuvaan_patti.jpg/960px-Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Varuvaan patti.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Varuvaan_patti.jpg",
-     "credit": "TNSEdhanasekarandietpdk",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 31,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -252737,28 +251296,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Varuvaan_patti.jpg/960px-Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Varuvaan patti.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Varuvaan_patti.jpg",
-     "credit": "TNSEdhanasekarandietpdk",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 25,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -252794,28 +251341,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Varuvaan_patti.jpg/960px-Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Varuvaan_patti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Varuvaan patti.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Varuvaan_patti.jpg",
-     "credit": "TNSEdhanasekarandietpdk",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 40,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -259566,28 +258101,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dindigul_fort_view_from_back.jpg/960px-Dindigul_fort_view_from_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dindigul_fort_view_from_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Dindigul fort view from back.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Dindigul_fort_view_from_back.jpg",
-     "credit": "Nandhakumar790",
-     "license": "CC BY 4.0",
-     "license_url": "https://creativecommons.org/licenses/by/4.0",
-     "distance_m": 34,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -261841,30 +260364,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gateway_of_Anamalai_-_panoramio.jpg/960px-Gateway_of_Anamalai_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gateway_of_Anamalai_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Gateway of Anamalai - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Gateway_of_Anamalai_-_panoramio.jpg",
-     "credit": "Jaseem Hamza",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 42,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -271326,28 +269837,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kanyakumari_Bhagavathy_Amman.jpg/960px-Kanyakumari_Bhagavathy_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kanyakumari_Bhagavathy_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Kanyakumari Bhagavathy Amman.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Kanyakumari_Bhagavathy_Amman.jpg",
-     "credit": "Sujithshivam511",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 60,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -271392,29 +269891,17 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Full_loaded_tempo_at_kanyakumari_photos_by_RAHUL_KHARADE_%28bhandup%29_-_panoramio.jpg/960px-Full_loaded_tempo_at_kanyakumari_photos_by_RAHUL_KHARADE_%28bhandup%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Full_loaded_tempo_at_kanyakumari_photos_by_RAHUL_KHARADE_%28bhandup%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Full loaded tempo at kanyakumari photos by RAHUL KHARADE (bhandup) - panoramio.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Full_loaded_tempo_at_kanyakumari_photos_by_RAHUL_KHARADE_(bhandup)_-_panoramio.jpg",
-     "credit": "rahul kharade",
-     "license": "CC BY 3.0",
-     "license_url": "https://creativecommons.org/licenses/by/3.0",
-     "distance_m": 36,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 3,
+    "score": 2,
     "of": 8,
     "has": [
      "name",
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -271675,28 +270162,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Krishna%27s_Butterball_at_Mahabalipuram_2K22TNKAN_%2826%29.jpg/960px-Krishna%27s_Butterball_at_Mahabalipuram_2K22TNKAN_%2826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Krishna%27s_Butterball_at_Mahabalipuram_2K22TNKAN_%2826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Krishna's Butterball at Mahabalipuram 2K22TNKAN (26).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Krishna%27s_Butterball_at_Mahabalipuram_2K22TNKAN_(26).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 46,
-     "title_match": true
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },
@@ -273637,30 +272112,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Velammal_Engineering_College-entrance.jpg/960px-Velammal_Engineering_College-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Velammal_Engineering_College-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Velammal Engineering College-entrance.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Velammal_Engineering_College-entrance.jpg",
-     "credit": "TamizhanEditor",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 43,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },

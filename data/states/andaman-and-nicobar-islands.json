@@ -209,30 +209,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg/960px-Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jirkatang_check_post_vrvbaan042k24_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Jirkatang check post vrvbaan042k24 (29).jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Jirkatang_check_post_vrvbaan042k24_(29).jpg",
-     "credit": "Vinayaraj",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 8,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
@@ -369,28 +357,16 @@
     }
    },
    "enrich": {
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg/960px-Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Vernal Hanging-Parrot Loriculus vernalis from Andaman.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Vernal_Hanging-Parrot_Loriculus_vernalis_from_Andaman.jpg",
-     "credit": "Manojk",
-     "license": "CC BY-SA 4.0",
-     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-     "distance_m": 48,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 2,
+    "score": 1,
     "of": 8,
     "has": [
-     "district",
-     "photo"
+     "district"
     ]
    }
   },

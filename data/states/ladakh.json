@@ -40,30 +40,18 @@
      "source": "name_keyword",
      "basis": "INFERRED_from_name"
     },
-    "nearby_photo": {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg/960px-Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mountain_biking_Ladahk%2C_India_43037992_624b2b553f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "caption": "Mountain biking Ladahk, India 43037992 624b2b553f.jpg",
-     "source": "https://commons.wikimedia.org/wiki/File:Mountain_biking_Ladahk,_India_43037992_624b2b553f.jpg",
-     "credit": "Steve Evans from India and USA",
-     "license": "CC BY 2.0",
-     "license_url": "https://creativecommons.org/licenses/by/2.0",
-     "distance_m": 9,
-     "title_match": false
-    },
     "photo_search": {
      "radius_m": 150,
      "found": true
     }
    },
    "completeness": {
-    "score": 4,
+    "score": 3,
     "of": 8,
     "has": [
      "name",
      "district",
-     "deity",
-     "photo"
+     "deity"
     ]
    }
   },
