@@ -31,7 +31,7 @@ async function start(){
   if(loading)return;loading=true;
   let info=null;try{const r=await fetch('data/dataset-info.json',{cache:'no-store'});if(r.ok)info=await r.json()}catch{}
   let have=[],ver=null;
-  try{have=(await dbGet('records'))||[];ver=await dbGet('data-version')}catch{dataStatus.memoryOnly=true}
+  try{have=(await dbGetRecords())||[];ver=await dbGet('data-version')}catch{dataStatus.memoryOnly=true}
   nationalRecords=have;
   const current=have.length>=1000&&(!info||ver===info.version);
   if(current){loading=false;repaint();return}

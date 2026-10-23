@@ -37,3 +37,8 @@ tools/.venv/bin/python -I tools/collect/district_site.py Cuddalore   # district-
 tools/.venv/bin/python -I tools/collect/report.py Cuddalore          # docs/coverage/cuddalore-pilot.md
 ```
 Reconciling with official LGD files later: places keep their `geo_entities.id`; fill `lgd_code` and set `basis='official'` by matching name/aliases, then repoint `parent_id`.
+
+## Statewide name collection (2026-10-22)
+Order: `collect/osm_extra.py` (OSM temples the main extract skips) -> `collect/wikidata_names.py` (any-language names, state/district from the P131 chain) -> `collect/hrce_profiles.py` (Tamil Nadu HR&CE public profile pages, ids 1-49500, headers only, polite pace) -> `collect/merge_sources.py` (idempotent: re-running drops the earlier batch). Records with no coordinate carry `"located": false` and are never given a village-centre point.
+Tried and left out: Commons category tree (too many photo sub-categories and non-temples), GeoNames TMPL (about 1,700 rows, almost all already mapped). Kerala, Karnataka, Telangana endowment sites do not answer from the build machine; Andhra Pradesh district sites publish scanned PDFs only (would need OCR).
+Known limit: Tamil Nadu HR&CE vs Wikidata overlap is about 0.3% in a 300-record sample, but spelling variants of the same temple can still appear twice.

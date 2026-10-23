@@ -43,6 +43,7 @@ export default async function routes(app) {
     reply.raw.write('{"type":"FeatureCollection","features":[\n');
     let first = true;
     for await (const t of temples('id, country, state, district, name, lat, lon, deity, deity_basis, tradition')) {
+      if (t.lat == null || t.lon == null) continue; // name-only temples have no point to export
       reply.raw.write((first ? '' : ',\n') + JSON.stringify({ type: 'Feature', id: t.id, geometry: { type: 'Point', coordinates: [t.lon, t.lat] },
         properties: { name: t.name, country: t.country, state: t.state, district: t.district, deity: t.deity, deity_basis: t.deity_basis, tradition: t.tradition } }));
       first = false;
