@@ -223,8 +223,51 @@ if gf.exists():
         grid[(int(r["lat"] / CELL), int(r["lon"] / CELL))].append((r["lat"], r["lon"], el["tags"]))
     log(f"GeoNames: {why['added GeoNames']} added")
 
+# ---- A3. Overture Maps places (hindu_place_of_worship; CDLA-Permissive-2.0) ---------------------------------------------------
+of = cache / "overture-temples.json"
+if of.exists():
+    for r in json.loads(of.read_text())["rows"]:
+        name = (r["name"] or "").strip()
+        txt = " ".join([name] + list(r["common"].values()))
+        if not name:
+            why["Overture: unnamed"] += 1
+            continue
+        if OTHER_FAITH.search(txt) or NOT_A_TEMPLE.search(name):
+            why["Overture: another faith or not a temple (hall, school, office ...)"] += 1
+            continue
+        if not (STRONG.search(txt) or HINDU_WORD.search(txt)):
+            why["Overture: name does not read as a Hindu temple"] += 1
+            continue
+        if not norm(name):
+            why["Overture: name is only a generic word (Temple, Mandir ...)"] += 1
+            continue
+        st, sb = state_of(r["lat"], r["lon"])
+        if not st:
+            why["Overture: outside India's states"] += 1
+            continue
+        names = [name] + [v for v in r["common"].values() if v]
+        near, dup = near_named(r["lat"], r["lon"], names, within=500)
+        if near < 60 or dup:
+            why["Overture: matches a temple we already hold"] += 1
+            continue
+        tags = {"name": name, "religion": "hindu", "amenity": "place_of_worship", "ref:overture": r["id"]}
+        for lg, v in r["common"].items():
+            if lg in ("en", "ta", "te", "kn", "ml", "hi", "mr", "bn", "gu", "or", "pa") and v and v != name:
+                tags["name:" + lg] = v
+        for k, f in (("addr:city", "locality"), ("addr:postcode", "postcode"), ("addr:full", "addr")):
+            if r.get(f):
+                tags[k] = r[f]
+        d, db = district_of(r["lat"], r["lon"])
+        el = {"type": "overture", "id": int(r["id"].replace("-", "")[:12], 16), "lat": r["lat"], "lon": r["lon"], "tags": tags, "state": st, "state_basis": sb,
+              "confidence": r["confidence"]}
+        if d:
+            el["district"], el["district_basis"] = d, db
+        add(el, "Overture")
+        grid[(int(r["lat"] / CELL), int(r["lon"] / CELL))].append((r["lat"], r["lon"], tags))
+    log(f"Overture: {why['added Overture']} added")
+
 # ---- B. Wikidata ------------------------------------------------------------------------------------------------
-wf = cache / "wikidata-names.json"
+wf =cache / "wikidata-names.json"
 if wf.exists():
     for qid, i in json.loads(wf.read_text())["items"].items():
         if qid in have_q:

@@ -153,7 +153,7 @@ test('exports are complete and never contain an email', async () => {
   const C = browser();
   await C('POST', '/api/ratings', { templeId: TEMPLE, itemKey: 'first-aid', stars: 3, email, consent: true });
   const nd = (await ANON('GET', '/api/export/temples.ndjson')).text.trim().split('\n');
-  assert.equal(nd.length, COUNT); assert.ok(nd.every(l => /^((osm-(node|way|relation)-|wd-Q)\d+|hrce-TM\d+|gn-\d+)$/.test(JSON.parse(l).id)));
+  assert.equal(nd.length, COUNT); assert.ok(nd.every(l => /^((osm-(node|way|relation)-|wd-Q)\d+|hrce-TM\d+|gn-\d+|ov-\d+)$/.test(JSON.parse(l).id)));
   const csv = (await ANON('GET', '/api/export/temples.csv')).text.trim().split('\n');
   assert.ok(csv.length >= 41370, 'header + one row per temple (quoted newlines allowed)');
   const geo = JSON.parse((await ANON('GET', '/api/export/temples.geojson')).text);
