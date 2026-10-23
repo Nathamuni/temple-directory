@@ -251,6 +251,8 @@ if of.exists():
             why["Overture: matches a temple we already hold"] += 1
             continue
         tags = {"name": name, "religion": "hindu", "amenity": "place_of_worship", "ref:overture": r["id"]}
+        if r.get("cat") and r["cat"] != "hindu_place_of_worship":
+            tags["overture:category"] = r["cat"]
         for lg, v in r["common"].items():
             if lg in ("en", "ta", "te", "kn", "ml", "hi", "mr", "bn", "gu", "or", "pa") and v and v != name:
                 tags["name:" + lg] = v
