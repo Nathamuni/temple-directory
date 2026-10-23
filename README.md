@@ -2,7 +2,7 @@
 
 > The earlier Next.js prototype (63 hand-curated temples, role accounts) is preserved on the [`old-version`](https://github.com/Nathamuni/temple-directory/tree/old-version) branch.
 
-Find Hindu temples by name, deity, place or what is near them; rate and comment on the facilities inside each temple (no sign-in); and let volunteers add and correct data with a source and a date. 186,555 temples across India today: 131,032 with a map location (43,982 from OpenStreetMap, 84,704 from Overture Maps, 1,707 from Wikidata, 639 from GeoNames) and 55,523 name-only (a name, state and usually a district, but no known location: 43,355 from the Tamil Nadu HR&CE Department's public temple pages, 12,168 from Wikidata), structured so more countries can be added.
+Find Hindu temples by name, deity, place or what is near them; rate and comment on the facilities inside each temple (no sign-in); and let volunteers add and correct data with a source and a date. 187,465 temples across India today: 131,942 with a map location (43,982 from OpenStreetMap, 85,614 from Overture Maps, 1,707 from Wikidata, 639 from GeoNames) and 55,523 name-only (a name, state and usually a district, but no known location: 43,355 from the Tamil Nadu HR&CE Department's public temple pages, 12,168 from Wikidata), structured so more countries can be added.
 
 ## Run it
 ```bash

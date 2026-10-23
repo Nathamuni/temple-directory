@@ -72,6 +72,18 @@ def pos(e):
 data = json.loads((root / "india-temples.json").read_text())
 base = [e for e in data["elements"] if not e.get("batch")]  # idempotent: also drops any earlier batch
 dropped_prev = len(data["elements"]) - len(base)
+# a mapped temple with no name/name:en but a name in another language (name:ta, name:kn ...) is named; keep where the name came from
+NOT_A_NAME = re.compile(r"^name:(signed|etymology.*|pronunciation.*|left|right|prefix|suffix|source|botanical|genitive|short|ipa)$")
+fallback_named = 0
+for e in base:
+    t = e["tags"]
+    if e["type"] in ("node", "way", "relation") and not t.get("name") and not t.get("name:en"):
+        k = next((k for k in sorted(t) if k.startswith("name:") and not NOT_A_NAME.match(k) and t[k].strip()), None)
+        if k:
+            t["name"] = t[k].strip()
+            t["name_source"] = k + " tag"
+            fallback_named += 1
+log(f"{fallback_named} unnamed mapped temples named from a name:* tag")
 log(f"{len(base)} base records ({dropped_prev} from an earlier merge dropped)")
 
 CELL = 0.01
@@ -224,6 +236,9 @@ if gf.exists():
     log(f"GeoNames: {why['added GeoNames']} added")
 
 # ---- A3. Overture Maps places (hindu_place_of_worship; CDLA-Permissive-2.0) ---------------------------------------------------
+# further temple words seen in the Overture names the first filter dropped (monasteries, Kali bari, Assamese namghar, Kerala kavu ...)
+OV_EXTRA = re.compile(r"\b(math|matha|mutt|matham|sthan|sthanam|asthan|kalibari|kali bari|kavu|namghar|mondir|thakurwari|thakurbari|iskcon|mandapam|"
+                      r"dhaam|ayalam|aalayam|alayam|devalayam)\b|ాలయం|ాలయము|ేశ్వరాలయం|मठ|देवस्थान|ଠାକୁର", re.I)
 of = cache / "overture-temples.json"
 if of.exists():
     for r in json.loads(of.read_text())["rows"]:
@@ -235,7 +250,7 @@ if of.exists():
         if OTHER_FAITH.search(txt) or NOT_A_TEMPLE.search(name):
             why["Overture: another faith or not a temple (hall, school, office ...)"] += 1
             continue
-        if not (STRONG.search(txt) or HINDU_WORD.search(txt)):
+        if not (STRONG.search(txt) or HINDU_WORD.search(txt) or OV_EXTRA.search(txt)):
             why["Overture: name does not read as a Hindu temple"] += 1
             continue
         if not norm(name):
