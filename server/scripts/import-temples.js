@@ -16,7 +16,7 @@ const row = e => {
   const deity = d ? d.values.join(', ') : (t.deity || t.dedication || null);
   const pos = e.lat !== undefined ? [e.lat, e.lon] : e.center ? [e.center.lat, e.center.lon] : [null, null]; // name-only records have no position
   return {
-    id: e.type === 'wikidata' ? `wd-Q${e.id}` : e.type === 'hrce' ? `hrce-${t['ref:hrce'] || e.id}` : `osm-${e.type}-${e.id}`, osm_type: e.type, osm_id: e.id, country: 'India', state: e.state, district: e.district || null,
+    id: e.type === 'wikidata' ? `wd-Q${e.id}` : e.type === 'hrce' ? `hrce-${t['ref:hrce'] || e.id}` : e.type === 'geonames' ? `gn-${e.id}` : `osm-${e.type}-${e.id}`, osm_type: e.type, osm_id: e.id, country: 'India', state: e.state, district: e.district || null,
     name, native_name: t.name || null, named: !!(t.name || t['name:en'] || en.name_en),
     lat: pos[0], lon: pos[1], deity, deity_basis: d?.basis || null, tradition: t.denomination || null,
     tags: t, enrich: en, computed: e.computed || {}, completeness: e.completeness?.score ?? null, photo: en.nearby_photo || null, located: e.located !== false,

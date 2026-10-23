@@ -188,6 +188,41 @@ if ex.exists():
         grid[(int(la / CELL), int(lo / CELL))].append((la, lo, t))
     log(f"OSM extras: {why['added OSM extra']} added")
 
+# ---- A2. GeoNames temples (religion not stated by the source: keep only Hindu-looking names) ---------------------------------
+HINDU_WORD = re.compile(r"temple|mandir|mandhir|mandira|kovil|koil|devalay|devasthan|gudi\b|amman|ammavaru|ayyanar|ayyappa|murugan|perumal|shiva|"
+                        r"vishnu|hanuman|anjaneya|ganesh|ganapathi|vinayaga|pillayar|krishna|durga|mahadev|balaji|venkateswara|narasimha|lakshmi|"
+                        r"eshwar|eswar|ishwar|nath\b|nathar|dev\b|devi\b|mata\b|shakti|kali\b|bhairav|jagannath|ram\b|sita|radha|"
+                        r"kovvil|alayam|ksetra|kshetra|dham\b", re.I)
+OTHER_FAITH = re.compile(r"church|chapel|mosque|masjid|dargah|dargha|gurudwara|gurdwara|buddh|vihar|jain|basadi|basti\b|derasar|monastery|gompa|"
+                         r"cathedral|synagogue|pagoda|mazar|idgah|tirthankar|parsvanath|parshvanath|mahavir|adinath|neminath|shantinath", re.I)
+gf = cache / "geonames-temples.json"
+if gf.exists():
+    for r in json.loads(gf.read_text())["rows"]:
+        name = r["name"]
+        txt = " ".join([name, r["ascii"]] + r["alt"])
+        if OTHER_FAITH.search(txt):
+            why["GeoNames: another faith's name"] += 1
+            continue
+        if not HINDU_WORD.search(name + " " + r["ascii"]):
+            why["GeoNames: name does not read as a Hindu temple"] += 1
+            continue
+        st, sb = state_of(r["lat"], r["lon"])
+        if not st:
+            why["GeoNames: outside India's states"] += 1
+            continue
+        near, dup = near_named(r["lat"], r["lon"], [name, r["ascii"]], within=2000)
+        if near < 150 or dup:
+            why["GeoNames: matches a temple we already hold"] += 1
+            continue
+        d, db = district_of(r["lat"], r["lon"])
+        el = {"type": "geonames", "id": r["id"], "lat": r["lat"], "lon": r["lon"], "tags": {"name": name, "religion": "hindu", "amenity": "place_of_worship"},
+              "state": st, "state_basis": sb}
+        if d:
+            el["district"], el["district_basis"] = d, db
+        add(el, "GeoNames")
+        grid[(int(r["lat"] / CELL), int(r["lon"] / CELL))].append((r["lat"], r["lon"], el["tags"]))
+    log(f"GeoNames: {why['added GeoNames']} added")
+
 # ---- B. Wikidata ------------------------------------------------------------------------------------------------
 wf = cache / "wikidata-names.json"
 if wf.exists():
