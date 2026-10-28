@@ -16,6 +16,10 @@ const PAGES = [
   { title: 'List of Hindu temples in Bhubaneswar', state: 'Odisha', district: 'Khordha' },
   { title: 'List of Hindu temples in Tulu Nadu', state: 'Karnataka', district: null },
   { title: 'List of Hindu temples in Pune', state: 'Maharashtra', district: 'Pune' },
+  { title: 'List of Hindu temples in Tirupati', state: 'Andhra Pradesh', district: 'Tirupati' },
+  { title: 'List of Hindu temples in Kumbakonam', state: 'Tamil Nadu', district: 'Thanjavur' },
+  { title: 'List of Hindu temples in Bareilly', state: 'Uttar Pradesh', district: 'Bareilly' },
+  { title: 'List of Hindu temples in Bishnupur', state: 'West Bengal', district: 'Bankura' },
 ];
 
 const GENERIC = /\b(sri|shri|sree|swamy|swami|temple|temples|mandir|mandira|devasthanam|devalaya|kshetra|the|of|and|hindu|shrine)\b/gi;
@@ -65,35 +69,79 @@ async function fetchWikitext(url) {
 }
 
 const elements = JSON.parse(await readFile(file, 'utf8')).elements;
-const have = new Map();
+// Per state: exact normalised names, plus the word sets of every name, to catch spelling variants such as
+// "Oorali Appooppan Kavu" inside "Sree Kalleli Oorali Appooppan Kavu".
+const have = new Set();
+const wordSets = new Map();
+const words = (s) => norm(s).split(' ').filter((w) => w.length >= 3);
+function indexExisting(state, name) {
+  have.add(`${state}|${norm(name)}`);
+  if (!wordSets.has(state)) wordSets.set(state, []);
+  wordSets.get(state).push(new Set(words(name)));
+}
 for (const t of elements) {
-  const key = `${t.state}|${norm(t.tags?.name || '')}`;
-  if (norm(t.tags?.name || '')) have.set(key, true);
+  if (t.batch === BATCH) continue; // this batch is rebuilt below, so its own records must not count as duplicates
+  if (t.tags?.name) indexExisting(t.state, t.tags.name);
+}
+function isDuplicate(state, name) {
+  if (have.has(`${state}|${norm(name)}`)) return true;
+  const mine = new Set(words(name));
+  if (mine.size === 0) return true;
+  // A single shared word is too weak unless it is distinctive (6+ letters); two or more shared words count.
+  const strong = (set) => set.size >= 2 || [...set].some((w) => w.length >= 6);
+  return (wordSets.get(state) || []).some((theirs) => {
+    const [small, big] = mine.size <= theirs.size ? [mine, theirs] : [theirs, mine];
+    return strong(small) && [...small].every((w) => big.has(w));
+  });
+}
+
+// The main India list has one section per state. Level-2 headings name the state; level-3 headings stay inside it.
+const INDIA_TITLE = 'List of Hindu temples in India';
+const INDIA_SKIP = /^(see also|references|external links|notes|gallery|further reading)$/i;
+async function indiaStateSections() {
+  const text = await fetchWikitext(`https://en.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(INDIA_TITLE)}&prop=wikitext&format=json&formatversion=2`);
+  const sections = [];
+  let open = false;
+  for (const line of text.split('\n')) {
+    const h2 = line.match(/^==\s*([^=].*?)\s*==\s*$/);
+    if (h2) {
+      open = !INDIA_SKIP.test(h2[1]);
+      if (open) sections.push({ state: h2[1], lines: [] });
+      continue;
+    }
+    if (open) sections.at(-1).lines.push(line);
+  }
+  return sections;
+}
+
+const jobs = PAGES.map((p) => ({
+  label: p.title, state: p.state, district: p.district,
+  names: async () => entriesFrom(await fetchWikitext(`https://en.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(p.title)}&prop=wikitext&format=json&formatversion=2`)),
+}));
+for (const s of await indiaStateSections()) {
+  jobs.push({ label: `${INDIA_TITLE} / ${s.state}`, state: s.state, district: null, names: async () => entriesFrom(s.lines.join('\n')) });
 }
 
 const added = [];
-for (const page of PAGES) {
-  const url = `https://en.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(page.title)}&prop=wikitext&format=json&formatversion=2`;
-  const wikitext = await fetchWikitext(url);
+for (const job of jobs) {
   let fresh = 0, dup = 0;
-  for (const name of new Set(entriesFrom(wikitext))) {
-    const key = `${page.state}|${norm(name)}`;
-    if (!norm(name) || have.has(key)) { dup++; continue; }
-    have.set(key, true);
-    const id = Number(BigInt('0x' + (await sha(`${page.title}|${name}`)).slice(0, 12)) % 9007199254740991n);
+  for (const name of new Set(await job.names())) {
+    if (isDuplicate(job.state, name)) { dup++; continue; }
+    indexExisting(job.state, name);
+    const id = Number(BigInt('0x' + (await sha(`${job.label}|${name}`)).slice(0, 12)) % 9007199254740991n);
     added.push({
       type: 'wikipedia',
       id,
-      tags: { name, religion: 'hindu', amenity: 'place_of_worship', source_page: page.title },
-      state: page.state,
+      tags: { name, religion: 'hindu', amenity: 'place_of_worship', source_page: job.label },
+      state: job.state,
       state_basis: 'wikipedia_list',
-      ...(page.district ? { district: page.district, district_basis: 'wikipedia_list' } : {}),
+      ...(job.district ? { district: job.district, district_basis: 'wikipedia_list' } : {}),
       located: false,
       batch: BATCH,
     });
     fresh++;
   }
-  console.log(`${page.title}: ${fresh} new, ${dup} already held or unusable`);
+  console.log(`${job.label}: ${fresh} new, ${dup} already held or unusable`);
 }
 
 async function sha(text) {
