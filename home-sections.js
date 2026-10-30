@@ -86,4 +86,7 @@ discover=function(){
   if(html){dir.insertAdjacentHTML('beforebegin',html);const sec=document.querySelector('#home-sections');wire(sec);fillRanked()}
 };
 document.addEventListener('api:session',()=>{summaryAt=0});
+/* Back from a temple page: land on the results (filters are kept in memory), not the top of the page. */
+let fromTemple=false;
+window.addEventListener('hashchange',()=>{const r=location.hash.slice(1);if(r.startsWith('temple/')){fromTemple=true;return}if(fromTemple&&r==='discover'){fromTemple=false;setTimeout(()=>document.querySelector('#directory')?.scrollIntoView(),0)}});
 })();

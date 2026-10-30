@@ -5,13 +5,13 @@
 .nd-panel p{max-width:68ch}
 .nd-facts{margin-block:10px 4px}
 .nd-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.nd-chip{display:inline-block;font-size:11px;line-height:1;padding:4px 8px;border:1px solid var(--line);border-radius:2px;background:#fffdf8;color:var(--ink);white-space:nowrap}
-.nd-pending-review{background:#f4ecd9;border-color:#d8c59a}
-.nd-verified{background:#e1ebde;border-color:#a9c3a3}
-.nd-in-progress{background:#e1e8ea;border-color:#a7bcc2}
-.nd-resolved{background:#e8e8e8;border-color:#c4c4c4;color:#4d524c}
-.nd-rejected{background:#f1dfd8;border-color:#d4aa9b}
-.nd-high,.nd-high-severity{background:#f1dfd8;border-color:#d4aa9b;font-weight:600}
+.nd-chip{display:inline-block;font-size:11px;line-height:1;padding:4px 8px;border:1px solid var(--line);border-radius:2px;background:var(--panel);color:var(--ink);white-space:nowrap}
+.nd-pending-review{background:var(--warm);border-color:var(--warm-line)}
+.nd-verified{background:var(--sage-bg);border-color:var(--sage-line)}
+.nd-in-progress{background:var(--slate-bg);border-color:var(--slate-line)}
+.nd-resolved{background:var(--grey-bg);border-color:var(--grey-line);color:var(--dim2)}
+.nd-rejected{background:var(--rust-bg);border-color:var(--rust-line)}
+.nd-high,.nd-high-severity{background:var(--rust-bg);border-color:var(--rust-line);font-weight:600}
 .nd-note,.nd-report{padding:14px 0;border-top:1px solid var(--line)}
 .nd-note:first-of-type,.nd-report:first-of-type{border-top:0;padding-top:0}
 .nd-note p,.nd-report p{margin:6px 0}
@@ -21,7 +21,7 @@
 .nd-form summary:focus-visible,.nd-count:focus-visible,.nd-finder input:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
 .nd-form form{display:grid;gap:12px;margin-top:12px;max-width:560px}
 .nd-form label,.nd-finder label,.nd-filter label{display:grid;gap:4px;font-size:13px;color:var(--muted)}
-.nd-form input,.nd-form select,.nd-form textarea,.nd-finder input,.nd-filter input,.nd-filter select{padding:10px 12px;border:1px solid var(--line);border-radius:3px;background:#fffdf8;color:var(--ink);min-height:40px}
+.nd-form input,.nd-form select,.nd-form textarea,.nd-finder input,.nd-filter input,.nd-filter select{padding:10px 12px;border:1px solid var(--line);border-radius:3px;background:var(--panel);color:var(--ink);min-height:40px}
 .nd-form textarea{resize:vertical}
 .nd-todo{margin:0;padding-left:18px;display:grid;gap:8px}
 .nd-todo a{color:var(--green)}
@@ -29,14 +29,14 @@
 .nd-finder-list{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:2px}
 .nd-finder-list li{padding:8px 0;border-top:1px solid var(--line)}
 .nd-counts{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:22px 0}
-.nd-count{display:flex;flex-direction:column;gap:2px;text-align:left;padding:10px 12px;border:1px solid var(--line);background:#fffdf8;border-radius:3px;cursor:pointer;color:var(--ink)}
+.nd-count{display:flex;flex-direction:column;gap:2px;text-align:left;padding:10px 12px;border:1px solid var(--line);background:var(--panel);border-radius:3px;cursor:pointer;color:var(--ink)}
 .nd-count strong{font:400 22px/1.1 Georgia,serif}
 .nd-count span{font-size:12px;color:var(--muted)}
-.nd-count.on{border-color:var(--green);background:#e8eddf}
+.nd-count.on{border-color:var(--green);background:var(--sunk)}
 .nd-filter{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin-bottom:12px}
-.nd-table{width:100%;border-collapse:collapse;background:#fffdf8;border:1px solid var(--line);font-size:14px}
+.nd-table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);font-size:14px}
 .nd-table th,.nd-table td{padding:12px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
-.nd-table thead th{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-weight:600;background:#f3f0e6;position:sticky;top:0}
+.nd-table thead th{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-weight:600;background:var(--neutral-bg);position:sticky;top:0}
 .nd-table tbody th{font-weight:600}
 .nd-table a{color:var(--green)}
 .nd-empty{max-width:62ch}
@@ -49,4 +49,4 @@
   .nd-table td::before,.nd-table tbody th::before{content:attr(data-label);display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:1px;color:var(--muted)}
   .nd-filter label,.nd-filter select,.nd-filter input{width:100%}
 }
-.nd-pending-approval{background:#f4ecd9;border-color:#d8c59a}
+.nd-pending-approval{background:var(--warm);border-color:var(--warm-line)}

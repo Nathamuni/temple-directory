@@ -1,6 +1,6 @@
 /* Volunteer label, sign-in page, header chip. Tokens from index.html. */
-.vol-badge{display:inline-flex;align-items:center;gap:6px;font-size:11px;line-height:1;padding:4px 8px;border:1px solid #a9c3a3;border-radius:999px;background:#e8f0e4;color:#2d4a37;white-space:nowrap;vertical-align:middle}
-.vol-dot{width:6px;height:6px;border-radius:50%;background:#3d7a52;flex:none}
+.vol-badge{display:inline-flex;align-items:center;gap:6px;font-size:11px;line-height:1;padding:4px 8px;border:1px solid var(--sage-line);border-radius:999px;background:var(--sage-bg);color:var(--sage-ink);white-space:nowrap;vertical-align:middle}
+.vol-dot{width:6px;height:6px;border-radius:50%;background:var(--green-2);flex:none}
 .vol-who{display:inline-flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:flex-end}
 .vol-who a,.vol-link{color:var(--green);text-decoration:underline;text-underline-offset:3px}
 .vol-me{font-weight:600}
@@ -8,7 +8,7 @@
 .vol-page .lede{font-size:17px;color:var(--muted)}
 .vol-form{display:grid;gap:14px;margin-top:18px}
 .vol-form label{display:grid;gap:4px;font-size:13px;color:var(--muted)}
-.vol-form input{padding:11px 12px;border:1px solid var(--line);border-radius:3px;background:#fffdf8;color:var(--ink);min-height:44px}
+.vol-form input{padding:11px 12px;border:1px solid var(--line);border-radius:3px;background:var(--panel);color:var(--ink);min-height:44px}
 .vol-form input:focus-visible,.vol-link:focus-visible,.vol-who a:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
 .vol-gate{margin:8px 0 14px}
 .demo .wrap{flex-wrap:wrap;gap:6px 16px}
@@ -21,4 +21,4 @@
 .adm-head{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .adm section{margin-top:26px}
 .vol-subs{list-style:none;padding:0;display:grid;gap:10px}
-.vol-subs li{border:1px solid var(--line);background:#fffdf8;padding:10px 14px}
+.vol-subs li{border:1px solid var(--line);background:var(--panel);padding:10px 14px}
